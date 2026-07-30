@@ -946,5 +946,69 @@
   "d60c2b5b72225a8dc1e9b98205a9809912dfdc76c049e58b009acf10b3f7b156": {
     "title": "Would you use a circuit breaker for AI agents?",
     "seen_at": "2026-07-30T16:19:12.682992+00:00"
+  },
+  "997f4698d63ace69926e88abfff389fc6a1be599db218103261887a6d68fac6d": {
+    "title": "OpenAI出身者のファンドが手放したAI関連株、大半をシタデルが取得 - bloomberg.com",
+    "seen_at": "2026-07-30T19:05:22.260565+00:00"
+  },
+  "a4706930eff4840ed841eb68fac3494d383201434f063539a30cb90502eb6a4c": {
+    "title": "OpenAI、小型モデルを大幅値下げ コスト圧力と中国勢の台頭で競争激化 - BigGo ファイナンス",
+    "seen_at": "2026-07-30T19:05:22.260571+00:00"
+  },
+  "7c7299595ca2f5d8e38b5275e7fd09b2d69b4ac4938691cb28ad2e205d54026b": {
+    "title": "グレッグ・ブロックマン氏、OpenAIは2025年初頭にコーディングを「最上位の企業目標」に設定していたと明かす - BigGo ファイナンス",
+    "seen_at": "2026-07-30T19:05:22.260575+00:00"
+  },
+  "b7f4d0421cae8509df4b38f78c43999c71b81af85975948afdddbeceff3abf12": {
+    "title": "【米国】トランプ大統領、AI規制を検討－OpenAIのAIエージェントがシステム侵害、中国への警戒感も表明 - BigGo ファイナンス",
+    "seen_at": "2026-07-30T19:05:22.260579+00:00"
+  },
+  "14f599e3f82539b75d29e31ce09cf1e6c05f8b5b5ebde0420f48e3703a2e4f1e": {
+    "title": "30/7テクノロジー：OpenAIが音声対話機能を備えた新デバイスを開発 - Vietnam.vn",
+    "seen_at": "2026-07-30T19:05:22.260583+00:00"
+  },
+  "981c66d637d1933c57627786f5bc7be2504dbc09413e7ec19ab83c52e6e3a9a2": {
+    "title": "OpenAI、10万人の科学者に最上位モデル「GPT-5.6 Sol Pro」を無償提供へ - 財経新聞",
+    "seen_at": "2026-07-30T19:05:22.260586+00:00"
+  },
+  "696609fe9bd3edfbe963a4b7ee51eb0a8e1a60fbc0a0d8becfde6efc9a6306f9": {
+    "title": "個人商店向けAI検索最適化ハイパーローカルグルメプラットフォーム『Machi Mise 亀戸』ハブサイト本格公開 - ニコニコニュース",
+    "seen_at": "2026-07-30T19:05:22.870253+00:00"
+  },
+  "7f7077ee810e2cdf3daac8505cbce1f99ca7cc700d3fb6e0d3e649ae500f80c1": {
+    "title": "OktaがPermiso Securityを買収に合意しAIエージェント保護を強化 - Межа. Новини України.",
+    "seen_at": "2026-07-30T19:05:23.338890+00:00"
+  },
+  "1d2910fe07b7b51793d975a9bd59d749466259c0f8b007ef781d4f55834a4248": {
+    "title": "2026年上半期の仮想通貨ハッキング件数が過去最多に、北朝鮮の攻撃とAIエージェント悪用が急増 - 財経新聞",
+    "seen_at": "2026-07-30T19:05:23.338896+00:00"
+  },
+  "0bfe02e93cefd9104da9dc01df4c3c78726339002d126972f7142e1ac004801d": {
+    "title": "Inkling-Small by thinkingmachines",
+    "seen_at": "2026-07-30T19:05:24.864609+00:00"
+  },
+  "c1e3ad296d1fc39928fd13e7478099de092fe47293a3a8c0e3d4677d71a4338c": {
+    "title": "LG AI Research releases K-EXAONE 2.0 750B A37B",
+    "seen_at": "2026-07-30T19:05:24.864614+00:00"
+  },
+  "109dcb8688c39ecdb22b0884d9ed9cb3463e45d225f8a4f7d38f604c73f13ff2": {
+    "title": "The real Flash？AntLing 3.0 flash VS. MiniMax M2.7 VS. Step 3.7 flash",
+    "seen_at": "2026-07-30T19:05:24.864617+00:00"
+  },
+  "88f436a4eb4b433a1de0960e4a92ffbf0ce1b67c09ffa4f359144cabbdaf9d59": {
+    "title": "Nanbeige4.2-3B: I'm not impressed",
+    "seen_at": "2026-07-30T19:05:24.864621+00:00"
+  },
+  "6640cfecf4a1206a1b44d2f638e7a1e963eaf4c4efc2e2153b668f2c4ee4e846": {
+    "title": "How close are we to local llama robotics for consumer price point?",
+    "seen_at": "2026-07-30T19:05:24.864624+00:00"
+  },
+  "f503b1d58efedfb86d8ba28c52ad4bf979c2282c61a345a22660ba2e9fd23326": {
+    "title": "Smallest model (& tips) for intelligent computer use via Hermes?",
+    "seen_at": "2026-07-30T19:05:24.864629+00:00"
+  },
+  "a52d3d5516dc4dffd8be9f54e06fab90877a393e802aa8ee5af6d652fcc82ffd": {
+    "title": "Would extremely high decode tok/s even be useful?",
+    "seen_at": "2026-07-30T19:05:24.864632+00:00"
   }
 }
