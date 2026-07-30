@@ -1,12 +1,5 @@
 """
 note トレンド監視 → Claude採点 → Chatwork通知
-
-処理の流れ:
-1. config/sources.yaml に登録されたRSSフィードから新着記事を取得
-2. data/seen_articles.json と突き合わせて未処理の記事だけ抽出
-3. Claude APIに一括で渡し、「note記事化する価値」を0-100点でスコアリング
-4. 閾値を超えた記事だけ Chatwork に通知（想定タイトル案つき）
-5. data/seen_articles.json を更新してコミット（GitHub Actions側で実施）
 """
 
 import os
@@ -26,6 +19,7 @@ SCORE_THRESHOLD = int(os.environ.get("SCORE_THRESHOLD", "75"))
 LOOKBACK_HOURS = int(os.environ.get("LOOKBACK_HOURS", "6"))
 MAX_ARTICLES_PER_RUN = int(os.environ.get("MAX_ARTICLES_PER_RUN", "25"))
 MAX_SEEN_ENTRIES = int(os.environ.get("MAX_SEEN_ENTRIES", "3000"))
+BATCH_SIZE = int(os.environ.get("BATCH_SIZE", "8"))  # 1回のClaude呼び出しで処理する記事数
 
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 CHATWORK_API_TOKEN = os.environ["CHATWORK_API_TOKEN"]
@@ -33,8 +27,6 @@ CHATWORK_ROOM_ID = os.environ["CHATWORK_ROOM_ID"]
 
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-sonnet-4-6")
 
-
-# ---------- 設定・状態の読み書き ----------
 
 def load_config():
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
@@ -52,7 +44,6 @@ def load_seen():
 
 
 def save_seen(seen):
-    # 際限なく増え続けないよう、古いものから間引く
     if len(seen) > MAX_SEEN_ENTRIES:
         items = sorted(seen.items(), key=lambda kv: kv[1].get("seen_at", ""))
         seen = dict(items[-MAX_SEEN_ENTRIES:])
@@ -69,8 +60,6 @@ def strip_html(text):
     return re.sub(r"<[^<]+?>", "", text or "").strip()
 
 
-# ---------- 記事収集 ----------
-
 def fetch_entries(source):
     feed = feedparser.parse(source["url"])
     cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
@@ -84,7 +73,6 @@ def fetch_entries(source):
                 published = datetime(*val[:6], tzinfo=timezone.utc)
                 break
 
-        # 日付が取れない記事は除外せず「新着扱い」にする（フィードによっては日付なしもあるため）
         if published and published < cutoff:
             continue
 
@@ -128,8 +116,6 @@ def collect_new_articles(config, seen):
     return new_articles[:MAX_ARTICLES_PER_RUN]
 
 
-# ---------- Claudeによるスコアリング ----------
-
 SCORE_SYSTEM_PROMPT = """あなたは日本語テック系note記事の編集者です。
 筆者(@tolove)はAI/LLM関連の記事をnoteで発信しており、特に以下の記事形式で高いパフォーマンスを出しています。
 
@@ -145,17 +131,14 @@ SCORE_SYSTEM_PROMPT = """あなたは日本語テック系note記事の編集者
 - 議論を呼びそうか、SNSで話題になりそうか
 - 単発ニュースの受け売りでなく独自の切り口を作れそうか
 
-出力は必ず以下のJSON配列のみとしてください。前置き・説明・Markdownのコードフェンスは一切不要です。
+出力は必ず以下のJSON配列のみとしてください。前置き・説明・Markdownのコードフェンスは一切不要です。簡潔に書いてください。
 [
-  {"index": 0, "score": 82, "reason": "一文での理由(日本語、60字以内)", "title_ideas": ["想定タイトル案1", "想定タイトル案2"]}
+  {"index": 0, "score": 82, "reason": "一文での理由(日本語、40字以内)", "title_ideas": ["想定タイトル案1", "想定タイトル案2"]}
 ]
 """
 
 
-def score_articles(articles):
-    if not articles:
-        return []
-
+def score_batch(articles, offset):
     numbered = [
         f"{i}. [{a['source']}] {a['title']}\n概要: {a['summary']}\nURL: {a['link']}"
         for i, a in enumerate(articles)
@@ -171,11 +154,11 @@ def score_articles(articles):
         },
         json={
             "model": CLAUDE_MODEL,
-            "max_tokens": 2000,
+            "max_tokens": 4096,
             "system": SCORE_SYSTEM_PROMPT,
             "messages": [{"role": "user", "content": user_content}],
         },
-        timeout=60,
+        timeout=90,
     )
     resp.raise_for_status()
     data = resp.json()
@@ -188,7 +171,7 @@ def score_articles(articles):
     try:
         scored = json.loads(text)
     except json.JSONDecodeError:
-        print("[WARN] failed to parse Claude response as JSON:")
+        print(f"[WARN] failed to parse Claude response as JSON (batch offset={offset}):")
         print(text)
         return []
 
@@ -201,7 +184,17 @@ def score_articles(articles):
     return results
 
 
-# ---------- Chatwork通知 ----------
+def score_articles(articles):
+    if not articles:
+        return []
+
+    all_results = []
+    for start in range(0, len(articles), BATCH_SIZE):
+        batch = articles[start:start + BATCH_SIZE]
+        print(f"[INFO] scoring batch {start}..{start + len(batch)}")
+        all_results.extend(score_batch(batch, start))
+    return all_results
+
 
 def build_message(hits):
     lines = ["[info][title]🔥 noteトレンド速報[/title]"]
@@ -238,22 +231,18 @@ def post_to_chatwork(hits):
     print(f"[INFO] posted {len(hits)} hits to Chatwork")
 
 
-# ---------- メイン ----------
-
 def main():
     config = load_config()
     seen = load_seen()
 
     new_articles = collect_new_articles(config, seen)
-    print(f"[INFO] scoring {len(new_articles)} articles")
+    print(f"[INFO] scoring {len(new_articles)} articles total")
 
     scored = score_articles(new_articles)
     hits = [a for a in scored if a.get("score", 0) >= SCORE_THRESHOLD]
     print(f"[INFO] {len(hits)} articles scored >= {SCORE_THRESHOLD}")
 
     post_to_chatwork(hits)
-
-    # 新着として収集した記事は既にseenに記録済み（スコア閾値未満でも再通知しないため）
     save_seen(seen)
 
 
