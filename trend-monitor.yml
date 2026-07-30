@@ -1,0 +1,42 @@
+name: note trend monitor
+
+on:
+  schedule:
+    # UTC基準。3時間おきに実行（JSTでは 9,12,15,18,21,0,3,6時 相当）
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}   # 手動実行用ボタン
+
+permissions:
+  contents: write   # seen_articles.json をコミットし直すために必要
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run trend monitor
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CHATWORK_API_TOKEN: ${{ secrets.CHATWORK_API_TOKEN }}
+          CHATWORK_ROOM_ID: ${{ secrets.CHATWORK_ROOM_ID }}
+          SCORE_THRESHOLD: "75"
+          LOOKBACK_HOURS: "6"
+        run: python monitor.py
+
+      - name: Commit updated seen_articles.json
+        run: |
+          git config user.name "note-trend-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/seen_articles.json
+          git diff --cached --quiet || git commit -m "chore: update seen_articles.json [skip ci]"
+          git push

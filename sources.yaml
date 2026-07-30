@@ -1,0 +1,50 @@
+# 監視するRSSフィードの一覧
+# name: Chatwork通知に表示される表示名
+# url: RSSフィードのURL
+# enabled: false にすると一時的に監視対象から外せる
+#
+# 検証済み（安定して稼働することを確認済みのパターン）:
+#   - Google News RSS検索（キーワードベース、日本語ニュースを幅広くカバー）
+#   - Hacker News (hnrss.org、海外エンジニアコミュニティのトレンド)
+#   - Reddit r/LocalLLaMA（ローカルLLM界隈の一次情報）
+#
+# 要検証（URLが変更されている可能性があるため、追加後に一度手動実行して確認推奨）:
+#   - ITmedia AI+、Publickeyなど日本語テックメディア個別フィード
+#     公式のRSS一覧: https://www.itmedia.co.jp/info/rss/
+#     取得できたら enabled: true にして追加してください
+
+sources:
+  # --- Google News RSS（キーワード検索） ---
+  - name: "Google News: LLM/生成AI"
+    url: "https://news.google.com/rss/search?q=%22LLM%22%20OR%20%22大規模言語モデル%22%20OR%20%E7%94%9F%E6%88%90AI&hl=ja&gl=JP&ceid=JP:ja"
+    enabled: true
+
+  - name: "Google News: Claude"
+    url: "https://news.google.com/rss/search?q=Claude%20Anthropic&hl=ja&gl=JP&ceid=JP:ja"
+    enabled: true
+
+  - name: "Google News: OpenAI/ChatGPT"
+    url: "https://news.google.com/rss/search?q=OpenAI%20OR%20ChatGPT&hl=ja&gl=JP&ceid=JP:ja"
+    enabled: true
+
+  - name: "Google News: Gemini/Google AI"
+    url: "https://news.google.com/rss/search?q=Gemini%20Google%20AI&hl=ja&gl=JP&ceid=JP:ja"
+    enabled: true
+
+  - name: "Google News: AIエージェント/Claude Code"
+    url: "https://news.google.com/rss/search?q=%22AI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%22%20OR%20%22Claude%20Code%22&hl=ja&gl=JP&ceid=JP:ja"
+    enabled: true
+
+  # --- 海外一次情報 ---
+  - name: "Hacker News: AI"
+    url: "https://hnrss.org/newest?q=LLM+OR+%22large+language+model%22&points=50"
+    enabled: true
+
+  - name: "Reddit: r/LocalLLaMA"
+    url: "https://www.reddit.com/r/LocalLLaMA/.rss"
+    enabled: true
+
+  # --- 日本語テックメディア（要URL検証） ---
+  - name: "ITmedia AI+"
+    url: "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"
+    enabled: false
