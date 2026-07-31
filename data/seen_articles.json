@@ -1910,5 +1910,65 @@
   "1d791e9fe02d34e6c17ec33ea19988808b113fffbe8a4ed3bb35fd671147a8eb": {
     "title": "Can we expect Deepseek v4 distills into smaller models?",
     "seen_at": "2026-07-31T11:14:56.533516+00:00"
+  },
+  "ff93c4961c60664cb2aa8c106c1bdf2b8b04e9181f1574f23ef6ae5906ea3957": {
+    "title": "生成ＡＩ活用で業務の効率化を 宮城県が職員対象の研修会 - khb-tv.co.jp",
+    "seen_at": "2026-07-31T13:24:03.552003+00:00"
+  },
+  "602ec053f71c687aee2f27790f2a5eb13f33851907287e9783d3af05e1e120df": {
+    "title": "【生成AI時代のシン・ビジネス(第13回)】生成AIによる法人営業革新/アークエルCEO宮脇良二 - ガスエネルギー新聞",
+    "seen_at": "2026-07-31T13:24:03.552017+00:00"
+  },
+  "e8a324d1dfc4ba05ded67aef81c72705ea136f25dfab2c02d9fb6655a80d67d4": {
+    "title": "EU、生成AIコンテンツに表示義務 禁止行為なら制裁金65億円 - 日本経済新聞",
+    "seen_at": "2026-07-31T13:24:03.552024+00:00"
+  },
+  "c69707a98a8a9fd01e6ccf23ed5c5252c41df4bf43cfe5b33f5cbfea756b00c8": {
+    "title": "生成AI実行環境と画像・レイアウト・動画エディターを備えた「Sloom Studio」v0.9.10 ほか - 窓の杜",
+    "seen_at": "2026-07-31T13:24:03.552031+00:00"
+  },
+  "0ca41d7356166474d4087f0fa27b7e888fb4d52e3f1d01b2636badbf0d4787db": {
+    "title": "ＥＵ、生成ＡＩ監督強化 - デイリースポーツ",
+    "seen_at": "2026-07-31T13:24:03.552035+00:00"
+  },
+  "190cb29dadd80e1c810540e9ab97ffe8f55bc54bb2a100c522deed25fb699811": {
+    "title": "ChatGPTとは何が違う？KDDIが“出典の見える生成AI”を開始 - DXマガジン",
+    "seen_at": "2026-07-31T13:24:03.552038+00:00"
+  },
+  "9cd14810861a679676dd4b4ee5eaa4de20b2c953670c220ce89ca1359c1eb173": {
+    "title": "＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse 1.1」を活用したハッカソンが大盛況にて閉幕 - PR TIMES",
+    "seen_at": "2026-07-31T13:24:03.552043+00:00"
+  },
+  "4c78eedfdefd510fd04be248a41e41440f20483a47cfb9372474bc98a41258a7": {
+    "title": "中央区公式WebサイトにAI検索・RAG型生成AI「Cogmo」を導入 - ニコニコニュース",
+    "seen_at": "2026-07-31T13:24:03.552046+00:00"
+  },
+  "0fa82e7ab67cbb7efe8f6b51f393314f049ac9c9b57dcbd6dd6b40977d1750f5": {
+    "title": "営業の人手不足をAIエージェントで解消へ RAYVEN、愛媛県「トライアングルエヒメ2.0」に採択 - PR TIMES",
+    "seen_at": "2026-07-31T13:24:05.707448+00:00"
+  },
+  "fce16cb58d1edb498ab6326c408de6f7fd9b67c2115810836842bb1bed0af1d2": {
+    "title": "deepseek-ai/DeepSeek-V4-Flash-0731 on Huggingface",
+    "seen_at": "2026-07-31T13:24:06.862366+00:00"
+  },
+  "34452aaa638e577e8570dbf62d15ffc3c6269fc048ec55b03a00ebeb74b847e3": {
+    "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+    "seen_at": "2026-07-31T13:24:06.862372+00:00"
+  },
+  "c4bc6c015e3b252936e069bf3ed89bcc7ce612e6d02762b0521a69cbf2e42465": {
+    "title": "DeepSeek-V4-Flash-0731 Open weight!",
+    "seen_at": "2026-07-31T13:24:06.862375+00:00"
+  },
+  "dc25408ff450bd265927b49218e3883acf98650bf087c26998be676e5f0be113": {
+    "title": "DeepSeek-V4-Flash-0731 - GGUF also will come as I can see..",
+    "seen_at": "2026-07-31T13:24:06.862379+00:00"
+  },
+  "54ebb35abb0e383c963e7325dfbc9bd7354ab978af3f9e4966a332746dc5bcc1": {
+    "title": "I ported TurboFieldfare to Qwen 3.6 35B and it runs in 1.4 GB of RAM",
+    "seen_at": "2026-07-31T13:24:06.862382+00:00"
+  },
+  "5badcb59db0739be55dc52682f98ad50352ec4d94eb7b0de0e8559cac1073801": {
+    "title": "Rule Suggestion: \"Open\" models without weight releases should be tagged [no weights]",
+    "seen_at": "2026-07-31T13:24:06.862386+00:00"
   }
 }
