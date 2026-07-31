@@ -2090,5 +2090,21 @@
   "2e1a9a30515ef0df4c2fd3b40684c5e62d3d38d29553e288e439b79b9ee913fd": {
     "title": "Initial testing of DeepSeek v4 Flash shows significant improvements in UI/UX design capabilities (despite being token hungry)",
     "seen_at": "2026-07-31T19:02:24.942027+00:00"
+  },
+  "17abcf73bfe9b3336974a740ed884bcc5d74ba53f0273f30aaf3559e45a0a788": {
+    "title": "Everyone is building LLM routers, we deprecated ours",
+    "seen_at": "2026-07-31T21:55:01.046979+00:00"
+  },
+  "5fe17a5931a84cf4d6baaf017277478544aa07594dd3e20bf72e706009ddb9c6": {
+    "title": "IQ3 DS out",
+    "seen_at": "2026-07-31T21:55:02.202831+00:00"
+  },
+  "5a525deef721b205e69a645a3fcb99b9d447357391c544897e34bd137df3056e": {
+    "title": "Minimum VRAM GPU to run DeepSeek-V4-Flash-0731 Q4_K_XL at around 30 t/s ?",
+    "seen_at": "2026-07-31T21:55:02.202837+00:00"
+  },
+  "a9c1ff4eab6f632d1075ce98c32efeb22a280f2b47d47b8731540c472b88a7e3": {
+    "title": "60-82% accuracy swing on 4B model classification task: the only variable was harness design",
+    "seen_at": "2026-07-31T21:55:02.202841+00:00"
   }
 }
