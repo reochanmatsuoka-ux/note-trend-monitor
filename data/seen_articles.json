@@ -1098,5 +1098,173 @@
   "1317eb6733e7655145a2e7d2c54c0e1c1030596af0cb6a1e587fccc7c4770086": {
     "title": "Making a synthetic dataset for fine-tuning",
     "seen_at": "2026-07-30T21:56:04.453183+00:00"
+  },
+  "bb9c8d80b0b7217393ca9dfb4e499468dc7d804b122d0310dc90c6d90846fd7e": {
+    "title": "【最新調査レポート】企業のデジタルツール利用状況～生成AI導入企業はどこまで進んでいるのか？企業を取り巻くデジタル環境を徹底分析 - 日経BPコンサルティング",
+    "seen_at": "2026-07-31T01:24:08.328373+00:00"
+  },
+  "e2fdeb5e3668c744c1bc1637e806247e492a2af49196b6afbadcc4773514b0ef": {
+    "title": "ベリサーブ、機密データを外に出さない「ローカルLLM基盤」の運用を開始 - ZDNET Japan",
+    "seen_at": "2026-07-31T01:24:08.328378+00:00"
+  },
+  "1b38aea2b9cc87fd1f7253e63c271006df8578114bdfb830297c97c3a99de8e9": {
+    "title": "成人ADHD当事者として約25年発信する篠原 由佳、 生成AI実践書『ADHDのまま、AIを活かして夢を形にする』を刊行 - アットプレス",
+    "seen_at": "2026-07-31T01:24:08.328381+00:00"
+  },
+  "e4fd6254c070f41e3ae6d71e9e842a4dbae488d3dc089c7b7a0c8efffdb733f5": {
+    "title": "生成AIで新材料開発へ、三井化学がNVIDIAら参加の国際ネットワークに参画：マテリアルズインフォマティクス - MONOist",
+    "seen_at": "2026-07-31T01:24:08.328385+00:00"
+  },
+  "741966cdb46a0e3a1be7a6dab840d80f5b502fb24582a78f15d85b46e888e5c3": {
+    "title": "GoogleやMetaのAI無断収集に反撃。 LLMハニーポッティング は経済性を破壊できるか - digiday.jp",
+    "seen_at": "2026-07-31T01:24:08.328388+00:00"
+  },
+  "ee71c23af671c78e7e5f7df7adcfcb72e48b226b426a3a2558337bae2b11912a": {
+    "title": "アイード、生成AIを活用した英語授業の実践を共有・議論する「英語授業ラボ」8月22日開催 - ICT教育ニュース",
+    "seen_at": "2026-07-31T01:24:08.328391+00:00"
+  },
+  "b94b2bbd876f5672e41ee981204894e92e1ded937eaf14c1eae8559125efb3b8": {
+    "title": "「アイデア出しを抜いた」 生成AIなしで最も不安になる業務といえば？：4割が“依存”を自認「上司よりも頼れる」 - ITmedia",
+    "seen_at": "2026-07-31T01:24:08.328393+00:00"
+  },
+  "dd61bddc167bb491b99e6273a56f20d71fa6e756339ab554cdec22a19b62145f": {
+    "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を北海道むかわ町で実施 - ICT教育ニュース",
+    "seen_at": "2026-07-31T01:24:08.328396+00:00"
+  },
+  "c7db175ae7bbe280a38da209a517a4d1862c8cb2f03e8c883df04dbe9dca70ae": {
+    "title": "株式会社ISTソフトウェア、「第81回神情協ビジネスフォーラム」商談会に登壇 法人向け生成AIツール『ゼロプロ』の新価格＆大型アップデートキャンペーンを紹介 - PR TIMES",
+    "seen_at": "2026-07-31T01:24:08.328398+00:00"
+  },
+  "3546d4ea1620fd389f6bdb5f3d96fdb8f8976c26f2df62f9b1c5d5a0e90b7406": {
+    "title": "三井化学、生成AI活用の国際材料開発ネットワーク「AI Materials Foundry」に創設メンバーとして参画 - レスポンス（Response.jp）",
+    "seen_at": "2026-07-31T01:24:08.328401+00:00"
+  },
+  "43bdab435125df3a0f9ce0433ce4af463262f99c7003fc8c6348ab3436031281": {
+    "title": "PHONE APPLI、山口県立萩商工で「情報モラル社会におけるSNSと生成AIの付き合い方」開催 - ICT教育ニュース",
+    "seen_at": "2026-07-31T01:24:08.328404+00:00"
+  },
+  "10093b9b4962c70fb145b4e10689c2779534f7a3e4cc3a12050bf9ac06e00589": {
+    "title": "Claudeが評価環境から実在企業に不正アクセス――Anthropic、3件のインシデントを公表（ITmedia NEWS） - Yahoo!ニュース",
+    "seen_at": "2026-07-31T01:24:08.887608+00:00"
+  },
+  "b797c1ae611856b3b54712728d1ba3cfc93ae434067676ab107f184c1a9ed9c4": {
+    "title": "AnthropicのClaude AIモデル、テスト中に3組織のシステムに不正アクセス 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-07-31T01:24:08.887613+00:00"
+  },
+  "00ef151f8e3e8602fe6a0f6aacefcf6898b5586defc17e3f18aa49714dd93335": {
+    "title": "OpenAIに続き、Anthropicも3社に不正アクセス確認 AI開発競争に問われる「止まる仕組み」 - ASCII.jp",
+    "seen_at": "2026-07-31T01:24:08.887615+00:00"
+  },
+  "66030f32cad4651f52ad16c290278487ae43b0b9bb52d122c8a6cc6c87b6947c": {
+    "title": "Anthropic、AI「Claude」がサイバーセキュリティテスト中に3組織に侵入と発表 - BigGo ファイナンス",
+    "seen_at": "2026-07-31T01:24:08.887618+00:00"
+  },
+  "2fb64051183a4a6940d9229c8a2d4ff81c5a6177f641d6097308e755f2ededf1": {
+    "title": "Anthropic、検証中のAIが外部接続 企業3社に不正アクセス - 디지털투데이",
+    "seen_at": "2026-07-31T01:24:08.887620+00:00"
+  },
+  "0573380d911415ca8e5dd0d69b9b56b792d2129a3e0f9872672bfa3973723d91": {
+    "title": "FAR.AIのアダム・グリーブCEO：「AI防御は攻撃を上回るも、業界は“オウンゴール”を連発」 - BigGo ファイナンス",
+    "seen_at": "2026-07-31T01:24:08.887622+00:00"
+  },
+  "5133c4730dc1f5f37030f24829147ed4ad24113d58c504066405e2fd4eae8073": {
+    "title": "OpenAI、「GPT-5.6 Luna」を80％、「GPT-5.6 Terra」を20％値下げ／「GPT-5.6 Sol」には最大2.5倍高速な「Fast mode」を導入 - 窓の杜",
+    "seen_at": "2026-07-31T01:24:09.476699+00:00"
+  },
+  "0da2a07ed7ab6eb6720be00b7dda65cc93d5d050ab2cccf19ed740cf2ee849d4": {
+    "title": "OpenAI、「GPT-5.6 Luna」を80％値下げ モデル自身による効率化でコスト削減（ITmedia NEWS） - Yahoo!ニュース",
+    "seen_at": "2026-07-31T01:24:09.476705+00:00"
+  },
+  "4129b466cb7d49e8e17d251b765580c835c87d3061c0240dba99534d956c57e5": {
+    "title": "OpenAIの暴走エージェント、Hugging Face以外にも複数システムに侵入 - ZDNET Japan",
+    "seen_at": "2026-07-31T01:24:09.476708+00:00"
+  },
+  "ece95d6c57254b214ed259063b34ab6da8222ff1842aa095574f6afacd845bd0": {
+    "title": "株式会社Shinker、ChatGPT広告の実配信データを国内最速級で公開。費用・CTR・クリック率・CV・改善施策まで実体験を完全公開した検証記事を公開 - PR TIMES",
+    "seen_at": "2026-07-31T01:24:09.476710+00:00"
+  },
+  "adf14f888d24dfe735f12dda5d6ea6f0e9e3a2b11c1d41be819104328118c44d": {
+    "title": "OpenAI出身者のファンドが手放したAI関連株、大半をシタデルが取得(Bloomberg) - Yahoo!ファイナンス",
+    "seen_at": "2026-07-31T01:24:09.476713+00:00"
+  },
+  "66df97b9911d60e5a941e730808df2ce6837204d61b0ba8b7f3a9309c6acd4a4": {
+    "title": "ChatGPT? Claude? Gemini? AI利用状況を教えてください【アンケート】 - Impress Watch",
+    "seen_at": "2026-07-31T01:24:09.476716+00:00"
+  },
+  "56de3bf248516127dbb210829776a8d28d30f0d82bfa04b0726d7be5dc989404": {
+    "title": "OpenAI、研究者向けにGPT-5.6など最先端AIを12カ月無料提供開始 - x.com",
+    "seen_at": "2026-07-31T01:24:09.476719+00:00"
+  },
+  "19f80ede0c59212588250b355034411001515e6429fe2722fca0590b8376cbfa": {
+    "title": "AIエージェント「Gemini Spark」が「Chrome」と統合へ、AIが高度な“お使い”を代行 - 窓の杜",
+    "seen_at": "2026-07-31T01:24:10.085213+00:00"
+  },
+  "f46219456da8685e7fd6f82c60bd4a514424d06838c3887102eeae6a153aa5c4": {
+    "title": "常識を疑い、歴史に学ぶ──AIエージェント時代のオブザーバビリティデータ基盤とは？ (1/3)|DeveloperZine - CodeZine",
+    "seen_at": "2026-07-31T01:24:10.639279+00:00"
+  },
+  "3397b1c7b02f87efb8a1a772ca7f0d61a97ea85e34ec0ba3858c4bc46e3c3589": {
+    "title": "物流機器のジャロック、AIエージェントを営業部門に導入、受注率や商談化率が向上 - it.impress.co.jp",
+    "seen_at": "2026-07-31T01:24:10.639283+00:00"
+  },
+  "cee0af1ab2389fb9fde1b5c8fdb50f132f67eef1983df1e07f0e2ab9df94efa5": {
+    "title": "【経営者向け無料オンラインセミナー】「ランチタイムに学ぶ、Claude Code活用入門」を8月12日開催 - PR TIMES",
+    "seen_at": "2026-07-31T01:24:10.639287+00:00"
+  },
+  "e383cb6b33a2cc77fec4488b79b8bded3eadfa21782bb12b3bec7472e3acacff": {
+    "title": "AIエージェントは誰が支配するのか、所有権と通貨主権のゆくえ｜WebX2026 - coinpost.jp",
+    "seen_at": "2026-07-31T01:24:10.639289+00:00"
+  },
+  "89ea818e212e4c08d34f9aba6833f1b23d7d903d21c94cee37f821b78ffb4290": {
+    "title": "オラクル、「Fusion Applications」でAIエージェント型アプリを開発可能に - it.impress.co.jp",
+    "seen_at": "2026-07-31T01:24:10.639291+00:00"
+  },
+  "813848f87ecd82addfa6727d0eb9379e4042218f2aa07221bc34fcc15e284ef9": {
+    "title": "【OpenClawで試したいアレコレ】 自分専用のAIエージェントを作る！OpenClawのセットアップ手順を完全紹介 - PC Watch",
+    "seen_at": "2026-07-31T01:24:10.639294+00:00"
+  },
+  "287664a6188b5c8fd1ca05f058ff992b949ffe8b53cb5cbc9924e3f207de05df": {
+    "title": "LINEヤフー、ユーザー向けのAIエージェント「Agent i」の「お買い物」に写真から商品を探せる「ショッピングレンズ」機能を追加 - ネットショップ担当者フォーラム",
+    "seen_at": "2026-07-31T01:24:10.639298+00:00"
+  },
+  "18084ec6c995720224020d2e467485f5caa03aa67c6a9a71e8e1e9eb59c61db1": {
+    "title": "Claude Codeがプロジェクト全体を自律的にこなす作業環境として注目 - shiritomo",
+    "seen_at": "2026-07-31T01:24:10.639300+00:00"
+  },
+  "46e3139e2928dc645177ae61ba57360cecfc588b086681829af7904bbfc95a8e": {
+    "title": "AIRAX、業務別のAIエージェント導入の型と始め方を公表事例から解説する記事を公開 - news.nicovideo.jp",
+    "seen_at": "2026-07-31T01:24:10.639302+00:00"
+  },
+  "3511478c495113c18119e1e4c8cded407f8f6dfccbe44aba6e65187e9d3c3f97": {
+    "title": "【PDNob V2.1.0】最新PDF翻訳とAIエージェントを搭載し、PDF作業をよりスマートで効率的に - Excite エキサイト",
+    "seen_at": "2026-07-31T01:24:10.639305+00:00"
+  },
+  "f17314b59cf8ac76d210efbe38624ea6dd18e54484f0e84dddd6fbaf96abe506": {
+    "title": "AIが人間の認知機能に与える“ダメージ”とは 世界中で行われる「AIと副作用の研究」を解説 - news.nicovideo.jp",
+    "seen_at": "2026-07-31T01:24:10.639307+00:00"
+  },
+  "9f8b2b1d9853ab4732fb5cdae80bb20bf692b60c8abaac474a237c6d81a0d821": {
+    "title": "What actually happened to the whole Openclaw frenzy?",
+    "seen_at": "2026-07-31T01:24:13.140292+00:00"
+  },
+  "3d49bb3c61b6081bbd7a0204231430889e81a96e01f070955730ce1da22bcc0f": {
+    "title": "Inkling-Small-276B-12B, effort \"max\" VS Qwen3.6-27B",
+    "seen_at": "2026-07-31T01:24:13.140296+00:00"
+  },
+  "ad2589e3d7f8a32c0b0d16b070851480a02f309fab7a91e1144ebd51c9097b88": {
+    "title": "Want to see all oneshot slops in one place?",
+    "seen_at": "2026-07-31T01:24:13.140300+00:00"
+  },
+  "52c8961dcb90f6995922d76f1555e6963e75aa1b7b5fe09f466e67c8585925ce": {
+    "title": "Could we all crowdsource a dataset/model/finetune?",
+    "seen_at": "2026-07-31T01:24:13.140302+00:00"
+  },
+  "dd7789cfd8c55dd2feadc6cbd04bbbfd61251f0e791e28bb33a89fb8e7c6e6c5": {
+    "title": "Closed the biggest gap from my last quant project, full combined model testing this time (Qwen3.6-27B-Fable-Fusion-711, 3 builds)",
+    "seen_at": "2026-07-31T01:24:13.140307+00:00"
+  },
+  "0bc6c2d889704ac468e451ae2becc3ddd6b7b8f2b2c437394758ccbd76b37f37": {
+    "title": "Is this a good \"budget\" local AI setup?",
+    "seen_at": "2026-07-31T01:24:13.140310+00:00"
   }
 }
