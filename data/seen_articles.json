@@ -2026,5 +2026,69 @@
   "59c6832a3da9bd7e3d0c32119d6b1f074231e53c53025b67cf7cd73fbe05a378": {
     "title": "Unsloth - Deepseek-v4-Flash 0731 GGUF",
     "seen_at": "2026-07-31T16:28:51.435223+00:00"
+  },
+  "a768f0719b6589a3b530dab3aaf62e93cfb2da9b5c5646fb095e3eafe657eaa9": {
+    "title": "TDSE、業務特化AIを“鍛造する”基盤 「TDSE AI Forge」の提供を本格開始 - ニコニコニュース",
+    "seen_at": "2026-07-31T19:02:17.282389+00:00"
+  },
+  "58ab039990c71f2b1a1265b098a79b7b8930b5475bc8a09ae4531f01c8b5d54f": {
+    "title": "『Stellar Blade: BLOOD RAIN』生成AI使用の公式ミュージックビデオ公開。「クオリティが低い」「プロモーションにはAIを使わないでほしい」といった反応も - 千葉テレビ放送",
+    "seen_at": "2026-07-31T19:02:17.282395+00:00"
+  },
+  "2d834bf1dd8a186d1ce2e1efe6252fc568c493fa39ab518dcc74cc23c676f318": {
+    "title": "ChatGPT広告主が3倍の800社超に、OpenAIがモバイル広告量を拡大 - finance.biggo.jp",
+    "seen_at": "2026-07-31T19:02:18.539947+00:00"
+  },
+  "ed687fba77bd949eb2a2a9977bb17b862e13356db4764b1141eb6dae90a515cb": {
+    "title": "OpenAIがGPT-5.6 Lunaを80%値下げ、AIが自身の推論コードを書き換えコスト削減 - 財経新聞",
+    "seen_at": "2026-07-31T19:02:18.539952+00:00"
+  },
+  "b18ecd2de8ca172791583656bdb4fea2af5aa85257ee17e96a703e5ef9b3b207": {
+    "title": "ニレイ・パテル：OpenAIのサンドボックス失敗は安全問題ではなく、法的責任の危機である - finance.biggo.jp",
+    "seen_at": "2026-07-31T19:02:18.539956+00:00"
+  },
+  "b05a9e5864ee108c91ee13ab5f33135917b1266ef5f8c011239f25698ea0f905": {
+    "title": "新機能6つ！2026年7月版「Gemini Drops」 - jetstream.blog",
+    "seen_at": "2026-07-31T19:02:19.166555+00:00"
+  },
+  "3805915c329ef55b75f1b5fc06044c6f2279dcf236a4b657737a9021e0f6b2a7": {
+    "title": "Google DeepMind、単一AIでヒューマノイド全身を制御する「Gemini Robotics 2」 - 財経新聞",
+    "seen_at": "2026-07-31T19:02:19.166560+00:00"
+  },
+  "f3ff4f776980301b0f046088c10326e9b6c054cd84b35ddfd44d68a3cacb2c4b": {
+    "title": "【a16zポッドキャスト】Decagon創業者に聞く：AIエージェントはソフトウェアを殺さない、むしろこれまで以上に必要とされる - finance.biggo.jp",
+    "seen_at": "2026-07-31T19:02:19.812439+00:00"
+  },
+  "4df3c6f43e182dd6032feeefe12563913430232843ecad97dcf6681fe5151149": {
+    "title": "KDDIアイレット、AI エージェントの継続的な品質改善を実現する新サービス「LLMOps for Google Cloud」の提供を開始 - Excite エキサイト",
+    "seen_at": "2026-07-31T19:02:19.812445+00:00"
+  },
+  "8387aa4ef870b8e905dcb61990cffe9205872d106be6a36684339766a87beeb9": {
+    "title": "DeepSeek V4 Flash GA ranks the same as Sonnet 5 and Grok 4.5 on DeepSWE",
+    "seen_at": "2026-07-31T19:02:24.941981+00:00"
+  },
+  "f4091e4229aa5819d999aa677d093f1fb6630386d5c005dc1719e8d149b6e20a": {
+    "title": "Deepseek flash 0731 reasoning is hilarious",
+    "seen_at": "2026-07-31T19:02:24.942007+00:00"
+  },
+  "ede23a58ba76f6a90fd68b036897bed85408412f367ec152103ea4412ab7f7f9": {
+    "title": "DeepSeek V4 Flash unsloth quants are out!",
+    "seen_at": "2026-07-31T19:02:24.942012+00:00"
+  },
+  "a3c39c402931307ac76c472df4bc4162ad7944ce356518c92ed9884c67e2cfce": {
+    "title": "DeepSeek-V4-Flash-0731 unsloth gguf on A100",
+    "seen_at": "2026-07-31T19:02:24.942016+00:00"
+  },
+  "d0182022a161a50f56ac967aca1afd7f9dba1fbb4e49d29fd11cb080cfc874ac": {
+    "title": "With release of Deepseek V4 I wanted see how the model sizes are trending over time. The trend is that by this time next year, we probably will have Opus 4.5 level models on consumer grade laptops!",
+    "seen_at": "2026-07-31T19:02:24.942019+00:00"
+  },
+  "39d02223953825c99a12a621321e31a7f6d33c92c098f2bdf31f24d3cd530c4a": {
+    "title": "Uncensored Multi-Model Releases, LongCat-Flash-Lite with MTPs, Jamba2-Mini, Qwen3.5-9B-Nikusui-v1 with MTPs and Qwen3.5-27B-Nikusui-v1 with MTPs, Available in Safetensors and GGUF Formats!",
+    "seen_at": "2026-07-31T19:02:24.942023+00:00"
+  },
+  "2e1a9a30515ef0df4c2fd3b40684c5e62d3d38d29553e288e439b79b9ee913fd": {
+    "title": "Initial testing of DeepSeek v4 Flash shows significant improvements in UI/UX design capabilities (despite being token hungry)",
+    "seen_at": "2026-07-31T19:02:24.942027+00:00"
   }
 }
