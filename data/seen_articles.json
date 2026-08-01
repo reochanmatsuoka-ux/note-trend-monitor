@@ -2106,5 +2106,85 @@
   "a9c1ff4eab6f632d1075ce98c32efeb22a280f2b47d47b8731540c472b88a7e3": {
     "title": "60-82% accuracy swing on 4B model classification task: the only variable was harness design",
     "seen_at": "2026-07-31T21:55:02.202841+00:00"
+  },
+  "44144ae32a68f0c8e4204a0190844fe48de7abe64484207014f159361d6f733e": {
+    "title": "夏休みの宿題をAIにやらせていい？「13歳の壁」と子どもが賢くなる生成AIの使い方 - Yahoo!ニュース",
+    "seen_at": "2026-08-01T01:25:27.673574+00:00"
+  },
+  "f2ca6b1d38314537b43716b6f11e7e79eb4b2c936bf19dc801c709509de4461d": {
+    "title": "株式会社Mavericksは、動画生成AI「NoLang」の素材検索を刷新。BGM・フォントなど7種類を「明るい気分に - ニコニコニュース",
+    "seen_at": "2026-08-01T01:25:27.673581+00:00"
+  },
+  "3d8e9747e83a565d66e3806808b0bf25f355e4fd8fa2093d97f1c2ddc539bdd2": {
+    "title": "株式会社Mavericksは、動画生成AI「NoLang」の動画編集画面に「AI - ニコニコニュース",
+    "seen_at": "2026-08-01T01:25:27.673585+00:00"
+  },
+  "88f124d822f330a9c196fd4af53b6d661e02b9477690350f69c5279d9d4d0cda": {
+    "title": "Anthropic、Claudeが評価中に実在3組織へ権限なくアクセス 設定不備でインターネットに接続、PyPIへ悪意あるパッケージも公開 - Ledge.ai",
+    "seen_at": "2026-08-01T01:25:28.264177+00:00"
+  },
+  "6f2c2b4eb6ddca9f7d41e68da61141c716799765892d30ae7fc96835d24e1500": {
+    "title": "AIが「次のAI」を創る時代へ——OpenAI・Anthropicのハッキング事故が映す自動化研究の光と影 - BigGo ファイナンス",
+    "seen_at": "2026-08-01T01:25:28.826696+00:00"
+  },
+  "c64f93fe95a204131d317e16d4f905718ec77925af9b71acc38521c35168bf79": {
+    "title": "株式会社Shinker、AI検索・LLMO分析ツール「AIRA Score」を正式リリース。ChatGPT・Google AI Overview時代のWebサイト診断を格安で提供 月額9800円～ - PR TIMES",
+    "seen_at": "2026-08-01T01:25:28.826701+00:00"
+  },
+  "cb13b71602f47f5be4bb83e62712fa1f12f1791c5234603c85eaa464c0e8e9f0": {
+    "title": "OpenAIが自律エージェントの追加事例を確認し調査を拡大 - mezha.net",
+    "seen_at": "2026-08-01T01:25:28.826704+00:00"
+  },
+  "396d08f4df7e49a8faf560ac1bb74e98166b7954215a20bf28844c7535193958": {
+    "title": "他社AIへの攻撃〜OpenAIだけじゃなくAnthropicもやらかしてた - london3.jp",
+    "seen_at": "2026-08-01T01:25:28.826707+00:00"
+  },
+  "0cd181053accad1b8f440b06e0f7e4f4879fcd16155a456491298b33fe910d71": {
+    "title": "OpenAI、AIエージェントのサンドボックス離脱疑いを複数把握 - 디지털투데이",
+    "seen_at": "2026-08-01T01:25:28.826710+00:00"
+  },
+  "6a9b44059d11e9557426cd91ec26869600fa94da10e53c2536a8b08bc039e681": {
+    "title": "GoogleがAI ProユーザーにもAI エージェント「Gemini Spark」の提供を開始 - @DIME アットダイム",
+    "seen_at": "2026-08-01T01:25:29.399016+00:00"
+  },
+  "38cffbce4acb713cd549395bde25c4cc223d677efc3148d5aed56bdb19e441a1": {
+    "title": "ビタミンDはうつ病に効く？ Google AIモードが日本語と英語で真逆に答えた理由 - shiritomo",
+    "seen_at": "2026-08-01T01:25:29.399021+00:00"
+  },
+  "cc905cd405ff88aaf507f2fe7b19ed01d46497239aba936a3712ba0becd97578": {
+    "title": "オープンＡＩ、エージェント脱出を新たに確認 他の事案巡る調査で判明 - ロイター",
+    "seen_at": "2026-08-01T01:25:29.905882+00:00"
+  },
+  "f6a709fd95534fccf9de993405434ae95a9f6e8dc93888d83df4abc3b367d740": {
+    "title": "オープンＡＩ、エージェント脱出を新たに確認 他の事案巡る調査で判明（ロイター） - Yahoo!ニュース",
+    "seen_at": "2026-08-01T01:25:29.905888+00:00"
+  },
+  "8d0de41dfa7f526b2cceee743b5fae8f76dd6040a257d3ecf8ddc1485f77302a": {
+    "title": "AWS、AIエージェント向けオープンソースベンチマーク「aws-bench」を発表 - CodeZine",
+    "seen_at": "2026-08-01T01:25:29.905891+00:00"
+  },
+  "b251a175a9198994cbb4d396e5d35bda149fad0fd11794a2b9195713550b4234": {
+    "title": "オープンＡＩ、エージェント脱出を新たに確認 他の事案巡る調査で判明 - ニューズウィーク日本版",
+    "seen_at": "2026-08-01T01:25:29.905893+00:00"
+  },
+  "3ddb8eaaa1c00c999d1f1e80cb9c24559a2ba714562c66d18e3726c4ad764de2": {
+    "title": "AI商用化の次なる一手：科学研究は「Claude Code」の爆発的普及を再現できるか - BigGo ファイナンス",
+    "seen_at": "2026-08-01T01:25:29.905897+00:00"
+  },
+  "1ee208f8c2cc68dc3b2832c2489bf6928fa112e1e3ed28020dc2b1b721d7217e": {
+    "title": "DeepSeek v4 Flash for DS4 (DwarfStar) GGUF w/ DSpark MTP Head",
+    "seen_at": "2026-08-01T01:25:32.519369+00:00"
+  },
+  "9166243c4ab62c3364065dfeafd946f5f4d2d4b71431fcd014970430428edffe": {
+    "title": "Deepseek V4 Flash is now ~#2 open weight model to Kimi K3 and >50x cheaper",
+    "seen_at": "2026-08-01T01:25:32.519376+00:00"
+  },
+  "4dc794533cd4d01d34196243c82a8aed2068ac51a684c94e7ddd134ae6d46bfd": {
+    "title": "Now Suddenly too many choices for DGX Spark with Qwen 3.5 122B . What would be the next upgrade?",
+    "seen_at": "2026-08-01T01:25:32.519379+00:00"
+  },
+  "e56f6b770aa028f179de024b94c018610f5a51063d82b430a3f8f0de8f39f4ec": {
+    "title": "We've gotten some great medium sized models lately (DSV4 Flash 0731, Inkling Small, Laguna S 2.1, Step 3.7 Flash) but does anybody else want to see some new 70-80b contenders?",
+    "seen_at": "2026-08-01T01:25:32.519382+00:00"
   }
 }
