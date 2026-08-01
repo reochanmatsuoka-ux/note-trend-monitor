@@ -2422,5 +2422,49 @@
   "59fafbd175e01c57ac8d17155f92170e2f14a96654b09b49e9171c5a619d11e8": {
     "title": "DeepSeek-V4-Flash-0731-UD-Q3_K_XL 3x3090 test results",
     "seen_at": "2026-08-01T18:47:19.810488+00:00"
+  },
+  "97178060d5d29e211dc4afcf7e4b8580e7949ee2288bfdc1012ce018620ade54": {
+    "title": "［福岡県］観光情報発信に生成AI活用を 福岡市でセミナー - 西日本新聞me",
+    "seen_at": "2026-08-01T21:41:38.198420+00:00"
+  },
+  "d89dc5f129fa0d3d717368ac214d1fb71c8da86e5e43095fc657425366721dc4": {
+    "title": "「陥没呼吸ではないですか？」…生成ＡＩに言われて小児科を受診 医師は「心配なことがあれば受診が正解」 - 読売新聞",
+    "seen_at": "2026-08-01T21:41:38.198429+00:00"
+  },
+  "07aaad4a75141a461a0bb38dee465fc973c42241cb02ebd3439c37c50196dfee": {
+    "title": "AIが電力を食い尽くす？ Microsoftの気候目標見直しが映す、生成AIブームの代償（AMP［アンプ］） - Yahoo!ニュース",
+    "seen_at": "2026-08-01T21:41:38.198433+00:00"
+  },
+  "f30c713f1bdefd0025595df986d6d44d43fff7baec39a20344fcd673d156d01d": {
+    "title": "DeepSeek-V4-Flashショック：NVIDIA主導のAIデータセンター業界が崩壊する可能性。DeepSeek-V4-Flashが実現した格安AIエージェントの経済学[抜粋]｜【第二ブログ】経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔 - note.com",
+    "seen_at": "2026-08-01T21:41:40.595891+00:00"
+  },
+  "7094f62a1500527cc139726c5adaa924881679c7b91f7692a8ec8d907da4b2bc": {
+    "title": "Fix for Deep Seek v4 Flash 0731 tool calling has been added to llama cpp",
+    "seen_at": "2026-08-01T21:41:46.217166+00:00"
+  },
+  "a3ece3687224fe30b1a854b0dea6b9c1546eb4bd963a4b2891614ac9499b08de": {
+    "title": "DeepSeek-V4-Flash-0731 UD-IQ3_S 12.5 tok/s on RTX 3090 +128GB DDR5",
+    "seen_at": "2026-08-01T21:41:46.217173+00:00"
+  },
+  "87381b51b75b15ef087aa4d6b747594533b3ebdd1e3eb9efbf224e8beec60d89": {
+    "title": "Is there a point where models just cannot get any smaller without losing intelligence?",
+    "seen_at": "2026-08-01T21:41:46.217177+00:00"
+  },
+  "97e1ecdfffec06994ae4f03536eaba1752367710a187651b1a2feee9a795be76": {
+    "title": "What’s next for Qwen open-source releases?",
+    "seen_at": "2026-08-01T21:41:46.217180+00:00"
+  },
+  "90ffeacf5eddcb33a57aab08c14b2bdfe499e471bbd11523f645bc26a20b7b1d": {
+    "title": "A collection of small domain-specific benchmarks for local models (30+ and growing)",
+    "seen_at": "2026-08-01T21:41:46.217182+00:00"
+  },
+  "4568464d3de625a862bf3231587b6d02b429daf0b3ddb4f390291be32c5fc8fc": {
+    "title": "Safety and reliability of a dual PSU config",
+    "seen_at": "2026-08-01T21:41:46.217185+00:00"
+  },
+  "7b5f97a8b3ddf19111fe9496d67a10e788bf33dda937d9dc92bb921a2021e985": {
+    "title": "DeepSeek-V4-Flash-0731 on Bosgame M5 with RTX PRO 6000 Max-Q eGPU",
+    "seen_at": "2026-08-01T21:41:46.217188+00:00"
   }
 }
