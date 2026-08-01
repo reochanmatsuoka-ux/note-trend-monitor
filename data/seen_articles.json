@@ -2402,5 +2402,25 @@
   "7af5a63d7dd69c8e0fcc1cec371b90ac4dd66d99994b5b636fe108aeca1eacef": {
     "title": "DeepSeek-V4-Flash-0731: Oneshot evals, surprisingly not token efficient??",
     "seen_at": "2026-08-01T15:49:20.091269+00:00"
+  },
+  "eb0a8e8d1271ad01c4947b22d3936e4c9b716e55ab88efa85768f7fddba13157": {
+    "title": "EU AI Act takes effect tomorrow, August 2, 2026. 🤡",
+    "seen_at": "2026-08-01T18:47:19.810472+00:00"
+  },
+  "ccd987822fe135fa739910c4de5253191b2f1da287dba95c5251beffe678ba88": {
+    "title": "Deepseek v4 flash 0731 still not holding up.",
+    "seen_at": "2026-08-01T18:47:19.810477+00:00"
+  },
+  "61b72db485fc519523d0b06bfe164c4f04bc71ec2d8fda1f7851f541c0c06c4b": {
+    "title": "DeepSeek V4 Flash 0731 IQ2_M benchmark for Dual 3060 and 96GB RAM ≈ 3.5 tok/s.",
+    "seen_at": "2026-08-01T18:47:19.810482+00:00"
+  },
+  "7efb1da1ab98c1d3de5107a66d31f8a1c0b9115f871137d3bbfe7b7b9ab8aaf7": {
+    "title": "DSv4 Flash 0731 Running on Unoptimized Single 3090 System",
+    "seen_at": "2026-08-01T18:47:19.810486+00:00"
+  },
+  "59fafbd175e01c57ac8d17155f92170e2f14a96654b09b49e9171c5a619d11e8": {
+    "title": "DeepSeek-V4-Flash-0731-UD-Q3_K_XL 3x3090 test results",
+    "seen_at": "2026-08-01T18:47:19.810488+00:00"
   }
 }
