@@ -2298,5 +2298,65 @@
   "b6ac2509e7faf1cab733dd77e7ab895459a73ffd2a46256bb26a6f2327d9efcd": {
     "title": "OAI just panic-slashed GPT-5.6 Luna prices by 90% lmao. DS4F is breaking the market.",
     "seen_at": "2026-08-01T07:56:55.146118+00:00"
+  },
+  "421cc121e17cc8f1ae270e06013164550f38133f15a5c58b7fd5c01d9eb4642e": {
+    "title": "AI、生成AI、情報通信白書 - 選挙ドットコム",
+    "seen_at": "2026-08-01T10:24:17.531587+00:00"
+  },
+  "42725f5f0a1b214b78f5715474d789696704ed767f863bf622b6987f2d9a4a36": {
+    "title": "GCCがLLM生成コードを禁止、GPLv3ライセンス保護のため - 財経新聞",
+    "seen_at": "2026-08-01T10:24:17.531592+00:00"
+  },
+  "cc4fa3484441c331837f935d1949b950d5a28ecc825fafbe9f4d27de9cc2cb1c": {
+    "title": "安全テストのつもりが本物を攻撃 Claudeはなぜ3社に侵入したのか - 株式会社エクサウィザーズ",
+    "seen_at": "2026-08-01T10:24:18.020139+00:00"
+  },
+  "1b668e8d4c6a7e3ac360fdbde09044eebe3f78e6ff33cb13b0de0317bf51bcf8": {
+    "title": "【解説】OpenAIに続きClaudeも実システムへ侵入、相次ぐAI評価事故が示すネットワーク隔離の構造的課題 - 財経新聞",
+    "seen_at": "2026-08-01T10:24:18.020143+00:00"
+  },
+  "8f160ba365a43b3bf063be469faf85b8bd6a08e84ad48d0d4ce9d2ba71afd302": {
+    "title": "Codexの利用制限、8月1日にまた全リセット。7月22日から数えて5回目 - PC Watch",
+    "seen_at": "2026-08-01T10:24:18.800950+00:00"
+  },
+  "33e6846453d914998448c78f188ba05fb344f3c74a7a2f62fb6e33577d7bdc21": {
+    "title": "テスト環境から脱走したAIの脅威 OpenAI製モデルがHugging Faceなど複数システムに自律的サイバー攻撃 - 東京報道新聞",
+    "seen_at": "2026-08-01T10:24:18.800957+00:00"
+  },
+  "d2ceec6a965ba6a3d89792fe71ead2a9b425f03dfe44d3ffa09e80db48e98559": {
+    "title": "OpenAI・Google・Metaの安全フィルターが検出率0％、AIロマンス詐欺が突く「長期会話」の死角 - 財経新聞",
+    "seen_at": "2026-08-01T10:24:18.800959+00:00"
+  },
+  "3e069b53bc0c726993d4485419ba927f0e137a695a025438a8a4daa4ab562ff8": {
+    "title": "AIエージェント・AXセミナーのおすすめ｜目的別の選び方と講座比較 - DXマガジン",
+    "seen_at": "2026-08-01T10:24:19.945763+00:00"
+  },
+  "42b2fa6baa77e1eddb19d1d1037d2a1e4b8711ba02ee36fe832aaf227ce13287": {
+    "title": "AMDのAIエージェント「GEAK」はNvidia「CUDA」の牙城を崩せるか？ 最大の壁は社内GPUクラスター不足 - 財経新聞",
+    "seen_at": "2026-08-01T10:24:19.945768+00:00"
+  },
+  "2a018cc47f078e3e830de9b3b332ecbea895f9effe5a2af9a73772f82900cf6e": {
+    "title": "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+    "seen_at": "2026-08-01T10:24:21.227322+00:00"
+  },
+  "3b0840e67baef8ef31efe7fc4b682ea6cc9757c535d0f783e1b0a74d70577188": {
+    "title": "Weight-Aware Streaming Tensor Engine: run Kimi K3 using 29 GB of RAM at 0.50 tok/s",
+    "seen_at": "2026-08-01T10:24:21.227326+00:00"
+  },
+  "8fbd7c56892d88967be50a64b72f1108820d7d3b5d662b42d6d176106322f8ee": {
+    "title": "New DeepSeek V4 Flash 0731 vs ChatGPT Luna comparison",
+    "seen_at": "2026-08-01T10:24:21.227329+00:00"
+  },
+  "b4dd067bcd3b81f9249448460e44682e98a643008c73e2cb84edf07e553f0044": {
+    "title": "…3.8…",
+    "seen_at": "2026-08-01T10:24:21.227332+00:00"
+  },
+  "6f8eb0712a13d8866f2d0cd5f197ab6fc49432eea6c4465405f1aa3b7d5c64a4": {
+    "title": "Qwen 3.6 27B Q5 on 3x2080ti: 55tps with llama.cpp. Can I squeeze out more?",
+    "seen_at": "2026-08-01T10:24:21.227334+00:00"
+  },
+  "09b585c46bd369514360f3b260ca037dfc30f25f791f044a7acfe137be84e497": {
+    "title": "Are 1B LLMs Going Away in 2026?",
+    "seen_at": "2026-08-01T10:24:21.227336+00:00"
   }
 }
