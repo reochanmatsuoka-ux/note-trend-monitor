@@ -2370,5 +2370,37 @@
   "3fff5ba754aafb906b46fa458cb14a8fe5e8770a500e539cf8118ded05643163": {
     "title": "Deepseek V4 Flash 0731. LM Studio loading only into RAM.",
     "seen_at": "2026-08-01T12:47:54.180141+00:00"
+  },
+  "74c94644e10dd91b4e025647725d6fda235f1efa4f7840f68b63efdb83864143": {
+    "title": "EUが生成AIコンテンツの識別表示を義務化など 日刊出版ニュースまとめ 2026.08.02 - HON.jp",
+    "seen_at": "2026-08-01T15:49:14.392205+00:00"
+  },
+  "a2e93a49c2377b8d5a172e4d2e53df9e46ebdc4a90dd87f86ad8297f7aa0fefb": {
+    "title": "Google AI Studio のモバイルアプリ提供が中止。Gemini アプリに統合へ - HelenTech",
+    "seen_at": "2026-08-01T15:49:16.027805+00:00"
+  },
+  "9e9238cf0bbd920f913738dd465e54834e5dd8f6afa4a8b578e8d716fc77c29a": {
+    "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+    "seen_at": "2026-08-01T15:49:19.345854+00:00"
+  },
+  "6bdd73a23263a68945daa0c845cabc0154725fba23a27eaef601dbc3822b6ed4": {
+    "title": "New official weights for Laguna S 2.1 FP8 & NVFP4 are now available",
+    "seen_at": "2026-08-01T15:49:20.091252+00:00"
+  },
+  "fd6c0b334cde70313c4aa5c7de9642abe79e0ce104ff6750f4a0eb1ded3b1d3a": {
+    "title": "LongCat-Flash-Lite-Sparse Is Now Available for Download",
+    "seen_at": "2026-08-01T15:49:20.091260+00:00"
+  },
+  "2996c430dd318cc571aa7400a8ac6f9c5d242c6a555f5e3a1072bebcd452ec16": {
+    "title": "I'm kinda tired of obsession for one-shot tests in coding, there are good tests for multi-step debugging with analyzing output/images/videos?",
+    "seen_at": "2026-08-01T15:49:20.091263+00:00"
+  },
+  "25eb62a1bcac71bba985180a100dcbdf8181774e6ddfd21c367575505effdfda": {
+    "title": "Gemma4 (31B, bf16) constantly fails to edit files due to mismatches in original text - just me?",
+    "seen_at": "2026-08-01T15:49:20.091266+00:00"
+  },
+  "7af5a63d7dd69c8e0fcc1cec371b90ac4dd66d99994b5b636fe108aeca1eacef": {
+    "title": "DeepSeek-V4-Flash-0731: Oneshot evals, surprisingly not token efficient??",
+    "seen_at": "2026-08-01T15:49:20.091269+00:00"
   }
 }
