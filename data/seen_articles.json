@@ -2606,5 +2606,33 @@
   "0b3935ff28e709a22457959700ccd0041b35cbce44b7fd91204102dab3cd23b4": {
     "title": "PSA for DeepSeek-V4-Flash-0731 users — don't blow out your prompt cache with system role messages mid-conversation",
     "seen_at": "2026-08-02T07:58:57.706424+00:00"
+  },
+  "19bc4b32c50c4d3835c4f61db44b68e42e3143468a95aa76b71f2b7b2e458baa": {
+    "title": "LLM頼みのプロダクトに価値はあるのか——247いいねの投稿が呼んだX上の賛否 - shiritomo",
+    "seen_at": "2026-08-02T10:22:50.064070+00:00"
+  },
+  "f7a19d4d5f51cdfb424b15f8c56bf40db857ef576922f7542e21c95010339d32": {
+    "title": "ChatGPTがAIエージェントに大変身 / 『頭文字D』連載30周年、自動巻き腕時計【まとめ記事】 : ITライフハック - ITライフハック",
+    "seen_at": "2026-08-02T10:22:51.300777+00:00"
+  },
+  "b1e47b7c0050022c5f2ef8f03d82504e49bafa5365b05ab58effe19122c490c7": {
+    "title": "OpenAI利用者10億人突破の裏でAmazonが500億ドル投資完了、条件未達成でも前倒しした理由 - shiritomo",
+    "seen_at": "2026-08-02T10:22:51.300783+00:00"
+  },
+  "dffca355ebbd5318a56667583b42f22f25fde5020fe0c9adf82fd3b9a0df57a6": {
+    "title": "Setting up of a 16xGB10 (DGX Spark) cluster",
+    "seen_at": "2026-08-02T10:23:16.266459+00:00"
+  },
+  "bdc2ef7d86eaef4878745b20836ea2a1bfd999e4537313e7d8404859770e8316": {
+    "title": "Xberg v1 is out",
+    "seen_at": "2026-08-02T10:23:16.266467+00:00"
+  },
+  "e94d72a61af2ada47f58b57e2056559842d663a3c9cc9e62bca1573efc026079": {
+    "title": "Real-world reality check on Qwen for autonomous coding agents",
+    "seen_at": "2026-08-02T10:23:16.266473+00:00"
+  },
+  "208db94b03e217f8a91f58607bf270585bbe40762ce6966bf56ac4c62b05bd71": {
+    "title": "[Release] WinterMix — Qwen3.5-122B-A10B in native MLX: an 82 GiB build that beats 94–95 GiB quants, plus a 68 GiB build for agent swarms",
+    "seen_at": "2026-08-02T10:23:16.266476+00:00"
   }
 }
