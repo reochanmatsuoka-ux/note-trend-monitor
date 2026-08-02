@@ -2466,5 +2466,57 @@
   "7b5f97a8b3ddf19111fe9496d67a10e788bf33dda937d9dc92bb921a2021e985": {
     "title": "DeepSeek-V4-Flash-0731 on Bosgame M5 with RTX PRO 6000 Max-Q eGPU",
     "seen_at": "2026-08-01T21:41:46.217188+00:00"
+  },
+  "07e728c601fd5450a8fe20a4fa5161dc9afaf2d4cd29ad721c6823840f9d9843": {
+    "title": "エグゼクティブの生成AIの使い方 【第4回】日立製作所 水・環境事業統括本部長 風間裕介の活用術（前編） - Hitachi Global",
+    "seen_at": "2026-08-02T01:23:16.499085+00:00"
+  },
+  "dee01cced985a9c9c11e4397ff56fa917a5159257434ddd79265810740125d13": {
+    "title": "1000人調査から見えた、生成ＡＩ「本格利用」への壁とは？ - M＆A Online",
+    "seen_at": "2026-08-02T01:23:16.499095+00:00"
+  },
+  "5f756f27596bd65577be2c862ef7fcc54325031d1caeb2fdd9e33b18ac0da55b": {
+    "title": "KIMU Studio、LLM・画像認識基盤の「美術心理検査自動化」特許を登録 - korit.jp",
+    "seen_at": "2026-08-02T01:23:16.499099+00:00"
+  },
+  "7ec9de7691e07794f9bec27e5419622e66690af0b6081304258a34642ef70c0c": {
+    "title": "【越谷市議会議員研修】生成AIと議会について7月31日、埼玉県市議会議長会第4区議長会の議員研... - 選挙ドットコム",
+    "seen_at": "2026-08-02T01:23:16.499102+00:00"
+  },
+  "49097ea4b136dd5495cf96c4970f73c663b69093897a9cf6ba56d193ffd116c7": {
+    "title": "ソフトバンク経由で日本市場に入るOpenAIリスク - ダイヤモンド・オンライン",
+    "seen_at": "2026-08-02T01:23:17.659474+00:00"
+  },
+  "fad05a0923873297062b64dbdea1f10c603fe9a27a65c99f9ac9685830bc0e66": {
+    "title": "OpenAI、アクティブユーザー10億人超に 導入企業は200万社超 - ITmedia",
+    "seen_at": "2026-08-02T01:23:17.659481+00:00"
+  },
+  "3a9fc8ab3826499b69799a3db45494b2f8933c249e4dc893580dc8960706ee8d": {
+    "title": "OpenAIの次世代モデル「Astra」が10年以上進展のなかった数学の難問10問を解く：その計算コスト2,000ドルの衝撃とは - XenoSpectrum",
+    "seen_at": "2026-08-02T01:23:17.659484+00:00"
+  },
+  "da847c47e42e4ab27b28550ea3a68c1fd4fc0a4ad156257049ef6f08b4026a25": {
+    "title": "Google AI Proでも「Gemini Spark」、日本語対応で数週間以内に展開へ - shiritomo",
+    "seen_at": "2026-08-02T01:23:18.219481+00:00"
+  },
+  "fac3c2c5fcf2d0ce6d430b98161b844f61d1427c0a61b933fc0d540645490ca7": {
+    "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に Chrome統合は米国から - ITmedia",
+    "seen_at": "2026-08-02T01:23:18.219487+00:00"
+  },
+  "5d02f8ae91eb58638c2ec9c92a711893572b815706df6946857dc24b996638f8": {
+    "title": "Koboldcpp v1.118 released",
+    "seen_at": "2026-08-02T01:23:35.065112+00:00"
+  },
+  "934f3a69ef40f731e2731820211298c3be96daa1462b4caecd132b231434f360": {
+    "title": "Why are almost all new benchmarks and leaderboards coding focused?",
+    "seen_at": "2026-08-02T01:23:35.065117+00:00"
+  },
+  "2dd5dccba86506f4e7cf3b376ffb5a5d49e0afd69e5cdf6274b50155cf64f24a": {
+    "title": "Expert-only IQ3 requant of DeepSeek-V4-Flash-0731: better KLD than UD-IQ3_S, 1.4x decode on a CPU-spill rig",
+    "seen_at": "2026-08-02T01:23:35.065122+00:00"
+  },
+  "78955bd7ccdeae6a872771eb50248a02f5eb82a76b64119ce55764aad37a1e9b": {
+    "title": "How well do multiple GPUs scale for LLM inference? (Trying to understand the basics)",
+    "seen_at": "2026-08-02T01:23:35.065127+00:00"
   }
 }
