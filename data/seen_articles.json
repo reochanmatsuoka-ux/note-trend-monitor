@@ -2634,5 +2634,21 @@
   "208db94b03e217f8a91f58607bf270585bbe40762ce6966bf56ac4c62b05bd71": {
     "title": "[Release] WinterMix — Qwen3.5-122B-A10B in native MLX: an 82 GiB build that beats 94–95 GiB quants, plus a 68 GiB build for agent swarms",
     "seen_at": "2026-08-02T10:23:16.266476+00:00"
+  },
+  "1826233ebcd117f2792a132912eaf074f8a68482c9c621e396b70a76ebf529c9": {
+    "title": "キーエンス、技術的な問い合わせに対応する生成AIアシスタント機能をリリース - オートメーション新聞",
+    "seen_at": "2026-08-02T12:50:15.051034+00:00"
+  },
+  "9bd0a4db008a554f3e26488a805eda01d3841b98d4bab01bd0d6fbfe1e80707b": {
+    "title": "Vacuum 16T",
+    "seen_at": "2026-08-02T12:50:27.648294+00:00"
+  },
+  "f06586b8c023700fbc5a2206e784c1bee67f99698329e710ac386c23ecad2fbd": {
+    "title": "Single system with dual cards or two systems with single cards?",
+    "seen_at": "2026-08-02T12:50:27.648302+00:00"
+  },
+  "bf1cc4d4d06dc923d41bc828c9f05d128d83607f1f4274023846737661e9925d": {
+    "title": "How do you test your setup?",
+    "seen_at": "2026-08-02T12:50:27.648305+00:00"
   }
 }
