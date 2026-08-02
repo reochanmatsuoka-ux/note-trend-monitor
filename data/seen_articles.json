@@ -2570,5 +2570,41 @@
   "4aba1b087d09089c630f4dd4ad745dab68c7dd96e318a2178099c21d89654a58": {
     "title": "DeepSeek V4 Flash 0731 local setup gotcha: model, tool call & config setting",
     "seen_at": "2026-08-02T05:45:01.973600+00:00"
+  },
+  "a722b69d4a5a423d214d5d71386caf47847e374f23efa7c569644b6f34b7cca3": {
+    "title": "データセンター9割が関東・関西に集中、生成AIで需要急増 地方分散が喫緊の課題に - BigGo ファイナンス",
+    "seen_at": "2026-08-02T07:58:54.610044+00:00"
+  },
+  "b884976a60a1fd3b8efec052cecc874ce69ea4a4de2e7bdf127cdbbc6e8953e3": {
+    "title": "ノーラン、スピルバーグ、デル・トロらが語る「映画と生成AI」…トップクリエイターたちの懸念とは - businessinsider.jp",
+    "seen_at": "2026-08-02T07:58:54.610051+00:00"
+  },
+  "264f581a4a93ac98f328223b93b0964fc91c851d868b4fdbb1dcc667c56943c6": {
+    "title": "生成AIデマは災害の二次被害になる 沖縄企業が情報発信で信頼を失わないために｜菅原崇文 - mbp-japan.com",
+    "seen_at": "2026-08-02T07:58:54.610058+00:00"
+  },
+  "079a9ed302eae677cbb7a84f2df79fff65932918e438186213abcd4fff8b33dc": {
+    "title": "中国軍関連研究者、米国製AIを軍事モデル訓練に利用か｜モデル蒸留の規制課題 - innovaTopia",
+    "seen_at": "2026-08-02T07:58:55.133206+00:00"
+  },
+  "a641a4922eccd209590d545f52035306036727e4c1fd98f09f773c41a82a7d12": {
+    "title": "OpenAIのEU AI法対応声明、著作権要件に沈黙──8月2日の執行権限発効で焦点化する「学習データ開示」ギャップ - 財経新聞",
+    "seen_at": "2026-08-02T07:58:55.665262+00:00"
+  },
+  "fa91f869ca567fe19a0dfe30565c17e4491124fcb744d0ef0e1a83fddd511d4e": {
+    "title": "加速するAIの進化と追いつかない社会 : AIエージェントの「隔離環境突破」が突きつけた脅威の現実 #エキスパートトピ - Yahoo!ニュース",
+    "seen_at": "2026-08-02T07:58:56.765995+00:00"
+  },
+  "dd845c72a97150c50b6e1b169d19c1e770d674e93369081d6dcc4b1ca9f8e07f": {
+    "title": "DeepSeek-V4-Flash 284B on 5.3GB of memory",
+    "seen_at": "2026-08-02T07:58:57.706415+00:00"
+  },
+  "a70e514c2962cde74c1aaa764c86d5f5042c93ec0779bfe38115a87a9052c827": {
+    "title": "DeepSeek-V4-Flash-0731 UD-IQ3_XXS about 11t/s on 1x 7900 XTX 24GB + 3x MI60 32GB + 128GB DDR4",
+    "seen_at": "2026-08-02T07:58:57.706421+00:00"
+  },
+  "0b3935ff28e709a22457959700ccd0041b35cbce44b7fd91204102dab3cd23b4": {
+    "title": "PSA for DeepSeek-V4-Flash-0731 users — don't blow out your prompt cache with system role messages mid-conversation",
+    "seen_at": "2026-08-02T07:58:57.706424+00:00"
   }
 }
