@@ -2518,5 +2518,57 @@
   "78955bd7ccdeae6a872771eb50248a02f5eb82a76b64119ce55764aad37a1e9b": {
     "title": "How well do multiple GPUs scale for LLM inference? (Trying to understand the basics)",
     "seen_at": "2026-08-02T01:23:35.065127+00:00"
+  },
+  "21aff709ff9b130e9f07fdc40cbd4ff201786d2a33e926e94f3053afbe6ac09a": {
+    "title": "【熊本地震デマ拡散】生成ＡＩで偽動画容易に ＳＮＳ投稿、精巧さに警鐘 - 沖縄タイムス社",
+    "seen_at": "2026-08-02T05:44:55.785980+00:00"
+  },
+  "42f84e6a82de3527ec680d53a84a06cffc2784f7cfb7683a526b30337b3199c4": {
+    "title": "【熊本地震デマ拡散】生成AIで偽動画容易に SNS投稿、精巧さに警鐘 - 信濃毎日新聞デジタル",
+    "seen_at": "2026-08-02T05:44:55.785991+00:00"
+  },
+  "9de28e55aa83f9bf74e6a4fdeb1617156862cc11f77b860aa8fb2b78c54ee17f": {
+    "title": "【熊本地震デマ拡散】生成ＡＩで偽動画容易に - 山陰中央新報デジタル",
+    "seen_at": "2026-08-02T05:44:55.785994+00:00"
+  },
+  "2ddfe24ffb6fe17cc54ae91580812d01013003598446df46e00f4cf619e48f25": {
+    "title": "【熊本地震デマ拡散】生成ＡＩで偽動画容易に - 下野新聞社",
+    "seen_at": "2026-08-02T05:44:55.785997+00:00"
+  },
+  "b951a1fef6faa3b1057b713af4c4ee09fe7a03be3e0ec629a83c8a0d93a70d2f": {
+    "title": "三重県いなべ市、全小中学校15校で学校向け対話型生成AI「チャッともシンク」が本格稼働 - 教育家庭新聞社",
+    "seen_at": "2026-08-02T05:44:55.786000+00:00"
+  },
+  "f16507e92ab3a113ee8bfc6424e0503c2e88e7a3d34c48b569c9ad3ac6a72d90": {
+    "title": "【熊本地震デマ拡散】生成ＡＩで偽動画容易に ＳＮＳ投稿、精巧さに警鐘（共同通信） - 熊本日日新聞社",
+    "seen_at": "2026-08-02T05:44:55.786003+00:00"
+  },
+  "6d16ca6abbcd5df03911a118a8efaa7ec30eb1e671685bcc6f0c4b768e658d32": {
+    "title": "NVIDIA OpenAIの計算能力リースに約2500億ドルの融資保証提供へ - AFPBB News",
+    "seen_at": "2026-08-02T05:44:57.053086+00:00"
+  },
+  "9ad08bd1f5b4b6b8d42281f9c58c5de96015222966f91ce45cbd7d5884181dc6": {
+    "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に Chrome統合は米国から（ITmedia NEWS） - Yahoo!ニュース",
+    "seen_at": "2026-08-02T05:44:57.685961+00:00"
+  },
+  "89856e2742402ce49004cf28a714a22c77d43467eb177099656afcde45112b43": {
+    "title": "I pushed Kimi K3 onto one CPU with 8 GB of RAM",
+    "seen_at": "2026-08-02T05:45:01.973560+00:00"
+  },
+  "5921330b8168377754c222e69b36cdca994204f42e421bac2ef420a2838aef89": {
+    "title": "Ran DS V4-Flash-0731 Locally on 3xMI50 32GB @ ~15 t/s TG",
+    "seen_at": "2026-08-02T05:45:01.973564+00:00"
+  },
+  "9d68bc4d7e5881c6e67ef2ceaa856202acb0dd88c31a59e7bc6b74344aace573": {
+    "title": "DeepSeek-V4-Flash-0731 UD-Q8_K_XL 17.20~ t/s on A6000 + 256GB DDR4",
+    "seen_at": "2026-08-02T05:45:01.973570+00:00"
+  },
+  "be7245e779cf349f9dbf5265c920d6e9834f649f2e53ab49d855809167159985": {
+    "title": "What’s the community’s favorite benchmark to validate performance?",
+    "seen_at": "2026-08-02T05:45:01.973592+00:00"
+  },
+  "4aba1b087d09089c630f4dd4ad745dab68c7dd96e318a2178099c21d89654a58": {
+    "title": "DeepSeek V4 Flash 0731 local setup gotcha: model, tool call & config setting",
+    "seen_at": "2026-08-02T05:45:01.973600+00:00"
   }
 }
