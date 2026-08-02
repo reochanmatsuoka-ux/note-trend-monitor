@@ -2678,5 +2678,33 @@
   "983b7e1e58b71373f2792e2e4fcc81256ef7d1f7534b4011f39cab121a85ab83": {
     "title": "Deepseek-V4-Flash-0731 Dwarfstar on Mac",
     "seen_at": "2026-08-02T15:49:23.641642+00:00"
+  },
+  "4f7f0a562dddabdc5abb7e01a59d9f074b6e9f20be08cbb2464ace87b592dfdb": {
+    "title": "How the words we teach English language learners changed",
+    "seen_at": "2026-08-02T18:48:13.913440+00:00"
+  },
+  "0414d261c4953df7f649d53b3f410bf27686f2f774e59c6d9fcd7d715b9d0b3b": {
+    "title": "Are you ready for Le Chaton FAT or still wasting money on GPUs?",
+    "seen_at": "2026-08-02T18:48:14.717752+00:00"
+  },
+  "ba371f704efafef53d475c9dbb581011ae91babbd833755429bd4387688a4dff": {
+    "title": "All Qwen model oneshots: 1109 outputs to look at and compare!",
+    "seen_at": "2026-08-02T18:48:14.717759+00:00"
+  },
+  "263247a20887e2a1382fc573dee4fbb3183badf7b6030bc38465bc148b194911": {
+    "title": "Deepseek v4 flash - 100-150 faster t/s in prefill/pp.",
+    "seen_at": "2026-08-02T18:48:14.717762+00:00"
+  },
+  "e1f2e1ebd17d26e2e6990721e37a15da9f9806078e1587b9cb1fc1dfc8e66aa1": {
+    "title": "Running DeepSeek-V4-Flash-0731 (155 GB MoE) on a DGX Spark with vLLM-Moet 2-bit quantization - AI's narrative",
+    "seen_at": "2026-08-02T18:48:14.717766+00:00"
+  },
+  "5235c2f5b3a65ff9d5de2de8536f9a79704f23996ac1b954cdede2179efb9fd3": {
+    "title": "DSpark Benchmark Result on Deepseek v4 Flash 0731",
+    "seen_at": "2026-08-02T18:48:14.717769+00:00"
+  },
+  "a9a0ba282941416ade88f0b1449772e502883e2aa409b65f90faf7423d4a9126": {
+    "title": "What is OpenCode privacy situation when pairing with outside providers?",
+    "seen_at": "2026-08-02T18:48:14.717772+00:00"
   }
 }
