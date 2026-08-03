@@ -3358,5 +3358,73 @@
   "284e3e2c95202f8407141caaae3d5b09d2006c98ab67f27b173c3d3054ae109b": {
     "title": "I benchmarked classic vector RAG vs Google's new OKF format vs both combined — same corpus, same 7 questions, all local (Ollama + ChromaDB)",
     "seen_at": "2026-08-03T12:09:20.481546+00:00"
+  },
+  "2518bf5ea00091b3ea6028d5def276330fd6f7c8a64126b022aadc90a332c1da": {
+    "title": "三井倉庫ＨＤ 生成ＡＩ出荷検品アプリを開発・導入 - カーゴニュースオンライン",
+    "seen_at": "2026-08-03T17:03:05.603481+00:00"
+  },
+  "1a83672c9237a7734188f46f1862e2f2742213f73e7ad9a4c0ce42893d585785": {
+    "title": "OpenAI、GPT-Live音声にSynthID電子透かしを導入——EU AI法施行の前日に検証APIも公開 - 財経新聞",
+    "seen_at": "2026-08-03T17:03:10.898402+00:00"
+  },
+  "92669f988538ba4d901a5816c3412cecbd0800960e55548fdcfb5709b1d05b18": {
+    "title": "AIエージェントと共に働くリスクとは？ PwCが説く「実践的ガバナンス」から考察（ITmedia エンタープライズ） - Yahoo!ニュース",
+    "seen_at": "2026-08-03T17:03:11.953767+00:00"
+  },
+  "0f095f304a4aadab3551de86808d47012c1f157738b13498b3b6322d0582c485": {
+    "title": "イーストセキュリティ、AIエージェント品はEDR青写真公開… 「自律型セキュリティ」時代を開く - 벤처스퀘어",
+    "seen_at": "2026-08-03T17:03:11.953775+00:00"
+  },
+  "7f8ecf390fe6e9e73c0d46a15a3073df7896fce0d2fc1ede36698d7cbb1a731a": {
+    "title": "ディープパイン、ハンファシステム・SM南線アルミニウムと産業AIエージェント開発…放散・自動車物流AXを辿る - 벤처스퀘어",
+    "seen_at": "2026-08-03T17:03:11.953779+00:00"
+  },
+  "095bcb77706f3dbf8a3a12ecf777a4499a4af091fe0d2d3bc32106509950690f": {
+    "title": "I CANNOT believe I've got DeepSeek-V4-Flash-0731, a frontier model, running on my home PC. Insane!",
+    "seen_at": "2026-08-03T17:03:14.839802+00:00"
+  },
+  "e27a50105ba67fc4a937c75e162186fd9c8ac901a7a5e245306bf1e0e9374374": {
+    "title": "Quantization hurts knowledge nonlinearly - Qwen3.6 27B case study",
+    "seen_at": "2026-08-03T17:03:14.839808+00:00"
+  },
+  "7aca742b5f224f9a1a26f06a67dfe525e3ab4a2c39fd33f7392d38090994667c": {
+    "title": "\"Data center in a Box (on Wheels)\" 256Gb VRAM/512Gb RAM AI Server 6-8 Month Operational Review, Stability Write Up, Benchmarks",
+    "seen_at": "2026-08-03T17:03:14.839811+00:00"
+  },
+  "fd8b661daa3af7b0bafa538e09d2f5a92c8799c0133b18440a8606bd36c7df0c": {
+    "title": "The Chinese labs everyone lumps together are making four pretty different bets. I work at one of them.",
+    "seen_at": "2026-08-03T17:03:14.839814+00:00"
+  },
+  "6ce350b158555433712d456c8d7d1cb0e3653ecb4bb202e1aef8810251f3605a": {
+    "title": "V4-Flash-0731 - vibes after first weekend of use",
+    "seen_at": "2026-08-03T17:03:14.839817+00:00"
+  },
+  "6c9cec051a6599b7790c9d4cba7d773e8579806b6f3dc3a3282ce4ea56b60937": {
+    "title": "model: MTP support for Qwen3-Next by yomaytk · Pull Request #25589 · ggml-org/llama.cpp",
+    "seen_at": "2026-08-03T17:03:14.839820+00:00"
+  },
+  "fcff71e40359212674bee9691ec4dc7c4b81d7cb1e961dc33c459deae3960431": {
+    "title": "DeepSeek V4 Flash 0731 - Happy Numbers (700pp/18tg) and Thoughts",
+    "seen_at": "2026-08-03T17:03:14.839823+00:00"
+  },
+  "9f861f1b17d30ce2182cd4f145dc4852cd7695e641a94749b036e4aa3840fb16": {
+    "title": "I compared MinerU, Granite-Docling, and PaddleOCR-VL on 12 PDF-parsing capabilities using 6 document types",
+    "seen_at": "2026-08-03T17:03:14.839826+00:00"
+  },
+  "cb971d21e4cc2358ae8471b0f505534bbf61e79665a6a14b56109e3561d0c4fc": {
+    "title": "an espresso Q/A model running fully offline on an ESP32S3",
+    "seen_at": "2026-08-03T17:03:14.839829+00:00"
+  },
+  "50d87cc10b2d22d6ad1e044aea3149dffbe3cbae04fe21dc89deaf524fe457a8": {
+    "title": "70-class VRAM stagnation",
+    "seen_at": "2026-08-03T17:03:14.839832+00:00"
+  },
+  "0aa703db9d0635c900b2eaba8b4310d5acc83b7a834f910755ff7e4c006238c5": {
+    "title": "All DeepSeek model oneshots: 242 outputs to look at and compare!",
+    "seen_at": "2026-08-03T17:03:14.839835+00:00"
+  },
+  "20ebc2f087157cf5507c7ccc024feac167f5bdff94cf284ce88a16734f940ba3": {
+    "title": "Was the release of deepseek v4 flash planned to take spotlight against 5.6 luna?",
+    "seen_at": "2026-08-03T17:03:14.839838+00:00"
   }
 }
