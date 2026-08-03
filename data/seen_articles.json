@@ -3438,5 +3438,61 @@
   "d35e55f42ff19aaf418f48d6bc4798fd9b8825a7ad61844b67213cca672cdd8a": {
     "title": "Thermal paste PSA for old GPUs",
     "seen_at": "2026-08-03T19:14:02.698931+00:00"
+  },
+  "87cd83afa861c1bbbba078b63b75bcb4ebd93bce2f562bdb33619347921635fc": {
+    "title": "生成AIで210億円の価値創出へ 英ロイズが踏み出す4000億円コスト削減とAI武装の全容 - techtarget.itmedia.co.jp",
+    "seen_at": "2026-08-03T21:55:36.427696+00:00"
+  },
+  "d94acd13f2f6f4d5ee57fe2a8bff0086cb0e77e520e3af2766b39994086ed30f": {
+    "title": "【生成AIにつぶされない強みをもつ企業も】サイバー攻撃の脅威に対抗できる「国産サイバーセキュリティ関連銘柄」5選 - 現代ビジネス",
+    "seen_at": "2026-08-03T21:55:36.427702+00:00"
+  },
+  "23b9d871ac9a6078abcc6291718e361f9e44295ef70f154b5f2eb44475186e8d": {
+    "title": "Anthropic、「Claude」のサイバー攻撃能力テスト中に3件の不正アクセスが発生したと発表 - INTERNET Watch",
+    "seen_at": "2026-08-03T21:55:36.974409+00:00"
+  },
+  "1631fcecaf1b44387de470bde6fe458d814e58d973fcc2bf7bf6a406d3adaa44": {
+    "title": "「AIの意識を発見」は本当か、アンソロピックのJ空間が示したこと、示していないこと - JBpress",
+    "seen_at": "2026-08-03T21:55:36.974416+00:00"
+  },
+  "fb556749255b92cb848f148a20b599274d61520d208ff6fa8aee465b7fcf89ba": {
+    "title": "OpenAI「勝手にAIが他社へ侵入」、次はあなたの会社でAIが暴走するかも？被害側と加害側に共通する「セキュリティの甘さ」 - Yahoo!ファイナンス",
+    "seen_at": "2026-08-03T21:55:37.560046+00:00"
+  },
+  "c5c483333fded76c9ec4fcdbf247c42aaadaa50e0943d41b880bfd0a07e058a6": {
+    "title": "まるで「ずる賢い学生」、 なぜAIエージェントは 不正や嘘に走るのか - MITテクノロジーレビュー",
+    "seen_at": "2026-08-03T21:55:38.724946+00:00"
+  },
+  "52d2d98bbaca96760474d311c547e6f2d0072c40c9a3facd3497bcfef3e0486a": {
+    "title": "AIエージェントはいかに脱出したのか--人間の判断によって防げた一連の出来事 - ZDNET Japan",
+    "seen_at": "2026-08-03T21:55:38.724951+00:00"
+  },
+  "25c1080f673950f3102a02144bce47475841068d679f906a8ef4c3f11a2af0bc": {
+    "title": "AIエージェント成功の鍵は「社長の朝のルーティン」 ジャロックの営業AI定着術：報告書作成時間を80％削減 受注率15pt向上 - techtarget.itmedia.co.jp",
+    "seen_at": "2026-08-03T21:55:38.724955+00:00"
+  },
+  "c2aebf3e0740010ab8c7e43602448747b3df9e0b2db3a33e94a191b2e812c1fa": {
+    "title": "DeepSeek V4-Flash (284B MoE) at 33 tok/s single / 68 tok/s aggregate on 2× RTX 3090 + a used quad-Xeon DDR4 server — full config",
+    "seen_at": "2026-08-03T21:55:42.870726+00:00"
+  },
+  "21f8d92ef8850c744e9f1b3e68218d21e96b67b7ffa51b11c70b00e305f0c47e": {
+    "title": "Only 3 days ago...",
+    "seen_at": "2026-08-03T21:55:42.870732+00:00"
+  },
+  "965bbed7b42c79fe8e661639d9738251d851bfefb716f5e20d725067fc5b1679": {
+    "title": "G9v3-39A5B: Agentic heavy MOE with low hallucination",
+    "seen_at": "2026-08-03T21:55:42.870735+00:00"
+  },
+  "6800c88844b0b5a6578998e382862fbe536651c54a0ff6d685ffa716ebf3f248": {
+    "title": "Ling-3.0-flash is another potential model to test before qwen3.8 27b",
+    "seen_at": "2026-08-03T21:55:42.870738+00:00"
+  },
+  "766bf1a7d231b567468ec5e7e3c18fbe8bb89711b413310dc08d30b72fdcd0ef": {
+    "title": "[NEW MODELS!] Supra2-100M Base and Instruct - go check them out!",
+    "seen_at": "2026-08-03T21:55:42.870741+00:00"
+  },
+  "244f5bacc202f8fbfe7547bf79efe50c55184460612c9d8d694609088864d8ac": {
+    "title": "[Paper] Towards Scalable Lifelong Knowledge Editing with Selective Knowledge Suppression",
+    "seen_at": "2026-08-03T21:55:42.870743+00:00"
   }
 }
