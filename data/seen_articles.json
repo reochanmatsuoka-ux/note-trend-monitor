@@ -4042,5 +4042,41 @@
   "ed2ff3e22f73f1bb840a6bfd3d4a0d957522848637259d74fb5315dbe4a3f373": {
     "title": "DeepSeek v4 Flash 0731 4bit ~50tps prefill, ~1tps decode on M5 Air 32gb",
     "seen_at": "2026-08-04T11:13:17.549846+00:00"
+  },
+  "afb2326263f2829a0818fbd671ab1cc241fa1ee613e4f5d90bafcbdc16b269b2": {
+    "title": "「アップルは間違えている」 OpenAIが開発者引き抜き訴訟に反論（Impress Watch） - Yahoo!ニュース",
+    "seen_at": "2026-08-04T13:31:01.049167+00:00"
+  },
+  "f534e5de8e65210cdb549f189b0c56744642fcada446f8f200ca7d47b8bca87e": {
+    "title": "「ChatGPTで漫画」からAIアニメへ！月収50万を目指すためのAIと人間の“勝てる棲み分け” - みんかぶ（マガジン）",
+    "seen_at": "2026-08-04T13:31:01.049173+00:00"
+  },
+  "ceebc7c7f59cb647291e2c85d19c7eba0a675e780760da46ff8c9d178573a732": {
+    "title": "OpenAIの高級インフルエンサートリップに批判殺到 - マイナビニュース",
+    "seen_at": "2026-08-04T13:31:01.049178+00:00"
+  },
+  "5e0e91879d133ff0bba9a9d2fc07337b98de9cb84e311f8faf27d8572ead3470": {
+    "title": "OpenAIがAppleの訴訟に公式反論。「Appleは間違っている」と直球 - gori.me",
+    "seen_at": "2026-08-04T13:31:01.049181+00:00"
+  },
+  "666dcd3cfa1b026a721677f86cf7c19c3b1151fde9c0a9d527987f5be23aa272": {
+    "title": "Hyundai Futurenet、韓国マイクロソフトと提携しリテールAIエージェントを共同開発 - BigGo ファイナンス",
+    "seen_at": "2026-08-04T13:31:02.048373+00:00"
+  },
+  "04284e8749e72464157e2b424cce45c16198e68fe56b60ac71957a07e0b46f9b": {
+    "title": "Llama.cpp PR 8% speed boost",
+    "seen_at": "2026-08-04T13:31:04.500816+00:00"
+  },
+  "ea96d04953fc40ea19aabe0f4487b8e9c8716d3760f0a54b02c03b845f943593": {
+    "title": "SK hynix, In Collaboration With SanDisk, Unveils The New High Bandwidth Flash (HBF) Standard, Helping To Resolve AI Inference Bottlenecks, Targeting Up To 3TB/s Bandwidth",
+    "seen_at": "2026-08-04T13:31:04.500824+00:00"
+  },
+  "8ee2146ec0235413013a4df9b3241e57da8193f3434b8189200810a04f662c1b": {
+    "title": "DeepSeek V4 Flash 0731GGUFs with updated template (supports reasoning levels)",
+    "seen_at": "2026-08-04T13:31:04.500828+00:00"
+  },
+  "5595cdb8ff398f0b5547644bcfd52b278de7629e213a7d93865c1d322a93306f": {
+    "title": "Why are Chinese models better* at Frontend than the western top labs?",
+    "seen_at": "2026-08-04T13:31:04.500830+00:00"
   }
 }
