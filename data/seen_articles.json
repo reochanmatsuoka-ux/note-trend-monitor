@@ -4142,5 +4142,45 @@
   "58693bb1153024542a6eb334dc50b488be203a6b479219a497595b55a77a18b8": {
     "title": "Decrease the power limit of your 5090 to at least 480W - the performance penalty for inference is negligible.",
     "seen_at": "2026-08-04T16:44:43.523343+00:00"
+  },
+  "aefff09adb562eb76bd4b115bc1f980d5da1d300957242ab189cdad41540a7d0": {
+    "title": "あつぎ未来共創フェローによる生成AIの講演会を開催 - city.atsugi.kanagawa.jp",
+    "seen_at": "2026-08-04T19:15:06.304027+00:00"
+  },
+  "bf7db5a32a81115aab3c54d48cf388b7ba94c837a94bfeb05b61d21b0da79cc9": {
+    "title": "No more SLM open-source??",
+    "seen_at": "2026-08-04T19:15:43.938613+00:00"
+  },
+  "b18ce03996af175e48bb99a6b99198bd92e5ee0e757e000923f351d22afcb922": {
+    "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
+    "seen_at": "2026-08-04T19:15:43.938620+00:00"
+  },
+  "8fc022b1bcbc7237d8ee2bc267a4faa390a6f6ddf99d2993aac88d820f073c21": {
+    "title": "Has anyone tried Mach-1 Additive? 95% of performance of Qwen 3.6 35B while being 10x smaller",
+    "seen_at": "2026-08-04T19:15:43.938623+00:00"
+  },
+  "fef3ccc18ac062c3409c4424f6787c41d7bcd94402c26b3e3c2e31f934c0a72e": {
+    "title": "LFM2.5-2.6B is out",
+    "seen_at": "2026-08-04T19:15:43.938629+00:00"
+  },
+  "7ffdd0b8ae0b4af3885800dd3a701fa21409f3c2fa65539c2e5302eb273f2ab8": {
+    "title": "A llama.cpp PR caches “hot” MoE experts on the GPU — 33 → 56 tok/s reported with 8GB VRAM",
+    "seen_at": "2026-08-04T19:15:43.938632+00:00"
+  },
+  "7f59b9ae3df9e0cb735ee78d9ef65bc5fc7e8b228505dfab6921c1c708fd7d0e": {
+    "title": "Introducing Shieldstral. | Mistral AI",
+    "seen_at": "2026-08-04T19:15:43.938636+00:00"
+  },
+  "ba75c718489a452c8d575fecd4a6deedde38e86b67312ae0435c4167f89f76e3": {
+    "title": "Cursor releases their Mixture-of-Kittens megakernel for training MoE models - Claims to nearly double TFLOP/s",
+    "seen_at": "2026-08-04T19:15:43.938643+00:00"
+  },
+  "4e6525197add7226c4905804f1daa91b2fedd604e29755ab2ab14cad50afd5f7": {
+    "title": "Deepseek V4 flash 0731 ranks #21 on Agent Arena",
+    "seen_at": "2026-08-04T19:15:43.938646+00:00"
+  },
+  "0480a7a34351b08cb91e13e66b1f67050c201b529aeb28fadcf14766657dfdf7": {
+    "title": "DeepSeek v4 Flash vs. Qwen3.6-27B, 3.5-122B, and Gemma 4 31B Benchmark",
+    "seen_at": "2026-08-04T19:15:43.938650+00:00"
   }
 }
