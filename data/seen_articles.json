@@ -4078,5 +4078,69 @@
   "5595cdb8ff398f0b5547644bcfd52b278de7629e213a7d93865c1d322a93306f": {
     "title": "Why are Chinese models better* at Frontend than the western top labs?",
     "seen_at": "2026-08-04T13:31:04.500830+00:00"
+  },
+  "68bdbd1d0fe5768679d28a5217a3b048e9655cf8ddd4c0ea4027bda8ee312bc3": {
+    "title": "SNS・生成AI時代に議員が学ぶべき情報リスク - go2senkyo.com",
+    "seen_at": "2026-08-04T16:44:39.864071+00:00"
+  },
+  "b2517040580743b362de9725dde7b466f94866806d0e4ba3de13153dc0fd48f9": {
+    "title": "AIで少女の画像を裸に加工したとして逮捕された男性（32）を釈放 警視庁 - KSBニュース",
+    "seen_at": "2026-08-04T16:44:39.864081+00:00"
+  },
+  "9c7545aa481f70e7e6eb8e0a98f44c349c0fb516fd96bffc7d8c83b05c42bf1d": {
+    "title": "最新Claude「Fable 5」でAI巧者との格差広がる インサイト発見の新作法 - 日経クロストレンド",
+    "seen_at": "2026-08-04T16:44:40.369010+00:00"
+  },
+  "214f8e64a6f2868340a3c852112da846e68d9275a13f11aa6d66b4b2eb190f3e": {
+    "title": "【Amazonセール】ChatGPT連携など多機能ワイヤレスマウス「Cheerdots2」がお買い得 - GAME Watch",
+    "seen_at": "2026-08-04T16:44:40.972354+00:00"
+  },
+  "2214a089e5153b28df212d700e7e37a4d78a5d809cfda61448eb9da333943001": {
+    "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応 - publickey1.jp",
+    "seen_at": "2026-08-04T16:44:40.972361+00:00"
+  },
+  "c22d514d2cd05d3e2102a10140950e12457f86c4fd52930c0f95d869c74e5f70": {
+    "title": "美容クリニックや人材業界特化のSEO/LLMO対策、ChatGPT広告などを学ぶ6日間～ipeの「WEB集客最大化ウェビナー」開催決定（2026年8月後半開催） - rbbtoday.com",
+    "seen_at": "2026-08-04T16:44:40.972365+00:00"
+  },
+  "82f6447f851685ec19f54357c060d10fd770ed19a3534e5a5f96960bffeb5020": {
+    "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+    "seen_at": "2026-08-04T16:44:42.716580+00:00"
+  },
+  "daa957cfda629046ba8052508b642eea147269978273753f9cc405dc1b5be065": {
+    "title": "inclusionAI/Ling-3.0-flash · Hugging Face",
+    "seen_at": "2026-08-04T16:44:43.523314+00:00"
+  },
+  "7f2b70d07c5c9855f47b0e49521ab4a7d69960851641d3c0900eabc6f6c1f92c": {
+    "title": "inclusionAI/Ling-3.0-flash weights are up on Hugging Face — MIT, BF16 plus an official FP8",
+    "seen_at": "2026-08-04T16:44:43.523318+00:00"
+  },
+  "2e38813ce0717a437b69560086c28e3c65be983d0a6212b06a57e7196fb94362": {
+    "title": "[Deepseek-V4-Flash-0731] Full 1M context on a single RTX5090 + DDR5 Desktop Setup with VLLM CPU/Ram Offloading, ~800 tps pp & 15+ tps decode [Agentic Coding]",
+    "seen_at": "2026-08-04T16:44:43.523323+00:00"
+  },
+  "4d834a36fac0e0ac4303e826cbe7b6e6bae967ac2880fb18fb7a00dd2c6b443f": {
+    "title": "Deepseek V4 Flash 2-bit quant is the first model I can run locally that achieves 100% in this SQL benchmark",
+    "seen_at": "2026-08-04T16:44:43.523326+00:00"
+  },
+  "b4ea455dd3a0f5604a37acda730433f93619c705a7b873b07c6afbc1514652d3": {
+    "title": "Design systems from code alone - Without external images, Ling-3.0-flash generated webpages across Bauhaus, Bohemian, acid design, and more—using CSS gradients, SVG paths, typography, and layout to preserve each visual language.",
+    "seen_at": "2026-08-04T16:44:43.523330+00:00"
+  },
+  "a3d32ea74ae4c886da51d5839ba2def0cca3b21c721fcb21bea02a21176bbdca": {
+    "title": "Gemma 4 on 500MB",
+    "seen_at": "2026-08-04T16:44:43.523333+00:00"
+  },
+  "be599cf9e86c46309f99cbb1304142fa4ecbe014685bc988351370795374f122": {
+    "title": "DeepSeek V4 Flash 0731 (Q4) now reaches 1,328 tok/s prefill and ~29 tok/s decode on one RTX PRO 6000",
+    "seen_at": "2026-08-04T16:44:43.523337+00:00"
+  },
+  "884e89e11add0b7c136b61a857a850b3b2ce21c78875dc0345e9630b5a40f323": {
+    "title": "I built a DwarfStar-inspired Vulkan/Metal inference engine for Qwen3.6-35B-A3B on 16 GB machines",
+    "seen_at": "2026-08-04T16:44:43.523340+00:00"
+  },
+  "58693bb1153024542a6eb334dc50b488be203a6b479219a497595b55a77a18b8": {
+    "title": "Decrease the power limit of your 5090 to at least 480W - the performance penalty for inference is negligible.",
+    "seen_at": "2026-08-04T16:44:43.523343+00:00"
   }
 }
