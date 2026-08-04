@@ -4182,5 +4182,65 @@
   "0480a7a34351b08cb91e13e66b1f67050c201b529aeb28fadcf14766657dfdf7": {
     "title": "DeepSeek v4 Flash vs. Qwen3.6-27B, 3.5-122B, and Gemma 4 31B Benchmark",
     "seen_at": "2026-08-04T19:15:43.938650+00:00"
+  },
+  "df33e0f41b030ce6acc5806f2d21d97a0f556cca94de059effef45bc7b0cdd1f": {
+    "title": "年収800万円以上の6割弱がAIで自己分析 - 日経BP",
+    "seen_at": "2026-08-04T22:02:39.213724+00:00"
+  },
+  "f3851e950661933e760bfa18057475fd91018c7ef6ffbd54916c07a2ea69346e": {
+    "title": "生成AI需要拡大を背景に、半導体関連の積極投資が進む 東北・2026年度設備投資計画 - 河北新報オンライン",
+    "seen_at": "2026-08-04T22:02:39.213732+00:00"
+  },
+  "a6d39daef66ec16ba2bb45e2faebf832fdb16e558000617bd401fbb8959c82ab": {
+    "title": "近大病院と中外製薬、治験参加者組み入れに電子カルテとAI技術を使う抽出方法の研究開始 - デジタルクロス",
+    "seen_at": "2026-08-04T22:02:39.213736+00:00"
+  },
+  "c75de7d18cb55bc0e57504c4f29753298b4b6b75c15ef2b27278690662672f9e": {
+    "title": "Copilot・ChatGPT・Gemini？ガートナー流「AIアシスタント」選定の“4つの基準”とは（ビジネス＋IT） - Yahoo!ニュース",
+    "seen_at": "2026-08-04T22:02:40.344011+00:00"
+  },
+  "6bf781f2e0f5206764faeac8b9aee82c54feb947123142c68bd5cc34f67aee25": {
+    "title": "OpenAI、Appleの提訴に全面反論「雑で攻撃的で、妙に個人的な訴訟」 メールやiMessageも公開 - CNET Japan",
+    "seen_at": "2026-08-04T22:02:40.344017+00:00"
+  },
+  "9f69ac577c51a5897c5fdc1347944f88f21052ea3664575fe61ebd7bc1fc2495": {
+    "title": "アップル、さらに多くの元従業員によるOpenAIへの企業秘密漏洩の可能性を主張 - テクノエッジ TechnoEdge",
+    "seen_at": "2026-08-04T22:02:40.344020+00:00"
+  },
+  "d34631feca2042e22508166813026bb4f2b67fe70b7da426606fe7b38efa7a5d": {
+    "title": "OpenAIのAIモデル、第三者のサイバー試験で境界を突破(Bloomberg) - Yahoo!ファイナンス",
+    "seen_at": "2026-08-04T22:02:40.344024+00:00"
+  },
+  "c8d81bedbcbfe494f30d82c5ecd745d2066077c1e6b54ad17e38c54287471e33": {
+    "title": "OpenAI、米国人労働者への差別疑惑で米司法省と和解、320万ドル支払いへ - BigGo ファイナンス",
+    "seen_at": "2026-08-04T22:02:40.344027+00:00"
+  },
+  "81b37434d57400847dbbc5ddebb2cbef95653a49eb68075cc3e52d02d0c6c288": {
+    "title": "OpenAIがビザ差別の申し立てで320万ドルの和解に合意 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-08-04T22:02:40.344030+00:00"
+  },
+  "dc78799fe57e6c225c654e0e150197d4ae2e37f6d28e61a1f57b79edad1bac0a": {
+    "title": "トークン予算を超過せずにAIエージェントを使う方法 - japan.zdnet.com",
+    "seen_at": "2026-08-04T22:02:41.558495+00:00"
+  },
+  "0a8722e26146f2efda8f50b5b407e5e60611b78d1c672be6d5896dc4af757b6e": {
+    "title": "Cloudflare、AIエージェント専用ステーブルコインウォレット発表──Coinbaseのx402プロトコル搭載 - BigGo ファイナンス",
+    "seen_at": "2026-08-04T22:02:41.558501+00:00"
+  },
+  "ef87b84e7b74d87650cd2cff13131c07547f8b033c3c4ac981ccaf0bc7642d68": {
+    "title": "米クラウドフレア、AIエージェント向け専用ウォレット機能を発表 - CoinPost",
+    "seen_at": "2026-08-04T22:02:41.558508+00:00"
+  },
+  "f9a662d7a34500ed01f6ef60c2a91c17536802d469c8ce10788d53839f7faf7b": {
+    "title": "Kimi K3 full model running on 16x GB10 cluster at 20+tps",
+    "seen_at": "2026-08-04T22:02:42.608985+00:00"
+  },
+  "f5eee0a463f2c829687840b64f856ec846d14ee08e5e7594b33e487b6f615b47": {
+    "title": "A 2.6B model with tool calling and 128K context now runs at 30 tok/s on a phone",
+    "seen_at": "2026-08-04T22:02:42.608998+00:00"
+  },
+  "d551fb3ff005da2c4284e80c506c847afee26c515f769839b0bda29f624b516f": {
+    "title": "GPT-OSS has turned one year old today!",
+    "seen_at": "2026-08-04T22:02:42.609004+00:00"
   }
 }
