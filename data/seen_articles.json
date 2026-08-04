@@ -3950,5 +3950,97 @@
   "59ceca5daae8414ed94072fb2fa1f14d6d1eff208393acaf754246acff73d1fd": {
     "title": "Is LM Studio abandoning their core product?",
     "seen_at": "2026-08-04T08:12:42.722262+00:00"
+  },
+  "3491cc57c2e108fc3f3fb7569d6f5127f7f20c87cd1d278425c82f09df16db7d": {
+    "title": "「デザイン業」の倒産が14年ぶり高水準、生成AI普及も影響か──東京商工リサーチ - ビジネス+IT",
+    "seen_at": "2026-08-04T11:13:06.792512+00:00"
+  },
+  "211cb95849a9c821a22a35503e0faab7b52918a804300abe2d4e48d6ea59135a": {
+    "title": "古河電、生成ＡＩ需要で光ファイバーケーブルの生産能力を増強 総投資額１０００億円 - 株探",
+    "seen_at": "2026-08-04T11:13:06.792522+00:00"
+  },
+  "0844bf019d9009f2afc0bae75fdf03aa5f618083135221bbb98098b694637ecc": {
+    "title": "エブリー上場、吉田社長「データ基盤で生成AIより最適なレシピを提案」 - 日本経済新聞",
+    "seen_at": "2026-08-04T11:13:06.792528+00:00"
+  },
+  "970add8f2da83ba77ffd15e04155545801e72cd40d6c21f924552391b68c55c9": {
+    "title": "ニュース 生成AIと数理最適化技術で、生産ラインの構成を自動立案する技術を開発 - 株式会社インプレス",
+    "seen_at": "2026-08-04T11:13:06.792533+00:00"
+  },
+  "fba0215115a884835a6497633c1a26411192c31e9d5d77f72a71356825369442": {
+    "title": "『ライザのアトリエ』原作のAIチャットRPG『RyzaChat:AI』事前登録開始！生成AIは使用せずアセットはトリダモノ氏監修で人力作成、音声もアプリ専用収録素材を活用 - インサイド",
+    "seen_at": "2026-08-04T11:13:06.792539+00:00"
+  },
+  "6f472e5d4251743b10fd82ad9881df5ca1a5891503c7bc689006784ac027e19a": {
+    "title": "生成AIと数理最適化技術で、生産ラインの構成を自動立案する技術を開発 - 産経ニュース",
+    "seen_at": "2026-08-04T11:13:06.792542+00:00"
+  },
+  "9c2c5d9ff8168f75360e3243ff97c10bc9229128ff67ddf559bd9d81e7a05e8e": {
+    "title": "【Claude Fable 5】AIコーディングベンチマークで首位に浮上、成功率64%でライバルを圧倒 - BigGo ファイナンス",
+    "seen_at": "2026-08-04T11:13:07.287112+00:00"
+  },
+  "4f21faad4d8210da631d4a7298d22d5026e5deb0b014e4d1ae155e9d227931a3": {
+    "title": "ChatGPTへの恋愛相談、日本は英語圏の3倍。オープンデータの調査 - Business Insider Japan",
+    "seen_at": "2026-08-04T11:13:07.739200+00:00"
+  },
+  "97e1f6be5bc8d81df239dd31cc33d003905e8490dd246e5524ccfc0cdf69ea5c": {
+    "title": "「アップルは間違えている」 OpenAIが開発者引き抜き訴訟に反論 - Impress Watch",
+    "seen_at": "2026-08-04T11:13:07.739205+00:00"
+  },
+  "2d4d6821682a50071fd150f23a9666823ea26b1e2116b2eca9fa67c4d25ebbc2": {
+    "title": "OpenAIの次世代モデル「Astra」が数学の未解決問題10件を解決（PC Watch） - Yahoo!ニュース",
+    "seen_at": "2026-08-04T11:13:07.739209+00:00"
+  },
+  "09976668233ecb1ecc08b8040304e41e0c704d61c20b6ac3f6aebdea7b1257cf": {
+    "title": "OpenAI、アップル訴訟に反論 弁護士の誤送信メールも公開（アスキー） - Yahoo!ニュース",
+    "seen_at": "2026-08-04T11:13:07.739212+00:00"
+  },
+  "9736c9a3e07a198d9c84c4f869e5c15a270f40cfecbb1960f42377b9a3dd63e5": {
+    "title": "ElasticとOpenAIの連携強化、非構造化データを活用したAIエージェントの新時代 - voix.jp",
+    "seen_at": "2026-08-04T11:13:07.739216+00:00"
+  },
+  "45b0a9dea3dad3c31c9e09e73883a6e9e95773e09b75e12fedb84339f62853e6": {
+    "title": "スライドなどをチャットから生成可能に - gihyo.jp",
+    "seen_at": "2026-08-04T11:13:08.262801+00:00"
+  },
+  "c52926b3335f6e4f1c0b0683e9265c0142d11045583ebb81ff1ab993b4356367": {
+    "title": "Claude Codeは「同僚」になれるか。書籍著者2人がFindyイベントで語ったこと - shiritomo",
+    "seen_at": "2026-08-04T11:13:08.794646+00:00"
+  },
+  "de06be2d240ba7daf88bc40a59f577eeee1180b8d281868bf2607dd1a6ea274f": {
+    "title": "「人主導」から「自律実行」へ――進化する「Microsoft 365 Copilot」の新機能とエージェントAIの現在地（1/2 ページ） - ITmedia PC USER - ITmedia",
+    "seen_at": "2026-08-04T11:13:08.794653+00:00"
+  },
+  "f866335f4111051b2c52ad108c1c7d2260c14ed7c5afe9360127f0262f6c4298": {
+    "title": "ContractSが実現する法務組織の新たな働き方「AIエージェント社員」の導入 - voix.jp",
+    "seen_at": "2026-08-04T11:13:08.794658+00:00"
+  },
+  "245ea8ed84cea6f2582a2a0928425a827d065af419f7d1ca89d89ce31dd27b72": {
+    "title": "株式会社丸田組が「Kencopa工程AIエージェント」の導入を開始し効率化を図る - voix.jp",
+    "seen_at": "2026-08-04T11:13:08.794662+00:00"
+  },
+  "12e866e0a25e7f410854c2255a6d6ea1753d51a847aed38adb591674ef7830d6": {
+    "title": "Teradata、AWS MarketplaceでAIエージェント「Data Analyst Agent」の提供を開始し分析革新を実現 - voix.jp",
+    "seen_at": "2026-08-04T11:13:08.794665+00:00"
+  },
+  "07aa23e58996aacba523f6e99871a06adcdebe062541bf979b74a35f0a155c66": {
+    "title": "Time to finally migrate from LM Studio -> llama.cpp, your experience?",
+    "seen_at": "2026-08-04T11:13:17.549833+00:00"
+  },
+  "2d154b7e04787f046a6b534fdada57ab82ad4183402baa8d4ab93e129bb18eb1": {
+    "title": "Probably the best way to run DS4 flash on a mac right now (192gb+ vram)",
+    "seen_at": "2026-08-04T11:13:17.549837+00:00"
+  },
+  "f68b790861edde02c90ab9b0062bbc3def09c94c70ef0c5797a202cd89a503f2": {
+    "title": "Optimised DSv4-Flash for 2x GH200: 10,000 tok/s PP, >300 tok/s TG on SGLang",
+    "seen_at": "2026-08-04T11:13:17.549840+00:00"
+  },
+  "bdf7bba0b75b1dbddb11aadacbf2f32d0f6c795517d8d0c7401b4cb17e53ac2b": {
+    "title": "New DSv4 Flash Doom Loop in Q8? Llama.cpp Vulkan",
+    "seen_at": "2026-08-04T11:13:17.549843+00:00"
+  },
+  "ed2ff3e22f73f1bb840a6bfd3d4a0d957522848637259d74fb5315dbe4a3f373": {
+    "title": "DeepSeek v4 Flash 0731 4bit ~50tps prefill, ~1tps decode on M5 Air 32gb",
+    "seen_at": "2026-08-04T11:13:17.549846+00:00"
   }
 }
