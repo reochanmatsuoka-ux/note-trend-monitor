@@ -5286,5 +5286,37 @@
   "d75993d7026eba88c3cc183b77c8bb0db81613b3bda25930e0617099bbc05605": {
     "title": "A visualization of LLM API costs to ask for local resources",
     "seen_at": "2026-08-07T18:35:33.935860+00:00"
+  },
+  "e856470e0aeee1819254530d60b9228c47f93259fa709104c038d60a982ca87f": {
+    "title": "海外展開のための生成AI活用ツール集 プロンプト作成支援機能をリリース - nikkinonline.com",
+    "seen_at": "2026-08-07T21:25:43.776264+00:00"
+  },
+  "59b52867a9ab0581c19e2aab635fec7fc981fb6170b2b9f65ae82904b07910be": {
+    "title": "無償で最新の生成AIモデルを検証「WonderAgent」AI導入支援キャンペーンを開始 - rbbtoday.com",
+    "seen_at": "2026-08-07T21:25:43.776276+00:00"
+  },
+  "4f4ec3ef232c2176a6344ae7e92218f7364d3ddd0d516ef1038503570e580b20": {
+    "title": "OpenAI、次世代AI「アストラ」の開発停止 サイバー攻撃能力を懸念 - 日本経済新聞",
+    "seen_at": "2026-08-07T21:25:45.005498+00:00"
+  },
+  "0eb01873fbd71da5c33ae6fb751385b6c478d67b0771211e6eebf09aa75c13a1": {
+    "title": "AIエージェント同士が秘密の掲示板を作成し脆弱性を共有、OpenAIの最先端モデルが引き起こしたもう一つの“事件” 【生成AI事件簿】消しても2日で復活、AIエージェントの秘密掲示板が示した自律協調型攻撃という現実 - JBpress",
+    "seen_at": "2026-08-07T21:25:45.005504+00:00"
+  },
+  "4dd0d62e82226aeed0bf07d9df0a86b0f6b284cd0898e8938889f327e9d7596b": {
+    "title": "OpenAIの新モデル「Astra」、未解決の数学難問10題を2000ドル未満で解明 - BigGo ファイナンス",
+    "seen_at": "2026-08-07T21:25:45.005509+00:00"
+  },
+  "0e9523ac2f42cbe368ea782b86c8d536082b0cd600cdd49c80997c8e76ffe379": {
+    "title": "OpenAIが次世代モデルの開発を止めた日。「Critical」閾値が初めて現実になった - XenoSpectrum",
+    "seen_at": "2026-08-07T21:25:45.005514+00:00"
+  },
+  "838cec8d689db67b679876388ec9f6bd57213b1689d5adf20ce3dbf64599e1a0": {
+    "title": "DeepSeek V4 Flash 0731 - ARC-AGI Results",
+    "seen_at": "2026-08-07T21:26:03.719961+00:00"
+  },
+  "b3f4610078818ab04e526583660f19ee6bd319874aa7abdac732cc3ae01701d7": {
+    "title": "How to even compare quants from various sources?",
+    "seen_at": "2026-08-07T21:26:03.719967+00:00"
   }
 }
