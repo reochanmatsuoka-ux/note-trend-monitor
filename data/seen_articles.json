@@ -5214,5 +5214,45 @@
   "8c5a7d5958a58c88b66715bff49184f6857d5caf46a697e9235d65b9d7b7ca6e": {
     "title": "Anyone running DeepSeek-V4-Flash-0731 on MI325X with vLLM? Mine is behaving completely broken",
     "seen_at": "2026-08-07T12:34:13.577933+00:00"
+  },
+  "5527fab319b494805130925e9d7c21bdf78e1c494d43b38f402be8dff22d5237": {
+    "title": "「ChatGPT Health」で自分の健康データを守るには？ プライバシー問題とかしこい使い方 - ライフハッカー",
+    "seen_at": "2026-08-07T15:41:12.236701+00:00"
+  },
+  "9e1a21055b10339c5ebf888c11d68efbeb5af3319062428d4ef36435b1f65825": {
+    "title": "メタが攻撃した OpenAI i AppleMacsがプログラマー向けの新AIツールをリリース - Letem světem Applem",
+    "seen_at": "2026-08-07T15:41:12.236713+00:00"
+  },
+  "5f2dcc129cc5abcb92b687e0c31c797c300ff26b81018c63d5d347a2c8dff4df": {
+    "title": "Hakuhodo DY ONEと博報堂テクノロジーズ、広告運用自動化AIエージェント「Advertising Flow」において、ChatGPTの広告に対応した機能の提供を開始 - 時事ドットコム",
+    "seen_at": "2026-08-07T15:41:12.236717+00:00"
+  },
+  "3f54970ed77cf2ff9d86b0fd961bc8aac489c09bdf832a9a7ea3e67800fa52a2": {
+    "title": "日本の小売事業者334社の「AIエージェント」への投資意向は97％、一方で消費者62％は「抵抗あり」 ―Adyen調査 - トラベルボイス",
+    "seen_at": "2026-08-07T15:41:13.411519+00:00"
+  },
+  "b65e75ea5598e0fe7957e965a75bdb3039f764c01cf8e84caf420a9dd6487e87": {
+    "title": "The web server deployment model breaks at hobby scale",
+    "seen_at": "2026-08-07T15:41:14.932535+00:00"
+  },
+  "5d4a40a5913456e4bde7c720be0b842d6849b2262dd58783fbe36dac1d3b9b73": {
+    "title": "Show HN: Wyzer Programming Language",
+    "seen_at": "2026-08-07T15:41:14.932541+00:00"
+  },
+  "dcd66110448b251bfb989732e962d4e5e6feb66e9aba0b2eba13d0ed1ff8537c": {
+    "title": "Le Chaton Fat Star Trek Style thanks to u/",
+    "seen_at": "2026-08-07T15:41:15.545397+00:00"
+  },
+  "1eedb2126bdf580de3833767955024ac69cb6e51f3e1238cbf6532a03bcd3c5a": {
+    "title": "LFM2.5-2.6B model+KV cache quantization report",
+    "seen_at": "2026-08-07T15:41:15.545402+00:00"
+  },
+  "dfe475c5bd69ebd705e7ce9b051dd801f06a6e65bad70bfc60f5d4bbb0f3ec84": {
+    "title": "Wan-Animate-2: Pushing the Application Boundaries of Character Animation Models",
+    "seen_at": "2026-08-07T15:41:15.545405+00:00"
+  },
+  "972b5f22a79444841ec4a4a76523d1396b7b72d854dee7c2c4ff83ccc58c8648": {
+    "title": "LabyrinthBench: a local-focused, judge-free LLM benchmark that measures context recall under interference for multi-step agentic tasks.",
+    "seen_at": "2026-08-07T15:41:15.545413+00:00"
   }
 }
