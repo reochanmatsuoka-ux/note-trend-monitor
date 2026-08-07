@@ -5254,5 +5254,37 @@
   "972b5f22a79444841ec4a4a76523d1396b7b72d854dee7c2c4ff83ccc58c8648": {
     "title": "LabyrinthBench: a local-focused, judge-free LLM benchmark that measures context recall under interference for multi-step agentic tasks.",
     "seen_at": "2026-08-07T15:41:15.545413+00:00"
+  },
+  "97f8aaaa3467d036eb02c7a3148043010dcd33220acda819870dcb9a62b1a236": {
+    "title": "障害者の就労支援、生成AIで新展開。ePARAとサイコムが動画制作講座を実施 - Koubo",
+    "seen_at": "2026-08-07T18:35:30.586676+00:00"
+  },
+  "6544c6ae6d53e6141eec85da16b7fc2ce8713f8d0552b78ffcbc23062ccd0f5b": {
+    "title": "AIエージェント導入を支援する「Lumina」の公式サイトをリニューアル - 時事ドットコム",
+    "seen_at": "2026-08-07T18:35:32.813786+00:00"
+  },
+  "34b1dc90a254f1aca331ffbcc2e181b85ee83238d8511ab2e4535cabb809212e": {
+    "title": "トランプ氏、議会はAI業界を「廃業に追い込む」規制を狙うと批判、不正AIエージェントのハッキングで緊急停止スイッチ法案に拍車 - finance.biggo.jp",
+    "seen_at": "2026-08-07T18:35:32.813795+00:00"
+  },
+  "b52329e22e572d2f992cbc767d120d396c8df3b8cbce97a3513a8709a2eb0e87": {
+    "title": "llama.cpp PR reports up to 169% faster quantized-KV decode at 118K context on Intel Battlemage from one SYCL kernel switch",
+    "seen_at": "2026-08-07T18:35:33.935845+00:00"
+  },
+  "7905be88130228f2a5113f2b2bba43c8b3af0b0979e54430899b43ea608c9c27": {
+    "title": "Got job as Director of AI and Systems development self-taught",
+    "seen_at": "2026-08-07T18:35:33.935850+00:00"
+  },
+  "e7d86963a8d6e4b5511b134b9bc74807a7a70e7c888745f887a3b7dc704ad1cc": {
+    "title": "parakeet.wgsl – Fast, accurate ASR in the browser, via raw WebGPU & SIMD WASM",
+    "seen_at": "2026-08-07T18:35:33.935854+00:00"
+  },
+  "4dd00c213d47fcf6c07f4645681241163176fb55c88e624857df7f5c7a8a49c9": {
+    "title": "Am I just hallucinating",
+    "seen_at": "2026-08-07T18:35:33.935857+00:00"
+  },
+  "d75993d7026eba88c3cc183b77c8bb0db81613b3bda25930e0617099bbc05605": {
+    "title": "A visualization of LLM API costs to ask for local resources",
+    "seen_at": "2026-08-07T18:35:33.935860+00:00"
   }
 }
