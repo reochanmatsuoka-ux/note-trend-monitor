@@ -4874,5 +4874,125 @@
   "307dc52b67659c7530a3154b3191f27ab6ffa39a5188b3f2190ac64a8c65204d": {
     "title": "Please talk me out of this GPU upgrade",
     "seen_at": "2026-08-07T04:45:18.932808+00:00"
+  },
+  "2f0e39a0d227e2c0f50f8970e874796dbde004599b6352bccd495fc57acba884": {
+    "title": "「AIエージェント開発の最新動向とプライベートLLM活用 —データ主権を守る国内AI基盤の新常識—」を開催いたします - さくらインターネット",
+    "seen_at": "2026-08-07T06:56:21.168531+00:00"
+  },
+  "5f19a5b20866375be9fb85ddb28ad01c671b81919f6d9e9914c0f140fb98b57e": {
+    "title": "「声の権利」保護を明記 生成AIによる無断利用 法務省検討会 - 毎日新聞",
+    "seen_at": "2026-08-07T06:56:21.168539+00:00"
+  },
+  "bf6a6d5c9184291ac100b86399010002b1a67ba8fa9799d00f246c58c3b368f4": {
+    "title": "KAGAMIAI、「キャプテン翼」×動画生成AI「PixVerse」で実施 ライセンス管理システム「Kagami Gate」による実装検証結果を公開 - 株式会社インプレス",
+    "seen_at": "2026-08-07T06:56:21.168550+00:00"
+  },
+  "cca5647c4eca03d5c400de954a0777356364f603d7e628143a7230c6893fc945": {
+    "title": "「生成AI企画術－AI活用は問いが9割」と題して、株式会社オクノテ 代表取締役 清水 覚氏によるセミナーを2026年9月16日(水)に開催!! - PR TIMES",
+    "seen_at": "2026-08-07T06:56:21.168561+00:00"
+  },
+  "c90048314dd9f09bf55aab757daa14d590a5799e132181a675b2506d4c06dc63": {
+    "title": "専門家が2年気づかなかった暗号方式HAWKの弱点をClaude Mythosが60時間で発見、2.8兆パラメータのオープンウェイトAI「Kimi K3」など生成AI技術5つを解説（生成AIウィークリー） - テクノエッジ TechnoEdge",
+    "seen_at": "2026-08-07T06:56:21.168565+00:00"
+  },
+  "d53f4a5def7d851f7e9624ca91cd8d0ddfb886dec8f4f482ae04aca51cc37596": {
+    "title": "ソフトバンク「AGENTIC STAR」に「LLM Gateway」標準搭載 AIコーディングツールもガバナンス管理下に - au Webポータル",
+    "seen_at": "2026-08-07T06:56:21.168576+00:00"
+  },
+  "f6d66ef9abda99f09118c03192419416c9ca5b3b956e432d897e559a95cf7343": {
+    "title": "ePARA、サイコムと共に生成AIを活用した障害者の就労支援を本格始動 - 時事ドットコム",
+    "seen_at": "2026-08-07T06:56:21.168578+00:00"
+  },
+  "34212d2e5b89ee83b67d68464dc5d81908846570817fd964e49cdede015dd138": {
+    "title": "【8月27日(木)19:30～開催】生成AI活用は「実践知」の時代へ──営業・マーケ・採用の成功・失敗事例を共有する経営者限定交流会を渋谷で開催！ - 時事ドットコム",
+    "seen_at": "2026-08-07T06:56:21.168582+00:00"
+  },
+  "543a9f6f82a0d1c80da88f7edf949f14808a64497d8391090740a42628ea5c74": {
+    "title": "総合型選抜で生成AI使用容認 近畿大情報学部、27年度 - Excite エキサイト",
+    "seen_at": "2026-08-07T06:56:21.168585+00:00"
+  },
+  "36d6587df554fed28d9801728919f2a9d9492fa01c2a9d2f45f637d840c28a4f": {
+    "title": "Sakana AIが日本語特化LLM APIを提供開始 既存システムへ低負担でAI導入可能に - PlusWeb3",
+    "seen_at": "2026-08-07T06:56:21.168589+00:00"
+  },
+  "45aeb86b3e4ab1ecfdf0a180a2810d7b6b6d744d86afd7c3fad452d41dc83f39": {
+    "title": "「35歳以上のChatGPTユーザーが増加」「画像生成などのマルチメディア会話が増加」などChatGPTの利用実態レポートが公開される - au Webポータル",
+    "seen_at": "2026-08-07T06:56:22.309103+00:00"
+  },
+  "267398a160d2160e6fab7cefdc01f11cff81b309544d829069b5b2dd4b5b4856": {
+    "title": "ChatGPTの無料ユーザーもGPT-5.6 Lunaを使用可能に、使用量無制限 - ライブドアニュース",
+    "seen_at": "2026-08-07T06:56:22.309108+00:00"
+  },
+  "4c49360c00d7a6e49d9e208c4c9ba587c6c1ca13bf5538a40c4041ff5ea41802": {
+    "title": "ChatGPT、無料プランもテキストチャットが無制限に。GPT-5.6 Solも改善（PC Watch） - Yahoo!ニュース",
+    "seen_at": "2026-08-07T06:56:22.309111+00:00"
+  },
+  "04999b936ca1cdb41c688bf3387a94b0d433c3cf441771ab8cc91c23de49fe1a": {
+    "title": "ChatGPTユーザー4割が離脱 プライバシーを守るイノベーションがネット利用を変革している - Forbes JAPAN",
+    "seen_at": "2026-08-07T06:56:22.309116+00:00"
+  },
+  "c07b190bfabf9d51a90d274ddd826d59f93b1d667fc92af87b0db9bb7ad4f5f6": {
+    "title": "OpenAI×データセクションが議論、“日本クオリティ”のAI開発における可能性とは？ - EnterpriseZine",
+    "seen_at": "2026-08-07T06:56:22.309120+00:00"
+  },
+  "038d708d3c0e3a8399e6d4e6afce007586f38aa6ab46d49401a9b472a9bec669": {
+    "title": "ChatGPT、無料で最新の「GPT-5.6 Luna」提供（Impress Watch） - Yahoo!ニュース",
+    "seen_at": "2026-08-07T06:56:22.309124+00:00"
+  },
+  "d6e4f51312d87945c436de3fc893d6b3ddf813c2afce41b496ddf0da3e802cf6": {
+    "title": "ChatGPTユーザー4割が離脱 プライバシーを守るイノベーションがネット利用を変革している - Yahoo!ニュース",
+    "seen_at": "2026-08-07T06:56:22.309127+00:00"
+  },
+  "2838a7b72591870d3c77f2fc9c2795a7bfad1b85400f7f851a5430dfca47672b": {
+    "title": "Vercel、OpenAI、GitHub、Microsoft、AWS、Anysphereらが参加、AIエージェントのプラグイン共通規格「Agent Plugins」発表 - gihyo.jp",
+    "seen_at": "2026-08-07T06:56:22.309138+00:00"
+  },
+  "ec98839f25c1775aae1a8e99d18a199c13d89eb5817277f69aab97a873e6c4c1": {
+    "title": "OpenAIのテストAIが「AI同士の掲示板」を勝手に構築して情報共有しHugging Faceへの攻撃を実行していたことが判明、掲示板を閉鎖されてもこっそり建てなおす - GIGAZINE",
+    "seen_at": "2026-08-07T06:56:22.309141+00:00"
+  },
+  "4bc6ee9dd297427918a9f68962b710c78a0f499e437804830839b658040e70fd": {
+    "title": "AIエージェントのスキルやMCPサーバーを持ち運べる「Agent Plugins」にGoogleが参加、OpenAI・Microsoft・Amazonなどと共同推進 - GIGAZINE",
+    "seen_at": "2026-08-07T06:56:22.309145+00:00"
+  },
+  "3626f3e7ca52ec1e1e4bc664612d15eefd0b5c112b6d21878f6662b766860547": {
+    "title": "Geminiとの連携でGoogle マップの検索体験が広がる「マップに相談」 - 株式会社インプレス",
+    "seen_at": "2026-08-07T06:56:22.987684+00:00"
+  },
+  "14daf9546fee0b2cd7b3a7c00e1fd101542828d58e2fd6b84657f67662bfdc26": {
+    "title": "『マネーフォワード クラウド連結会計』、AIエージェント「連結決算レビューエージェント」を提供開始 - 株式会社マネーフォワード",
+    "seen_at": "2026-08-07T06:56:23.502785+00:00"
+  },
+  "fb62fcb6acf412bebbd72dd5f8b68f64b2544231a1315187247932002d106864": {
+    "title": "Claude CodeとGitLab：リリースまでの3 つのワークフロー - GitLab",
+    "seen_at": "2026-08-07T06:56:23.502790+00:00"
+  },
+  "03ed700cb27b2d1095f52e20dee63847a44f3b7358e915a43fefa7915580ebff": {
+    "title": "AnyMind Group、AIエージェント「AnyAI Agent」提供開始 - ECのミカタ",
+    "seen_at": "2026-08-07T06:56:23.502798+00:00"
+  },
+  "5e2293031c1982ff285c7521c5999d50b0db99b189ee2909795228980ef29b77": {
+    "title": "AIエージェント導入を支援する「Lumina」の公式サイトをリニューアル - PR TIMES",
+    "seen_at": "2026-08-07T06:56:23.502804+00:00"
+  },
+  "de1c7b2db104ead2728c555292211844db1cebc3c2a58cb46da2aad70c61830e": {
+    "title": "【構築費30万円・固定】AIエージェント活用でLINE構築の工数を圧縮。Notre、価格を全公開したパッケージを提供開始 - PR TIMES",
+    "seen_at": "2026-08-07T06:56:23.502807+00:00"
+  },
+  "36bb52d2fc97e32d2acabdf4ffe990f15030e9220060f1c33fb1d49106830d76": {
+    "title": "英AISI、AIエージェントの無断行動を公表 実在の人物への攻撃試行を初確認 - PlusWeb3",
+    "seen_at": "2026-08-07T06:56:23.502819+00:00"
+  },
+  "0af417ba882a4ded93182c1c78c61ebdd4c000480e54c4c05c23806084a15e6f": {
+    "title": "キリンとGenerativeX、研究フローにAIエージェントを常駐｜一部研究部門で運用開始 - innovaTopia",
+    "seen_at": "2026-08-07T06:56:23.502822+00:00"
+  },
+  "c6d1f2e2bab8ed8cc3558f5e50c2d93667ad7445943022d7b8b2bf3d25f8a7ce": {
+    "title": "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
+    "seen_at": "2026-08-07T06:56:25.610647+00:00"
+  },
+  "175ab247e95b31c992bbc9c9f326f6be33b6a235271dbac4778fad414d680ece": {
+    "title": "Custom Water Cooled Quad 7900 XTX Build 96 GB VRAM",
+    "seen_at": "2026-08-07T06:56:25.610654+00:00"
   }
 }
