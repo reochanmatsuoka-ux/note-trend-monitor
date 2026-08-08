@@ -5318,5 +5318,65 @@
   "b3f4610078818ab04e526583660f19ee6bd319874aa7abdac732cc3ae01701d7": {
     "title": "How to even compare quants from various sources?",
     "seen_at": "2026-08-07T21:26:03.719967+00:00"
+  },
+  "b87832f7225c84a87181ed0d09ec9d7dcc17ab54c9687d145cdbc97961c75027": {
+    "title": "スタンフォード大などの研究チーム、ゲノム生成AI「Evo」で16種の新種ウイルスを創出 - ビジネス+IT",
+    "seen_at": "2026-08-08T00:39:41.317146+00:00"
+  },
+  "7c041ae1314ea5740df6938fc719129256c40a0bcc91cf6ba83e2de0ac587cec": {
+    "title": "生成ＡＩ、被災地照らす - TOKAIネットワーククラブ（TNC）",
+    "seen_at": "2026-08-08T00:39:41.317155+00:00"
+  },
+  "c9e943d7c97ba72d01ef65173c7bc51e9a43b3e716bfb844100cbf200cb05b4d": {
+    "title": "「VIVANT」で生成AIが使われたのはこのシーンだ！～TBSドラマ初の本格利用～【調査情報デジタル】 - au Webポータル",
+    "seen_at": "2026-08-08T00:39:41.317160+00:00"
+  },
+  "59252a33f63cff04122e0cf6630deeddd3f8db62280d4504f2d8f6311a78bd84": {
+    "title": "生成AI悪用の児童性暴力を厳罰化＝ブラジル、世界に先駆け新法成立＝ディープフェイクを重罪化 - brasilnippou.com",
+    "seen_at": "2026-08-08T00:39:41.317163+00:00"
+  },
+  "79433c2055619e5510ef85bed6096bf08e3ab77645a4220d68d79d8eadaa59fb": {
+    "title": "Anthropic、「Fable 5」の生物学の制限を緩和 誤検知によるフォールバックを約85％削減 - ITmedia",
+    "seen_at": "2026-08-08T00:39:41.927556+00:00"
+  },
+  "4ea2f439f743dd1eae488a8bdfcf101e6e8c8ec70ae827a080bd76a9aee9d133": {
+    "title": "Claude Codeの独立セッションが相互通信、並列開発をつなぐ新機能の仕組みと制約 - XenoSpectrum",
+    "seen_at": "2026-08-08T00:39:41.927562+00:00"
+  },
+  "fe33c4fae15ff706a33ee1e07f550209a05cde8cc5cc252820ec0de564a3b4ea": {
+    "title": "AIがサイバー攻撃――OpenAIやClaudeで相次ぐ事態、波及リスクは：1週間を凝縮！ 今週の製造業ニュース - monoist.itmedia.co.jp",
+    "seen_at": "2026-08-08T00:39:42.406334+00:00"
+  },
+  "9c18e629432605a3d8f01bfa9baca8313a0ef3097007407f1b725f87bcae5b19": {
+    "title": "OpenAI、次期モデル「Astra」の一部開発を停止 「Critical」級サイバー能力の可能性否定できず - ITmedia",
+    "seen_at": "2026-08-08T00:39:42.406340+00:00"
+  },
+  "1283b93de8d2ef6390cd68fff9319f5313929c96ff688d76a94d61a9ab1dd793": {
+    "title": "Kimi K3、サンドボックス脱走で見えた「AIの門限」問題——OpenAI・Anthropic・Metaに続く4件目 - shiritomo",
+    "seen_at": "2026-08-08T00:39:42.406346+00:00"
+  },
+  "55cd7db7c59771c34bf6c3ec8e6b970b872940a4a9af04ed7b84db55d40b1b17": {
+    "title": "「トグルひとつでAIエージェント対応」 CloudflareがWebMCPとCloudflare OSを発表 - shiritomo",
+    "seen_at": "2026-08-08T00:39:43.468596+00:00"
+  },
+  "1427796db7c757a4c458685fc086dea8b8da88c74f9c14a42b121cd14141413b": {
+    "title": "本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公開した（CloseBox） - テクノエッジ TechnoEdge",
+    "seen_at": "2026-08-08T00:39:43.468602+00:00"
+  },
+  "0497b950d7dc25f532263366684fe7799da2b1e2a2137b03cca0593dc7e1cc1c": {
+    "title": "Qwen 3.6 27B flags/settings in llama.cpp",
+    "seen_at": "2026-08-08T00:39:44.866509+00:00"
+  },
+  "1af00b9ba239d73f294eeb68b142cb5a49c339196985811787ababea23f16398": {
+    "title": "Serving Deepseek v4 Flash 0731 on 2x DGX Spark — 5-7 GB OS headroom, what would you do to lower VRAM usage and increase OS available RAM?",
+    "seen_at": "2026-08-08T00:39:44.866514+00:00"
+  },
+  "44ae29dd1a1d7a563636fec7e1e1ff5b064568a73ab32cba347c69ed947ce9fb": {
+    "title": "Which model would be best for Delphi development?",
+    "seen_at": "2026-08-08T00:39:44.866517+00:00"
+  },
+  "bd6aa4604ede0b043e71f6fe9b8af0abfb6398cbd8db2e2276995eb3e7f8f131": {
+    "title": "Why no good external multi gpu solutions?",
+    "seen_at": "2026-08-08T00:39:44.866522+00:00"
   }
 }
