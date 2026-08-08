@@ -5686,5 +5686,33 @@
   "be342b5df4fd9d3b1ca03efb7c7053623c6f15368e924fce18c7fafbadee59d1": {
     "title": "Has anyone here fiddled with TPUs for inference ?",
     "seen_at": "2026-08-08T12:20:00.651188+00:00"
+  },
+  "ff7e3453e141aeced629e3d1600281fe8a393abb5603b76e7bab305091d5c8f0": {
+    "title": "生成ＡＩ、被災地照らす - 豊田経済新聞",
+    "seen_at": "2026-08-08T15:16:38.381567+00:00"
+  },
+  "6ac633118ec07507690d779579b30c1da2417ab271aa86db8168d2e8d2bc199f": {
+    "title": "Claude Codeに大型アップデート：AIセッション間の自律通信が可能に、マルチエージェント連携が大きく前進 - BigGo ファイナンス",
+    "seen_at": "2026-08-08T15:16:38.831618+00:00"
+  },
+  "83869720716048b614c5d9ffdf8be3bb131502201d3bc94bb9355e10f68c7035": {
+    "title": "OpenAIの可動式AIスピーカー、価格は最大約6.3万円か　「GPT-Live」搭載の狙い - zaikei.co.jp",
+    "seen_at": "2026-08-08T15:16:39.263936+00:00"
+  },
+  "f9431588e43f951db9f11db089faaed44c8a6057b939f854c9dbc7405674770f": {
+    "title": "思考をAIに直接送る？元OpenAI研究者が挑む「テレパシー」開発とは - crypto-times.jp",
+    "seen_at": "2026-08-08T15:16:39.263940+00:00"
+  },
+  "44dd0bd136221fc855f1a62d4db8d3391acfa5efb17195d6c5ae5eb020a8b59e": {
+    "title": "SaaSは死んでいない。ByteDance・Alibaba・Tencentが示す「AIエージェント時代の業務ソフト」の勝ち筋 - note",
+    "seen_at": "2026-08-08T15:16:40.284244+00:00"
+  },
+  "8e4d34f6f99149ecd3531c67b2cd9eeab14de9591234526f9857943a25fe3753": {
+    "title": "Claude Code in 9 lines python",
+    "seen_at": "2026-08-08T15:16:45.557091+00:00"
+  },
+  "8925053209244795da0df49270e4b0715f584bc4444e9e3ed033cc9d019cd15a": {
+    "title": "Tesla V100 Qwen3.6 27B Performance",
+    "seen_at": "2026-08-08T15:16:45.557096+00:00"
   }
 }
