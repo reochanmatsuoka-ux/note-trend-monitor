@@ -5662,5 +5662,29 @@
   "12aab5ad3a251ee80a733fbaa1ce656cbc68d9ead1faea77444fa6dd4f0cf6f1": {
     "title": "model: support Longcat-Flash (need testing) by ngxson · Pull Request #19182 · ggml-org/llama.cpp",
     "seen_at": "2026-08-08T09:24:33.874589+00:00"
+  },
+  "075df56baa64e46ab58111dd1b0336f92c248274ecc0e5c3e90171711362dc67": {
+    "title": "なぜOpenAIのエージェントは暴走したのか？ 原因と対策（ライフハッカー・ジャパン） - Yahoo!ニュース",
+    "seen_at": "2026-08-08T12:19:58.447507+00:00"
+  },
+  "88e3a85971504c79e462ee763327df2ea27d199407afe0b511e54ac4933e5b6b": {
+    "title": "ChatGPT最新モデル「o3」の画像生成機能を試す “ジブリ化”で物議の「4o」からどう変わった？（画像）（10/13枚目） - ITmedia",
+    "seen_at": "2026-08-08T12:19:58.447515+00:00"
+  },
+  "a40832ee9e1b650a2cb45c3e1cd13f0dc774cff9368147ce16151a9926582a48": {
+    "title": "株式会社エクスプラザ、OpenAI Partner Network の「OpenAI Select Partner」に認定 - Excite エキサイト",
+    "seen_at": "2026-08-08T12:19:58.447520+00:00"
+  },
+  "ce31964aacdfbfd7ebd013539973cbd0eec31cb5d9d813f82a60f39d45fd2a83": {
+    "title": "A local code index for coding agents that resolves imports without a language server (Rust, MIT, runs offline)",
+    "seen_at": "2026-08-08T12:20:00.651179+00:00"
+  },
+  "fe5c4fea83f135865b81e54e920cb27b7a12e50dcd8b9751a2edb508edf071fe": {
+    "title": "MI25 for 80-100€ worth it?",
+    "seen_at": "2026-08-08T12:20:00.651185+00:00"
+  },
+  "be342b5df4fd9d3b1ca03efb7c7053623c6f15368e924fce18c7fafbadee59d1": {
+    "title": "Has anyone here fiddled with TPUs for inference ?",
+    "seen_at": "2026-08-08T12:20:00.651188+00:00"
   }
 }
