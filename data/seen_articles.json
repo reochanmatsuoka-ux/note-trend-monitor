@@ -5598,5 +5598,69 @@
   "6d1a55103d3d9577b605a25f723e4d88b1dd32abd820c272ba9c5ab7e2c22d23": {
     "title": "PSA for anyone with multiple V620's or other gfx1030 cards having problems making llama.cpp tensor split work -- set \"-ub 384\" and -b to a multiple of that depending on number of GPUs",
     "seen_at": "2026-08-08T06:29:38.267629+00:00"
+  },
+  "cad78531c1e1375f188fee444f0257fc9b17ac14026d2fe3bc267d157956c413": {
+    "title": "生成ＡＩ、被災地照らす 避難者自ら情報掲示板開発―偽映像も、浮かぶ功罪・熊本 - jiji.com",
+    "seen_at": "2026-08-08T09:24:31.056082+00:00"
+  },
+  "548dc57ee11cb4ede1f0bcbdc627e594c5c691f0aa2a0eb0f0009a3b62d25eed": {
+    "title": "画像生成AIで世界3位 中国「HiDream」、350億円調達でユニコーンに - Yahoo!ニュース",
+    "seen_at": "2026-08-08T09:24:31.056091+00:00"
+  },
+  "52e7bc4c2f1c0ecd8e68d94c23a72a8390cf28bba28373a23614b6ebb61077b2": {
+    "title": "Claude Codeの「毎回Yes」が消える日——Auto modeが8月14日からデフォルトになる理由 - shiritomo",
+    "seen_at": "2026-08-08T09:24:31.528392+00:00"
+  },
+  "ad6278ceb8e2df35fac9b0f82d12171ac33aa826d5a989b7e3226bf06c31a7a8": {
+    "title": "Kimi K3を徹底解説：Anthropicの企業価値を揺るがすほどの実力とは？｜Trans-N - note",
+    "seen_at": "2026-08-08T09:24:31.528397+00:00"
+  },
+  "ef78381caf90b6d17e2a88b4e1cafef82b50b894d3d4e4d05aac35d10d62d060": {
+    "title": "なぜOpenAIのエージェントは暴走したのか？ 原因と対策 - ライフハッカー",
+    "seen_at": "2026-08-08T09:24:32.113462+00:00"
+  },
+  "79a54d34f839894ff811ac584e9f2d2c9573f86c1123e1994425dd26c298efa8": {
+    "title": "AIモデルが自律的サイバー攻撃能力を獲得、OpenAIが安全懸念で「Astra」開発を初の一時停止 - BigGo ファイナンス",
+    "seen_at": "2026-08-08T09:24:32.113467+00:00"
+  },
+  "6712a301007d5845765977092d90ce624174fe7af06c7e685685c067a0bd3d9d": {
+    "title": "ChatGPTは、8月8日から無料プランでGPT-5.6 Lunaモデルによる無制限のメッセージングを提供します。 - vietnam.vn",
+    "seen_at": "2026-08-08T09:24:32.113470+00:00"
+  },
+  "da3fbaf15c937a61925604ab25ba931aaf3de7b7cb348fffecc6ac70873cd728": {
+    "title": "ソフトバンクG「投資利益1.8兆円」支えた、OpenAIでもArmでもない“半導体メーカー”の正体（ITmedia ビジネスオンライン） - Yahoo!ニュース",
+    "seen_at": "2026-08-08T09:24:32.113473+00:00"
+  },
+  "96046e26def4e77de276452e75ad7dcaa4105fa428aa6d7db832a1bdbaed5d3c": {
+    "title": "ChatGPTはまもなく、ユーザーに無制限の無料チャットを提供する予定です。 - vietnam.vn",
+    "seen_at": "2026-08-08T09:24:32.113476+00:00"
+  },
+  "ecc5f6e707766a32b907e56ee0a3fcb31c4254c262d87b04899973deb4c9af0b": {
+    "title": "ChatGPTユーザーは無制限に無料でアクセスできます。 - vietnam.vn",
+    "seen_at": "2026-08-08T09:24:32.113480+00:00"
+  },
+  "a6bd7f09ef17c651d2ca24469859095b2da5a9012b9625011005dfd0eaa84ac8": {
+    "title": "アップルとオープンAIが、新デバイスに関する秘密を巡って対立。 - vietnam.vn",
+    "seen_at": "2026-08-08T09:24:32.113483+00:00"
+  },
+  "b25496f082c4b94b4ec819d8626fb1dc5b78a8a0870aa62e318deb99a4545e2d": {
+    "title": "OpenAI「Astra」、サイバー能力Criticalの可能性｜一部の社内活動を停止 - innovaTopia",
+    "seen_at": "2026-08-08T09:24:32.113487+00:00"
+  },
+  "59377a8a3d7acfa2bc669022c8439e6a741b953636f95a9ec9f86c87774a12ba": {
+    "title": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に：夏休みに振り返る2026年上半期ニュース - ITmedia",
+    "seen_at": "2026-08-08T09:24:32.647082+00:00"
+  },
+  "3639511f1a5724d8acb4f25c4dfc136fae255eda1a51121ec042de711da94180": {
+    "title": "2027 Memory Capacity Is Reportedly Sold Out",
+    "seen_at": "2026-08-08T09:24:33.874579+00:00"
+  },
+  "af21af6e9e23aedc86c137e9a997e0cd5bad2ebf9af2d886e06bf08c90089e02": {
+    "title": "Qwen3.6 27B + 35B on vLLM, single R9700 (gfx1201)",
+    "seen_at": "2026-08-08T09:24:33.874585+00:00"
+  },
+  "12aab5ad3a251ee80a733fbaa1ce656cbc68d9ead1faea77444fa6dd4f0cf6f1": {
+    "title": "model: support Longcat-Flash (need testing) by ngxson · Pull Request #19182 · ggml-org/llama.cpp",
+    "seen_at": "2026-08-08T09:24:33.874589+00:00"
   }
 }
