@@ -5742,5 +5742,33 @@
   "bd7352e6285be5167a832188979d373bcc1479c458bf8e28f745b9072b4b74f8": {
     "title": "128GB vs 256gb of ram",
     "seen_at": "2026-08-08T18:18:10.927121+00:00"
+  },
+  "b5ce8f5f6402690b67c2d7ddc6a9f179b9dc8bc129ab258bfd93bf77459c5b3a": {
+    "title": "日本の教育と生成AI活用 どう考える？ OECD局長が語る留意点 [AIの時代] - 朝日新聞",
+    "seen_at": "2026-08-08T21:17:08.194604+00:00"
+  },
+  "c3d69d4808530cafddacff26bf777304de7aec1d492bb2c40a58917ae7401b9d": {
+    "title": "８割超が生成ＡＩ全面活用 - 琉球新報デジタル",
+    "seen_at": "2026-08-08T21:17:08.194609+00:00"
+  },
+  "ea9c5add4d8fcd416c525bfdef815fe6b6610b5262cdb62e72ee82b035e9f585": {
+    "title": "OpenAIがNextSlideを買収、AIプレゼン作成チームをChatGPT開発に統合 - Межа. Новини України.",
+    "seen_at": "2026-08-08T21:17:09.275543+00:00"
+  },
+  "6ddfe76215b849ce539d8f53d34042b1f168561bf3c2b7492dd112bdb432a419": {
+    "title": "OpenAIのAstraが数学成果強調巡り盗用批判拡大 - CHOSUNBIZ - Chosunbiz",
+    "seen_at": "2026-08-08T21:17:09.275547+00:00"
+  },
+  "47c4463b2dc17b11ccfe298033531bbdc6e0aa17e3f7bd05fa2d7698932f968b": {
+    "title": "Building a budget 32GB → 48GB VRAM home AI server: 2-3x RX 9060 XT 16GB vs RTX 5060 Ti 16GB, AM5 vs used EPYC?",
+    "seen_at": "2026-08-08T21:17:11.243377+00:00"
+  },
+  "28ab8e7bc60dcda4f3a2b3271cef4294f320fe522874dbaa20cbaa950641640a": {
+    "title": "I built a local realtime voice stack for Ollama: Parakeet STT → Qwen 2.5 7B → Qwen3-TTS",
+    "seen_at": "2026-08-08T21:17:11.243382+00:00"
+  },
+  "55412218163720c7cbdec1471d00f8cb5d3318a8b36fcc0400c2ab9cfee29e56": {
+    "title": "any reasonably fast public benchmarks I should run quants of deepseek flash 0731 on?",
+    "seen_at": "2026-08-08T21:17:11.243384+00:00"
   }
 }
