@@ -5714,5 +5714,33 @@
   "8925053209244795da0df49270e4b0715f584bc4444e9e3ed033cc9d019cd15a": {
     "title": "Tesla V100 Qwen3.6 27B Performance",
     "seen_at": "2026-08-08T15:16:45.557096+00:00"
+  },
+  "c2ed6440969be5ea4bc00d553eb4bc039b594936ad1ba7275dd73753c5c83908": {
+    "title": "OpenAIはChatGPTに多くの新機能を追加しました。 - Vietnam.vn",
+    "seen_at": "2026-08-08T18:18:08.523171+00:00"
+  },
+  "ff44982d40d08b5de4003de0f9f9dc315ccf4e6295bd72847374c3992dd8f9d4": {
+    "title": "Adobe、ChatGPT向け無料プラグイン公開　Photoshopなど70超のツールを自動選択 - zaikei.co.jp",
+    "seen_at": "2026-08-08T18:18:08.523175+00:00"
+  },
+  "c44e52263fe482038ffa3552e3713193a74e1374d4a683167cd469e47c712b05": {
+    "title": "Showoff Saturday: Local 4x 6000 Pro (multi-year progression)",
+    "seen_at": "2026-08-08T18:18:10.927110+00:00"
+  },
+  "7b5ca4d26b4fb29ed623e373ccedbf41d748cfe49c02b60f4c8cc9f5766a6172": {
+    "title": "My first run of Kimi K3 locally.",
+    "seen_at": "2026-08-08T18:18:10.927113+00:00"
+  },
+  "0acca6926d534b1e70b2b07338c81611df6f7b302aae3209f5f967659071d0e9": {
+    "title": "Building a zero-dependency C inference engine for BitNet (1.58-bit) - lessons from hitting 36 tok/s on a Xeon CPU",
+    "seen_at": "2026-08-08T18:18:10.927115+00:00"
+  },
+  "bd747364c989effa59aff052a00af3a9be4229bee4a8d2fc494f94f87164f5fb": {
+    "title": "Repeated generation is worth it and self-evaluation is effective",
+    "seen_at": "2026-08-08T18:18:10.927119+00:00"
+  },
+  "bd7352e6285be5167a832188979d373bcc1479c458bf8e28f745b9072b4b74f8": {
+    "title": "128GB vs 256gb of ram",
+    "seen_at": "2026-08-08T18:18:10.927121+00:00"
   }
 }
