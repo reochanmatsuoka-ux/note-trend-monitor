@@ -5978,5 +5978,41 @@
   "e67d40138bd102beecde8e5e9a812c0c546359963ae714fba1180daec115bacc": {
     "title": "Underestimated budget solution: radeon 780m iGPU",
     "seen_at": "2026-08-09T15:18:36.547190+00:00"
+  },
+  "c4753c8d9fdd83995f6722b8895f7ea0e956fdd7933a1439bd338bb2512ef735": {
+    "title": "クラウドフレア、AIエージェント向けブラウザ「Kitesurf」発表――Chromium非依存の新ランタイム - finance.biggo.jp",
+    "seen_at": "2026-08-09T18:20:22.839205+00:00"
+  },
+  "908323b3cb8cced59da36ef490cb72cdba08cdd5a6bac5e30957a463aec40911": {
+    "title": "Lophius: A workbench for language model research, from the creator of Heretic",
+    "seen_at": "2026-08-09T18:20:24.196408+00:00"
+  },
+  "75bcf4699f4ed95cc80108ed8630f6e7283f42885c9db3f7ff440cffdce1391f": {
+    "title": "Two flags took the official Ling-3.0-flash INT4 from 20.8 to 38.7 tok/s on one DGX Spark",
+    "seen_at": "2026-08-09T18:20:24.196413+00:00"
+  },
+  "9b9ed222db781039b2aa286361ee011a6a8232068353651ae46a65d30ef0225a": {
+    "title": "DeepSeek v4 Flash 0731 locally on CPU",
+    "seen_at": "2026-08-09T18:20:24.196417+00:00"
+  },
+  "44c9be61f0e3a855fc28de8dbfc82cf02c2969d095d7ed5c6131c9bf4ba7a5e8": {
+    "title": "Open Model: Google Weather Next 2",
+    "seen_at": "2026-08-09T18:20:24.196421+00:00"
+  },
+  "1e039cb40d60534e65137d01401fa7f4ad04cdb0e482ada9cb71b438f727ecde": {
+    "title": "Pathway's BDH(post-transformer arch) matches GPT2 scaling from 10M to 1B params trained from scratch. runs on Normal GPUs",
+    "seen_at": "2026-08-09T18:20:24.196424+00:00"
+  },
+  "86978ff88ac9e5b8956260c2ca2910aa9fecf6d0b6481b85cefa3f6d9f039847": {
+    "title": "DeepSeek-V4-Flash-0731 Q8_K_XL sometimes stops mid-task in OpenCode - anyone else seeing this?",
+    "seen_at": "2026-08-09T18:20:24.196426+00:00"
+  },
+  "de10b594685ab20d9350a2e8aea6496fceb47a5728ac70ced00e4761e6c63771": {
+    "title": "Add a amd 9700 ai pro to a 3x5090 system vs buy a 5070ti for general useage.",
+    "seen_at": "2026-08-09T18:20:24.196429+00:00"
+  },
+  "1e24f1b206a05aedfac522bf5efc02303f54c1595c9625407b79c10e4358f501": {
+    "title": "small model for text-to-regex",
+    "seen_at": "2026-08-09T18:20:24.196432+00:00"
   }
 }
