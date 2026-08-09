@@ -5918,5 +5918,33 @@
   "87564a777dc3274fd0773136e2d0dc7208b0a5b9405128f813005a5247fddbad": {
     "title": "Trustfactor in training data?",
     "seen_at": "2026-08-09T09:26:21.779554+00:00"
+  },
+  "e2ba9ffc392f0976dcf2a1f26b0339fccaf0b6fa849075faea1fdb5adb08bb70": {
+    "title": "ゼロからLLMプロンプトエンジニアリング 第14回 AIが160円で15時間分の動画の文字起こしをした件 - topics.smt.docomo.ne.jp",
+    "seen_at": "2026-08-09T12:21:52.024498+00:00"
+  },
+  "8a90f2b48919f56d594c92153109cfdc3902646b9e3fb52c4839cad3210e0507": {
+    "title": "OpenAI、次期モデルAstraの開発を一部停止 サイバー攻撃能力が重大な水準に到達 - Межа. Новини України.",
+    "seen_at": "2026-08-09T12:21:53.208989+00:00"
+  },
+  "181c12d77a57f53589f6bee8be7ade75332fe73f3b70931ad3be5cbfaa256c1f": {
+    "title": "【OpenAI】企業向け導入ガイド「Codex for Every Role, Tool, Workflow」を公開！役割とツールの体系化で“野良AI”を防ぐ - DXマガジン",
+    "seen_at": "2026-08-09T12:21:53.208997+00:00"
+  },
+  "9b24e0c5c1550480b3272816e10750e045c34f7c3dec29456b694096f4fd20b4": {
+    "title": "What a deal. Thanks newegg",
+    "seen_at": "2026-08-09T12:21:59.190233+00:00"
+  },
+  "d6f97be97dd27b58c420ed2223bf8b540dc52a4ce5009466f2f5de9e61d41e79": {
+    "title": "Tencent announce WorldClaw",
+    "seen_at": "2026-08-09T12:21:59.190240+00:00"
+  },
+  "c428860dbf50c53803e9717804e494c52608ff3b98ccc9d1d93a503c05c155d6": {
+    "title": "AMD llama.cpp: reducing MTP buffer overhead gave me 64K → 149K context for Qwen 27B",
+    "seen_at": "2026-08-09T12:21:59.190244+00:00"
+  },
+  "79a2d84d2900bf5262d3bd8680b9ba9797e9196ac58152a00373fd3d7103da28": {
+    "title": "300b on 32gb MoE-streaming findings + optimisations",
+    "seen_at": "2026-08-09T12:21:59.190252+00:00"
   }
 }
