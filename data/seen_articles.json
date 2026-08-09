@@ -5770,5 +5770,61 @@
   "55412218163720c7cbdec1471d00f8cb5d3318a8b36fcc0400c2ab9cfee29e56": {
     "title": "any reasonably fast public benchmarks I should run quants of deepseek flash 0731 on?",
     "seen_at": "2026-08-08T21:17:11.243384+00:00"
+  },
+  "708ff4f350dfe3eea86412e1f4748431ea0300bd01ab421b13c08d11d55b8dbd": {
+    "title": "法務省が生成AIの声無断利用を権利侵害と指針公表 - shiritomo",
+    "seen_at": "2026-08-09T00:41:40.447370+00:00"
+  },
+  "99ab85b45f66ab62a4088fa389dcb28d74e6311c7fdabbdb970b624c7f340e92": {
+    "title": "Claude in Chrome乗っ取り実証、Anthropicの「0%」は何を測っていたのか - innovaTopia",
+    "seen_at": "2026-08-09T00:41:40.942319+00:00"
+  },
+  "599ca31f905b61dc64f6b9c1e139a481a610089e0c13f6f6fe70be77724716b0": {
+    "title": "Claude Code、ターミナル間のコピペ地獄が終わった - ゴリミー",
+    "seen_at": "2026-08-09T00:41:40.942324+00:00"
+  },
+  "70d8fc259a105b3b987e5e8e96c04db3e69aa67ec7d2999153cd3b40920e50ad": {
+    "title": "OpenAI、AIプレゼン作成のNextSlideを買収、ChatGPTのビジュアル機能を強化 - BigGo ファイナンス",
+    "seen_at": "2026-08-09T00:41:41.405437+00:00"
+  },
+  "ac495643bee15096e4fcf9f2cabdc12dfb1510def7b8722a924bcfa7bd621692": {
+    "title": "ChatGPTの誤答が68%減少！10億人が使うAIの意外な進化 - DXマガジン",
+    "seen_at": "2026-08-09T00:41:41.405441+00:00"
+  },
+  "0905d676c101638497e880e8c4b7fd2216eb6a30cefa6457bab795c875f294c7": {
+    "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明 - ITmedia",
+    "seen_at": "2026-08-09T00:41:41.405445+00:00"
+  },
+  "7b3d7163adc9f3ea6c8a9652988063660168e77b85672970d0a05be2c6c15da8": {
+    "title": "Claude Code: セッション同士がメッセージを送れるように - Pasquale Pillitteri",
+    "seen_at": "2026-08-09T00:41:42.639227+00:00"
+  },
+  "ca5fe5106cd5c9aacafea264b002ce3018ac28837396a9fecc87687167c2222e": {
+    "title": "Kimi K3 (Unsloth) IQ2-XXS from 711GB down to 478GB!!! Only Multi-language was removed to trim the size",
+    "seen_at": "2026-08-09T00:41:43.800264+00:00"
+  },
+  "ee90c5ed4d05c2b772a0574cf46377f964ac2cc3b34bd6a0da8d700bb5821e94": {
+    "title": "Is Microsoft-Phi dead?",
+    "seen_at": "2026-08-09T00:41:43.800267+00:00"
+  },
+  "d7e8d0081e61c5ffc50918f28b09501d5f1d0a6246b95470388a820af2ef87e6": {
+    "title": "enabling PCI-E p2p for consumer Nvidia cards will yield you more than you think",
+    "seen_at": "2026-08-09T00:41:43.800270+00:00"
+  },
+  "8a1afbdbd7895f30994ab401f30f2404504f7cff2c9961c920f0f89ef17a8b4a": {
+    "title": "No wonder Qwen and Gemma are so different",
+    "seen_at": "2026-08-09T00:41:43.800272+00:00"
+  },
+  "a5477789ebcc886b20a7cc74968626a0a25351fac4f80a3adc82bdf31834e727": {
+    "title": "Extremely slow DSpark draft model performance (1-2 t/s) with DeepSeek-V4-Flash on llama-server compared to MTP?",
+    "seen_at": "2026-08-09T00:41:43.800274+00:00"
+  },
+  "7f12c055ef7439a227adb60067f654dfcc1d2ec5e1a47243e6ea65b3fca073e6": {
+    "title": "Comparing 4bit quants for MLX",
+    "seen_at": "2026-08-09T00:41:43.800279+00:00"
+  },
+  "9626e0640ec3efe173f7a9a6db974b952dc27e8ea23ee32cfd625b59aed20e83": {
+    "title": "Intel Optane - Potential?",
+    "seen_at": "2026-08-09T00:41:43.800282+00:00"
   }
 }
