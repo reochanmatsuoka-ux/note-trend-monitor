@@ -5886,5 +5886,37 @@
   "c43ac5cddc472d5f5f2a65ee517236d1248703082acf84fe3aac3ce5698f0974": {
     "title": "Memory Bandwidth problems with Intel Sapphire Rapids",
     "seen_at": "2026-08-09T06:33:49.847732+00:00"
+  },
+  "a9ad4d3374e4c04f7c1e76d6f1276a0a82a56a49944457d0fa7e0fc9c72f4226": {
+    "title": "生成 AIは急速に発展したが、これまで企業で活用される方式は大部分質問に答えたり文書を作成する水準に留まっていた。 最近はさらに一段階進んで自ら業務を遂行する「AIエージェント」が浮上している。AIエ.. - 매일경제",
+    "seen_at": "2026-08-09T09:26:18.314125+00:00"
+  },
+  "5d66fa15a3c6797597981c1c66c2754808bf406afc50f46ea547b6f79f50746e": {
+    "title": "「授業準備にChatGPT」がもっと簡単に？ OpenAIが発表した教員・学生向け新機能とは - DXマガジン",
+    "seen_at": "2026-08-09T09:26:19.147437+00:00"
+  },
+  "90233a39549a86f0e70b9a654349cb8749f80ee6e9a930b9f46614545ed3b631": {
+    "title": "OpenAIは、モデルがサイバーセキュリティのしきい値を突破した後、Astraを遅くします - VOI.ID",
+    "seen_at": "2026-08-09T09:26:19.147443+00:00"
+  },
+  "3d72ff59a1de5e07c4f4b0fe35b6b78fe6b4b03d2e500e2d021cb89b8fd8a863": {
+    "title": "テックジム、法人向けにプログラミング講師を客先常駐派遣。Claude Code講座・Python講座を永田町にて毎週無料で対面開催 - PR TIMES",
+    "seen_at": "2026-08-09T09:26:20.077005+00:00"
+  },
+  "a89051133edc3fe2de82ead214ec044fa63f4aae54586e9d6a9ac12c011eba51": {
+    "title": "DeepSeek V4 Flash 0731 hits 82.7% on Terminal-Bench 2.1 in an independent public-harness run (445 trials)",
+    "seen_at": "2026-08-09T09:26:21.779540+00:00"
+  },
+  "5f7b17674bfdfa21611ea7bfadf324352bfb0b558779779367df27ebbcf05784": {
+    "title": "Best Embedding + Reranking Model",
+    "seen_at": "2026-08-09T09:26:21.779548+00:00"
+  },
+  "09b75386aab8a13b511d37ee6d7059e642a0b06e110821f9055564a88d3e71b9": {
+    "title": "Updated benchmark: Deepseek V4 Flash on SlopCodeBench (local)",
+    "seen_at": "2026-08-09T09:26:21.779551+00:00"
+  },
+  "87564a777dc3274fd0773136e2d0dc7208b0a5b9405128f813005a5247fddbad": {
+    "title": "Trustfactor in training data?",
+    "seen_at": "2026-08-09T09:26:21.779554+00:00"
   }
 }
