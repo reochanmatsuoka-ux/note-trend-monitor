@@ -6014,5 +6014,45 @@
   "1e24f1b206a05aedfac522bf5efc02303f54c1595c9625407b79c10e4358f501": {
     "title": "small model for text-to-regex",
     "seen_at": "2026-08-09T18:20:24.196432+00:00"
+  },
+  "219021844e0dbd900ab4e0ac9d3ef5720e3b0c5aa8a5ad1eebe4ea7c8dd0b131": {
+    "title": "夏休みの読書感想文、AI使う？ 「考える力」との向き合い方 [AIの時代][SNS] - 朝日新聞",
+    "seen_at": "2026-08-09T21:19:09.461343+00:00"
+  },
+  "9aacfabcf6ac291d16697ea88364fe32c4fcc879d39a20eef45eca5d4d7647ad": {
+    "title": "サム・アルトマンのプロンプトを丸々コピーしてみた…未経験の私が「バイブコーディング」でウェブサイトを自作した方法 - Business Insider Japan",
+    "seen_at": "2026-08-09T21:19:10.506761+00:00"
+  },
+  "c4598f3feea7427ebe5b95aa77a45ba96ee41ae97a10f3aa2e11234f8a8230d7": {
+    "title": "韓国大統領室が米国でAIサミットを開催、OpenAIとAnthropicのCEOも参加 - xtech.nikkei.com",
+    "seen_at": "2026-08-09T21:19:10.506766+00:00"
+  },
+  "eddf68bd592eb9b5562cc6bba6fa1ffbccef55c9e344afa124e9d4b9b3012a2b": {
+    "title": "NEC、AIエージェント「17人」で新部署 無人組織が業務自動化を推進 - 日本経済新聞",
+    "seen_at": "2026-08-09T21:19:11.439631+00:00"
+  },
+  "d679df9ea412a4d344d0ba9f83890c929b9e65611e1d24b074126b3d96f59c10": {
+    "title": "AIエージェントへの広告配信をめぐり、リスクと報酬をめぐる議論が高まっている - Business Insider Japan",
+    "seen_at": "2026-08-09T21:19:11.439635+00:00"
+  },
+  "6d48b530b400d4bb2a9430e4b4093904ffc65d04bfa1b5554adbbf409165c2b1": {
+    "title": "GitLab Orbit：AIエージェントを11倍高速化するグラフ - Pasquale Pillitteri",
+    "seen_at": "2026-08-09T21:19:11.439641+00:00"
+  },
+  "cf5886540112f8a259c674e69194b9d74759193042afef5192659e31111b963a": {
+    "title": "Speculative decoding in a tools call",
+    "seen_at": "2026-08-09T21:19:14.381571+00:00"
+  },
+  "df08a2f13751a3d6d9cea2899169b16dd226dbdc1ee98b4f358a8972502ef606": {
+    "title": "The Gemma team will host a special event on August 20",
+    "seen_at": "2026-08-09T21:19:14.381576+00:00"
+  },
+  "15771b4a1c8eccb290111c73838a8a48ec643196285dfc676566d4d94dd74b37": {
+    "title": "[2606.05682] Beyond Output Matching: Preserving Internal Geometry in NVFP4 LLM Distillation",
+    "seen_at": "2026-08-09T21:19:14.381582+00:00"
+  },
+  "0c187cf8f98d3847bc95e503c61276ff2a9e23037eade3f7dbf9e3d8cbc484c9": {
+    "title": "Open-weight video gen that actually delivers. Five days with MiniMax H3 on local hardware.",
+    "seen_at": "2026-08-09T21:19:14.381586+00:00"
   }
 }
