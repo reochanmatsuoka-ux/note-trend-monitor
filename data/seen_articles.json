@@ -6838,5 +6838,57 @@
   "dfd87e687071f1248838c0c6807288da6cc1b132fb06a98973038a9b4cd99b33": {
     "title": "Mature/better alternatives to pi-web?",
     "seen_at": "2026-08-10T12:38:13.238635+00:00"
+  },
+  "8ff723a064fc5a4665634d62dd1a2e54f1271b82a1a8d39dcb1f5b7dc238fbaa": {
+    "title": "Michael Saylor：ChatGPTで1年で150億ドルを荒稼ぎする方法？ - PANews",
+    "seen_at": "2026-08-10T15:46:09.623815+00:00"
+  },
+  "9ba7be4ef1a1f4fbedea53c5bfdae9b318da53b5a0a5bee82bc32f2e88cf8eca": {
+    "title": "きょうの5本 NEC、AIエージェント「17人」で新部署 - 日本経済新聞",
+    "seen_at": "2026-08-10T15:46:10.746809+00:00"
+  },
+  "b4c0bfda42fcfc7c702f661a329246fde7642cd9d6c5e4e8ac4d4abffbdf9ed9": {
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "seen_at": "2026-08-10T15:46:16.518936+00:00"
+  },
+  "302a982784b1aaad29f7d32c1be36f3b1af6eb1bd1e01cdaa81ffe3e49b52f85": {
+    "title": "Because It's Not Fun Enough: why languages fail",
+    "seen_at": "2026-08-10T15:46:16.518942+00:00"
+  },
+  "37e8b15263fab169abeaf13c366eeb6af5c304788dc4ed062defcf388ca2194c": {
+    "title": "Best Local LLMs - August 2026",
+    "seen_at": "2026-08-10T15:46:17.379020+00:00"
+  },
+  "c96205d38789cb824318431bf068129ec53a51f1a0a65fd1dd9c41df66369490": {
+    "title": "Mark Zuckerberg on releases",
+    "seen_at": "2026-08-10T15:46:17.379025+00:00"
+  },
+  "09b537c1e5135f702a9a585cb4c0e0ead8efb21987bd75d9089b93e2c1a00fff": {
+    "title": "Muse Glimmer ACTUALLY fits on a single RTX 3090",
+    "seen_at": "2026-08-10T15:46:17.379031+00:00"
+  },
+  "c7473257f2233823a6bbca7a4d26c9529abe7246557ad4a0b2840d315de6f181": {
+    "title": "Glimmer seems pretty censored?",
+    "seen_at": "2026-08-10T15:46:17.379034+00:00"
+  },
+  "4fe5be15fc9f9e18abdc5a1094f2fa057fa8554cc64bce218053954955ced76a": {
+    "title": "model: Muse Glimmer Support by pcuenca · Pull Request #26841 · ggml-org/llama.cpp",
+    "seen_at": "2026-08-10T15:46:17.379037+00:00"
+  },
+  "db73cd681c5d59e297293baa79ffcbbe31356345c21b3244aa82c592f83b5962": {
+    "title": "Motif-Technologies/Motif-3 official realese",
+    "seen_at": "2026-08-10T15:46:17.379041+00:00"
+  },
+  "9491af20ebb9e522207090e021ecda4da7e9e713fa62b76b50805f88ba92dd85": {
+    "title": "Early signs that Muse-Glimmer-30B might quantize *very* well? Share your experiences.",
+    "seen_at": "2026-08-10T15:46:17.379044+00:00"
+  },
+  "0b7bf5c78980231c43d9d7079e7d18b457a63d9b23b5f4d3d04544bf6f7d0ba4": {
+    "title": "Gemma 4 Good Hackathon results are near as well",
+    "seen_at": "2026-08-10T15:46:17.379047+00:00"
+  },
+  "26b6b741900fb4b63d8b8c3044221e1335b7f1f2218857333c63e8564701e00a": {
+    "title": "Ante 0.2: a ~15MB coding agent that manages llama.cpp for you — point it at a GGUF and the whole agent loop runs offline",
+    "seen_at": "2026-08-10T15:46:17.379049+00:00"
   }
 }
