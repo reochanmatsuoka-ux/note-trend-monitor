@@ -6766,5 +6766,77 @@
   "34cf13fe59cac9cc60b653d2365b03fbedeb3cc5474a8bd8c0a8d43f753ad70c": {
     "title": "I've added Maple-Preview to Mference, got 40 tps generation with 500MB of used RAM on Air M4",
     "seen_at": "2026-08-10T10:06:08.492734+00:00"
+  },
+  "5ba0853620c25059507ce9db8ab7320ec48f2d694187a72a34dfeae56f5f4cb8": {
+    "title": "ソフトバンク、「AGENTIC STAR」SaaS版に「LLM Gateway」機能を標準搭載 - 週刊BCN＋",
+    "seen_at": "2026-08-10T12:37:53.993441+00:00"
+  },
+  "2ade02fc116a42549bc89f0ceb6352be4f37f5ce49706a327b6ac9ded7192150": {
+    "title": "生成AI時代のパワポ活用術・スライド資料づくりを体系的に学ぶ！ 9/4（金）～ 無料セミナー「AI時代のPowerPoint活用術 Vol.6/Vol.7」 - PR TIMES",
+    "seen_at": "2026-08-10T12:37:53.993451+00:00"
+  },
+  "1b175eaab3a73069c37ac3c04a6162290be2b44c72fa1771cff4a9651a555a5e": {
+    "title": "「ルンバを買っても部屋が片付かない人」と「生成AIを導入しても仕事が改善しない会社」の共通点 - まぐまぐ",
+    "seen_at": "2026-08-10T12:37:53.993457+00:00"
+  },
+  "755a22d0c6227ff78681c8fc152d6abd9e234f550626ceb2c1b811dd44d11dbd": {
+    "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル - sannichi.co.jp",
+    "seen_at": "2026-08-10T12:37:53.993464+00:00"
+  },
+  "2a9b33c2123d99501fcfa6f7a53b8ff38d3c97cb0f16132faafb631c091daf39": {
+    "title": "【FPキャンプ】FP資格試験学習における生成AI活用に関するアンケート結果 - ニコニコニュース",
+    "seen_at": "2026-08-10T12:37:53.993469+00:00"
+  },
+  "7ae0654195036c994bef65260b0d3f867baba42a0cb41d3023442f94e612779c": {
+    "title": "Claude Fable 5で生物学の質問が過剰に制限される問題を改善、誤検出を減らして「フォールバック」を約85％削減 - GIGAZINE",
+    "seen_at": "2026-08-10T12:37:54.547039+00:00"
+  },
+  "3720081b9dfd35a51e886749504826709561e2f9612806a9d0d10e589ce7b705": {
+    "title": "オープンAI、Anthropic、メタの「暴走AI」騒動 発端はイスラエル新興企業Irregular - Yellow.com",
+    "seen_at": "2026-08-10T12:37:54.547045+00:00"
+  },
+  "e21a6d03caf7cc58c185f88bd1056b8228631a018ef7fa726baaabc0910c3139": {
+    "title": "【OpenAI×アメリカ心理学会】若者の安全を守る「責任あるAI設計」の枠組みを推進！ - DXマガジン",
+    "seen_at": "2026-08-10T12:37:55.287384+00:00"
+  },
+  "e06f73c1497e38e5e494229fec8c4dbe1f3cf962953d81200b22c2c61fcf293e": {
+    "title": "CoreBreak: AIエージェントのツールがモデルなしで実行される - Pasquale Pillitteri",
+    "seen_at": "2026-08-10T12:37:56.502704+00:00"
+  },
+  "aadc40ca3d42226c5ac372b0c3b2b355c077d55d32b0cf6d1ec3b8fb4ebba0f5": {
+    "title": "イーロン氏、AIエージェントのネット利用が人間を大幅超過と発言 - BeInCrypto",
+    "seen_at": "2026-08-10T12:37:56.502725+00:00"
+  },
+  "1cf6c9cb55e3394ca7c61c8581e73779cc34f314a093bda424d8a9ac752395d0": {
+    "title": "アングル：ＡＩモデルの暴走、責任は誰にあるのか｜Infoseekニュース - Infoseek",
+    "seen_at": "2026-08-10T12:37:56.502731+00:00"
+  },
+  "7c4c5b27f76a03627b7f0a4db4744223f304f829fbbe49c569f14938228ab144": {
+    "title": "Meta Muse Glimmer – open weights 30B local coding model",
+    "seen_at": "2026-08-10T12:38:12.452426+00:00"
+  },
+  "68e984d47d6fe59f213ba99728a64f5c67d433c30ef4f944899ad4bfc8acde4b": {
+    "title": "Introducing Muse Glimmer: an open-weight model optimized for always-on local agent workflows",
+    "seen_at": "2026-08-10T12:38:13.238614+00:00"
+  },
+  "52634435f798e24f6681dca65ad2bdc39342cc05eb7a118c365b713354e489f1": {
+    "title": "unsloth/Muse-Glimmer-30B-GGUF · Hugging Face",
+    "seen_at": "2026-08-10T12:38:13.238619+00:00"
+  },
+  "e230c9bef2471da737cf5c52021408cff3046152d18cb8631c548803d861b6b6": {
+    "title": "1M context with 17 GB model in 24 GB VRAM: \"for the first time I was able to load a context of almost 1M tokens and extract 7 needles from various parts of the text\"",
+    "seen_at": "2026-08-10T12:38:13.238622+00:00"
+  },
+  "ec090c4bba63c4a5cfe017f490819eeefd0b1965899a96e5cd81c27451c99a70": {
+    "title": "Comparing how Cline, Kilo, and Qwen Code handle long-task context/state (and why context loops keep happening)",
+    "seen_at": "2026-08-10T12:38:13.238625+00:00"
+  },
+  "6dd761b4f7bbb8bae52c07b9b85d7a064fdd949205c3cf0f3f6414b867a3f042": {
+    "title": "Native Long Video Understanding Models locally?",
+    "seen_at": "2026-08-10T12:38:13.238630+00:00"
+  },
+  "dfd87e687071f1248838c0c6807288da6cc1b132fb06a98973038a9b4cd99b33": {
+    "title": "Mature/better alternatives to pi-web?",
+    "seen_at": "2026-08-10T12:38:13.238635+00:00"
   }
 }
