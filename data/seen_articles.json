@@ -6942,5 +6942,53 @@
   "fa6b1c5e09c268d5bf43ad0b85fc53aadc94ecc3cbdbed5989fe9716377d5f7a": {
     "title": "Best current ERP base model that are smart and uncensored?",
     "seen_at": "2026-08-10T18:38:47.503345+00:00"
+  },
+  "2b7fad02df66a2aa9b55b1a24609fbe1c388bce5b58191a914fad098034856cb": {
+    "title": "生成AIが思考力に及ぼす影響 - 毎日新聞",
+    "seen_at": "2026-08-10T21:29:22.217284+00:00"
+  },
+  "4c639159ed98e34db2095d1cda8e18d8145506500eb1664c61c4ae4f8a0e1a97": {
+    "title": "Anthropicの最新AIがリーマン予想の「41%の壁」を突破。ただし、証明への道はまだ遠い - XenoSpectrum",
+    "seen_at": "2026-08-10T21:29:22.825865+00:00"
+  },
+  "2fac32a945ce1bdf598b3ddbd510d6b74eba831e539ab5457fc59974072340ce": {
+    "title": "AIの26年末10大予想は ChatGPT「国内時価総額1位ソフトバンクG」 - 日本経済新聞",
+    "seen_at": "2026-08-10T21:29:23.655002+00:00"
+  },
+  "643cb4a838dab91628b38ea200a8de80eb9c5d865ff7b8804fb5107a2b305a88": {
+    "title": "【漫画】「やりすぎなくていい」 頑張りすぎて落ち込む妻を救った夫の“一言”に「生きてるChatGPT！」【作者取材】（オトナンサー） - Yahoo!ニュース",
+    "seen_at": "2026-08-10T21:29:23.655010+00:00"
+  },
+  "3e1cdba0b7a2549668754fc8608ae36dd0869b9cf89f8357b49df6cb29410579": {
+    "title": "【AIバイブコーディング最前線】Claude Codeは成功、Codexは挫折、Geminiは9時間格闘——3人のジャーナリストが体験した明暗 - BigGo ファイナンス",
+    "seen_at": "2026-08-10T21:29:25.105084+00:00"
+  },
+  "261b7df20dcd3335bba9770db9dc37c8a8df26559721652dfe9a43af63ae6820": {
+    "title": "Please Share Your Experience About Muse Glimmer",
+    "seen_at": "2026-08-10T21:29:26.206516+00:00"
+  },
+  "e4046857dab19e2ac9ffd4d1d84f852ac7e0b3f001f33ac27e9f38cdae2bc8f7": {
+    "title": "I made a web-design benchmark for local models (Muse Glimmer 30B vs Qwen 3.6 27b vs Deepseek V4 Flash 0731)",
+    "seen_at": "2026-08-10T21:29:26.206520+00:00"
+  },
+  "25c83c522ac5b60d81e45b55b763fd9568b0d72af36f450240fa6cab270d903d": {
+    "title": "Muse Spark 1.2 Open Source before Llama 4 Behemoth!!?",
+    "seen_at": "2026-08-10T21:29:26.206523+00:00"
+  },
+  "2fed5e3c28fe2f1786ebc18bdc09126bffada1083e97981e0531286cad9b586f": {
+    "title": "Muse glimmer benchmark",
+    "seen_at": "2026-08-10T21:29:26.206530+00:00"
+  },
+  "c5e6b9fafb877623b14709b2b17c2dc0bfe5306fd16ce4703c36f8780e5c90cd": {
+    "title": "Best open-source harness like Claude Code?",
+    "seen_at": "2026-08-10T21:29:26.206532+00:00"
+  },
+  "82e8da960634355f9a8f49d593742eccd3c1e22d149f6a4cdcd23fd21a15ed16": {
+    "title": "Tested Muse Glimmer locally on coding with OpenCode & agentic work",
+    "seen_at": "2026-08-10T21:29:26.206535+00:00"
+  },
+  "50dc8407061d0c0b36f6129c2a52f63e1a123f3580139483467c7c3498aaa4a5": {
+    "title": "Achievable 253 t/s - unsloth/Muse Glimmer 30B UD-Q5_K_M on a 5090",
+    "seen_at": "2026-08-10T21:29:26.206538+00:00"
   }
 }
