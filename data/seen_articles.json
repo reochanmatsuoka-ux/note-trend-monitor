@@ -6890,5 +6890,57 @@
   "26b6b741900fb4b63d8b8c3044221e1335b7f1f2218857333c63e8564701e00a": {
     "title": "Ante 0.2: a ~15MB coding agent that manages llama.cpp for you — point it at a GGUF and the whole agent loop runs offline",
     "seen_at": "2026-08-10T15:46:17.379049+00:00"
+  },
+  "2442e85f24be62e2ac25b9da0dcdd39e15a7970035ac47cfabf99450ff3934d9": {
+    "title": "法人向け生成AI「ChatSense」、Notionページを学習可能に - AERA DIGITAL",
+    "seen_at": "2026-08-10T18:38:43.733791+00:00"
+  },
+  "f58780a1a52a12941a36e39744041fa52415cc944a264eb4d0f2d6cb495151ff": {
+    "title": "OpenAIの謎の新モデル「モナリザ」がブラインドテストに登場、画像のリアリティが大幅向上し「プラスチック感」払拭 - BigGo ファイナンス",
+    "seen_at": "2026-08-10T18:38:44.906914+00:00"
+  },
+  "d6728bfe1c29b7bcf0a7c8f1ca3c6da0ebcffc7eda6911d910d7cb53b2a81b94": {
+    "title": "AIが週休3日を約束する一方、シリコンバレーのエンジニアが週90時間超の過酷な労働実態を暴露 - BigGo ファイナンス",
+    "seen_at": "2026-08-10T18:38:44.906920+00:00"
+  },
+  "3c2d92d9362399736b2c7f9c389f6a0b02d753164afb64f86697d36fa71a40f8": {
+    "title": "経営と組織をつなぐAI時代の人事のあり方～Claude Code全社導入を経て、KDDIアジャイル開発センター株式会社が実践する組織づくりの設計図～｜9/4(金)・9/10(木)開催 - Excite エキサイト",
+    "seen_at": "2026-08-10T18:38:46.046650+00:00"
+  },
+  "77d4093e357af471db7750fc5a7da9c1e7c57c523d3492f2e48572f3236ad401": {
+    "title": "Exploiting System Management Mode with a very long interrupt",
+    "seen_at": "2026-08-10T18:38:46.646337+00:00"
+  },
+  "84b7601c35c3015fa1c62a31a5c58dc4279cc025aa2998e83f7963306ab77572": {
+    "title": "inclusionAI/Ling-3.0-tiny · 8B A1.3B MoE· Hugging Face",
+    "seen_at": "2026-08-10T18:38:47.503317+00:00"
+  },
+  "ed156752d862ffdfe5f9c8fe96486a3f38d92aad4393403981deeef519bf5082": {
+    "title": "DeepSeek V4 Flash 0731 is the ‘killer app’ that is going to sell A LOT of DGX Sparks",
+    "seen_at": "2026-08-10T18:38:47.503323+00:00"
+  },
+  "52096ff2bc105475bcebc7d72c82ce6ee38bf39498e5bfa497b2f6f7e2446a91": {
+    "title": "DiffusionGemma Technical Report",
+    "seen_at": "2026-08-10T18:38:47.503327+00:00"
+  },
+  "d2ce7097aae5f8499a02fc7d85f47d5b7c00327adaf59f459a8706e7431f5005": {
+    "title": "Meta wants to create a personal super intelligence for free that runs on your Maschine. Meanwhile at anthropic: How can we get our (fake) image back of the \"Humanity\" Lab? ReleaseFreeOpenSourceModels Now let's just double the price on all our users, and tax our plan with 50% Fable weekly usages",
+    "seen_at": "2026-08-10T18:38:47.503330+00:00"
+  },
+  "4e8209cff423388e6d1f158143f6276fefd59cf66e59d9c367f4342b233489df": {
+    "title": "Needle 2: 14MB agentic LLM for phones, wearables, smart home and robots.",
+    "seen_at": "2026-08-10T18:38:47.503334+00:00"
+  },
+  "a530e88e65c7a68686f93e4ad7b5cc66084c15f0c98741f54f48a0264cf9bad2": {
+    "title": "Glimmer: 233.4 tps on 5090 with Dflash",
+    "seen_at": "2026-08-10T18:38:47.503337+00:00"
+  },
+  "4d0aff670c11cec5f2f6ffd9fa9150100cbeab059b4ca34b6e220bd4e469abb9": {
+    "title": "I compared GGUF quants of Qwen3.6 27B to NVFP4, AWQ, AutoRound, and FP8",
+    "seen_at": "2026-08-10T18:38:47.503341+00:00"
+  },
+  "fa6b1c5e09c268d5bf43ad0b85fc53aadc94ecc3cbdbed5989fe9716377d5f7a": {
+    "title": "Best current ERP base model that are smart and uncensored?",
+    "seen_at": "2026-08-10T18:38:47.503345+00:00"
   }
 }
