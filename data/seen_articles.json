@@ -6990,5 +6990,69 @@
   "50dc8407061d0c0b36f6129c2a52f63e1a123f3580139483467c7c3498aaa4a5": {
     "title": "Achievable 253 t/s - unsloth/Muse Glimmer 30B UD-Q5_K_M on a 5090",
     "seen_at": "2026-08-10T21:29:26.206538+00:00"
+  },
+  "f02dbdf6d91d0465db15f7c3d635c4ef4b36e954b4c608de87e5a52498802883": {
+    "title": "バベルの図書館の“その後”から、生成AI時代の「つくる」を問い直す - WIRED.jp",
+    "seen_at": "2026-08-11T00:43:33.930833+00:00"
+  },
+  "9ec352b2f8458351f281336289ea104124bfaf1ca0a2e19dfd4101bc0855257c": {
+    "title": "Viva Tech 2026 レポート⑴ ：スケッチから店舗へ― 生成AIで拡張する商品開発と創造力 - Oui Speak Fashion (OSF)",
+    "seen_at": "2026-08-11T00:43:33.930841+00:00"
+  },
+  "a5b3dbb03183361a5b63c1555f7c6cd90aeeea7545b211421654ca119801169f": {
+    "title": "Anthropic、IPO前にSonnet 5の低価格を恒久化、Claude Code自動モードをデフォルトに——二正面作戦を展開 - BigGo ファイナンス",
+    "seen_at": "2026-08-11T00:43:34.564004+00:00"
+  },
+  "8d1e99eaac089757cb34a5253ae13a0cf22974cb4fff417fa7aa67b24db6ad22": {
+    "title": "孤立するAnthropic オープンモデルへの支持をめぐり - ASCII.jp",
+    "seen_at": "2026-08-11T00:43:34.564009+00:00"
+  },
+  "cd44be691740b2a292f89ceb0561bfee7e95f03eda35c5995edf09498ff9cba5": {
+    "title": "OpenAIがプレゼンAI企業を買収、ChatGPTでパワポ作成が自動化されることの意味 - Forbes JAPAN",
+    "seen_at": "2026-08-11T00:43:35.143938+00:00"
+  },
+  "6fae5bb4100746182b6cb19b7c434870d169060ebd97cc8d3df3743c6e96dfca": {
+    "title": "(次に来るモノ) ChatGPTやGeminiを1クリック。月額不要のAIキーボード「MiMouse」 - エルミタージュ秋葉原",
+    "seen_at": "2026-08-11T00:43:35.143943+00:00"
+  },
+  "1b989db8f387b971e0d0ba3018d299c13851e3167e86b7737578b17bef679f27": {
+    "title": "OpenAI、70億ドル規模の株式取得で外部投資家を除外 - jp.beincrypto.com",
+    "seen_at": "2026-08-11T00:43:35.143946+00:00"
+  },
+  "a4d22c75a8f38ec3515d02b4cc12eb4479f98008e66749445b8d39d30964de29": {
+    "title": "OpenAIがサイバー防衛向けAIモデルを発表、脆弱性分析を支援 - Межа. Новини України.",
+    "seen_at": "2026-08-11T00:43:35.143950+00:00"
+  },
+  "b324df26169f154adb2d2ee940c2c8fe900ea1f017956267edbdb713e308ea9e": {
+    "title": "OpenAIが従業員株を700億ドルで買い戻し、企業価値8520億ドルを維持 - Межа. Новини України.",
+    "seen_at": "2026-08-11T00:43:35.143953+00:00"
+  },
+  "c53f885fb7e44652741440f741bc52ac60b369280be5eb17b968d3c5dc2ee057": {
+    "title": "KTが新5G料金にGoogle AIを搭載 - Chosunbiz",
+    "seen_at": "2026-08-11T00:43:35.748817+00:00"
+  },
+  "cc8516eb7e068491c69779d79318e43d3791a96f906bc482cf24aa649cc46e7d": {
+    "title": "Proteinum、EC特化AIエージェント「ECPRO BRAIN」が「Yahoo!ショッピング」と連携 「3大モール」の一元管理が可能に - Yahoo!ニュース",
+    "seen_at": "2026-08-11T00:43:36.358153+00:00"
+  },
+  "bf91f9d47ebb6656554b061cf85413cc7c3d74a69caba9d6f750fbe74bae7f7e": {
+    "title": "EC事業者向けAIエージェント「ECPRO BRAIN」、商品毎の売上実績・パフォーマンスを確認できる新機能をリリース！ - PR TIMES",
+    "seen_at": "2026-08-11T00:43:36.358159+00:00"
+  },
+  "cd1d68d47ef5fb66f9c76a10fc8adc85d3f7f35e50f221212c154a43fb4e8fba": {
+    "title": "AIエージェントがジム予約の脆弱性悪用、他人の予約を取り消しで待機順を繰り上げ - 디지털투데이",
+    "seen_at": "2026-08-11T00:43:36.358163+00:00"
+  },
+  "0d3aa679971932bef856555f0a9070576ae8e13ec8c5b64da3df3f251ccbb5cc": {
+    "title": "I trained a 1B-parameter LLM from scratch on 20B tokens for about $200",
+    "seen_at": "2026-08-11T00:43:37.726340+00:00"
+  },
+  "ba2668b002e695414cf5f906f6cc164b7e829a7cfc7af03d7874d271a6490b83": {
+    "title": "Ling 3.0 Flash on Strix Halo",
+    "seen_at": "2026-08-11T00:43:37.726350+00:00"
+  },
+  "6ea242d92638d65c0c7d2a962c311a5ae00bd4c4288e4617440c12e0152dbc7f": {
+    "title": "Muse Glimmer on 1/2 AMD v620",
+    "seen_at": "2026-08-11T00:43:37.726353+00:00"
   }
 }
