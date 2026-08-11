@@ -7326,5 +7326,33 @@
   "240bcc56a2bbf7185f178d2b71ad788c161cf3cefd54c656dd970f89e2e7e51b": {
     "title": "Muse Glimmer 30B + DFlash speculative decoding on vLLM: 6 patches needed, 25 → 57 tok/s. Dockerfile and numbers inside.",
     "seen_at": "2026-08-11T09:46:56.147958+00:00"
+  },
+  "33fed6b9b27b90e78d3e08e81cdf9205e15bdefdc4956878d4b1b68ba8b4add9": {
+    "title": "AnthropicがClaude Fable 5の生物学セーフガードを更新、無害な誤検知を改善 - ビジネス+IT",
+    "seen_at": "2026-08-11T12:35:00.673876+00:00"
+  },
+  "80833786e7c6200c7e57324dde00e1b1742a29e8646ae150df9128f580c780d7": {
+    "title": "Ghostjacking｜Cloudflare実証、遮断ログがAIへの命令経路に - innovaTopia",
+    "seen_at": "2026-08-11T12:35:00.673887+00:00"
+  },
+  "a01e808d6bff600d2457f72c124fc37a3396c27977a64000aadd4676ad37555b": {
+    "title": "Tested in Coding: BF16 Muse Glimmer vs BF16 Qwen3.6 27B",
+    "seen_at": "2026-08-11T12:35:07.696398+00:00"
+  },
+  "cd5951b7a2a7dd59e6db70875ffa3b07f001be8f34c02b7f1997831a140ab644": {
+    "title": "We even got a fgn manifesto!! Meta is on a run!",
+    "seen_at": "2026-08-11T12:35:07.696404+00:00"
+  },
+  "b62d446ef6bc96f9aca6c919bfc654bf58598dc6b6b4465ae181022a7f2bd47d": {
+    "title": "Rumored 50-series Super refresh bumps everything +50% VRAM",
+    "seen_at": "2026-08-11T12:35:07.696407+00:00"
+  },
+  "390c279b987beb9cb38eab6a5f4cbb20519fbebd0ec479f4698696a5647c26fb": {
+    "title": "What can us 8 GB VRAM poors do?",
+    "seen_at": "2026-08-11T12:35:07.696411+00:00"
+  },
+  "9fd261edf546eff7be4c02067d04925a8cd9f822495f1fd634cf88198a775f84": {
+    "title": "The small open weight models are scarier in AI development",
+    "seen_at": "2026-08-11T12:35:07.696416+00:00"
   }
 }
