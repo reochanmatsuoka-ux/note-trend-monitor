@@ -7354,5 +7354,57 @@
   "9fd261edf546eff7be4c02067d04925a8cd9f822495f1fd634cf88198a775f84": {
     "title": "The small open weight models are scarier in AI development",
     "seen_at": "2026-08-11T12:35:07.696416+00:00"
+  },
+  "855b62b9e46cf702bf4f77e90124cf40ab55219700212729ee633eab15cad12b": {
+    "title": "生成AIのテキスト出力に透かしが入るなど 日刊出版ニュースまとめ 2026.08.12 - HON.jp",
+    "seen_at": "2026-08-11T15:45:34.709865+00:00"
+  },
+  "6012e809f521d3fc8ad557f9e46308a88c78d68f76e7ab6d5ca5c0dd6fb60da5": {
+    "title": "Anthropic、Claudeなどの生成文に電子透かしを導入 欧州AI規則に対応 - Межа. Новини України.",
+    "seen_at": "2026-08-11T15:45:35.207817+00:00"
+  },
+  "5db5cefe86715f6dfe3e7cca44b73da728217a4b4bd79d6827e30b91fe10945f": {
+    "title": "$スペースX (SPCX.US)$ ChatGPTによる推計値です - Moomoo",
+    "seen_at": "2026-08-11T15:45:35.906027+00:00"
+  },
+  "53c3e013a883b2773994686bca2f5efd5512a758623f24f8e2cbc82e23a4e2c8": {
+    "title": "Oracle Financial Software、HR人材管理向けAIエージェントを発表 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-08-11T15:45:37.069086+00:00"
+  },
+  "ae659f33f22d4d468deadf10a1c73044ebb4a5965d37cc6284582931bdabf8d5": {
+    "title": "エヌビディア、1兆パラメータのオープンソースモデル「Nemotron 4」を開発か、軽量AIエージェント専用モデルも同時発表 - BigGo ファイナンス",
+    "seen_at": "2026-08-11T15:45:37.069091+00:00"
+  },
+  "c365b2014050a993f36fda0acea98cc1bf4c08b2d575d7faa00a9de87e156b02": {
+    "title": "YellowとDeep3 Labsが提携、 トラストレス決済基盤でAIエージェントのインテリジェンスを拡張 - Yellow.com",
+    "seen_at": "2026-08-11T15:45:37.069095+00:00"
+  },
+  "f71b6d2281e73302725a8e7a68adf0dff44e93f2ea0e0fe9b7c9494634bb3e77": {
+    "title": "Introducing Unsloth Desktop app",
+    "seen_at": "2026-08-11T15:46:42.548011+00:00"
+  },
+  "5af527496b9d90db0c1236fc12d93acb2c166de8290f775366d1a71fc2f31290": {
+    "title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16 · Hugging Face",
+    "seen_at": "2026-08-11T15:46:42.548016+00:00"
+  },
+  "d48b91531b871da3b5a7ee53eaae4fce2f8268a38f6fbcf51fd204df26df20a9": {
+    "title": "DeepSeek-V4-Flash-0731 (284B MoE) at 75 tok/s on 2× DGX Spark — full recipe, 11 gotchas, reboot-proof cluster, Codex CLI integration",
+    "seen_at": "2026-08-11T15:46:42.548027+00:00"
+  },
+  "3aa299ba0775482439e477167e48866e2d8faf95ea0d4868f15c45cf7478f923": {
+    "title": "I put Gemma 4 E4B and E2B into an e-reader so I can ask my weird questions and share my thoughts in private directly in app.",
+    "seen_at": "2026-08-11T15:46:42.548031+00:00"
+  },
+  "c3bd39c18f1e036ed1eb39cac9075993b1a243b6ee1cc6f790506a33314f8a39": {
+    "title": "I built a weird, low-power llama.cpp server using an Intel N100 + RTX 5060Ti",
+    "seen_at": "2026-08-11T15:46:42.548034+00:00"
+  },
+  "ae19efeb16769e3aed880c207f89f7647f6ce210186715e89977a8c9e34aa0a0": {
+    "title": "PSA: How to read AI hype manifestos for leigos.",
+    "seen_at": "2026-08-11T15:46:42.548037+00:00"
+  },
+  "72bbde8704db44e460cbaf129f550c4364f05da08f41b07093455ed4a30441fa": {
+    "title": "Anyone Using (Koreas) \"Solar Open 2\" (250B, 15B) Model?",
+    "seen_at": "2026-08-11T15:46:42.548040+00:00"
   }
 }
