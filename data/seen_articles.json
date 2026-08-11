@@ -7458,5 +7458,73 @@
   "073a45ea7a0bc762cb572edcb2e453e2c3c2992c1adeea32d83e941ea6e3a895": {
     "title": "Nvidia Nemo Switchyard",
     "seen_at": "2026-08-11T18:41:48.825543+00:00"
+  },
+  "9489988785f59b4439cac007959602bd524cd7d7bd33b9efe5fbbf5044e06309": {
+    "title": "声優、生成ＡＩで新サービス 好きなせりふ、依頼通りに | 全国のニュース - 福井新聞社",
+    "seen_at": "2026-08-11T21:33:04.216918+00:00"
+  },
+  "6c6f9dfccaa9758e6c4eabb371470c14046cee5203d05f3a4b329f84c4fa3855": {
+    "title": "生成AIブームで顕在化した｢半導体人材不足｣､業界の橋渡し役として存在感放つ異業種･三井不動産の狙い - 東洋経済オンライン",
+    "seen_at": "2026-08-11T21:33:04.216928+00:00"
+  },
+  "84f0a17b1b071b43db231589dc2c1963766d0b30c626f79b5fa0c9a1d8b0dd8e": {
+    "title": "声優、生成ＡＩで新サービス - 下野新聞社",
+    "seen_at": "2026-08-11T21:33:04.216932+00:00"
+  },
+  "2111442acd28d8f47b8af4d39a194b366d89a7f4663906d48f56eb6b15c2ad54": {
+    "title": "声優、生成ＡＩで新サービス 好きなせりふ、依頼通りに | | 全国のニュース - 佐賀新聞",
+    "seen_at": "2026-08-11T21:33:04.216935+00:00"
+  },
+  "9b36eb4f56b8be4dc914d233d6decfa7b1c8a592fe9aa82292516fa2308bf71d": {
+    "title": "OpenAI、アルトマン氏側近の元COO退社 幹部の離職相次ぐ - 日本経済新聞",
+    "seen_at": "2026-08-11T21:33:05.357965+00:00"
+  },
+  "e110ccc304991a1f8ae479e45a5fcdd163a6ffbbc9e5242270663364b27f2175": {
+    "title": "OpenAIがLinux向けChatGPTデスクトップアプリを公開、Codexも同じ環境で利用可能に - mezha.net",
+    "seen_at": "2026-08-11T21:33:05.357974+00:00"
+  },
+  "ffddeb7cee00104442c0e8fbb4ede84baa31d0151c6d20169a3396bbd95ada9d": {
+    "title": "OpenAI、ChatGPTデスクトップアプリのLinux版をプレビュー公開：WorkとCodexも統合 - XenoSpectrum",
+    "seen_at": "2026-08-11T21:33:05.357977+00:00"
+  },
+  "0e92a2ca19839bf5d69dc2361e9133bdab15b02401d233c582aa20d6780d8a17": {
+    "title": "GoogleのGeminiが月間利用者10億人を突破、ChatGPTと同規模に成長 - mezha.net",
+    "seen_at": "2026-08-11T21:33:05.357982+00:00"
+  },
+  "907c352d64b9892a24fe7aef8f30e749c82210602aa58dc3448b0ed31d69ca81": {
+    "title": "OpenAIのCOOを長年務めたブラッド・ライトキャップが退社、新たなプロジェクトを開始へ - mezha.net",
+    "seen_at": "2026-08-11T21:33:05.357985+00:00"
+  },
+  "b2a149152f2b8091971320beedff883c8334be6083020dbc1f2d466750cf5346": {
+    "title": "200社以上の支援実績を持つAI専門家が明かす！「PoC（効果検証）倒れ」を終わらせる決定版『図解入門ビジネス 最新 RAGとAIエージェントがよ～くわかる本』刊行！ | 株式会社秀和システム新社のプレスリリース - PR TIMES",
+    "seen_at": "2026-08-11T21:33:06.529289+00:00"
+  },
+  "0c28468edc5efca255f477f35f516a1e38588524ad75b592efd70e89fbd7e4a1": {
+    "title": "untactit ／AIエージェント資産の統制基盤が日本語対応で提供開始 - pr-free.jp",
+    "seen_at": "2026-08-11T21:33:06.529293+00:00"
+  },
+  "9e1c3baf742b952e4a24e521716e59dd835bbbf5abeeb014c81313ce873c1c3f": {
+    "title": "All the more reason not to use Closed Models ... Claude now officially \"marks\" AI-generated content ... steganographically, apparently ... and there are false positives already",
+    "seen_at": "2026-08-11T21:34:09.035441+00:00"
+  },
+  "d61947d624908f958c512a52f494c7ce955ac2f84d97cb706553108a5d78c69c": {
+    "title": "I will be parting with my 4x Spark Cluster.",
+    "seen_at": "2026-08-11T21:34:09.035450+00:00"
+  },
+  "154112df8f25a10f0947252398d3feb0b91048b798ba3cc90c1d89d3c7abea48": {
+    "title": "Local Benchmark : Muse Glimmer 30B vs Qwen 3.6 27B vs Gemma4 31B (and many other models and finetunes)",
+    "seen_at": "2026-08-11T21:34:09.035454+00:00"
+  },
+  "fb3b184069af544a02a8e2261906a7b8a4d6b9260f43241d400ed7aa78208476": {
+    "title": "366 t/s Qwen3.6 27B NVFP4 on v100s",
+    "seen_at": "2026-08-11T21:34:09.035457+00:00"
+  },
+  "d3aaccf5c936d5e58654242def4886a03e077fabfde742bf00ea9143d19304ab": {
+    "title": "[llama.cpp PR #26608] Ling-3.0 support (unmerged)",
+    "seen_at": "2026-08-11T21:34:09.035460+00:00"
+  },
+  "5002fd7a080d688b7f9ffc79b32d2705ad0986d82e5c8804224d91b84aea3cea": {
+    "title": "Muse Glimmer 30B running locally in-browser with custom WebGPU kernels at ~25 tok/s on an M4 Max (same speed as llama.cpp)",
+    "seen_at": "2026-08-11T21:34:09.035464+00:00"
   }
 }
