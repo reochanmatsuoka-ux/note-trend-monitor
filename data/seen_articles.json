@@ -7226,5 +7226,105 @@
   "a2e2d1da42e4be22f0c748ef8a0b1f2d996e8d3b91e93f1f766c12914e0ce185": {
     "title": "I ran Muse Glimmer @ 1M context - All tests passed.",
     "seen_at": "2026-08-11T06:42:03.739657+00:00"
+  },
+  "d316fb59592cd8fa04218d01a9e309a1a4e4cfa4ec68b6b18b63a76b16e11ac2": {
+    "title": "AIを「便利な議事録係」で終わらせない、NECが生成AI時代に挑んだ“最後の基盤改革” - ビジネス+IT",
+    "seen_at": "2026-08-11T09:46:52.799207+00:00"
+  },
+  "7a18f7a0bcca5e9f7449a4afd1891416c106453a5d2c4565194b75e6a65b7a8c": {
+    "title": "「生成AIユーザーは見る目がない」——VTuberサムネイルを巡る”手描き詐称”論争 - shiritomo",
+    "seen_at": "2026-08-11T09:46:52.799214+00:00"
+  },
+  "2e5594c8dcf885044d6fb3945d06226aaa0a3778d92646848d87a8afef6c9824": {
+    "title": "声もパブリシティ権の対象に 法務省検討会が生成AI時代の民事責任を整理 - 千葉テレビ放送",
+    "seen_at": "2026-08-11T09:46:52.799220+00:00"
+  },
+  "6e50f8d3c22729860fa7eec0f8cfcc0a8de22a8eb2d3e813cd506f9ba48b87d8": {
+    "title": "AnthropicのClaudeが167年未解決の数学最大の難問「リーマン予想」の証明を前進（ビジネス＋IT） - Yahoo!ニュース",
+    "seen_at": "2026-08-11T09:46:53.320306+00:00"
+  },
+  "9c3d10a553aa289672d3c580dd09403d0f90492248a993527119eb43ea13bad5": {
+    "title": "AnthropicのClaudeが、167年未解決の数学最大の難問「リーマン予想」の証明を前進 - ビジネス+IT",
+    "seen_at": "2026-08-11T09:46:53.320311+00:00"
+  },
+  "2531aefa20557f6020a673637004a033347fa99323eed9cc5f384db83908168e": {
+    "title": "Anthropic、Claudeに不可視の透かしを埋め込み AI生成テキストのコピペ後も追跡可能に - BigGo ファイナンス",
+    "seen_at": "2026-08-11T09:46:53.320314+00:00"
+  },
+  "0f71c67aa38e9113dae16b62ee316be097006a81d08e806c72ebd08d5c3847b7": {
+    "title": "Anthropic、Claude生成文に不可視ウォーターマーク実装 - 디지털투데이",
+    "seen_at": "2026-08-11T09:46:53.320316+00:00"
+  },
+  "df57fcf13b1e57c4836510fd101ace020f6aa7f6ddd7d73887df0dd7a35164de": {
+    "title": "OpenAI、サイバーセキュリティ特化モデル「GPT-5.6-Cyber」を発表 - ビジネス+IT",
+    "seen_at": "2026-08-11T09:46:53.976691+00:00"
+  },
+  "3dc8d35f6679edd3e097222b09859830f81ea8038a4701a399bad70e1f16c966": {
+    "title": "ChatGPTの回答はどこで？ 「今さらに聞けない」AI時代を支える半導体の世界 - 47NEWS",
+    "seen_at": "2026-08-11T09:46:53.976695+00:00"
+  },
+  "7647530d1cbcc9d1205a3002797f6f27218b0921e17047b84c114b3b991596c0": {
+    "title": "ChatGPTの回答はどこで？ 「今さらに聞けない」AI時代を支える半導体の世界 - 週刊大阪日日新聞",
+    "seen_at": "2026-08-11T09:46:53.976698+00:00"
+  },
+  "bf773e042d37befc4156deff4223bd0e61105f38aafc5cb6d03a54f352a5e738": {
+    "title": "OpenAIがGPT-5.6-Cyberを限定アクセスで提供開始 - BeInCrypto",
+    "seen_at": "2026-08-11T09:46:53.976701+00:00"
+  },
+  "172f1dd29ecfd037fb0d1ab66df2c268fa5f8015802e50e8363f41192343967e": {
+    "title": "OpenAIが既存株70億ドル買い戻し 企業価値8520億ドル維持 IPO時期先送り - CHOSUNBIZ - Chosunbiz",
+    "seen_at": "2026-08-11T09:46:53.976708+00:00"
+  },
+  "031a72e7a1a7d09d94c03be13bf863db946f3ab7185f9510937a65db82fb7894": {
+    "title": "OpenAIがサイバー特化モデル「GPT-5.6-Cyber」を発表、 一般モデルが拒否する高度な攻撃リクエストの95％に応答 - Yellow.com",
+    "seen_at": "2026-08-11T09:46:53.976714+00:00"
+  },
+  "357050274eed94f31d511ebf0419e555e801193e33df3aa8cc86bab3a51ac28f": {
+    "title": "Geminiの責任者が更迭？Google AI再編、Deep Mindトップハサビス氏が実務から退く - すまほん!!",
+    "seen_at": "2026-08-11T09:46:54.495308+00:00"
+  },
+  "4ad8ec30dc064aab58ba917e739fefee492f2ef6de58a079b8ef279a4be2bfbc": {
+    "title": "AIエージェントを「従業員化」する企業が急増、新たな組織図が招く自信喪失とミスの連鎖 - Forbes JAPAN",
+    "seen_at": "2026-08-11T09:46:54.985311+00:00"
+  },
+  "081d596d01ed7eaa54108349d27164cca401e0362a8263840127b9e793130a17": {
+    "title": "企業の88%がAIエージェント導入 KPMG調査、5年内に必須スキルへ - 36Kr Japan",
+    "seen_at": "2026-08-11T09:46:54.985317+00:00"
+  },
+  "8baf58dd779eab238934b69aa0c60655316ea8d5390bcdb57055d7e1f59461ba": {
+    "title": "Siemens、AIエージェントで半導体設計を自動化…「エンジニアが寝ている間に検証・修正」 - BigGo ファイナンス",
+    "seen_at": "2026-08-11T09:46:54.985319+00:00"
+  },
+  "766c297bd1be38205e9501bdf32700b447af3258329ec3a7f0fcbe2559273bcd": {
+    "title": "2026年世界AIエージェント産業調査レポート｜QYResearch - note",
+    "seen_at": "2026-08-11T09:46:54.985325+00:00"
+  },
+  "221e404af1d32f340edf628538830fef0398580753b5546328f3b3b181585904": {
+    "title": "AIエージェント経済の転換点が確立：コンピューター操作の時給が6ドルを下回り、精度は人間を超える - BigGo ファイナンス",
+    "seen_at": "2026-08-11T09:46:54.985328+00:00"
+  },
+  "2d4a8cfe8787b3a9d8f39499e5ec7fba0bb9ffc1371bf3b4287a630879db5c9d": {
+    "title": "シーメンスEDAがAIエージェント投入設計加速 - CHOSUNBIZ - Chosunbiz",
+    "seen_at": "2026-08-11T09:46:54.985332+00:00"
+  },
+  "16324d65d58ac05087c78f4e941bf95d2b92034903d24bd09bdd5f15a3a77e5f": {
+    "title": "Luth-2: New State-of-the-Art French Small Language Models",
+    "seen_at": "2026-08-11T09:46:56.147946+00:00"
+  },
+  "3ffeb8a2e3a85e40fb660f9b76893e5f10ee0c676bb0bbee8375f7854c0cd632": {
+    "title": "DeepSeek-V4-Flash acting as my Linux sysadmin",
+    "seen_at": "2026-08-11T09:46:56.147952+00:00"
+  },
+  "02daf36c0494199b392b918163ae5a3183bd38baa7198042b0e926663a99af53": {
+    "title": "Why have 8B-12B models been dropped?",
+    "seen_at": "2026-08-11T09:46:56.147955+00:00"
+  },
+  "e04274f711abfad738ca833b6ddd1ef1dfe609b75f09041a114d0831bcdebfbb": {
+    "title": "Add CI targets for ROCm 7.14 by superm1 · Pull Request #25775 · ggml-org/llama.cpp",
+    "seen_at": "2026-08-11T09:46:56.147956+00:00"
+  },
+  "240bcc56a2bbf7185f178d2b71ad788c161cf3cefd54c656dd970f89e2e7e51b": {
+    "title": "Muse Glimmer 30B + DFlash speculative decoding on vLLM: 6 patches needed, 25 → 57 tok/s. Dockerfile and numbers inside.",
+    "seen_at": "2026-08-11T09:46:56.147958+00:00"
   }
 }
