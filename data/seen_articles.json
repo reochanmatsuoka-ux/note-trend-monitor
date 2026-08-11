@@ -7406,5 +7406,57 @@
   "72bbde8704db44e460cbaf129f550c4364f05da08f41b07093455ed4a30441fa": {
     "title": "Anyone Using (Koreas) \"Solar Open 2\" (250B, 15B) Model?",
     "seen_at": "2026-08-11T15:46:42.548040+00:00"
+  },
+  "fc520fe58ab871c37063b60fff741bb1b3b53b85a1d15ca56b8b48f8c46a1f4d": {
+    "title": "OpenAIの幹部ブラッド・ライトキャップが退社し新たなプロジェクトへ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-08-11T18:41:46.659937+00:00"
+  },
+  "b60c7e6595d2ec0005ada380ff1d1016f28968a52f69b61883586f4f42ecb917": {
+    "title": "OpenAIの幹部ブラッド・ライトキャップが退社、AI業界の経営陣再編が加速 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-08-11T18:41:46.659945+00:00"
+  },
+  "be0286e5f7779917289344da5327e1b6a2c8411a24baea717b6f9f209ce704d2": {
+    "title": "OpenAI幹部ブラッド・ライトキャップ氏が退社、新プロジェクトを立ち上げへ - Межа. Новини України.",
+    "seen_at": "2026-08-11T18:41:46.659950+00:00"
+  },
+  "2f8dd94934ad47b1e41d229147fb6b0dacc8b6ef998589016056b11c230cefde": {
+    "title": "xAIがビジネスタスク向けAIエージェント「Grok Bot」を発表 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-08-11T18:41:47.722273+00:00"
+  },
+  "4d4084e184ee42f8dada8f82a4f66d9cc359ccf8d7157a3168811d319cb270ef": {
+    "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+    "seen_at": "2026-08-11T18:41:48.212527+00:00"
+  },
+  "ac6a2b69d405a0cb09b12f2306fc14a82d3f9be9efc13b55df48b7f34cfba443": {
+    "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+    "seen_at": "2026-08-11T18:41:48.212531+00:00"
+  },
+  "5639e45f22b6bbc3efdf89cacd19436a822ecf5fb6b666eee59d9f1668bc75e5": {
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "seen_at": "2026-08-11T18:41:48.212535+00:00"
+  },
+  "a8b1d1c6631a28e0785b270f79a06436bebf788487ccbef743c89c8803951c8a": {
+    "title": "Encrypted reasoning from ClosedAI et al 100% recoverable",
+    "seen_at": "2026-08-11T18:41:48.825524+00:00"
+  },
+  "acc1644d818c59f6e6407d7a760542ae2e79701819deba57731eaa49b5cfe50b": {
+    "title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+    "seen_at": "2026-08-11T18:41:48.825529+00:00"
+  },
+  "34b7abb31f1e179a4a7bb59ff01dac5f19ca5c1f2cba283beb136bec2e190d2f": {
+    "title": "Ling-3.0-flash quant ladder on one DGX Spark: the whole thing sits in a 32 to 40 tok/s band",
+    "seen_at": "2026-08-11T18:41:48.825534+00:00"
+  },
+  "86ee0b33e2cda3950bca69fa24bf03a69cb09e43a1bc9e40495f5c40155c148d": {
+    "title": "DeepSeek V4 Flash 0731 at 27+ t/s decode on Strix Halo — Vulkan + DSpark full guide",
+    "seen_at": "2026-08-11T18:41:48.825537+00:00"
+  },
+  "09445b5a3d6f15f0f763ddd0ed9a8bdc2a8a2c7093eaf8fecd411e4a74414069": {
+    "title": "CJK Manga/Manhwa/Manhua 150M OCR model (hayai-ocr-v2) outperforming PaddleOCR-VL-For-Manga",
+    "seen_at": "2026-08-11T18:41:48.825540+00:00"
+  },
+  "073a45ea7a0bc762cb572edcb2e453e2c3c2992c1adeea32d83e941ea6e3a895": {
+    "title": "Nvidia Nemo Switchyard",
+    "seen_at": "2026-08-11T18:41:48.825543+00:00"
   }
 }
