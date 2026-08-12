@@ -8070,5 +8070,85 @@
   "a63e435b8c33c25c837faeecd0034c5daf66713f588280700228d5ac4783509d": {
     "title": "What do you guys do for GPU Kernels?",
     "seen_at": "2026-08-12T09:51:29.770834+00:00"
+  },
+  "e451f98aa9da6ada7c96ba62291bc5d925b036bf83e507d180c3246ec886020f": {
+    "title": "70B級LLMも載る192GBメモリ搭載ミニワークステーション、MINISFORUM「MS-02 Ultra」の実力を試す - エルミタージュ秋葉原",
+    "seen_at": "2026-08-12T12:37:54.598139+00:00"
+  },
+  "8d27175a0b9e50eb550abc7fc46462df2259803cc969088fbb440dee68be8eda": {
+    "title": "生成AI投資の成果を可視化する価値検証・継続判断ガイドを公開 - ニコニコニュース",
+    "seen_at": "2026-08-12T12:37:54.598146+00:00"
+  },
+  "617af555a8da043b1ce275b2bf2421a89f0bca7e115dbde0edeafbd7a7218bc4": {
+    "title": "女性生徒にわいせつ映像見せた男性教師を懲戒免職 生成AIで同僚教師の水着画像作成の教師は停職6カ月 神奈川県教育委員会（FNNプライムオンライン） - ｄメニューニュース",
+    "seen_at": "2026-08-12T12:37:54.598153+00:00"
+  },
+  "2f335202f9720b8c0a2c674dd139177c7c9eb8432c6bf30754c5880174d036fd": {
+    "title": "【最も怖いのは「GPTが自ら攻撃相手を決めたこと」】Anthropic・MetaのAIも暴走／サイバー能力は「Claudeミュトス以上」OpenAIが新モデル「Astra」を封印【1on1 Tech】 - TBS NEWS DIG",
+    "seen_at": "2026-08-12T12:37:55.179200+00:00"
+  },
+  "5b2b5da819a5dc871b0e4b29612414af8d638d9452b838a054faa7c221541447": {
+    "title": "Anthropicは、ClaudeによるチャットボットコンテンツにAIを活用した識別子を適用します。 - vietnam.vn",
+    "seen_at": "2026-08-12T12:37:55.179206+00:00"
+  },
+  "3a51d7167c66ebd8d200f0202d7641420966d691c8f1643f6a863e4fc409ea72": {
+    "title": "EUの透明性規則で「見えない透かし」義務化 AnthropicのClaude、AI生成テキストへの自動マーキング巡り反発広がる - Yellow.com",
+    "seen_at": "2026-08-12T12:37:55.179211+00:00"
+  },
+  "8d541d975dc550591b639ad8954f176de9bc746cd7061a31e80f9751a8caf01a": {
+    "title": "AIに「そのまま続けろ！」「自分を信じろ！」と応援し続けることが人間の役目、Anthropicが未公開のClaudeによるリーマン予想解決の試みを公開 - GIGAZINE",
+    "seen_at": "2026-08-12T12:37:55.179214+00:00"
+  },
+  "69b75fea1653d97b5c3ffb588297c76007886bcca42632fa7896f3b88ad7be78": {
+    "title": "OpenAI初のAIハードウェアは円形・6万円・動く…らしい（ギズモード・ジャパン） - Yahoo!ニュース",
+    "seen_at": "2026-08-12T12:37:55.673370+00:00"
+  },
+  "1a1381a71a661388328ac6b8d06e03d95e94e5f28b982dea9ea6dc0d7f54a7ff": {
+    "title": "OpenAIは、サイバーセキュリティ専門家向けに特化したGPT-5.6-Cyber​​をリリースした。 - vietnam.vn",
+    "seen_at": "2026-08-12T12:37:55.673375+00:00"
+  },
+  "1f537fc860c58debfcc56b65aac82b61910ddec17984e74bdf4bb088266a559f": {
+    "title": "Google Geminiのユーザー数が10億人を突破、引き続き好調なニュースが続々と寄せられている。 - vietnam.vn",
+    "seen_at": "2026-08-12T12:37:56.250746+00:00"
+  },
+  "b6d70ba7b3abf284cc225ad39822655d6db44c4df9ca3d328fd5541c0b0a3a79": {
+    "title": "Google Pixel 11シリーズの特徴・発売日・価格・キャンペーンまとめ！カメラとGemini AI強化の行方は？折りたたみ含む4モデル登場！【Pixel 11 Pro・Pixel 11 Pro XL・Pixel 11 Pro Fold】 - MATTU SQUARE",
+    "seen_at": "2026-08-12T12:37:56.250756+00:00"
+  },
+  "570e494b6c8691307182df93184c7fd7015814fa0fc0cccdb8ae8cfa56643334": {
+    "title": "Google I/O Extended Hanoi 2026が再び開催：エージェント型AIとGeminiに焦点を当てる。 - vietnam.vn",
+    "seen_at": "2026-08-12T12:37:56.250760+00:00"
+  },
+  "0b1322f059c677b6bd75b660457c984285aa6f457a3df9444968f103f21deae4": {
+    "title": "株式会社Hubbleが契約AIエージェントCFAのAI基盤を拡充し、高度な契約業務を実現する技術環境を構築 - ニュースメディアVOIX",
+    "seen_at": "2026-08-12T12:37:56.785776+00:00"
+  },
+  "b6a7028ad208fa3eec589a97ea5d2038fb2f6f673454e80a27a50445dc8b99c7": {
+    "title": "Hidden Reasoning from Claude and GPT are Decoded, and it is interesting",
+    "seen_at": "2026-08-12T12:37:58.149807+00:00"
+  },
+  "02dcffec71c5ff195c1eed52148ea0cb8031ec697966d18c6c56a5d83accf7fc": {
+    "title": "According to AMD, Arm, and Microsoft, agentic AI could push CPU-to-GPU ratios from 1:4 to even1:1",
+    "seen_at": "2026-08-12T12:37:58.149812+00:00"
+  },
+  "5ea01a23f0014f0049551da66bf2485089c66d6e827c3b7fca3ec6d40ef8b340": {
+    "title": "All your reasoning are belong to us",
+    "seen_at": "2026-08-12T12:37:58.149817+00:00"
+  },
+  "f799145f9794000b158abab521a3ab8d0169ea2170181bf1deb23e46a099f46f": {
+    "title": "Intel LLM-Scaler ready with Muse Glimmer support, other LLMs & features",
+    "seen_at": "2026-08-12T12:37:58.149820+00:00"
+  },
+  "d628f0a2845c050c379d8e6dce89eb25d173a2782459371523577d0b884b3aac": {
+    "title": "Tested Nemotron 3.5 Lightning locally on coding, Hermes Agent and agentic work",
+    "seen_at": "2026-08-12T12:37:58.149824+00:00"
+  },
+  "5e11dd676efd081b6912431e4fda88f3ec34d04377312047b64ddad9fa0ef45c": {
+    "title": "Motif 3 (314B A13B, NVFP4 available) seems good!? What are your experiences with it so far?",
+    "seen_at": "2026-08-12T12:37:58.149827+00:00"
+  },
+  "4d396ef91e4112e456631229396ce73366971d7220bfc75ed38fdbd0c22add85": {
+    "title": "I ran Qwen3.5-0.8B on a sub-$20 CPU chip in under 512MiB of memory",
+    "seen_at": "2026-08-12T12:37:58.149830+00:00"
   }
 }
