@@ -7882,5 +7882,97 @@
   "f12545109f41a2ebedfac93eb44f9418209741a169635de44343c708aef27a09": {
     "title": "Toy project: a chat title model that fits in 5 MiB of ram",
     "seen_at": "2026-08-12T04:30:45.519784+00:00"
+  },
+  "5dabc83b4c18a08c0010698b9ec5f909a25629aa09d65c48f2ea7f3cf1306485": {
+    "title": "生成AIでアプリ作り 小型ロボットもプログラミング 子どもたちがITの仕事を体験／岡山・津山市（津山朝日新聞） - Yahoo!ニュース",
+    "seen_at": "2026-08-12T07:02:08.171070+00:00"
+  },
+  "dfe0ea158924720535cfa3da66e505ea52bf32c2c4afe631195b6b0141e9b313": {
+    "title": "ソアスク、生成AI時代に広がる「クレジット制課金」の収益管理に対応 - ニコニコニュース",
+    "seen_at": "2026-08-12T07:02:08.171088+00:00"
+  },
+  "e2ea8b8a7595ea8b5f36868afeaa48b314fe41bb69571bc60597d1c3e85235a6": {
+    "title": "『ConoHa VPS byGMO』、国内クラウド事業者で初めてAnthropic「Claude」のコネクタを提供開始【GMOインターネット】 - PR TIMES",
+    "seen_at": "2026-08-12T07:02:08.783419+00:00"
+  },
+  "9bef7631c986699c0176051fe7dc553f9ac79b590f5ad4da249efe1f549f2f2f": {
+    "title": "の生成テキストに不可視のウォーターマーク - gihyo.jp",
+    "seen_at": "2026-08-12T07:02:08.783426+00:00"
+  },
+  "c3f4789c81489e35684b7bb8b280fcfae5af90925f2701e26e2f7f5449a363ff": {
+    "title": "AIで書いたことがバレる Claudeが消えない透かしを強制導入へ ネットは猛反発 - Yahoo!ニュース",
+    "seen_at": "2026-08-12T07:02:08.783430+00:00"
+  },
+  "ed1d19e61f28d270e799d0f11fa720e1ae6159d5e96558689dedb96d97b79ed2": {
+    "title": "ChatGPTデスクトップアプリにLinux版 「お待たせ。MacBookはキャンセルしていいよ」 - ITmedia",
+    "seen_at": "2026-08-12T07:02:09.286954+00:00"
+  },
+  "ddbbec9d3f9ed73aac24162c3a828bea40c3a83ce229ce4add6ae63a53a70964": {
+    "title": "AnthropicとOpenAIのIPO目前：慈善団体が先手を打ち、数千億ドル規模の「AI慈善マネー」争奪戦が激化 - BigGo ファイナンス",
+    "seen_at": "2026-08-12T07:02:09.286962+00:00"
+  },
+  "69d828c2b4cc37cd1b6464c76c0e2ab21ad9b7d917ffbb2795e0ce00db704b35": {
+    "title": "Gemini、月間10億人を突破しChatGPTに並ぶ グーグル史上最速の成長 - Forbes JAPAN",
+    "seen_at": "2026-08-12T07:02:09.286966+00:00"
+  },
+  "0971355a3a9dadc83e1098327f8211e249bc2d93aa0a5c319a72ed70edc12189": {
+    "title": "OpenAI、Linux版ChatGPTデスクトップアプリ公開｜Chat・Work・Codexをデスクトップへ統合 - innovaTopia",
+    "seen_at": "2026-08-12T07:02:09.286968+00:00"
+  },
+  "39ddb471b713908d4122993d99409f9bf4d836dc196d0708185596b5f3e61884": {
+    "title": "ついにChatGPT公式デスクトップアプリがLinuxに登場、Ubuntu・Debian・Fedora対応でChatGPT WorkやCodexも利用可能 - gigazine.net",
+    "seen_at": "2026-08-12T07:02:09.286973+00:00"
+  },
+  "47ffde7ec75eb4dbf48b150b54b36ce2e121242a4d6576c86784b727789136e5": {
+    "title": "AIエージェントが従業員のように振る舞う時代、責任は誰にあるのか - Forbes JAPAN",
+    "seen_at": "2026-08-12T07:02:10.193470+00:00"
+  },
+  "419b74d2c8e0bc0e18deb891b27259e4151b477b6824ff0d4faf00cc5d284ce2": {
+    "title": "SpaceXAI、AIエージェント「Grok Bot」発表 クラウドの仮想コンピュータで常時稼働、個人は月200ドル - ITmedia",
+    "seen_at": "2026-08-12T07:02:10.193479+00:00"
+  },
+  "444b30d249e9a7f68b46e5dccbad1a9baefc06d99e4fc7157bfacdc201366bfa": {
+    "title": "AIエージェント「Manus」、Meta買収から8ヵ月で再独立へ 一部ユーザーデータ削除も - ASCII.jp",
+    "seen_at": "2026-08-12T07:02:10.193484+00:00"
+  },
+  "a1ef64eda40ddc799cc48c9daecf4ac5af359055df294472764f4065c4212b36": {
+    "title": "契約AIエージェント「Contract Flow Agent」、AI基盤を拡充―契約データの横断調査から自律的な文書作成・検証まで、高度なAI活用を支える技術基盤を構築 - PR TIMES",
+    "seen_at": "2026-08-12T07:02:10.193487+00:00"
+  },
+  "f265d26b51616747d863a04617d71fc93f35b25c727cdc64a783caa9d9ef5408": {
+    "title": "中国発AIエージェント「Manus」、Metaから独立へ 中国政府が買収に反発、一部ユーザーデータは削除に - ITmedia",
+    "seen_at": "2026-08-12T07:02:10.193490+00:00"
+  },
+  "3a4148b7257aa9acdacfc5064b8c03795495498f41ed562b408e58fc8d8a94a1": {
+    "title": "メルカリ、AIエージェント「Auxia」導入で一部施策のCVRが2%以上改善 - PR TIMES",
+    "seen_at": "2026-08-12T07:02:10.193492+00:00"
+  },
+  "0f5c31a07e664205309c1695320c8c4c0fb6694c42fbd985bcaf4e8f24403e64": {
+    "title": "株式会社コミクス、自律型AIエージェントによる業務自動化の実践モデルを公開 37商談分の資料を約15分で準備 - ニコニコニュース",
+    "seen_at": "2026-08-12T07:02:10.193500+00:00"
+  },
+  "03d5911e2e84679afac2d175beb171b1b3c952f2280cd85c71af5b489bc5dd27": {
+    "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル - sannichi.co.jp",
+    "seen_at": "2026-08-12T07:02:10.193503+00:00"
+  },
+  "5198ba7379e6c6e3a393004b9def8597baadb05e4f103d494e52a7b50d99b493": {
+    "title": "MSOL、AIワークフローで強化された“PROEVER(R)”を 「AIエージェントDXPO 東京 ’26」 に出展 - ニコニコニュース",
+    "seen_at": "2026-08-12T07:02:10.193506+00:00"
+  },
+  "75a69c4a485901d62e527ccec3d5376dfa69a5ff14c2f0566f5d9d1f01a56598": {
+    "title": "株式会社Zenport、AIエージェント「ZenMapping」を刷新しデータ連携を革新する - ニュースメディアVOIX",
+    "seen_at": "2026-08-12T07:02:10.193514+00:00"
+  },
+  "5435a4cecaec5d540142702941259c5bf306837422d7fc1fc07ac5bc746811eb": {
+    "title": "RTX 6000 PRO price raised to $16,000 USD on the Nvidia website",
+    "seen_at": "2026-08-12T07:02:17.235351+00:00"
+  },
+  "4ae442291bef4ff226f49a110b2792f1c97ad58308f29a6359d928113b4ab9f9": {
+    "title": "FYI: Muse Glimmer Chat Template Got Updated Recently",
+    "seen_at": "2026-08-12T07:02:17.235359+00:00"
+  },
+  "dd4a11ebcd502bb94cdb46939432fd1438313448615775b5f86542c37b294108": {
+    "title": "Is the future of AI selling hardware for Open Source/Models?",
+    "seen_at": "2026-08-12T07:02:17.235362+00:00"
   }
 }
