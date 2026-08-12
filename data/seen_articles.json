@@ -8298,5 +8298,37 @@
   "c777cc6c9987a0b03a7e84db15b64caa6ea2cec38f1742b1ba1dae4b058c1946": {
     "title": "Best models 14b and smaller as of today?",
     "seen_at": "2026-08-12T18:43:26.277243+00:00"
+  },
+  "807bb5267c2b0d67264d653675ac253f16375a8e02f5c8bbacd01cf6437c7888": {
+    "title": "TwitchがAmazonの生成AI学習利用を拒否する設定を導入、初期状態では有効に - Межа. Новини України.",
+    "seen_at": "2026-08-12T21:32:04.756905+00:00"
+  },
+  "a49ba712de4c27597512dbc38976c419d39845f6c335642b9c33a5186136c121": {
+    "title": "ビットコイン186億円流出事件で露呈、OpenAIに締め出された善意のハッカーが頼ったのが中国AIという皮肉 【生成AI事件簿】攻撃側は最新のツールを使えるのに防御側が利用できない非対称、AI安全規制の副作用とは - JBpress",
+    "seen_at": "2026-08-12T21:32:06.023631+00:00"
+  },
+  "cd3dd19e758863673a9ab9be54703d085f79e8845dd66382c11432b7c4c14677": {
+    "title": "OpenAI、ChatGPTの利用上限を即時リセットできる8ドルボタンを極秘テスト - BigGo ファイナンス",
+    "seen_at": "2026-08-12T21:32:06.023638+00:00"
+  },
+  "5f6b80a32a6578e4f71ae9c1127b5c43786a9693c22578ae38dca9e1315ba0d5": {
+    "title": "Grok 4.6が知能指数61点を記録、OpenAI「GPT-5.6 Sol」に並ぶ スペースX株も上昇 - Yellow.com",
+    "seen_at": "2026-08-12T21:32:06.023644+00:00"
+  },
+  "8fad8245a228c76506cfc6ca774d724c8df96df9a00529f8b1ce67a9ebd4f78e": {
+    "title": "DeepSeek V4 Flash 0731 uncensored (jailbreak pt2)",
+    "seen_at": "2026-08-12T21:32:13.558220+00:00"
+  },
+  "f5717f7f08b0376ef0ef656c6a310cbd164b07c4264a1af420a1aaaaf4450b47": {
+    "title": "Meta's Muse Glimmer 30B now runs up to ~3.3x faster on Mac with mlx-dspark",
+    "seen_at": "2026-08-12T21:32:13.558230+00:00"
+  },
+  "db492b21e6e7a041349452d33b266cd3ddacf652ef9e1738ac0e8ab00c54b41a": {
+    "title": "LFM2.5-VL-3B recognizes Steve from Minecraft running locally on an iPhone 17",
+    "seen_at": "2026-08-12T21:32:13.558236+00:00"
+  },
+  "83f0f7167b3f19423668c991c1dfa9989644a116346baa9c98c4a2095a453e67": {
+    "title": "Running Qwen 3.6 35B A3B-Q8_0 gguf on a cheap radeon 7600 at 18 token/s * update increased to 21 t/s",
+    "seen_at": "2026-08-12T21:32:13.558241+00:00"
   }
 }
