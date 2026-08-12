@@ -7526,5 +7526,145 @@
   "5002fd7a080d688b7f9ffc79b32d2705ad0986d82e5c8804224d91b84aea3cea": {
     "title": "Muse Glimmer 30B running locally in-browser with custom WebGPU kernels at ~25 tok/s on an M4 Max (same speed as llama.cpp)",
     "seen_at": "2026-08-11T21:34:09.035464+00:00"
+  },
+  "90616b06fda3b83cb049363ff75e11cb8f3e9422f737932c1b8b7656704c0abd": {
+    "title": "法務に使える生成AIはどれ？ デジタル庁の“法令クイズ”で4ツールをテストしてみた（ITmedia エンタープライズ） - Yahoo!ニュース",
+    "seen_at": "2026-08-12T00:50:43.663706+00:00"
+  },
+  "fffcd0663c233e494be08a60f11a6748ecdd05fd5873c5f8dcc691d8735dd98e": {
+    "title": "トランスフォーマーに限界、 次世代LLMを担う 4つの最新アプローチ - MITテクノロジーレビュー",
+    "seen_at": "2026-08-12T00:50:43.663713+00:00"
+  },
+  "ea36282e3df0d20f5d08610f29963190774d2bea7d4d56793fa2cab93da5b2ba": {
+    "title": "［トムソン・ロイター：Q2 2026 決算まとめ］紙を手放し、自社大規模言語モデルで士業の仕事場を獲りにいく - businessinsider.jp",
+    "seen_at": "2026-08-12T00:50:43.663721+00:00"
+  },
+  "50419b8f6d0672a3be51ba9fe7f9766b8d5ed814a55bde275bd877ed139f52dd": {
+    "title": "医療AIのQualified Health、LCMC Healthと提携し1万5,000人の医療従事者へ生成AI基盤を全社展開 - AT PARTNERS",
+    "seen_at": "2026-08-12T00:50:43.663726+00:00"
+  },
+  "a9843662e16f14c48ee24bcc3e90d02fe3f8000efe34b272c85f6002be0325bd": {
+    "title": "【主なニュース】生成ＡＩ・営業ＤＸ・新商品・外食企画・コンテンツ・地域共創――需要開拓と事業拡大へ - kabu-ir.com",
+    "seen_at": "2026-08-12T00:50:43.663729+00:00"
+  },
+  "30173622fd2651eaf753388edab3820a568ced15e309b1f3dc94a9872cf23c28": {
+    "title": "Nvidia、オープンソースLLM「Nemotron 4」を開発中 最大1兆超パラメータ級 - 디지털투데이",
+    "seen_at": "2026-08-12T00:50:43.663732+00:00"
+  },
+  "967346ac7d81a6cfb3391684360c1542742a1860dd435c76da116d56f64005d6": {
+    "title": "Metaが30BパラメータのオープンAIモデル「Muse Glimmer」を公開 - shiritomo",
+    "seen_at": "2026-08-12T00:50:43.663735+00:00"
+  },
+  "e1904b32dae1805e241033f50ee0e45d54f83125f4409f22b8d69882310a37a7": {
+    "title": "ローカルLLM競争が加速、PCで動く軽量モデルに熱視線 - 디지털투데이",
+    "seen_at": "2026-08-12T00:50:43.663739+00:00"
+  },
+  "1724a88b351266eb88bffdbdcbe0a1cf4e89f2064a5da94399c6f71284dc019c": {
+    "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし” 日本を含むグローバルに適用へ - ITmedia",
+    "seen_at": "2026-08-12T00:50:44.134971+00:00"
+  },
+  "fa8d27defbeb04474305dde2b48acda3eb8166b3dbab47504a76edae35de158f": {
+    "title": "Claudeが生成した文章に「電子透かし」、全世界で導入へ - Yahoo!ニュース",
+    "seen_at": "2026-08-12T00:50:44.134977+00:00"
+  },
+  "748d6ae514c3a63ff526294fdb745108a3908734f4d81649d61b373906ae044a": {
+    "title": "アンソロピック、AI生成テキストに「見えない透かし」。AIで書いた小説を検出されずに出版する夢を打ち砕く - businessinsider.jp",
+    "seen_at": "2026-08-12T00:50:44.134981+00:00"
+  },
+  "c15b447cf8486369d07cab86d5ac201a6b19fb81c1f418a046d902e0fc0a87d8": {
+    "title": "Anthropic、Claude生成物に不可視ウォーターマーク EU AI法の透明性規定に対応 - 디지털투데이",
+    "seen_at": "2026-08-12T00:50:44.134985+00:00"
+  },
+  "73c2d74fdc62a16a189a2dcf4f87651b2f0170ea1d61a1a96bb6a4bd9b9ae7ee": {
+    "title": "OpenAI、攻撃向けAI「GPT-5.6-Cyber」展開開始──安全性フレームがビジネスモデルに - Yahoo!ニュース",
+    "seen_at": "2026-08-12T00:50:44.594170+00:00"
+  },
+  "f87ca46bae22e2495642567fe946cd2b9a63ea97324426f6f25b5832a0a93d6d": {
+    "title": "【体験】ベンツ新時代の到来…ChatGPTやGeminiも搭載「次世代の車」が想像を超えた - ビジネス+IT",
+    "seen_at": "2026-08-12T00:50:44.594176+00:00"
+  },
+  "828fbba05739ee7c57fd806c26e679e997f04d7f6a4580425e90aeecadd40028": {
+    "title": "ChatGPT「無料開放」された4つの機能 - ライフハッカー",
+    "seen_at": "2026-08-12T00:50:44.594180+00:00"
+  },
+  "5be8e4544fc0b1a6524e78b6b982d74509cd59fd5d94e45a86c802257aac684d": {
+    "title": "Linux版ChatGPTデスクトップアプリ発表。Ubuntu、Debian、Fedoraなどで動作 - テクノエッジ TechnoEdge",
+    "seen_at": "2026-08-12T00:50:44.594184+00:00"
+  },
+  "1cfa42de8976d0c2d1e4411964c4095e706c16156b17efe1d4dd17d3c0690c31": {
+    "title": "なぜ「プロンプトチェーン」がChatGPTを使いこなす最適解なのか - Forbes JAPAN",
+    "seen_at": "2026-08-12T00:50:44.594188+00:00"
+  },
+  "820d1af25f8ef246d684963041281c828db054efa14eb69ef8c5d48ef3262383": {
+    "title": "Google Geminiが月間アクティブユーザー数10億人を突破。ChatGPTに続く（テクノエッジ） - Yahoo!ニュース",
+    "seen_at": "2026-08-12T00:50:44.594192+00:00"
+  },
+  "3b0df5b3fcf8708bf6de897eceac417698444060c383f64ffed564793f22bb91": {
+    "title": "Linux版ChatGPTデスクトップアプリ発表。Ubuntu、Debian、Fedoraなどで動作 - UQライフ",
+    "seen_at": "2026-08-12T00:50:44.594197+00:00"
+  },
+  "a58c0a81fedde778c90c1cd5ebab65d662471f3651e939e206642bcb46e7ac13": {
+    "title": "OpenAI、Linux向けChatGPTデスクトップアプリのプレビュー版公開 - 디지털투데이",
+    "seen_at": "2026-08-12T00:50:44.594201+00:00"
+  },
+  "559cebf35c6320e661aad8acecd96495f081332b356072a0cf1799e6e66d075e": {
+    "title": "OpenAIが従業員株70億ドルを買い戻し、外部投資家に代わって換金を支える - XenoSpectrum",
+    "seen_at": "2026-08-12T00:50:44.594204+00:00"
+  },
+  "8c849807d6d4b9f18cfa8d29cbe538a78b6de3507f6719e89952a0ae2fef8681": {
+    "title": "OpenAI、サイバーAI「Daybreak」をAWSで提供 脆弱性検証やインシデント対応を支援 - 千葉テレビ放送",
+    "seen_at": "2026-08-12T00:50:44.594206+00:00"
+  },
+  "7188c9177bbe64ab330b609bc83a7ac04367af1a41b5819d57cd8227a990050d": {
+    "title": "Google急成長プロダクト！「Gemini」月間10億ユーザー突破 - jetstream.blog",
+    "seen_at": "2026-08-12T00:50:45.103562+00:00"
+  },
+  "eb78fd4947b9f29438c2d8a7703fdfca909cbf936edb00f65688f23f174647d8": {
+    "title": "Google Geminiが月間アクティブユーザー数10億人を突破。ChatGPTに続く - テクノエッジ TechnoEdge",
+    "seen_at": "2026-08-12T00:50:45.103567+00:00"
+  },
+  "4849454e936ea2199b5775bc779e46c5df051a825577e4175a09c381ab0f09a2": {
+    "title": "Gemini搭載のGoogleマップ新機能「マップに相談」が日本で提供開始 会話形式で最適なプランを提案 - 教育家庭新聞社",
+    "seen_at": "2026-08-12T00:50:45.103570+00:00"
+  },
+  "2145947ff101ced7d23d345a3558909ca9c587452bba93bee87a472238b28370": {
+    "title": "Googleの｢Gemini｣、月間アクティブユーザー数が10億人を突破 - 気になる、記になる…",
+    "seen_at": "2026-08-12T00:50:45.103573+00:00"
+  },
+  "d561bfe675c5a6c3bbab45a71b8a24c1c6909e163ab92edfbe070a1a65638ba3": {
+    "title": "GeminiアプリのMAUが10億人を突破　Googleで14番目の大台到達製品に - Infoseek",
+    "seen_at": "2026-08-12T00:50:45.103576+00:00"
+  },
+  "d935f9bca98aeb234850a1676e5f0805d15eef77aa449f058b3175885ab1632f": {
+    "title": "情シス向け ― 自社のAIエージェントが「何で動いているか」を可視化する「untactit」が日本語対応 - Newscast.jp",
+    "seen_at": "2026-08-12T00:50:45.635124+00:00"
+  },
+  "012937db9f4ca3ba674e5081e51aad98dbd9fa376b0bd903e0691ae686d41046": {
+    "title": "Meta、ノートPCで動くAIエージェント向け新モデル「Muse Glimmer」を公開 - japan.cnet.com",
+    "seen_at": "2026-08-12T00:50:45.635130+00:00"
+  },
+  "a27456bedc42aec5e69ad2b1d7942f94248b00052dab249af5a324bebf1fcebd": {
+    "title": "ウェザーニュース for businessに気象AIエージェント - innovaTopia",
+    "seen_at": "2026-08-12T00:50:45.635135+00:00"
+  },
+  "b58ef6c8cd7ce94a6e392dba10cfc138a7cf8af47cc5a10d4b3dd6a3830c9a74": {
+    "title": "SpaceXAI、業務向けAIエージェント「Grok Bot」ベータ版公開 Cursorと共同開発 - 디지털투데이",
+    "seen_at": "2026-08-12T00:50:45.635139+00:00"
+  },
+  "2d47469252ec21a78b659375a2d3ee153e9c8ef40efc2541975d7b74ad27aa6c": {
+    "title": "We quantized DeepSeek V4 0731 and benchmarked it against popular quants on 8× RTX 5090",
+    "seen_at": "2026-08-12T00:50:46.882020+00:00"
+  },
+  "72a548a16e5d9d21c6f55c5e2d66ddf2500c942451a599d1c3273238f906c8c5": {
+    "title": "Anthropic, OpenAI, Google, Meta, Microsoft, and Mistral all signed the EU Code of Practice on Transparency of AI-Generated Content",
+    "seen_at": "2026-08-12T00:50:46.882028+00:00"
+  },
+  "66afade0af6baff6f25f79105beeb02eb990bee39cca92f1d8b041de4960c12c": {
+    "title": "I tested the CMP170HX",
+    "seen_at": "2026-08-12T00:50:46.882031+00:00"
+  },
+  "4d4bb3bd74f583ead81f744c87102be8d33baeaed218331dc4bd10224dd0a256": {
+    "title": "Can Gemma and Qwen models catch hallucinations by looking at their own logprobs?",
+    "seen_at": "2026-08-12T00:50:46.882035+00:00"
   }
 }
