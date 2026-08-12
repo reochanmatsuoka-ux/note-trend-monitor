@@ -8238,5 +8238,65 @@
   "6d24ac70adf283bd4d4b140c3af1def17e9991c3c33a440aa9a55c584e2633e6": {
     "title": "Idea for a deepseek-v4-flash-0731 backed automated research workflow to be leveraged via qwen3.6/3.8 27b for difficult tasks that require highly technical, not easy to find information.",
     "seen_at": "2026-08-12T15:46:17.308131+00:00"
+  },
+  "d4ec80e51e4e1e4cebcbdc0e0ec4ef5b2e9d2d3642fec8c1c3fd956b93bc7bdb": {
+    "title": "【2027年卒 就活・採用川柳】生成AI、初任給、採用早期化……就活・採用の「今」を映す21作品が決定 - HRプロ",
+    "seen_at": "2026-08-12T18:43:19.572535+00:00"
+  },
+  "996eced9ae454763015ae0b6e2a3a9e413a5f40daa1605af69d187555d774676": {
+    "title": "毎日新聞が掲載した被災者の写真を生成ＡＩで加工か、偽画像がＳＮＳで拡散…「被災の実情が否定された気持ち」 - Yahoo!ニュース",
+    "seen_at": "2026-08-12T18:43:19.572556+00:00"
+  },
+  "831c5caba91f0aa87ab63dac4f19c8eed41f66b6ebdd7d46914e302c526277a9": {
+    "title": "LLMナレッジベース：実践ガイド — Ben Holmes（Warp）｜AI Engineer - BigGo ファイナンス",
+    "seen_at": "2026-08-12T18:43:19.572560+00:00"
+  },
+  "a2aa65925a7bfa27ee1395fb7a766ea0c28ab036d8e8b0a8f5df58f20fee1fcd": {
+    "title": "Anthropic、Claudeがリーマン予想の下限値を67.2%に更新｜証明できずに生まれた副産物 - innovaTopia",
+    "seen_at": "2026-08-12T18:43:20.101952+00:00"
+  },
+  "ae62f1e8f7048cac658d15af4bc0a84c8b109bb118a7a5a2ffd6f5239939587e": {
+    "title": "OpenAI、ChatGPT Businessに月額125ドルの「Premium」プランを追加　5時間制限を撤廃 - 財経新聞",
+    "seen_at": "2026-08-12T18:43:20.626349+00:00"
+  },
+  "ce50e0c8d6e18a65b97f41780a08e91d9ccf202735817ef00c84070e8b560d75": {
+    "title": "OpenAI、ChatGPTの利用制限を“取り消す”極秘8ドルボタンを試験導入 - Yellow.com",
+    "seen_at": "2026-08-12T18:43:20.626360+00:00"
+  },
+  "a900c7d043aaf368557705acd51b8e393318a0b677ff820ec42bf1b6dac9be1e": {
+    "title": "Chelsea Finn: Robotics Is Close To A ChatGPT Moment｜Y Combinator Startup Podcast - BigGo ファイナンス",
+    "seen_at": "2026-08-12T18:43:20.626364+00:00"
+  },
+  "9e978d8032cfe44f150601a41c9cf5fb9c594fd716b5b5c19fe8abc7134d98ba": {
+    "title": "中国招商銀行のリテールAUMが18兆人民元突破、AIエージェント「人＋Agent」モデルが本格始動 - BigGo ファイナンス",
+    "seen_at": "2026-08-12T18:43:21.845395+00:00"
+  },
+  "7d2775b67110bdfea0d4071db1f980b0fb2ee12eee9f482f3dddcf11d43b8637": {
+    "title": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に - PC Watch",
+    "seen_at": "2026-08-12T18:43:21.845401+00:00"
+  },
+  "173ff1552c5a4440f783d64949dc5470af40ff2b42ab264d7cb4a585a6d5b469": {
+    "title": "Today is Models Day",
+    "seen_at": "2026-08-12T18:43:26.277223+00:00"
+  },
+  "60592b5ac85d8d41a5a28d9663229eab4b4b9838485ad9955c42f8c57b71cf0a": {
+    "title": "Benched a 124B on one DGX Spark for a week and published all of it — 38.7 tok/s on the fastest path he found, 2.4x DeepSeek V4 Flash on the same box",
+    "seen_at": "2026-08-12T18:43:26.277230+00:00"
+  },
+  "9eddca8e1e4a0e86ede2493865e2f0a2e192733ec6945c5d63d4fd872fb6843b": {
+    "title": "Which Qwen3.8 model size do you want the most?",
+    "seen_at": "2026-08-12T18:43:26.277233+00:00"
+  },
+  "9b9802bc70198df4f7c199192148afd198d8ec16bbaf42c11162e805127fcedd": {
+    "title": "CohereLabs/North-Micro-Vision-Instruct · Hugging Face",
+    "seen_at": "2026-08-12T18:43:26.277236+00:00"
+  },
+  "be20fde9ebc850f7ebbc54aed22e37717013ebb280cfa42b5cf08e917def6abc": {
+    "title": "GitHub - Liquid4All/cookbook: Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK",
+    "seen_at": "2026-08-12T18:43:26.277240+00:00"
+  },
+  "c777cc6c9987a0b03a7e84db15b64caa6ea2cec38f1742b1ba1dae4b058c1946": {
+    "title": "Best models 14b and smaller as of today?",
+    "seen_at": "2026-08-12T18:43:26.277243+00:00"
   }
 }
