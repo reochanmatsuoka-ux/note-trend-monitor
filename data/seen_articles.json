@@ -8150,5 +8150,93 @@
   "4d396ef91e4112e456631229396ce73366971d7220bfc75ed38fdbd0c22add85": {
     "title": "I ran Qwen3.5-0.8B on a sub-$20 CPU chip in under 512MiB of memory",
     "seen_at": "2026-08-12T12:37:58.149830+00:00"
+  },
+  "a501327e6bae5917a11dc06eea57280db9636c64f54204b958aab22b65540fd2": {
+    "title": "毎日新聞が掲載した被災者の写真を生成ＡＩで加工か、偽画像がＳＮＳで拡散…「被災の実情が否定された気持ち」 - yomiuri.co.jp",
+    "seen_at": "2026-08-12T15:46:13.043306+00:00"
+  },
+  "3969e3d8d3d0a0c301c0b6edf03cd7da71f0d51ca051b8f2d90c6b127dd8c0f3": {
+    "title": "女性生徒にわいせつ映像見せた男性教師を懲戒免職 生成AIで同僚教師の水着画像作成の教師は停職6カ月 神奈川県教育委員会（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
+    "seen_at": "2026-08-12T15:46:13.043315+00:00"
+  },
+  "01954324d9049aa59178ad840918b0de42f07c6364fcf1d397fae89dbdca6d23": {
+    "title": "AnthropicのClaudeがリーマン予想の関連問題で従来記録を大幅に更新 (2026年8月12日掲載) - ライブドアニュース",
+    "seen_at": "2026-08-12T15:46:13.585779+00:00"
+  },
+  "732f4888dcaaf3891b2da8dbc9d28ff31a86752fc308af62dd8da4dd85dbd266": {
+    "title": "Claudeが生成文章に「電子透かし」　AI利用を見抜ける時代へ…問われる「どこまでAIを使ったか」 - ｄメニューニュース",
+    "seen_at": "2026-08-12T15:46:13.585791+00:00"
+  },
+  "f6abbe1cc28ce9b2b1f9b97df01b2f5a8097c08996a5732c2c061bcd920b00df": {
+    "title": "OpenAIが作る“画面のないAI端末”。スマホ時代の次に来る「AIを持ち歩く時代」とは｜吉川真人＠中国テックトレンドニュース - note",
+    "seen_at": "2026-08-12T15:46:14.120894+00:00"
+  },
+  "926b83158d09cb491bf40e0832d63bee82e9bbe21db1b165da779d558990a5db": {
+    "title": "OpenAI、70億ドルの従業員株買い取りを実施　評価額8520億ドルを維持 - 財経新聞",
+    "seen_at": "2026-08-12T15:46:14.120903+00:00"
+  },
+  "5844deaf979ee1001513a66b042a7a49e92d2f239a71f24f81e99ab6191c6b5e": {
+    "title": "OpenAIのセキュリティ特化AI「GPT-5.6-Cyber」、Chromeのゼロデイ脆弱性を発見 - 財経新聞",
+    "seen_at": "2026-08-12T15:46:14.120908+00:00"
+  },
+  "5420e9118576a73ae2fa7f87ff600c4eb8c863fb0fce592c68e500c9be452aaf": {
+    "title": "AIエージェントの「不正なファイル操作」「危険なコード生成」といった問題をReddit投稿から抽出した研究結果 - GIGAZINE",
+    "seen_at": "2026-08-12T15:46:15.216273+00:00"
+  },
+  "a3862b32dcaa941fbbf5914c722c288f7159221345cb5007fba825b9e8f4b37a": {
+    "title": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に（PC Watch） - Yahoo!ニュース",
+    "seen_at": "2026-08-12T15:46:15.216279+00:00"
+  },
+  "0c7cfa97d23de94e32a5e3987c748b9edb7f1f433990c5389052726fe181ec5b": {
+    "title": "RL環境の解説：AIエージェントが実世界の仕事を学ぶ仕組み｜Brendan Foody（Mercor）｜Sequoia Capital - BigGo ファイナンス",
+    "seen_at": "2026-08-12T15:46:15.216284+00:00"
+  },
+  "10c74a10886a605086f398a0008a5b3c7d8dc1925d257abb5f1811b4e7be1d28": {
+    "title": "GoogleがスマホをAIエージェント化、Androidは目的を伝えるだけで作業を実行 - Межа. Новини України.",
+    "seen_at": "2026-08-12T15:46:15.216287+00:00"
+  },
+  "d336ecc7cb184e76330270d5081af27d6eb8555aabf8806e762c3734f88fe534": {
+    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+    "seen_at": "2026-08-12T15:46:16.512046+00:00"
+  },
+  "d0dd0b27717df2e1cb76f411c6722681325b200090be83e8ec97fccd65740a22": {
+    "title": "Qwen3.8-2.4T-A95B Released",
+    "seen_at": "2026-08-12T15:46:17.308097+00:00"
+  },
+  "5da1b807a0e52d978ac8c807b609035477daba49d05396865740e98a1b356d3c": {
+    "title": "Exact Qwen 3.8 27b release date and time",
+    "seen_at": "2026-08-12T15:46:17.308102+00:00"
+  },
+  "673889a2480ad9de644c8e1c4132b243310d8b4f901ed4e97fb3f7c567563d29": {
+    "title": "NVIDIA's Fastest Blackwell GPU, the 96 GB RTX PRO 6000, Now Costs $16,000, Almost Double Its Original Price",
+    "seen_at": "2026-08-12T15:46:17.308105+00:00"
+  },
+  "10858d0c6372964876f896fec1e9f03efdef45927fa33986a074de38c9a52aa0": {
+    "title": "Qwen/Qwen3.8-2.4T-A95B · Released!",
+    "seen_at": "2026-08-12T15:46:17.308111+00:00"
+  },
+  "6666132f17933a076c7b9a4a243199ff0f3e106a6072bf7d480955d4b9e95a9f": {
+    "title": "DeepSeek-V4-Pro-0813 is UP!",
+    "seen_at": "2026-08-12T15:46:17.308114+00:00"
+  },
+  "9d5be3c76fb2531e37917269074403124a0ff5b8debe1ad00b5a55347713a0ed": {
+    "title": "Qwen3.8-Max",
+    "seen_at": "2026-08-12T15:46:17.308117+00:00"
+  },
+  "a3132a52321110dfa99b5c966f5d3a7bb783bf295a9f8a5bf3a8a85535b6f206": {
+    "title": "Qwen 3.8 2.4T is out , no 27b today RIP.",
+    "seen_at": "2026-08-12T15:46:17.308121+00:00"
+  },
+  "0a06380444ed2ca49e8d16f2569633be7603e60fb5c7a2e24fb8ae7b6386d42c": {
+    "title": "LiquidAI/LFM2.5-VL-3B · Hugging Face",
+    "seen_at": "2026-08-12T15:46:17.308124+00:00"
+  },
+  "8ef11a12e71dc4f9dfa057836b0078ef26ab414a505b7dc374d29269d3bc77cd": {
+    "title": "Gemma 4 QAT handles KV cache quantization MUCH better, KLD benchmarks show",
+    "seen_at": "2026-08-12T15:46:17.308128+00:00"
+  },
+  "6d24ac70adf283bd4d4b140c3af1def17e9991c3c33a440aa9a55c584e2633e6": {
+    "title": "Idea for a deepseek-v4-flash-0731 backed automated research workflow to be leveraged via qwen3.6/3.8 27b for difficult tasks that require highly technical, not easy to find information.",
+    "seen_at": "2026-08-12T15:46:17.308131+00:00"
   }
 }
