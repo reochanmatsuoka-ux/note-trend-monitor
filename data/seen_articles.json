@@ -8922,5 +8922,65 @@
   "f7d3fdb9b6f465a8a94e35333510347a7915b2ac3da1a12b7546b744f189271c": {
     "title": "DeepSeek-V4-Pro-0813 released on api",
     "seen_at": "2026-08-13T12:38:51.052949+00:00"
+  },
+  "1045a1b05f2087102d7f38b5a307cb5564d3b443aac9462bd12f7798b58e6325": {
+    "title": "「先生、AIを使っていますか？」にどう答えるべき？ - 日経メディカル",
+    "seen_at": "2026-08-13T15:45:36.822988+00:00"
+  },
+  "0f35d2696b9ae8661a5305e811a8d7d5d5932fdf466667218bbe1adb1374bb5b": {
+    "title": "生成AIハッキング術が発行へ、MCP活用した合法実践ガイド - Koubo",
+    "seen_at": "2026-08-13T15:45:36.822994+00:00"
+  },
+  "947f2c01233d155c105a23e8b2bf11060054ba167e0e3903878a4cdbf33e5caf": {
+    "title": "ChatGPT対Gemini、勉強で本当に使えるのはどっち？現役学生が徹底比較レビュー（ライフハッカー・ジャパン） - Yahoo!ニュース",
+    "seen_at": "2026-08-13T15:45:38.043514+00:00"
+  },
+  "9d0a5e6df515ac1ff7a678c6cacdd0544c0dea8856537f4c4823e026bb02d339": {
+    "title": "IBM、OpenAIの最上位パートナーに加入…数千人規模の専任組織を発足 - finance.biggo.jp",
+    "seen_at": "2026-08-13T15:45:38.043518+00:00"
+  },
+  "78efdfea1caeb3da4e093355ad94b232864bac2dc88ec6a95021b26aff16b0ac": {
+    "title": "IBM、株価25％急落から1カ月でOpenAI「GPT-5.6」に賭ける - Yellow.com",
+    "seen_at": "2026-08-13T15:45:38.043525+00:00"
+  },
+  "080c4eccfcc6a8d5d477ee2f863619753bffeed8a7482f99ca9f0bfe05c291cd": {
+    "title": "中国発AIエージェント「Manus」Metaによる約3000億円の買収破談、中国当局の差し止め（ビジネス＋IT） - Yahoo!ニュース",
+    "seen_at": "2026-08-13T15:45:39.204488+00:00"
+  },
+  "e445b4b41bc690edf917dc22b9728aa44317dbbefb48ac511d42e2cc59a1809c": {
+    "title": "継続学習：AIエージェントが使用ごとに向上する仕組み | Arjun Karanam（Trajectory）｜Sequoia Capital - finance.biggo.jp",
+    "seen_at": "2026-08-13T15:45:39.204498+00:00"
+  },
+  "fa84222dd3ed55a16f311eb39fa6c683376a3859b234cf7af64290b2db027d49": {
+    "title": "DeepSeekがV4 Proを正式発表、AIエージェント強化と事業拡大を加速 - Межа. Новини України.",
+    "seen_at": "2026-08-13T15:45:39.204500+00:00"
+  },
+  "653e4c6d9da01ffdcec8fc46644c5c278f88db8d4a3948389502913469b00e60": {
+    "title": "Choosing an AI model: one prompt, 11 models, different results",
+    "seen_at": "2026-08-13T15:45:50.925452+00:00"
+  },
+  "0ef76c76923ce5f3593299646d6a567ef7433893196676bf21c4be41f6be0efc": {
+    "title": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
+    "seen_at": "2026-08-13T15:45:51.603341+00:00"
+  },
+  "0cf33d4bc508e4e6929100f6171b6e02e5ee6e31722c7eac55c1d7ecd4e83d71": {
+    "title": "Deepseek Harness is Up!",
+    "seen_at": "2026-08-13T15:45:51.603346+00:00"
+  },
+  "dfb6dbbb60aea773c34812fe4ff2888c3c34b1919e49c322db42b8276818344a": {
+    "title": "unsloth/DeepSeek-V4-Pro-0813-GGUF · Hugging Face",
+    "seen_at": "2026-08-13T15:45:51.603351+00:00"
+  },
+  "8575da3083d06f9f6a1a279b4527f7bc5c8c53212d72419d58f807ebf6c56a29": {
+    "title": "Deepseek new pricing",
+    "seen_at": "2026-08-13T15:45:51.603355+00:00"
+  },
+  "840277026b41848a2ac5863d0bfdf561d75c4def39c75c709cd887fc3f8075f9": {
+    "title": "SenseNova-Vision: a 7B open model that does segmentation, depth, detection, OCR, and 3D reconstruction with no task-specific heads",
+    "seen_at": "2026-08-13T15:45:51.603358+00:00"
+  },
+  "645ae5d314755418ae085e4a3d931d72e30e605dd081e458dd455342e6b3d1f1": {
+    "title": "GitHub - deepseek-ai/deepseek-harness",
+    "seen_at": "2026-08-13T15:45:51.603361+00:00"
   }
 }
