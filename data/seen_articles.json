@@ -9850,5 +9850,33 @@
   "1cc65f885956be3f744685dc8c282b59f0c6418c74e30a7adadc678e35a4edcb": {
     "title": "Why don't we have p2p similar to torrents for AI model transfers",
     "seen_at": "2026-08-14T18:37:25.212219+00:00"
+  },
+  "38e4ff934a7a56bbc3edd60ad9542c17871b54bee033a461eec8e2b4442871a1": {
+    "title": "Muse Glimmer was frontier In the model class around 30b models for four days.",
+    "seen_at": "2026-08-14T21:13:42.513688+00:00"
+  },
+  "18428a07abbf9aa2015139e470b3febfbbaafb6f819953ead47c83b09cd8a3dd": {
+    "title": "Why my post was deleted ?",
+    "seen_at": "2026-08-14T21:13:42.513696+00:00"
+  },
+  "3dfb7b9f8ea6218a1dfa8733c856d71dfbc2c72eae0f7fae86a0ef7085bbb208": {
+    "title": "Stop shitting on 9B models",
+    "seen_at": "2026-08-14T21:13:42.513700+00:00"
+  },
+  "104f42f245c3b747a6d1cf5afd00aa8ab99b7b9aa4e36d74be679fcb5ec9ced6": {
+    "title": "The difference between \"medium\" and \"xhigh\" reasoning effort for Qwen3.8-27B is actually insane.",
+    "seen_at": "2026-08-14T21:13:42.513711+00:00"
+  },
+  "7f5d21cf535039a670f54fbe21e2dde975aceaedf114db663c03ed155e61e27e": {
+    "title": "Local uncensored Opus 4.6 at home - Qwen3.8 27B heretic",
+    "seen_at": "2026-08-14T21:13:42.513714+00:00"
+  },
+  "9344f053baaa01c5928e72ccb6306653c7f793e68ca387cd486f1cbc4d1b2913": {
+    "title": "Fixed/improved Jinja chat template for Qwen 3.8",
+    "seen_at": "2026-08-14T21:13:42.513718+00:00"
+  },
+  "1e75796cf10bbd6a0c68463cee88f4654b19bbde839d9da98bec5299c8a82342": {
+    "title": "A 150M param recurrent model scores 29.5% on ARC-AGI-1 at $0.0007 per task",
+    "seen_at": "2026-08-14T21:13:42.513721+00:00"
   }
 }
