@@ -9262,5 +9262,237 @@
   "7e170a583e6538c4755899a93ef25aea822b9b93fc678b7a5963cb159e642a88": {
     "title": "Qwen3.8 2.4T UD-Q1_0 - 178 token generation - 11 min 38s - 0.25 tokens/sec",
     "seen_at": "2026-08-14T00:51:56.217513+00:00"
+  },
+  "c589d74a342aa03aa249d02843fc5e8f09c08b12376c9cf12e0a14c7bdac8f98": {
+    "title": "【SHElikesが「全国AI力調査」を実施】生成AI利用者は約7割に広がる一方、「使いこなせている」は約4割。仕事の成果につなげる「AI力向上」の公式は「場数×コミュニティ」 | SHE株式会社のプレスリリース - PR TIMES",
+    "seen_at": "2026-08-14T04:39:56.684576+00:00"
+  },
+  "b3237662c8ca16da436382cfe2d4536838f614fb1367119026643e51ebd3d848": {
+    "title": "中国発Sand.ai、160億円超調達 動画生成AIの商用化を加速 - Yahoo!ニュース",
+    "seen_at": "2026-08-14T04:39:56.684584+00:00"
+  },
+  "92c209eedd86c11888787c7b25bdfaf62937bcb96ab3d08e50f65ec39ea25e54": {
+    "title": "「生成AIはどこまで言葉を理解している？」「外国語の学習はまだ必要？」――「ゆる言語学ラジオ」×認知言語学者の鼎談で見えた、AI時代の“言語学”の役割《サムソナイト・ブラックレーベル銀座店で開催》 - 文春オンライン",
+    "seen_at": "2026-08-14T04:39:56.684588+00:00"
+  },
+  "eabfa2101e41e03d1f95272abde60bacb7ac2bd0b287318a7c98c4b04ddc1531": {
+    "title": "生成AI、7割が「チャット止まり」 “使い方”で生産性に大きな違い：活用フェーズが進むほど成果を実感 - ITmedia",
+    "seen_at": "2026-08-14T04:39:56.684592+00:00"
+  },
+  "c829fbce481655d717febc1fa2010ae803938accc571507e03315bc94b6636ba": {
+    "title": "Upstage、新LLM「Solar Pro 4」を公開…韓国LLMとして初めてOpenRouterに正式登録 - BigGo ファイナンス",
+    "seen_at": "2026-08-14T04:39:56.684596+00:00"
+  },
+  "063cf03c350d63d07fd8a61f63cab04a81fef1ca37a2cc1d12040108e22b8a33": {
+    "title": "中国MiniMax、音楽生成AI「Music3」を無償公開 日本語ボーカルで最大5分の楽曲をローカル生成可能に - BigGo ファイナンス",
+    "seen_at": "2026-08-14T04:39:56.684600+00:00"
+  },
+  "a7a7aece97ec1312e7f173c9aca58174230256906a13a1a71ad81054d288c0e9": {
+    "title": "ローカルLLM搭載でAIキャストとの会話を存分に楽しめる！ 「コンセプトカフェシミュレーター」 - 株式会社インプレス",
+    "seen_at": "2026-08-14T04:39:56.684603+00:00"
+  },
+  "7c81cbd309ecd774d633aaffd43d02d8f640bc3dd2f8336b9954fce542df164a": {
+    "title": "【9月3日(木)19:00～】生成AI人材の育成が本格化─DX・AI推進担当者向け「プロンプトから進化したコンテキストエンジニアリング・ハーネスエンジニアリング」実践講座＆ネットワーキングを渋谷で開催 - PR TIMES",
+    "seen_at": "2026-08-14T04:39:56.684607+00:00"
+  },
+  "23f3bf96ad6edb42344ca25fb9fba76f09eadc74ca794f30f62554c5f531d417": {
+    "title": "コミクス、製造業向け伴走型の「生成AI活用支援パック」の提供開始 - ICT教育ニュース",
+    "seen_at": "2026-08-14T04:39:56.684611+00:00"
+  },
+  "34257b8fe67e51440bd58b239d1f8b2782ae9d46e31e6a505b4c73a45be32f59": {
+    "title": "人工知能プロンプトマーケットプレイス市場は2035年154億米ドルへ、CAGR 25.2％で急成長｜生成AI活用の高度化と企業向けプロンプト需要が市場拡大を加速 - Newscast.jp",
+    "seen_at": "2026-08-14T04:39:56.684615+00:00"
+  },
+  "693e6fe1d2794463da7ad8cab2777a1c9225806558577fb771f83d80bd9ae6c3": {
+    "title": "サイコム、AI・LLM 開発、RAG、データサイエンス向けWS「Lepton Twin GPU Edition」販売開始 - ICT教育ニュース",
+    "seen_at": "2026-08-14T04:39:56.684618+00:00"
+  },
+  "0c9ad7306809a70953797698cc1ef7782a185b6f5babc768a792c87185897eea": {
+    "title": "プレスリリース：NVIDIA DGX Spark上に「AT-SYNAPSE」のローカルLLM／VLM環境を構築（PR TIMES） - mainichi.jp",
+    "seen_at": "2026-08-14T04:39:56.684621+00:00"
+  },
+  "1455e8447b2cb4960aff6613a1008f0de0d3b30df7f2531b1af40260a5dfc6f5": {
+    "title": "生成 AI（人工知能）がイメージを吐き出す時代に、芸術は何ができ、何でなければならないのか。 ニューヨークのソロモン·R·グッゲンハイム美術館は、この質問を担当する場を2023年に新たに設けた。 LG.. - 매일경제",
+    "seen_at": "2026-08-14T04:39:56.684624+00:00"
+  },
+  "2b629bcb17c5551c2f2df64f6f25e65d873cc682bc7de3f511ed1c3e35a8f5b8": {
+    "title": "MiniMaxが動画生成AIに続いて音楽生成AI「MiniMax-Music3」を無償公開、ローカルで最大5分の日本語ボーカル付き楽曲を生成可能 - GIGAZINE",
+    "seen_at": "2026-08-14T04:39:56.684627+00:00"
+  },
+  "85c7edf15ca43ad8f48019923cb10e61822132c76e9f25e75df17b8eb25aed49": {
+    "title": "生成AIに聞いた「広島県の家族向け夏スポット」 国営備北丘陵公園が県内最多登場 - ニコニコニュース",
+    "seen_at": "2026-08-14T04:39:56.684634+00:00"
+  },
+  "0250b23dd5b8696cfe1873d06890af12ba87c6330a3988f2ec40b41859efea8c": {
+    "title": "大韓航空 生成AIで整備欠陥分析を稼働 - CHOSUNBIZ - Chosunbiz",
+    "seen_at": "2026-08-14T04:39:56.684638+00:00"
+  },
+  "eab8153edd2caae73b6b8d7add5ddb4f1173c903a2391bf05408585d8a89f582": {
+    "title": "【参加無料】生成AI時代の高度IT人材をどう育てるか──日越の産学連携による「ベトナム・日本 - ニコニコニュース",
+    "seen_at": "2026-08-14T04:39:56.684640+00:00"
+  },
+  "94276507c8d57a548083a73c0190dd2ff8f1c89a058400953cdafcb85eb9d9e8": {
+    "title": "AIの回答から元の質問文を復元：PTPが1応答で64.77%完全一致 - XenoSpectrum",
+    "seen_at": "2026-08-14T04:39:56.684643+00:00"
+  },
+  "bf52362e2df595fd0e102fc37d9bbafa7c113abe7d5f6e5d47ba66bfd0fd0000": {
+    "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開（ITmedia NEWS） - Yahoo!ニュース",
+    "seen_at": "2026-08-14T04:39:57.394986+00:00"
+  },
+  "cac31b4931b20b7016383471efe98e9334ca0bc0099e69e46aa903fc0885440d": {
+    "title": "「リセット待ち」不要に。自動再開可能になったClaude DesktopのCode機能（PC Watch） - Yahoo!ニュース",
+    "seen_at": "2026-08-14T04:39:57.394991+00:00"
+  },
+  "d40a02480e18e7c06618c5c57cf527f9e32021900e9eea3d1f34e2e1c0191963": {
+    "title": "「Claude Code」の既定が「自動」モードに ～おざなりな確認よりむしろ安全（窓の杜） - Yahoo!ニュース",
+    "seen_at": "2026-08-14T04:39:57.394994+00:00"
+  },
+  "3fd7485abce1dd1c32198f60339fe54d6a04f69265e82141cd7c9416ad187770": {
+    "title": "OpenAI、「Linux」向けに「ChatGPT」デスクトップアプリのプレビュー版を公開 - ZDNET Japan",
+    "seen_at": "2026-08-14T04:39:57.940481+00:00"
+  },
+  "2afc490cea87dff9e1e9428156f1743643377120d60020de953d06a2070bc13d": {
+    "title": "米OpenAIの年間売上高が400億ドル超に、Codex、ChatGPT Work導入急増（ビジネス＋IT） - Yahoo!ニュース",
+    "seen_at": "2026-08-14T04:39:57.940487+00:00"
+  },
+  "df6935d44be2d23386ee35d8445d4e482a542ab2056098946873191dd261a1fe": {
+    "title": "ChatGPTで「担当外」の仕事をする人たち。80万件の利用データから見えた3つの仕事 - businessinsider.jp",
+    "seen_at": "2026-08-14T04:39:57.940490+00:00"
+  },
+  "91204eeccbe3fdadacd26cc7841434044303674bca3495687ab759ab73dd321a": {
+    "title": "ChatGPTデスクトップ版がLinuxに登場：Codexが初めてローカルコードベースと端末にアクセス - BigGo ファイナンス",
+    "seen_at": "2026-08-14T04:39:57.940496+00:00"
+  },
+  "d71f0b1d6459a6e5481dbe50f8a0c7e2d18ce8e638b6fb907ccf7e0882fb39e3": {
+    "title": "AIエージェント時代の画像生成実践講座（全2回） ～ChatGPT Workで学ぶ画像制作・業務活用・著作権の基本～ - CREATIVE VILLAGE",
+    "seen_at": "2026-08-14T04:39:57.940500+00:00"
+  },
+  "ec6d541569b200e425b9536f548d650768ce9a1bddd74671d8b9897ba5b55d65": {
+    "title": "OpenAI、「GPT-5.6 Sol」を最大14倍速く動かす「Ultrafast」モードを発表（窓の杜） - Yahoo!ニュース",
+    "seen_at": "2026-08-14T04:39:57.940503+00:00"
+  },
+  "631876736a86fb6f18a703cd910b8385960d4969522c7ee9b67d4ed56e72c84b": {
+    "title": "OpenAI、GPT-5.6 Sol向け超高速モード「Ultrafast」を発表——最大14倍の出力速度を実現 - BigGo ファイナンス",
+    "seen_at": "2026-08-14T04:39:57.940506+00:00"
+  },
+  "1dc33972f87b06100a8c3209945d0b9c3a81605283bdcda3cb3f424c9d5d5ec4": {
+    "title": "ChatGPT中核貢献者の姜旭氏が亮源新創を創業、数億元のプレAラウンド調達を完了 - BigGo ファイナンス",
+    "seen_at": "2026-08-14T04:39:57.940510+00:00"
+  },
+  "29bff750b06873fa397d00f4175c2628303a008e1391cfca3397e56c04dff9e9": {
+    "title": "米OpenAIの年間売上高、400億ドルを上回る見通し－IPOの追い風に（Bloomberg） - Yahoo!ニュース",
+    "seen_at": "2026-08-14T04:39:57.940513+00:00"
+  },
+  "8e81169a5848ddf748cd4d08a3ed9a2c79387250abf743022aa53c578830cf74": {
+    "title": "母と弟を殺害した10代の少年がChatGPTにアイデアを求めていたことが判明 - GIGAZINE",
+    "seen_at": "2026-08-14T04:39:57.940516+00:00"
+  },
+  "14495762ee93bd60204542a504a035f3e5f0faeeedf198e0a4eb3b1e614685da": {
+    "title": "Linux版「ChatGPT」公式アプリが登場、UbuntuやDebianなどに対応 - japan.cnet.com",
+    "seen_at": "2026-08-14T04:39:57.940520+00:00"
+  },
+  "02aa11848567559003235976fe33756f46e353857c0565b0f8a091f5082e11f4": {
+    "title": "ChatGPT for Mac「Computer History」登場｜Macの作業履歴をAIの「記憶」に - innovaTopia",
+    "seen_at": "2026-08-14T04:39:57.940524+00:00"
+  },
+  "15c3309f11003106de69f5b0a80aa21207bb011a600290cb07274732433a2f12": {
+    "title": "OpenAI、「GPT-5.6 Sol」を最大14倍速く動かす「Ultrafast」モードを発表 - 窓の杜",
+    "seen_at": "2026-08-14T04:39:57.940527+00:00"
+  },
+  "8dd2ba9ecfe03f6c9926431edaff04fa440415ba86c6789c51f290b2e7211db9": {
+    "title": "ChatGPTに自分のPC操作履歴を学ばせる機能「Computer History」が登場 - GIGAZINE",
+    "seen_at": "2026-08-14T04:39:57.940530+00:00"
+  },
+  "6b672563035d3dc0e74c2b5d34fa331a4525afa47ec55ce31fe2f41931471a1c": {
+    "title": "GPT-5.6 Solを最大14倍高速化する「Ultrafast」モードが登場 - GIGAZINE",
+    "seen_at": "2026-08-14T04:39:57.940533+00:00"
+  },
+  "dda7417fc3e2f43f0966946ab6bd540cbd7e3874b336ad5588bfdddc45e88ebc": {
+    "title": "100万トークン0.75ドルは破格！驚異の進化を遂げたGemini 3.7 Flash（PC Watch） - Yahoo!ニュース",
+    "seen_at": "2026-08-14T04:39:58.500643+00:00"
+  },
+  "ad2afe5828ff55b544218f9e6c3d6d7003197e58abe23fbd1a6c746c6a1ad538": {
+    "title": "グーグル、AIモデル「Gemini Flash」最新版公開－旗艦モデルなお遅れ - Infoseek",
+    "seen_at": "2026-08-14T04:39:58.500649+00:00"
+  },
+  "6ae56f48be9ed411b6265d675654a4449cbab7fe8c2be1ab34fd2d40d8a9c037": {
+    "title": "Stella AI、Google社の最新AIモデル「Gemini 3.7 Flash」を提供開始 - イザ！",
+    "seen_at": "2026-08-14T04:39:58.500652+00:00"
+  },
+  "d8f912056d141cae6c79139c59c4647e78e589d77ee364a89a323490a7e57c1a": {
+    "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格（ITmedia NEWS） - Yahoo!ニュース",
+    "seen_at": "2026-08-14T04:39:58.500656+00:00"
+  },
+  "bbc8c39e353e214e915b7c1fe0d083019da404519108670b8ecc4387e2415ea3": {
+    "title": "Gemini 3.7 Flash公開 主力モデルを3週間で更新、性能も大幅向上（Impress Watch） - Yahoo!ニュース",
+    "seen_at": "2026-08-14T04:39:58.500659+00:00"
+  },
+  "1710036d5acf9dbd616d559ee59d9165b330ec7860ac51cb81c586039e3f923c": {
+    "title": "グーグル、最新AIモデル「Gemini 3.7 Flash」公開 Gemini Sparkで提供 - ケータイ Watch",
+    "seen_at": "2026-08-14T04:39:58.500662+00:00"
+  },
+  "61b0995b643c500343e0c2bc8992892bf70311c7e0f80fe48c836a6411a56810": {
+    "title": "Stella AI、Google社の最新AIモデル「Gemini 3.7 Flash」を提供開始 - PR TIMES",
+    "seen_at": "2026-08-14T04:39:58.500664+00:00"
+  },
+  "decda32a0e03c27d73300a8361d0590b8b9b81040c40f7f68aa76dc29cebaf67": {
+    "title": "Gemini 3.7 Flash登場。前モデルからわずか3週間、価格は半額 - ゴリミー",
+    "seen_at": "2026-08-14T04:39:58.500669+00:00"
+  },
+  "36925d37df1fa37180bdbef02014f1a2bc8cc2ab0c12016cc94ccdc48bb5727a": {
+    "title": "Gemini 3.7 Flash公開 主力モデルを3週間で更新、性能も大幅向上 - Impress Watch",
+    "seen_at": "2026-08-14T04:39:58.500672+00:00"
+  },
+  "7b459617a40fdcc1f2b95a26bdb64fcf1b9b386cb37754a3e00c338487e38c09": {
+    "title": "グーグル、AIモデル「Gemini Flash」最新版公開-旗艦モデルなお遅れ（TBS CROSS DIG with Bloomberg） - Yahoo!ニュース",
+    "seen_at": "2026-08-14T04:39:58.500675+00:00"
+  },
+  "ca52035e1ee451f8a0fe5e9b8cc8ec8eca100137d4ea16d1b3f7656f6520d1cc": {
+    "title": "Googleが「Gemini 3.7 Flash」をリリース、Claude Sonnet 5やGPT-5.6 Terraに並ぶ性能で年末まではGemini 3.6 Flashの半額で利用可能 - GIGAZINE",
+    "seen_at": "2026-08-14T04:39:58.500677+00:00"
+  },
+  "162dc8ccf5f2425240081c651ceef3e54e02e748c6f8abc09a4fd4cfcefbd1a5": {
+    "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開 - ITmedia",
+    "seen_at": "2026-08-14T04:39:59.014775+00:00"
+  },
+  "165bc30b5a67478d25e528686a968ae479c4c6773b7c54bb6403ca7dff2cd0b3": {
+    "title": "米不動産王が明かす、AIエージェントで「100万ドル級の売上」を実現した方法 - Yahoo!ニュース",
+    "seen_at": "2026-08-14T04:39:59.014780+00:00"
+  },
+  "c527a32743b8bcb00664a21ce99a932c2c61067d23b2ccd694a8eac12df41ba7": {
+    "title": "【イベントレポート】AIエージェント時代、企業競争力を決めるのは『知識実装』ーー株式会社CAT.AI メディア勉強会 - Ledge.ai",
+    "seen_at": "2026-08-14T04:39:59.014784+00:00"
+  },
+  "5fa0f14c0c26b41eae64f7b30b05ecf210f96183a38d8d99a7137cfe6a9bd151": {
+    "title": "エージェントの乱立が引き起こすカオスに対処を─セールスフォースが唱える、AIの“コントロールプレーン”の必要性 - it.impress.co.jp",
+    "seen_at": "2026-08-14T04:39:59.014790+00:00"
+  },
+  "20b88d54b26b95a03c9b674dda5b896149c9fd3fe63b039f8f15627a5669b32a": {
+    "title": "「コゾカAI 受注AIエージェント V2」を8月にリリース - PR TIMES",
+    "seen_at": "2026-08-14T04:39:59.014793+00:00"
+  },
+  "912cb5100e8c28cc37c20e6c8a7dce0136409e9470e89b8e83709f973e25af39": {
+    "title": "【AI博覧会2026 Summer】株式会社Co-Labo - ニコニコニュース",
+    "seen_at": "2026-08-14T04:39:59.014801+00:00"
+  },
+  "3c540b18a18b08f542678d631174fa9d47b2d0c4bcb556870091efb6ba2f0dba": {
+    "title": "1BIT Qwen 3.8 2.4T a95b (unsloth iQ1_S) (MEDIUM Reasoning)",
+    "seen_at": "2026-08-14T04:40:01.340431+00:00"
+  },
+  "adb8807dabac42407cc372603f38fe95e50ede968119328213e1f734dcb25c70": {
+    "title": "Qwen 30b MoE - 30tps - 6GB vram - Done!",
+    "seen_at": "2026-08-14T04:40:01.340436+00:00"
+  },
+  "c806951101164e6ff476a907845e20effc6de283307fe8eb7d0df0b023d20d3c": {
+    "title": "Mistral is now hosting GLM-5.2",
+    "seen_at": "2026-08-14T04:40:01.340439+00:00"
+  },
+  "2e551b8164920c0f6240db5a418bd353beba28cf85d3349e274767be387b6f0a": {
+    "title": "DS4 cloud (30 min) vs Qwen3.6 36B (2 min) vs Muse Glimmer 30B (3 min) on Llama.cpp (RTX 5080)",
+    "seen_at": "2026-08-14T04:40:01.340442+00:00"
+  },
+  "86e55d4e5aa8e898a8bc68f9cf52e4cca5c2ce87b5ac0ede5cdab39b01985edd": {
+    "title": "If you don't like how DeepSeek V4 Flash 0731 talks, give Motif 3 NVFP4 a try (custom vLLM only) -- probably the most underrated model right now",
+    "seen_at": "2026-08-14T04:40:01.340445+00:00"
   }
 }
