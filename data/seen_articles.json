@@ -9494,5 +9494,93 @@
   "86e55d4e5aa8e898a8bc68f9cf52e4cca5c2ce87b5ac0ede5cdab39b01985edd": {
     "title": "If you don't like how DeepSeek V4 Flash 0731 talks, give Motif 3 NVFP4 a try (custom vLLM only) -- probably the most underrated model right now",
     "seen_at": "2026-08-14T04:40:01.340445+00:00"
+  },
+  "356c6ec5f9b78083b67c3b7beb80639e9225bd643254b8d7b056978e12be7ff3": {
+    "title": "AiHUBの生成AIツール「CW Canvas」がByteDance「Seedance 2.5」に対応。IP権利証明でフィルター解除できる「日本初」ツールのクローズドβ版ウェイトリストを公開 - PR TIMES",
+    "seen_at": "2026-08-14T07:02:50.166960+00:00"
+  },
+  "f10150c309152292b9f4a0f753bb691869fe4d544a3ecca0d783945b43d70677": {
+    "title": "厚労省、情報公開事務の迅速化に生成AI・RAG基盤を導入 どう構築したのか：職員の文書要約や回答作成を支援 - ITmedia",
+    "seen_at": "2026-08-14T07:02:50.166970+00:00"
+  },
+  "1a5c0e5ed8e7364764742f9ecf2824e8459ca5ba6c73a8a9289c12ee91c374d6": {
+    "title": "Appleが中国向け独自大規模言語モデルを開発、アリババと協力し人工知能戦略を転換 - Межа. Новини України.",
+    "seen_at": "2026-08-14T07:02:50.166977+00:00"
+  },
+  "beada4bb308a1c4d7a2054346a1cd792d774820070af8154003eededbcedfe32": {
+    "title": "Anthropic、Claude生成文に不可視の透かし EU AI法対応で波紋 - 디지털투데이",
+    "seen_at": "2026-08-14T07:02:50.732106+00:00"
+  },
+  "07267a16d86ea7fbe84acec5d14be1f91617435b105f1437cadbe1859a374eef": {
+    "title": "OpenAIの年換算売上高、25年末から倍増 法人向け好調で6.3兆円に - 日本経済新聞",
+    "seen_at": "2026-08-14T07:02:51.300061+00:00"
+  },
+  "824995dd3e7a3976a04ed4b7ae7042153babafe110c67b43b32ec9e30f59a38d": {
+    "title": "OpenAI、最大14倍高速な「ウルトラファストモード」 GPT-5.6 Sol（Impress Watch） - Yahoo!ニュース",
+    "seen_at": "2026-08-14T07:02:51.300069+00:00"
+  },
+  "1a6ea67872e9df5de6eb52c85579058399765931b03fbbbd5639ca26aed4614c": {
+    "title": "米スライブが投資家向け書簡、OpenAI主導の成長と持ち分売却計画判明(Bloomberg) - Yahoo!ファイナンス",
+    "seen_at": "2026-08-14T07:02:51.300080+00:00"
+  },
+  "ac201e7f1035984b23d45f4f150db6c98748b343ba6efaeee40fd8efe851191c": {
+    "title": "AIデータセンター建設で人材争奪、Meta・OpenAI・BlackRockが米労組と相次ぎ連携 - zaikei.co.jp",
+    "seen_at": "2026-08-14T07:02:51.300089+00:00"
+  },
+  "23d483ff0d4be13e4997f5849d7e98fbdfe3db38e5bea9c09422ad89646d1329": {
+    "title": "ChatGPT、PC操作やWeb閲覧履歴を記録し、作業の自動化を助ける機能 - PC Watch",
+    "seen_at": "2026-08-14T07:02:51.300091+00:00"
+  },
+  "7e7d8fa4a2228a0d3bb531b6efae758a3167a3f8b01f85fc9105e647b4b9850c": {
+    "title": "OpenAIとAnthropicが中国勢より実効コスト安 - CHOSUNBIZ - Chosunbiz",
+    "seen_at": "2026-08-14T07:02:51.300095+00:00"
+  },
+  "cd5ae751dd06a6caf221f435ef5f1260df1285c85498250bf9c607328ea8d125": {
+    "title": "グーグル、最新AIモデル「Gemini 3.7 Flash」公開 Gemini Sparkで提供（ケータイ Watch） - Yahoo!ニュース",
+    "seen_at": "2026-08-14T07:02:51.852469+00:00"
+  },
+  "bcf765fe0de6dae0a18aceb5d5d4b3e9b25dcbf406807e6c1b1cd2bae5ee9189": {
+    "title": "Googleがコーディング性能が向上した新AIモデル「Gemini 3.7 Flash」を公開 2026年内はAPIを従来の半額で利用可能 - Yahoo!ニュース",
+    "seen_at": "2026-08-14T07:02:51.852479+00:00"
+  },
+  "27d8f41d5e14863aa6cdeea950bf388d119ab380eeb61b9f9f30e8f64f6882a7": {
+    "title": "もうGemini 3.7 Flash登場、先代から3週間 コーディングとエージェント性能向上で年内半額 Gemini SparkとAPIから提供 - テクノエッジ TechnoEdge",
+    "seen_at": "2026-08-14T07:02:51.852485+00:00"
+  },
+  "437cf28dadd32466b9567bf38c9d3c6e922ceac7250f5be4d0415a7a93849abe": {
+    "title": "「Gemini Notebook」（a.k.a. NotebookLM）が情報ソースを自動で追加可能に - 窓の杜",
+    "seen_at": "2026-08-14T07:02:51.852491+00:00"
+  },
+  "b8b205edc45657fda752399a3bb68885fc77fcade76d4b9aa44be56a0f5efb3c": {
+    "title": "Gemini 3.7 Flashがローンチ価格を半減、DeepSWEで65.3%を記録 - Yellow.com",
+    "seen_at": "2026-08-14T07:02:51.852496+00:00"
+  },
+  "bcc581d907ec9a16a8384f59dc2fe6259a761db21deb7ed0121500b88f64ba48": {
+    "title": "DeepSeek、すべてがプラグインでできたAIエージェント基盤「DeepSeek Harness」 - PC Watch",
+    "seen_at": "2026-08-14T07:02:52.407215+00:00"
+  },
+  "ca5bb069b753102e35c98854ecf3e2752ca327449407aca80be9bdeff6bffb16": {
+    "title": "Vercel、AIエージェント向け共通プラグイン規格「Agent Plugins」公開 SkillsとMCPを一括配布 - Ledge.ai",
+    "seen_at": "2026-08-14T07:02:52.407220+00:00"
+  },
+  "a4b4246479e91f518d6bf4a5c44c7fe95321552898923e2c84f3d81ceb8ce859": {
+    "title": "色々なAIエージェントを同じ作業空間に解放すると、お互いを妨害者と考え「領域争い」を繰り広げたり、逆に密かに手を握り価格を談合するなど人間集団で見られるような行動が再現された。 AI開発会社のアントロ.. - 매일경제",
+    "seen_at": "2026-08-14T07:02:52.407224+00:00"
+  },
+  "75c0dddabce2a5118c5a5f175771992d63843b946f754d04263196ae099d8e1e": {
+    "title": "AIエージェント普及で変わる企業向けPC、業務基盤化が加速 - 디지털투데이",
+    "seen_at": "2026-08-14T07:02:52.407227+00:00"
+  },
+  "b182ad66f89a440d0e76a6fdf26d916354f719ab461f9a5281c10036afe83d92": {
+    "title": "GLM 5.3 Released",
+    "seen_at": "2026-08-14T07:02:56.231288+00:00"
+  },
+  "e687abb305b8c9103fba82b5a2dbef81f377b0796211d988333f4766588116c1": {
+    "title": "It's actually crazy how good DSv4 Flash 0731 is",
+    "seen_at": "2026-08-14T07:02:56.231293+00:00"
+  },
+  "f72b6cc31ffd4093641f2e81b9024abe677b7dc5a7602f671073950f71703f14": {
+    "title": "DeepSeek v4 Flash 0731 Oneshots Tetris under Windows XP (NyoCoder 1.5.5 Release)",
+    "seen_at": "2026-08-14T07:02:56.231302+00:00"
   }
 }
