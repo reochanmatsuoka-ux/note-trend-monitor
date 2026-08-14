@@ -9794,5 +9794,61 @@
   "ba153f81819ece13acab1ef62ff55eae15f0d47b814186e502980d16eae557ae": {
     "title": "Qwen 3.8 27B is out : open weights, best local dense model yet",
     "seen_at": "2026-08-14T15:39:06.243320+00:00"
+  },
+  "b34b88ba983235904ba0c042c09daaaaa5d63e13949ab8472a2bac676c879138": {
+    "title": "ChatGPTの「コンピューター履歴」機能がMacの操作履歴を追跡、プライバシー懸念が浮上 - BigGo ファイナンス",
+    "seen_at": "2026-08-14T18:37:21.157715+00:00"
+  },
+  "8f468d2c1926b3e07359d58b4b75bc7ac2e86899429e8926a0283da14f5d3e3d": {
+    "title": "OpenAIの収益ランレートが400億ドルを突破、1年足らずで倍増 - BigGo ファイナンス",
+    "seen_at": "2026-08-14T18:37:21.157722+00:00"
+  },
+  "c56d8227afe692efd07e516cde34e614139a8b5d69976d6d30c3118f58a217a8": {
+    "title": "ピエルルカ・ドーロ氏：1メガバイト未満のブラインドスクリプトが最先端AIエージェントに匹敵、あるいは凌駕する - BigGo ファイナンス",
+    "seen_at": "2026-08-14T18:37:22.230547+00:00"
+  },
+  "3e3fd7d4caf76108707dd93319cd463ed5bfc1e78d68eee423bc8c382b4420f0": {
+    "title": "Qwen3.8-27B is identical to Qwen3.6-27B!",
+    "seen_at": "2026-08-14T18:37:25.212184+00:00"
+  },
+  "69db546cb584207985d330effe6f12e2214fcfd5ecaf2f2a3a77f44918992ec6": {
+    "title": "Alright, We got Qwen3.8-27B. Now it's community's turn to make it more better & faster",
+    "seen_at": "2026-08-14T18:37:25.212191+00:00"
+  },
+  "9963373e92d3c035875cfbedace97be0da5527936c001b52ef52541ce874c411": {
+    "title": "Qwen3.8 Benchmarks Converted to Charts",
+    "seen_at": "2026-08-14T18:37:25.212197+00:00"
+  },
+  "4184dc55d03acf9c38870fd984e6b99e16df958e5455452d46a3ac3d38e70d56": {
+    "title": "Poll results 6 months later: When will we have Opus level with 30b model? Optimists win!",
+    "seen_at": "2026-08-14T18:37:25.212200+00:00"
+  },
+  "0499e829b24f823fc2f07a8a85d9766ef2b9bf6df7540d381ede7a3c76c53bd4": {
+    "title": "NInfer day0 support for Qwen3.8 27b: ~200 tok/s generation, with tons of engine improvments",
+    "seen_at": "2026-08-14T18:37:25.212203+00:00"
+  },
+  "552e580080e3fe1cac4ccd4664ae551eca4bd3537f866e601b9844dbeeaa5bf4": {
+    "title": "qwen 3.8 27b - Generate an animate SVG of a One Piece ship in a OCEAN (think 7 min)",
+    "seen_at": "2026-08-14T18:37:25.212206+00:00"
+  },
+  "a36823f703e9b393064a20b34980941c738df088355892cf96b40bc95aded699": {
+    "title": "Qwen 3.8 FP8 (xhigh) Lava lamp prompt result!",
+    "seen_at": "2026-08-14T18:37:25.212209+00:00"
+  },
+  "fddf28f215e3bb35acb1c1a3b06fb5842cd2e8e5047084f9feeeae45cd034f90": {
+    "title": "Asked Qwen3.8-27B to draw a pelican, it proceeded to draw an entire animation in svg!",
+    "seen_at": "2026-08-14T18:37:25.212211+00:00"
+  },
+  "568e4dc9340aa06399192467d5f5cdaee9b96ea3896a46e5f7e39efe90551446": {
+    "title": "Qwen 3.8 27B - Aquarium Burst Sample Test",
+    "seen_at": "2026-08-14T18:37:25.212214+00:00"
+  },
+  "805d793212c502cd10af970a026280d25e0b798fb1ca06ecb48a18a75c783929": {
+    "title": "Open labs are finally embracing the power of continued post training",
+    "seen_at": "2026-08-14T18:37:25.212216+00:00"
+  },
+  "1cc65f885956be3f744685dc8c282b59f0c6418c74e30a7adadc678e35a4edcb": {
+    "title": "Why don't we have p2p similar to torrents for AI model transfers",
+    "seen_at": "2026-08-14T18:37:25.212219+00:00"
   }
 }
