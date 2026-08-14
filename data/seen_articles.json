@@ -9666,5 +9666,57 @@
   "c77649770d022c7736960b20b1e6b8cea760c6374a4a04a9aaa9971ccaddffb5": {
     "title": "Same Prompt, Same Model Deepseek V4, VERY different results with different harnesses!",
     "seen_at": "2026-08-14T09:49:05.045867+00:00"
+  },
+  "893ef64756332d5132bb70ca6320d69141cc5cc331117e23fed7c08959f6b185": {
+    "title": "ローカルLLMとは？クラウド型AIとの違い・必要なPCスペック・無料で使える範囲を解説 - ChatSense",
+    "seen_at": "2026-08-14T12:34:37.889466+00:00"
+  },
+  "49bd716467a93cb7f5819f021eeeb4b8fc4262a4fb79679e0f1f569364c9e49e": {
+    "title": "ゲーム業界で「生成AI使用禁止」を盛り込む契約書、ここ1年で急増傾向との証言。もはや定型文、大手から小規模パブリッシャーにも波及 - AUTOMATON",
+    "seen_at": "2026-08-14T12:34:37.889474+00:00"
+  },
+  "23a13b2eb29e05796139ea2c297cfce532f89cda440fbf1fcf2ddc4916e40398": {
+    "title": "ネットアクセスの過半数は、もう人間じゃない……機械が読む「Web4時代」のアクセス数の読み方 - 生成AIストリーム - 窓の杜",
+    "seen_at": "2026-08-14T12:34:37.889481+00:00"
+  },
+  "7bf8f3f045ad13d7068fe197b788e4ef0235a909efac1099b746674de6ac6e5f": {
+    "title": "Claudeがコードに透かしを入れる時代へ｜Theo - t3.gg - BigGo ファイナンス",
+    "seen_at": "2026-08-14T12:34:38.370665+00:00"
+  },
+  "66d10d36ff8eef2cf85ea3944ed00d7bca96944cdcadb1e7cf01c254f5b79e6c": {
+    "title": "中国Z.ai、新オープンソースモデルがAnthropicの制限付きサイバー防御AIに匹敵と主張 - BigGo ファイナンス",
+    "seen_at": "2026-08-14T12:34:38.370671+00:00"
+  },
+  "c30bac10a14122af467a1c125b3e3620ca070f3314de6a4c2e997305368339e8": {
+    "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供 - ITmedia",
+    "seen_at": "2026-08-14T12:34:38.839379+00:00"
+  },
+  "bb29fc1b32a48258b21eac3d90cc9149b066a0bd76d1acd82f45a9d746f180c8": {
+    "title": "OpenAIにはサム・アルトマンCEOや経営陣に直接苦情を送ることができる専用のメールアドレスがある - gigazine.net",
+    "seen_at": "2026-08-14T12:34:38.839383+00:00"
+  },
+  "a14cc883a6817af12e7aecd269930c7e5dda70b61535cac45089b91117a1d303": {
+    "title": "ChatGPT、Macの操作を記憶する「Computer History」 - Impress Watch",
+    "seen_at": "2026-08-14T12:34:38.839387+00:00"
+  },
+  "0a5dee7ef7b1cccf32ae17c9514a79130ab83be8a52c219414404a03f7cf82b0": {
+    "title": "【Claude Code】AIを仕事に活かしたい人のための超入門セミナー 9/10（木）「Claude Codeって、私にも使える？」（無料・オンライン） - PR TIMES",
+    "seen_at": "2026-08-14T12:34:39.830520+00:00"
+  },
+  "facec5216004f724dfa549aa48a540a520de172f52140fb8acf57078f4575690": {
+    "title": "A modest community proposal for desloppification",
+    "seen_at": "2026-08-14T12:34:41.441438+00:00"
+  },
+  "63542d809eefd091d227101880de501e4661159ae0dfcb678bd476490afd1e91": {
+    "title": "LFM 2.5 2.6B is the best small model for tool use I have ever used.",
+    "seen_at": "2026-08-14T12:34:41.441442+00:00"
+  },
+  "e8281b0925beb4957fec1e2731fd4c4b595955e4dd9e1b340e263b399790a7c9": {
+    "title": "What KV cache tricks do you guys do with your agents?",
+    "seen_at": "2026-08-14T12:34:41.441447+00:00"
+  },
+  "de430cdbbb3353dc7eacf489d5d4d26ac2b89500886381d781ea35558e1e18a5": {
+    "title": "Caveman reasoning",
+    "seen_at": "2026-08-14T12:34:41.441449+00:00"
   }
 }
