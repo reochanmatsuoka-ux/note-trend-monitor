@@ -10150,5 +10150,37 @@
   "f87a3e369ede4c65c3404294c0ce4eccc92a3a8332a8c32beb2764d079d67218": {
     "title": "Gemma 4 E4B IQ2_XXS: + 140.54% Reasoning Performance From Tensor Level Quantization Allocation",
     "seen_at": "2026-08-15T15:08:33.340078+00:00"
+  },
+  "91fad2a79ac9e8076588dd596b771dedf1e6bfc102e75e274df5f891b74f4ea3": {
+    "title": "中国の医師がChatGPTを用いて数十年来の数学問題を解決し、数学界に衝撃を与えた。 - Vietnam.vn",
+    "seen_at": "2026-08-15T18:09:40.314424+00:00"
+  },
+  "3fb24061a93d6736a0093c0c875bcd35daa7597f737336ab2503af838021ba53": {
+    "title": "AnthropicとOpenAI、兆ドル級バリュエーションへ異なる課題 - 디지털투데이",
+    "seen_at": "2026-08-15T18:09:40.314434+00:00"
+  },
+  "b27fe3427b06647b7709510d4d39578e5765c7e5cff9058c53f261a300b4fccd": {
+    "title": "The duality of man",
+    "seen_at": "2026-08-15T18:09:42.222024+00:00"
+  },
+  "30702e03d4133083ebc8f1bc29bc5953a2343a46185f9f297afd6f95f5d5b436": {
+    "title": "US to tell partners they must pick sides in AI race with China",
+    "seen_at": "2026-08-15T18:09:42.222028+00:00"
+  },
+  "0e4dee6b7e44b0804e2b5c3adbb7b9a615437df0e9c9c2cd504362a9a7f7b28a": {
+    "title": "Qwen3.8 27B vs Qwen3.6 27B vs Qwen3.5 27B, a slight improvement in oneshotting ability across generations.",
+    "seen_at": "2026-08-15T18:09:42.222031+00:00"
+  },
+  "25f78075a379a03ab245b79cc58dcc91aed63c9b05dd565708b93dff199ee88c": {
+    "title": "model: add Kimi-K3 text model by pwilkin · Pull Request #26185 · ggml-org/llama.cpp",
+    "seen_at": "2026-08-15T18:09:42.222035+00:00"
+  },
+  "0f982967e29979638dc214846b476deb8ee19d5a855bf5f16cf5b14be6af0ff6": {
+    "title": "Qwen3.8: much thinking for nothing",
+    "seen_at": "2026-08-15T18:09:42.222039+00:00"
+  },
+  "db0ff6656a1fd96531c39430bcbd4d96776789abc3d815d3adc5d10a29a270a7": {
+    "title": "Doing image recognition tests of Muse Glimmer v. Qwen 3.8 27B. Anyone else have notes?",
+    "seen_at": "2026-08-15T18:09:42.222041+00:00"
   }
 }
