@@ -10026,5 +10026,49 @@
   "0b2e664fac6368ba7af5a6c33886fdf9bf38f2fbe863ada8004382822dc2a5ee": {
     "title": "Qwen 3.8 27B on AMD - 24 t/s on Ryzen AI Max+ 395 & 51 t/s on Radeon AI PRO R9700",
     "seen_at": "2026-08-15T06:16:33.667769+00:00"
+  },
+  "6ebcc2a301ebddda59a20d77cfd4add54754c8ec36cde583efbdbdb340434c7a": {
+    "title": "生成AIグラビアをグラビアカメラマンが作るとどうなる？第72回：MiniMax H3は動画が最高なだけじゃない。画像も生成してみよう（西川和久） - au Webポータル",
+    "seen_at": "2026-08-15T09:13:50.461288+00:00"
+  },
+  "6b683bbb18382a7a307d702f3c5f50a9afc527d3f6da4a8377b17bf1760e4bbc": {
+    "title": "OpenAI研究者「コードは100％AI任せ」ClaudeがPythonライブラリをRustで全面書き換え｜Trans-N - note",
+    "seen_at": "2026-08-15T09:13:51.295691+00:00"
+  },
+  "645c00afb8ca80fcd2a390137ed3912ea965a35d1a9e75290f91c53035593384": {
+    "title": "OpenAI「Ultrafast」発表、GPT-5.6 Solを毎秒最大750トークンで処理　価格と一般提供日は未定 - 財経新聞",
+    "seen_at": "2026-08-15T09:13:51.295698+00:00"
+  },
+  "bd08e2ba520679d36a8af197b4d16ca22a2d9208b098419d36048cbd6f69d2e9": {
+    "title": "ChatGPTにライターの座を奪われたと暴露した開発者と否定するCEOの対立続く運転シム『Rideshare \"スティミュレーター\"』ストアページにAI生成コンテンツの開示を記載 - Game*Spark",
+    "seen_at": "2026-08-15T09:13:51.295703+00:00"
+  },
+  "123494ef8e624ec8633b3d26f19d68b2d63e31be0d76de0760f3257bf9c8bca3": {
+    "title": "Google「Gemini 3.7 Flash」発表、年末までAPI料金半額　業務自動化で競合超えをアピール - 財経新聞",
+    "seen_at": "2026-08-15T09:13:51.736465+00:00"
+  },
+  "12605acb8d43d9695b4e78f4cd2d16a2e491c94d44dad11d1a6bb8faf692c5bb": {
+    "title": "AI モード「Gemini 3.7 Flash」展開【Google AI Pro/Ultra】 - jetstream.blog",
+    "seen_at": "2026-08-15T09:13:51.736471+00:00"
+  },
+  "a6bcf3021d73327791c5abb3a25b085767e3c9b807d1b7985d992ea4c13b9fed": {
+    "title": "AIエージェント暴走? 他人の予約 勝手に削除 - ABEMA",
+    "seen_at": "2026-08-15T09:13:52.177314+00:00"
+  },
+  "50bf5caacd5c2376d3f69f03cc1ace950943ed4761fa2338a4ddcc474e337b6d": {
+    "title": "Qwen 3.8 35BA3B spotted",
+    "seen_at": "2026-08-15T09:13:58.199088+00:00"
+  },
+  "3620cc78ef5a161bea853781d5c07c1583712c81003687bd548bee01e1ff20dd": {
+    "title": "GPU prices haven't stopped climbing for 3 weeks straight across the EU, here's the data",
+    "seen_at": "2026-08-15T09:13:58.199094+00:00"
+  },
+  "5b066ef2fd63ac42f2d686273e038b18c5cc8c48ad547cf0f4f5092912475a9a": {
+    "title": "Try out this \"high\" reasoning mode for 27B (tested on VLLM)",
+    "seen_at": "2026-08-15T09:13:58.199098+00:00"
+  },
+  "cfcced4a5cd59f75841c3810a60ab8d67baee4a6f91c901ac95d875e991ff087": {
+    "title": "GitHub - meta-models/meta-oss-cookbook: All recipes for oss models from Meta Inc.",
+    "seen_at": "2026-08-15T09:13:58.199101+00:00"
   }
 }
