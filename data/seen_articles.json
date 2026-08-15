@@ -9958,5 +9958,13 @@
   "fe52f156050954c96ba64e99ec6a3ee2b7284855a805cd762395211bea8afd0b": {
     "title": "Qwen 3.8 - 27B is a game changer",
     "seen_at": "2026-08-15T00:29:45.066020+00:00"
+  },
+  "ebed36ae361d6eee37be7a64a41b2ff13ce11b1e2933a35ca13e6fdc4091793b": {
+    "title": "[Megathread] Qwen 3.8 27B Release Day",
+    "seen_at": "2026-08-15T03:28:08.118084+00:00"
+  },
+  "9199600c8871389624b6dfa45ddddc8ebd7de9fc32ad67e60d8fe56ea5a1c20d": {
+    "title": "Qwen 3.8 27B - Note the new recommended sampling parameters (from the official HF page)",
+    "seen_at": "2026-08-15T03:28:08.118096+00:00"
   }
 }
