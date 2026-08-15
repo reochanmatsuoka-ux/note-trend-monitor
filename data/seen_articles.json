@@ -9878,5 +9878,85 @@
   "1e75796cf10bbd6a0c68463cee88f4654b19bbde839d9da98bec5299c8a82342": {
     "title": "A 150M param recurrent model scores 29.5% on ARC-AGI-1 at $0.0007 per task",
     "seen_at": "2026-08-14T21:13:42.513721+00:00"
+  },
+  "a22bca554404a496879a04d0469da84b08670f07a894be7929d93420e9c6a016": {
+    "title": "ローカルLLM「Qwen3.8-27B」ウェイト公開 一部「Opus 4.6 Max」超えか ライセンスは商用可のApache 2.0（ITmedia NEWS） - Yahoo!ニュース",
+    "seen_at": "2026-08-15T00:29:06.315153+00:00"
+  },
+  "6eb43137a66a0fb697f53a61e0a535b0e082494fb4c549a9f7c1b014ec122af3": {
+    "title": "「ググる」は死語になる？何でも生成AIに聞く時代に私たちは“調べる力”を失うのか - 東京報道新聞",
+    "seen_at": "2026-08-15T00:29:06.315162+00:00"
+  },
+  "e467a0e03e3a6c405715334c981d8892eceea601783ab72b1da4c15a06494b56": {
+    "title": "Anthropic、未公開Claudeが「リーマン予想」に挑戦 証明は失敗も関連問題で41.6％→67.2％、「自分を信じて」と人間が励ます - Ledge.ai",
+    "seen_at": "2026-08-15T00:29:06.882751+00:00"
+  },
+  "4a5b5323a0070bdf1df45996a01f25ced303306c69d12f0ec3526454bea34492": {
+    "title": "Claudeの文章透かしは何を証明できるのか Anthropic自身が明かした検出の境界 - XenoSpectrum",
+    "seen_at": "2026-08-15T00:29:06.882773+00:00"
+  },
+  "06949ef599b9f3bebf72e8553f816b96e726895935bf7f2de8f08d50a449fd61": {
+    "title": "指示なしで自ら脱獄したAI…OpenAI事件が突きつけた制御喪失の警告 - BigGo ファイナンス",
+    "seen_at": "2026-08-15T00:29:07.343591+00:00"
+  },
+  "6f26934179bddc18941965c891b88eecbbf90d4ab7beb93e7858e993e639bf8e": {
+    "title": "Google、AI生成物に表示する「透かし」をオフ可能に SynthIDとC2PA情報は維持 - ライブドアニュース",
+    "seen_at": "2026-08-15T00:29:07.794087+00:00"
+  },
+  "d014b8fa1a0004427d514940f4ebbd3d69d2428e913651fcec59f258207afdc1": {
+    "title": "Google、AI生成物に表示する「透かし」をオフ可能に SynthIDとC2PA情報は維持 - excite.co.jp",
+    "seen_at": "2026-08-15T00:29:07.794092+00:00"
+  },
+  "66c5bcb8f581324f56c86857f46de303bc0d30ba8664f2a0300b34688fc88271": {
+    "title": "Google、AI生成物に表示する「透かし」をオフ可能に SynthIDとC2PA情報は維持 - マイナビニュース",
+    "seen_at": "2026-08-15T00:29:07.794095+00:00"
+  },
+  "bbe06765b57a7b5031ef844669fd3614070496f6c9959a0b1c87d58907339746": {
+    "title": "Gemini「3.7 Flash」展開【Google AI Pro/Ultra】 - jetstream.blog",
+    "seen_at": "2026-08-15T00:29:07.794099+00:00"
+  },
+  "afcc018eece867a53de3c3f5c9e490f63ab48726e45b6d97ffbde204463ba9d3": {
+    "title": "「テキストベースなのでお手伝いできません」——Geminiが拒否モードに陥った2時間の中身 - shiritomo",
+    "seen_at": "2026-08-15T00:29:07.794102+00:00"
+  },
+  "7cfc75358e2aa43d022730a20406b076291b0365767f02d8960c8f2cad83bc02": {
+    "title": "【Google Pixelは国内シェア2位→「米国外で初」の直営店が上陸】一等地フロア丸ごと「AI体験」でiPhone対抗／Geminiの開発遅れでも「スマホに最先端AI不要」【1on1 Tech】 - TBS NEWS DIG",
+    "seen_at": "2026-08-15T00:29:07.794105+00:00"
+  },
+  "720523613aac854854cee807693e6d030fe7150fd6ef160dd459312bbd75cc82": {
+    "title": "Uber Eatsに学ぶAIエージェント本番運用術 1万都市の料理画像を自己修復（TechTargetジャパン） - Yahoo!ニュース",
+    "seen_at": "2026-08-15T00:29:08.275896+00:00"
+  },
+  "7bea131b497b21febb6c8335de73104bd08b3ccdf2b708f9988abb36c71ed6eb": {
+    "title": "なぜ「SaaSの死」でもWorkday買収？ AIエージェント時代に価値が上がる企業の条件 - ビジネス+IT",
+    "seen_at": "2026-08-15T00:29:08.275904+00:00"
+  },
+  "8c89501ddbf430cadb904dc4a4a6cf3d6da770664f0c98ee0422e410ad514a29": {
+    "title": "オメル・プリモール氏：AIエージェント向けウェブコンテキストの自社保有は約1万5000クエリでレンタルを上回る - BigGo ファイナンス",
+    "seen_at": "2026-08-15T00:29:08.275908+00:00"
+  },
+  "96e97b3fea540faa11f071ce1455fa483d429e6c955d1ffd888661cff73e432f": {
+    "title": "なぜ「SaaSの死」でもWorkday買収？ AIエージェント時代に価値が上がる企業の条件 (ビジネス＋IT) - Yahoo!ニュース",
+    "seen_at": "2026-08-15T00:29:08.275911+00:00"
+  },
+  "3018ea25c2d40bbd6f864fb2bc1fd7e88ab1fd25a2396992e81f8f29e242efab": {
+    "title": "アジアクエストが提供するGAIAでAIエージェントと業務システムの安全な接続を実現 - ニュースメディアVOIX",
+    "seen_at": "2026-08-15T00:29:08.275914+00:00"
+  },
+  "5a400d0bf35bc792de01714e572a3175e0fe61224df8dac22b62614c5442f0e9": {
+    "title": "A hunch: Qwen3.8-27B's general knowledge got pruned (good, if true)",
+    "seen_at": "2026-08-15T00:29:45.066006+00:00"
+  },
+  "f10edc3018923e85fa1a4d2bdf5e3175cd5bad49bce7e7a780a08c283b179025": {
+    "title": "Qwen3.8-27B is now up to ~3× faster on Apple Silicon with mlx-dspark",
+    "seen_at": "2026-08-15T00:29:45.066012+00:00"
+  },
+  "1acbebf46a678fa40a9b23a00194f39df77e1088c56f5c58bd772ad87311b269": {
+    "title": "RetroCraft - Qwen 3.8 27B Q8, one shot with exact performance data on dual 3090s.",
+    "seen_at": "2026-08-15T00:29:45.066016+00:00"
+  },
+  "fe52f156050954c96ba64e99ec6a3ee2b7284855a805cd762395211bea8afd0b": {
+    "title": "Qwen 3.8 - 27B is a game changer",
+    "seen_at": "2026-08-15T00:29:45.066020+00:00"
   }
 }
