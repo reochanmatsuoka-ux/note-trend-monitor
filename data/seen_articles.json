@@ -10458,5 +10458,41 @@
   "8d7aabf908ec83d7b794a5002db99b961a7b93b6e6aa47232ff85171cfd64112": {
     "title": "Huihui-ai Qwen 3.8 Ablit Available",
     "seen_at": "2026-08-16T15:09:01.531937+00:00"
+  },
+  "9c954c9b46892c21797b7d6c6d2f45e8fd9098d8b0637c00abf727b159a1aa80": {
+    "title": "WEST.重岡大毅 主演映画「5秒で完全犯罪を生成する方法」インタビュー 生成AIに思う、距離感と付き合い方 - 推し楽",
+    "seen_at": "2026-08-16T18:09:56.870142+00:00"
+  },
+  "8a5bd56543b8b277772299321bfdc0b7a1f157be25625191ca595678b4f8507d": {
+    "title": "Android、アカウントのGemini仕様ブルーグラデーションリング導入確認 - jetstream.blog",
+    "seen_at": "2026-08-16T18:09:58.587875+00:00"
+  },
+  "70cc5f8cc690042092d131d03420f11f376e337aeb5b53f058c8dc023b827412": {
+    "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール - Publickey",
+    "seen_at": "2026-08-16T18:09:59.111017+00:00"
+  },
+  "7737b70b83fcb440d4be03bf0988deac79f3bc113232886ef15f9a104046bed2": {
+    "title": "Let’s all thank Georgi Gerganov who gave use llama.cpp",
+    "seen_at": "2026-08-16T18:10:00.454306+00:00"
+  },
+  "efab7d169c9490b8718d8f3de1b4428ee34e5e5bccccaf55e5f8b008bd62ee07": {
+    "title": "Based on an accelerating frontier -> local trajectory, expect a ~30b param 'Mythos at home' by as soon as Jan 2027 (rationalisation below)",
+    "seen_at": "2026-08-16T18:10:00.454313+00:00"
+  },
+  "9c53ed5a83af9dca1786b9e99a5692708e408220d33b1354b78f7c46c08ba497": {
+    "title": "Qwen3.8-27B Hybrid IQ4_XS quantization for 16GB gang",
+    "seen_at": "2026-08-16T18:10:00.454318+00:00"
+  },
+  "da096dc8d83d0a990a96279ca63cad4c182c26719d830b0ffc550beda34b2624": {
+    "title": "Qwen 3.8 distillations",
+    "seen_at": "2026-08-16T18:10:00.454321+00:00"
+  },
+  "a55d935698a0e4c8a366cbe191b6559f93c4ad9166cfa403429a2652e6f1c1a4": {
+    "title": "Koboldcpp v1.119 released",
+    "seen_at": "2026-08-16T18:10:00.454324+00:00"
+  },
+  "ce936050b836b2bd1ae2d28ad16c8b3de43b24712d2c3f961049f086d00b23b2": {
+    "title": "Making small local models actually useful for coding",
+    "seen_at": "2026-08-16T18:10:00.454331+00:00"
   }
 }
