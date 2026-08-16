@@ -10314,5 +10314,21 @@
   "65e74fd298841f953b506934cb551459a16d767acf570ead9005b02bde351432": {
     "title": "Need assistance in getting my 4 AMD GPU setup running on a Z10PA-U8 mainboard",
     "seen_at": "2026-08-16T03:37:41.379482+00:00"
+  },
+  "49e4557744c929e801539d32e3536eadc1f09f9c9b0080f4f1d632e8111c6201": {
+    "title": "Anthropic、Claudeの不可視ウォーターマーク方式を公表 全面的な書き換えで消失 - 디지털투데이",
+    "seen_at": "2026-08-16T06:18:25.264712+00:00"
+  },
+  "05cc09fbcb9fd9cd35c20c05fb1a525dcb14ecc5b7882eb616017efc841cd719": {
+    "title": "OpenAIがChatGPTにPC操作履歴を記憶・学習させる機能「Computer History」を提供開始（ビジネス＋IT） - Yahoo!ニュース",
+    "seen_at": "2026-08-16T06:18:25.864658+00:00"
+  },
+  "13fe9c87a24b04961d6a92c9d7e3a4dbdbdaa6e8159859a39382321bfe3e5844": {
+    "title": "5090: Windows or Linux for Qwen3.8.27b",
+    "seen_at": "2026-08-16T06:18:28.240786+00:00"
+  },
+  "34e5b54fc3daaf4b7ff1c922a5e1d97901cccd012e82570816c507d9383cb31b": {
+    "title": "Anyone managed to get Qwen 3.8 27B running smoothly on vLLM? Can't get rid of endless thinking",
+    "seen_at": "2026-08-16T06:18:28.240790+00:00"
   }
 }
