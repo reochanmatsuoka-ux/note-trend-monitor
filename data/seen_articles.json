@@ -10410,5 +10410,53 @@
   "2eec525198bdbd53d567b1d595ecef529dbdc0a1f5369e3d28ca3baad5a3d773": {
     "title": "Single 3090 homies, whats your config for Qwen 3.8 ?",
     "seen_at": "2026-08-16T12:12:56.001400+00:00"
+  },
+  "6a67d9aece1aa77128350916a79e2a93d0c4816b27bb208178d215d03629a733": {
+    "title": "生成AIが変えた「災害時のデマ」 拡散手口が多様化 問われる情報リテラシー（電波新聞デジタル） - Yahoo!ニュース",
+    "seen_at": "2026-08-16T15:08:57.787848+00:00"
+  },
+  "cf394610929ab15ee0879d874566dc8c31297b19184151dbdde0b0f86eecf053": {
+    "title": "ローカルLLMも「ネットを検索して回答」できるんだよね。対応してるアプリ3選 - Gizmodo",
+    "seen_at": "2026-08-16T15:08:57.787856+00:00"
+  },
+  "bc81e80dd34b60e19388c0eea2ac07adb081b1c4a31e43d24940e7d2916e9225": {
+    "title": "カルダノ創設者、AnthropicのAI透かし除去ツールを公開 - BeInCrypto",
+    "seen_at": "2026-08-16T15:08:58.324306+00:00"
+  },
+  "4aa47b4a4521298dc8f4bbb24e5fcfc129aa3de4aa83a8c55cb6f3f26eb15e58": {
+    "title": "【分析】米OpenAI、法人向け売上が個人向けを初めて上回る―年換算売上高は400億ドル - 財経新聞",
+    "seen_at": "2026-08-16T15:08:58.995354+00:00"
+  },
+  "e2ee680fe96de80d425d37803b962c0836a90589cbc059cf4acb226493aae4d9": {
+    "title": "OpenAIのデザイン責任者：デザイナーにとって史上最高の時代 | イアン・シルバー｜Lenny's Podcast - BigGo ファイナンス",
+    "seen_at": "2026-08-16T15:08:58.995362+00:00"
+  },
+  "6ecc014a4b5d60226d9a7b89cb5caa909c897cd4c4a49b42f3e9df4954c13be8": {
+    "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表 - Publickey",
+    "seen_at": "2026-08-16T15:09:00.132473+00:00"
+  },
+  "a8317be294201f2f9ce2f953a8377895d8caceb2bc79c8e5c0172cb844e68609": {
+    "title": "Newer commits removed the Qwen 35B",
+    "seen_at": "2026-08-16T15:09:01.531913+00:00"
+  },
+  "30dea696f3924c8232e1ebcc933ce4fffa4eeb7507389d7c483bbecfbc7b09f4": {
+    "title": "The dream is to reach 200GB VRAM",
+    "seen_at": "2026-08-16T15:09:01.531920+00:00"
+  },
+  "f4146afe4fbf7415745f6b86321b69caf71a923c9a0640ad1feb68f4f952c06a": {
+    "title": "Quick PSA: Qwen3.8-27B reasoning effort vs reasoning budget in llama.cpp",
+    "seen_at": "2026-08-16T15:09:01.531927+00:00"
+  },
+  "1ae013693887a5891c74078a9d2a13b647def60b02003825104fdb9518e2a409": {
+    "title": "Qwen3.8-27B-int4-AutoRound (18GB) - with working MTP spec decode",
+    "seen_at": "2026-08-16T15:09:01.531931+00:00"
+  },
+  "a5bbc506441ee14735e1a2dc9e707763628edc6f1e9a1c03239ea6921aa1be51": {
+    "title": "Let's play : guess the model",
+    "seen_at": "2026-08-16T15:09:01.531934+00:00"
+  },
+  "8d7aabf908ec83d7b794a5002db99b961a7b93b6e6aa47232ff85171cfd64112": {
+    "title": "Huihui-ai Qwen 3.8 Ablit Available",
+    "seen_at": "2026-08-16T15:09:01.531937+00:00"
   }
 }
