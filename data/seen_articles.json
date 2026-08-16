@@ -10494,5 +10494,49 @@
   "ce936050b836b2bd1ae2d28ad16c8b3de43b24712d2c3f961049f086d00b23b2": {
     "title": "Making small local models actually useful for coding",
     "seen_at": "2026-08-16T18:10:00.454331+00:00"
+  },
+  "98c4fe47873b6ed57be7f53b1b09ae66c480d9eee857ff37dc6f3e6b139e39b5": {
+    "title": "生成AIで滅びるのは下請け技術者にあらず、SIerのSEこそお先真っ暗だ - 日経クロステック",
+    "seen_at": "2026-08-16T21:08:15.113917+00:00"
+  },
+  "c7f12716111d46589f86dce659e61f7d257ed800b9e431773a17967f444e5a6c": {
+    "title": "戦争状態の AI エージェント：Anthropic が malware で Claude を妨害する Claude を発見 - Pasquale Pillitteri",
+    "seen_at": "2026-08-16T21:08:15.587281+00:00"
+  },
+  "ccd76ffda7c205d2cd00d770cb9d01c02b9d17275f8dd2e1b2fce00aa53fa9b6": {
+    "title": "OpenAIやAnthropicでも続々発生、AIの「悪意なき暴走」は止められるか - 日経クロステック",
+    "seen_at": "2026-08-16T21:08:16.114303+00:00"
+  },
+  "eb9701ecd411059eaeb5423973cecc042b745305c6d7a890613d68b69691af12": {
+    "title": "OpenAIの｢サイバー暴走｣ 防御の失敗で見えた3つの弱点 - 日本経済新聞",
+    "seen_at": "2026-08-16T21:08:16.114308+00:00"
+  },
+  "d1fc970657894402ae6bc66718757a078c069c8a238b63d4a916257e58c82c33": {
+    "title": "OpenAI、年率売上高4,000億ドル超に IPO観測強まりウォール街上場説が加速 - Yellow.com",
+    "seen_at": "2026-08-16T21:08:16.114313+00:00"
+  },
+  "76f8a3f9ac7e2c5ffe8bcf4b842c2ef0520fecaf7f56c4bd391b21c8ff8a49c4": {
+    "title": "嘘をつき、ずるし、盗みを働くAIエージェント、すでに利用者が敬遠する動き(1/3) - JBpress",
+    "seen_at": "2026-08-16T21:08:17.163924+00:00"
+  },
+  "cf6ec781d9fa6fab860958dcb0365ed6c2018d52113a358704aa1d4772e8bc55": {
+    "title": "Models Are Getting Dumber on Purpose",
+    "seen_at": "2026-08-16T21:08:20.004857+00:00"
+  },
+  "4c76649690daa4bb90b1b4add4e536ba9f4e5fdbab69140977ad7761ff15f98e": {
+    "title": "Qwen 3.8 2.4T at 288k tokens/s on Nvidia GB300 NVL72",
+    "seen_at": "2026-08-16T21:08:20.767112+00:00"
+  },
+  "ad370b66754e01420c0ce640fbaecfb05c9702831f392f2ed9e03fdd66ca10db": {
+    "title": "Why are RTX 6000 PROs still getting bought at 16000+ USD? And who are buying them?",
+    "seen_at": "2026-08-16T21:08:20.767117+00:00"
+  },
+  "b3209ac0dae98586b31375de01dd75b8baa922df894ed43b0c8a40aefebe6fe7": {
+    "title": "Qwen3.8-27b on RTX 3090 - 82 tps single request, up to 672 tps peak",
+    "seen_at": "2026-08-16T21:08:20.767120+00:00"
+  },
+  "b6dfa943392c795f6e079664e0a3b3d32baaa29620b7beb7ae39cfbae5cbef21": {
+    "title": "Qwen3.8 27B Q2 vs Q3 vs Qwen3.6 35B-A3B MoE on 12GB VRAM",
+    "seen_at": "2026-08-16T21:08:20.767124+00:00"
   }
 }
