@@ -10366,5 +10366,49 @@
   "0c363144baff5f4954e161d7ad8c05069b178a4266e5da943296e28ddbf7d1ad": {
     "title": "Best Setup for a 16 GB VRAM + 128 GB RAM System?",
     "seen_at": "2026-08-16T09:14:50.875151+00:00"
+  },
+  "fdea14a12cf5cbe74385f0135025b2ccbd200c42cf7b33eb448e27b6fc14ea9c": {
+    "title": "生成AI利用補助は月1万円、フルリモート80%超──製造業DXを支えるエンジニア採用ページを公開 - Excite エキサイト",
+    "seen_at": "2026-08-16T12:12:50.703161+00:00"
+  },
+  "eb28ec244eef3370dc236d3a61b912f1d8392577ade61ef40f2d46deabd4acec": {
+    "title": "iPhoneで無料Geminiを使う理由～ChatGPT Plusと併用して分かった強み - iPhone Mania - iPhone Mania",
+    "seen_at": "2026-08-16T12:12:51.676908+00:00"
+  },
+  "2eb8ab81872d784970e0d27fd11dde05a36d0084cf92712b0df902a0478bd4a6": {
+    "title": "Paper claims RL for reasoning only changes 1-3% of tokens, and they replicate the gains without RL at ~1000x less compute",
+    "seen_at": "2026-08-16T12:12:56.001366+00:00"
+  },
+  "3532aa0c443c4d20e1f873e6f9e6045aa3d4a9dd94fb9c7e5b54c4104eef420f": {
+    "title": "Qwen3.8 27B reasoning effort low/medium/xhigh comparison",
+    "seen_at": "2026-08-16T12:12:56.001372+00:00"
+  },
+  "053206db154a82225686c2010440f3f15dfd9978ebbb618d4912ee9383410c5b": {
+    "title": "Genie-style playable world model running 720p at 16 FPS on a single 5090 in 19GB VRAM",
+    "seen_at": "2026-08-16T12:12:56.001378+00:00"
+  },
+  "ed3a43d919ddb5f9ed9f2ffab52eff54dc96232e30191b06eb8b97ee0e9656e9": {
+    "title": "I'm still running Qwen 3.5 122B. Should I switch to Qwen 3.8 27B?",
+    "seen_at": "2026-08-16T12:12:56.001383+00:00"
+  },
+  "1dcf92d13d1b15ddc5af75a9171479918df741e3d5243dc3422a4145340e314c": {
+    "title": "Is ternary (1.58-bit) LLMs making a come back?",
+    "seen_at": "2026-08-16T12:12:56.001386+00:00"
+  },
+  "3b4a51afc8041c52a39d0b060cd9133fbe0390cfb690619efc81e2064002ddba": {
+    "title": "Qwen 3.8 27b with DSH(DeepSeek Harness) is Amazing!! Experiences so far and perfomance.",
+    "seen_at": "2026-08-16T12:12:56.001390+00:00"
+  },
+  "1e802c352194a6ef5b267a6ff369f5ff74350009bb2614c8a6dc0111fccbcf97": {
+    "title": "vibeslop!! come getcher vibeslop here!! free vibeslop! (post your disposable vibecoded stuff here, for fun)",
+    "seen_at": "2026-08-16T12:12:56.001393+00:00"
+  },
+  "fb9ad5adea63e51641e6a54cfb0eaa1979f4f391e536089d476f13eee1c33488": {
+    "title": "LittleLearner: Language Models Under Pedagogically-Controlled Knowledge Exposure",
+    "seen_at": "2026-08-16T12:12:56.001397+00:00"
+  },
+  "2eec525198bdbd53d567b1d595ecef529dbdc0a1f5369e3d28ca3baad5a3d773": {
+    "title": "Single 3090 homies, whats your config for Qwen 3.8 ?",
+    "seen_at": "2026-08-16T12:12:56.001400+00:00"
   }
 }
