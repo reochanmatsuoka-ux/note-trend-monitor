@@ -11654,5 +11654,77 @@
   "b0eb977f2d9fa414be701175a58f4d3cf410c33f43e29b6e8c7c3eab6b0f051d": {
     "title": "Qwen3.8 27B on AA Index",
     "seen_at": "2026-08-17T18:18:22.608656+00:00"
+  },
+  "25b56af42019b05b7ec9c3e8324b772e6f6545259be6c9141ae1a5e35c4cd588": {
+    "title": "生成ＡＩ学習データの公開や権利者への開示など要求、海外企業にも適用・罰則見送り…政府が知財保護案 - 読売新聞",
+    "seen_at": "2026-08-17T21:13:28.018223+00:00"
+  },
+  "c61062c9bd0a77cdae16b645bd707ea5c634321e43f3ca22ddcee304ecb05208": {
+    "title": "AIファクトリー市場の成長を支える生成AIと推論需要――クラウド、ハイブリッド、ラックスケール化を読み解く - オルタナティブ・ブログ",
+    "seen_at": "2026-08-17T21:13:28.018230+00:00"
+  },
+  "d21538f8722298be2b791117c946c6c4dd266b763dd00af0c0f7ff156ac871b1": {
+    "title": "中高生が生成ＡＩで漫画制作、意外なストーリーに笑いも…湘南白百合 - 読売新聞",
+    "seen_at": "2026-08-17T21:13:28.018235+00:00"
+  },
+  "dafda0180fd7357201d2c05a6bd5625a569a17b21afec93cc7fb2932cd84fb8f": {
+    "title": "Claudeを解約するユーザーが出始めた…「AIウォーターマーク」自動埋め込み機能に「仕事に支障が出る」と反発 - Business Insider Japan",
+    "seen_at": "2026-08-17T21:13:28.680667+00:00"
+  },
+  "cafc5ba6d8548e1f7ea506e0507a9aea0f8aa55e836a6a5f587d40c3dcc97c53": {
+    "title": "レーカーズもFIFAも狙う OpenAI育てた投資家、「熱狂」に賭ける - nikkei.com",
+    "seen_at": "2026-08-17T21:13:29.340827+00:00"
+  },
+  "350950929d9580317034788bd065d3ab67d965a9ecc79661524f9b31dad6a045": {
+    "title": "ワンクリックで企業のChatGPTワークスペースに自律型偽従業員を仕込む脆弱性が発覚 - BigGo ファイナンス",
+    "seen_at": "2026-08-17T21:13:29.340832+00:00"
+  },
+  "4697e0d06ed6957c22b59436ce724a57624d2e6dd9a935b60654f85a29d4bfaf": {
+    "title": "OpenAI、競技プログラミングで人間圧倒 想定超えたAIの「勝ち方」 - nikkei.com",
+    "seen_at": "2026-08-17T21:13:29.340838+00:00"
+  },
+  "23d460245596b7cf860e51f72379ab384eb3d65ee14d41d9ab1646240b6f8df7": {
+    "title": "WormGPT裁判:ダークウェブでフィルタなしChatGPTを販売した23歳ポルトガル人 - Pasquale Pillitteri",
+    "seen_at": "2026-08-17T21:13:29.340841+00:00"
+  },
+  "f74b63f59aadc7eeeaa9e865bf09c5a7a38d11bdb10e1dff5c82f60592564a7b": {
+    "title": "基幹業務のためのAIエージェントの開発・実行基盤、独SAP日本法人が説明 - デジタルクロス",
+    "seen_at": "2026-08-17T21:13:30.585117+00:00"
+  },
+  "44f9ca253dd3eb4b942526d703feab06c39126fa6ffcaf607ae044ed0b579b1d": {
+    "title": "中国テンセント、「省」レベルでAIエージェントの大規模応用を推進 - xtech.nikkei.com",
+    "seen_at": "2026-08-17T21:13:30.585122+00:00"
+  },
+  "e7e0b0fff68432b88cd34d02462e36bcb5b8edf6d2ccbdb1e0afc27ac12a80ee": {
+    "title": "93％がAI導入も統制は12％止まり 欧州製薬大手が選んだAIエージェント管理術：OSSから商用版へかじを切った理由 - ITmedia",
+    "seen_at": "2026-08-17T21:13:30.585125+00:00"
+  },
+  "8ec510fc2b941c2a9899d176654aa47360880d5677e4361bff1b294caf0953ec": {
+    "title": "NTTドコモビジネスとエクサウィザーズ、専用環境で利用できる「クローズドAIエージェント」の提供を開始 ～企業の重要データを安全に活用できるAI環境を提供～ - chiba-tv.com",
+    "seen_at": "2026-08-17T21:13:30.585128+00:00"
+  },
+  "876b81f0da80775686c17868b7ec1b3634c0594bcad4668d2e81d259f62bb422": {
+    "title": "\"Opus 4.8 thinks too much\", \"Muse Glimmer sits between Gemma and Qwen, that's boring\", \"Gemma 4 is too lazy\"",
+    "seen_at": "2026-08-17T21:13:33.967716+00:00"
+  },
+  "32e693f1495e548c9493efafba6fbe0d53c97a75998286bbdb094b6fa2e2e956": {
+    "title": "llama.cpp adaptive MTP PR#27210",
+    "seen_at": "2026-08-17T21:13:33.967722+00:00"
+  },
+  "ebf2b3fcd079a7cb51629a9fb4c99ba2c69c81778e884266fa8800f75c449f38": {
+    "title": "Qwen 3.8 35bA3b wen?",
+    "seen_at": "2026-08-17T21:13:33.967726+00:00"
+  },
+  "3c2c4a4738f04496970d3f441e0cc1cdb45e863b05e5fde3cbef2a8806629dbf": {
+    "title": "Weirdly, no one talks about Temperature setting for the Qwen3.8 27b",
+    "seen_at": "2026-08-17T21:13:33.967729+00:00"
+  },
+  "1fd0726a3a7bfa1ea01fd95c7f396648d4864811798ee4ff9722d34635136e98": {
+    "title": "Local agentic coding Benchmark : Qwen 3.8 27B (in many weights quants / cache quants / engine / reasoning effort) vs others.",
+    "seen_at": "2026-08-17T21:13:33.967733+00:00"
+  },
+  "a8958b143497432565c74d0e7267423e4ad91484b520ace81205a19b855e7c69": {
+    "title": "I pushed Qwen3.8-27B to 99 tps single request and 1150 tps with a batch request on a RTX 3090",
+    "seen_at": "2026-08-17T21:13:33.967735+00:00"
   }
 }
