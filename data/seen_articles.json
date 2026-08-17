@@ -11514,5 +11514,85 @@
   "92e4f4d1bed766d276936f528a880d6048fab1fbaf490ceda3e054fd91e2a394": {
     "title": "Muse Glimmer 30B with 512k context",
     "seen_at": "2026-08-17T12:16:29.343681+00:00"
+  },
+  "a501325cca72ec012c0d5174b06438dc3652b1aba4381c0b1b7e92ab16b0d863": {
+    "title": "生成ＡＩで自然界にない人工ウイルス作製、天然ウイルスのゲノム配列を大量学習…医療応用やバイオテロの恐れも - Yahoo!ニュース",
+    "seen_at": "2026-08-17T15:13:31.320881+00:00"
+  },
+  "7ba087f909270b096a71bbd1534874f304d6ff39c2713a196ecb8e07c249de18": {
+    "title": "生成AIで駐禁除外標章を偽造疑い 男性を書類送検 大阪府警 - 毎日新聞",
+    "seen_at": "2026-08-17T15:13:31.320887+00:00"
+  },
+  "d695950340600573125a868507e6709fe59fc1a4d77b9abbdb42c7e94d1e1e84": {
+    "title": "生成ＡＩで標章偽造疑い、大阪 駐車代節約、男性書類送検 | | 全国のニュース - 佐賀新聞",
+    "seen_at": "2026-08-17T15:13:31.320890+00:00"
+  },
+  "8644f7d7cebbafde3385dfd21bf8ef10a715a1affbec95eef30aeb181f728736": {
+    "title": "河内長野市にて、生成AIの実践的活用に向けた職員研修を実施｜Infoseekニュース - Infoseek",
+    "seen_at": "2026-08-17T15:13:31.320893+00:00"
+  },
+  "e01107c8af5b54a9063810ced2694d5a91932c005c5e3a491424570ff3c24b8e": {
+    "title": "河内長野市にて、生成AIの実践的活用に向けた職員研修を実施 - RBB TODAY",
+    "seen_at": "2026-08-17T15:13:31.320895+00:00"
+  },
+  "e9aa3cbc549ac1483f0edca6de4edb0b956b16c0dc756a892eadf2a55593da8e": {
+    "title": "米国市場の展望：エヌビディア、OpenAIが2030年までAIインフラを大規模導入へ インテュイティブ・マシーンズ、6億ドルの衛星契約獲得で材料 オムニアブ、リリーとの新薬開発契約で株価上昇 - Moomoo",
+    "seen_at": "2026-08-17T15:13:32.374626+00:00"
+  },
+  "f4c7b24ad008862f9cd37538237869137c092107e2005900a2d48e73f712c26b": {
+    "title": "iPhoneにChatGPTを素早くインストールする方法 - Vietnam.vn",
+    "seen_at": "2026-08-17T15:13:32.374630+00:00"
+  },
+  "516fdee583701bc39297ca9d22c846ffc9b6ff749b2471bf7412802b68b1c0ad": {
+    "title": "NvidiaがオハイオのOpenAIデータセンターに1,000億ドル超の支援を表明 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-08-17T15:13:32.374634+00:00"
+  },
+  "552f34b06a8ed3906f35fce23f3cefb52469edc2987d224c421ec8289daba3a5": {
+    "title": "ChatGPTがMac向けにユーザーアクティビティ追跡機能を追加しました。 - Vietnam.vn",
+    "seen_at": "2026-08-17T15:13:32.374637+00:00"
+  },
+  "93e8c38f06844ec4756be567c07ca69aa2a47d4a9cc738c71348e8b701ff0dbb": {
+    "title": "Googleの「Gemini 3.7 Flash」が登場。前モデルからたった3週間でアプデ（ギズモード・ジャパン） - Yahoo!ニュース",
+    "seen_at": "2026-08-17T15:13:32.939552+00:00"
+  },
+  "503c4887ebf9537638cd2c93faee8ea48eb31410e429038c0c102f64c749303d": {
+    "title": "NTTドコモビジネスとエクサウィザーズ、「クローズドAIエージェント」を提供開始 - Yahoo!ニュース",
+    "seen_at": "2026-08-17T15:13:33.500114+00:00"
+  },
+  "447a7af6cb13158df4f67088247a768ea6e3adae3da1bf13d0398bede4cc6bc7": {
+    "title": "「90％の罠」をどう突破？ AI駆動組織の実現に向けた業務データ基盤構築法 - 日経クロステック Active",
+    "seen_at": "2026-08-17T15:13:33.500120+00:00"
+  },
+  "93e6c840a68b011070647ca65482973f3cfbb92a4a29a5f752d718e8f943ffed": {
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "seen_at": "2026-08-17T15:13:39.253819+00:00"
+  },
+  "d5d055cd5d3c181a137fd371992a4007009c99767106124657d744f6a4620c24": {
+    "title": "After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)",
+    "seen_at": "2026-08-17T15:13:40.151485+00:00"
+  },
+  "16cbf8a3c366effc4032f36dd9cd8ddfe439192d287bf80918eb6ea9de84b683": {
+    "title": "llama.cpp version v0.1.0 has been released",
+    "seen_at": "2026-08-17T15:13:40.151490+00:00"
+  },
+  "22372fa3b340d4ada2af6d17a48c72028984d53ca6b0717e0d0b7e57072acbfc": {
+    "title": "[Paper] Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning",
+    "seen_at": "2026-08-17T15:13:40.151497+00:00"
+  },
+  "f953c9d39a7b06709bf3c56a22e06aaa0b8017b8886391d3369623e2ea4b259c": {
+    "title": "tencent/EVIE-Preview-4.5B · Hugging Face",
+    "seen_at": "2026-08-17T15:13:40.151499+00:00"
+  },
+  "c150293caff1ab2ca5a7046407d96c3c01d1d2ce3013c8a60dabed25913de494": {
+    "title": "DeepSeek V4 Flash with Antirez Dwarfstar 4 is amazing.",
+    "seen_at": "2026-08-17T15:13:40.151502+00:00"
+  },
+  "c30e361020f170aa39c02f0c25680ded5e23b4f29569598b71949c4a30b3c959": {
+    "title": "Mimir: Did the vikings train a 1.7B killer model?",
+    "seen_at": "2026-08-17T15:13:40.151504+00:00"
+  },
+  "6aa4bdc72ae2444c27f7eb2459552971a5443e1459da4126e0b056dfcdd2fb4a": {
+    "title": "EXL3 seems to be fading from the r/LocalLLaMa consciousness, and while I suspected it, I'm surprised at this point in time.",
+    "seen_at": "2026-08-17T15:13:40.151506+00:00"
   }
 }
