@@ -10538,5 +10538,181 @@
   "b6dfa943392c795f6e079664e0a3b3d32baaa29620b7beb7ae39cfbae5cbef21": {
     "title": "Qwen3.8 27B Q2 vs Q3 vs Qwen3.6 35B-A3B MoE on 12GB VRAM",
     "seen_at": "2026-08-16T21:08:20.767124+00:00"
+  },
+  "7faee05c6975da336987e65a34dff54e7c3c8be91bce534a92a46509593e0b58": {
+    "title": "【生成AI導入率87%、なぜ成果は出ないのか？】“モデルの性能”ではなく“データの状態”が明暗を分ける。『AI × Data Weekly Insight』を無料公開 - PR TIMES",
+    "seen_at": "2026-08-17T00:28:12.561585+00:00"
+  },
+  "acac3c75cbfc4de1bbaaa03329b2888d8538a4e9cab07012581a6d5f99d8256a": {
+    "title": "AIリスクどう考える「教師も学んで」 シンポで教育関係者ら語る [AIの時代] - 朝日新聞",
+    "seen_at": "2026-08-17T00:28:12.561592+00:00"
+  },
+  "a9980f00d28f1df91a78a4e9a3c7e203e5dae355646095a2656f95a8a72b5ff4": {
+    "title": "学生の生成AI継続利用率が1年で約1.5倍、84.5％に =コンテンツビジネス研究所調べ= - ICT教育ニュース",
+    "seen_at": "2026-08-17T00:28:12.561597+00:00"
+  },
+  "9fe805c348208a1bd5e872ee78bca8ac596e6000c49c4ddfb1803f836b494ed0": {
+    "title": "TAI、AI半導体「Sting Ray」の実機デモを披露 生成AIで評価ソフト開発も加速 - マイナビニュース",
+    "seen_at": "2026-08-17T00:28:12.561600+00:00"
+  },
+  "56e8f62639bbfc6834ebdb6fde427e5aa63f97af9d66cd5d330a454d95219605": {
+    "title": "Anthropicの電子透かし導入発表直後に登場した透かし剥がしOSS「watermarks-remover」がClaude・Gemini・OpenAIに対応（生成AIクローズアップ） - テクノエッジ TechnoEdge",
+    "seen_at": "2026-08-17T00:28:12.561604+00:00"
+  },
+  "a76499e3189a96268b2dd85754e420ae70a6e6db93ea76049556f2113fe8dd75": {
+    "title": "次世代LLMへの4つの最新アプローチ／オスのマウスからメスの作製に成功 - ASCII.jp",
+    "seen_at": "2026-08-17T00:28:12.561607+00:00"
+  },
+  "62cdd77b7245f9d9480ee3fe11e622997cec81615d067625678b27ca842f3863": {
+    "title": "株式会社プランベース、生成AIによる補助金事業計画書作成システムの中核技術で特許取得 - PR TIMES",
+    "seen_at": "2026-08-17T00:28:12.561610+00:00"
+  },
+  "56bf609142e14c916a8748041328ea0034d6a633a7864f1d592f76bdfb1d98fd": {
+    "title": "なぜ生成AIを使っても「劇的な効率化」を感じられないのか？生産性3.8倍の差を生む“脱チャット”の壁 - Yahoo!ニュース",
+    "seen_at": "2026-08-17T00:28:12.561633+00:00"
+  },
+  "a074bb5309cc0b92a4f6e979bb921173cfc0ad54ffffb7aa0346afa5411e0b0a": {
+    "title": "First Recon AI、企業対象「生成AI利用に伴う機密情報の漏えいリスクとAIガバナンス」20日開催 - ICT教育ニュース",
+    "seen_at": "2026-08-17T00:28:12.561638+00:00"
+  },
+  "b7cfdc536a82fd05858d255ff78a969da4bf12f66e3f459e7377fde751795fae": {
+    "title": "『【事例で解説】生成AIで営業データの組織活用はどう変わるのか？』というテーマのウェビナーを開催 - PR TIMES",
+    "seen_at": "2026-08-17T00:28:12.561641+00:00"
+  },
+  "b4db9a4d28487cd09be67548f3f6a974df0191a66b3819c34d6a9e1c50cf9663": {
+    "title": "安田学園中高、「ロイロ×生成AI研修会@安田学園」を29日開催 - ICT教育ニュース",
+    "seen_at": "2026-08-17T00:28:12.561644+00:00"
+  },
+  "f9657e1d8e5c93d02e82369997e9f0dbae1a35d757e5d5cc318e56eda8974026": {
+    "title": "【デジライズ】累計600社のAI導入支援実績をもつデジライズ、ローカルLLM構築代行「トリデAI」を提供開始 - PR TIMES",
+    "seen_at": "2026-08-17T00:28:12.561647+00:00"
+  },
+  "cfa46c369a3028350220daf6eaa466fa50db862af8b7c658e675c010c9e3a90e": {
+    "title": "【Ubuntu日和】【第91回】30万円のRadeon AI PRO R9700自腹購入！LLMにアプリを作らせて気づいた真実 - PC Watch",
+    "seen_at": "2026-08-17T00:28:12.561650+00:00"
+  },
+  "ce70071c76e126e406eb6ca9a9d649806f275b708065e37d786d68b94a616981": {
+    "title": "生成AIはHRTechの「何を見ているのか」 - ニコニコニュース",
+    "seen_at": "2026-08-17T00:28:12.561653+00:00"
+  },
+  "4910271445d12dbfa2a34fe0b2352b87da182cbb9e0380a5ebb9c419de16cd3d": {
+    "title": "Anthropicの電子透かし導入発表直後に登場した透かし剥がしOSS「watermarks-remover」がClaude・Gemini・OpenAIに対応（生成AIクローズアップ） 1枚目の写真・画像 - テクノエッジ TechnoEdge",
+    "seen_at": "2026-08-17T00:28:12.561656+00:00"
+  },
+  "0f7cc4ecbed1331372c77b8fb71cd8790333d099c1b65dfc55127303776d2937": {
+    "title": "もはやローカル動画生成AIの枠におさまらない。MiniMax H3の奥が深すぎる - ニコニコニュース",
+    "seen_at": "2026-08-17T00:28:12.561658+00:00"
+  },
+  "28c67d7f8ac9a1269f49376934b7621c945245d4303d99960a0c9d22b2485048": {
+    "title": "Claudeの隠された電子透かしに、テック業界関係者は懸念を抱いている。アンソロピックはいくつかの回答を示した - Business Insider Japan",
+    "seen_at": "2026-08-17T00:28:13.049383+00:00"
+  },
+  "76cc6e50722ddece68bf0195d834bd0c8b5ec7f8a633631cc06e249fa737affe": {
+    "title": "Claudeで障害 アクセスできず（復旧） - CNET Japan",
+    "seen_at": "2026-08-17T00:28:13.049388+00:00"
+  },
+  "5c1f31dd4a6a4f682e2d236044a7d9987585d581f2f5288d24699e138051d859": {
+    "title": "ClaudeのAIウォーターマーク除去ツールが相次ぎ登場-公式検出を回避できる保証はなく、安易な利用に注意 - rocket-boys.co.jp",
+    "seen_at": "2026-08-17T00:28:13.049391+00:00"
+  },
+  "f01d67323bd3f3261d9aeb9f5001e6be43f62d8b8b3087715798c06bfe0c1a73": {
+    "title": "オープンＡＩで経営幹部が相次ぎ退社、半年前加入の「中心人物」も…新規株式公開を前に「危険信号」 - Yahoo!ニュース",
+    "seen_at": "2026-08-17T00:28:13.560219+00:00"
+  },
+  "55e5debaf97328032fdfe3e5315d3030c76dd1cda1c4f83da9959ae822a0a51e": {
+    "title": "ChatGPT、Macでのクリックや文字入力を記憶する新機能--「あのファイルはどこ？」にも回答 - CNET Japan",
+    "seen_at": "2026-08-17T00:28:13.560224+00:00"
+  },
+  "71d33a617a1de3fc2608a3afa5b778ef7227bcb4865ee4c284b30b5ff25fd710": {
+    "title": "「GPTsもう作れない…！」——個人アカウントで突然消えたボタン、OpenAIが線引きした基準 - shiritomo",
+    "seen_at": "2026-08-17T00:28:13.560227+00:00"
+  },
+  "437f2405b9e995dfc0388c1affc702cd9c56ac0b762aa037d7ddf5db49097d87": {
+    "title": "エヌビディア、OpenAI向けデータセンター融資担保を大幅縮小 2,500億ドルから1,200億ドルへ - BigGo ファイナンス",
+    "seen_at": "2026-08-17T00:28:13.560230+00:00"
+  },
+  "170fb9fd079e24f769f6580799de8f01e30c8b5d005453004c9713b9bae4cb01": {
+    "title": "OpenAIやAnthropicでも続々発生、AIの「悪意なき暴走」は止められるか - 日経クロステック",
+    "seen_at": "2026-08-17T00:28:13.560234+00:00"
+  },
+  "d873b170e1d7315d18abc63aacd2e8abe825dbcef145805f0468d5447cd761b4": {
+    "title": "ChatGPT、Macでのクリックや文字入力を記憶する新機能 「あのファイルはどこ？」にも回答 - au Webポータル",
+    "seen_at": "2026-08-17T00:28:13.560238+00:00"
+  },
+  "bf5dfb620629f0461f2ff490d55ccf53d1729e3fd17fc5dc423266a93733cfe9": {
+    "title": "米17歳少年「ChatGPT」に相談で母と弟殺害か　安全対策あっても一掃できないＡＩの危険性 - Infoseek",
+    "seen_at": "2026-08-17T00:28:13.560243+00:00"
+  },
+  "a03f5f047b5ec50a3999e345999932ddd03de62f58038b2111136047c2bc4928": {
+    "title": "Claude Codeが「自動ツール」に変わった！ 「/goal」で自走させる手順（ライフハッカー・ジャパン） - Yahoo!ニュース",
+    "seen_at": "2026-08-17T00:28:14.634791+00:00"
+  },
+  "c6c33d3aa4509437411811c3e497f841a12df26728a4c002d39ba47699c88a57": {
+    "title": "なぜ多くの人はAIエージェントを使っていないのか - WIRED.jp",
+    "seen_at": "2026-08-17T00:28:14.634798+00:00"
+  },
+  "9fac5746e8718f8d41e17cce5e5617a4cbd998bbaac24b579fcd925c740686ce": {
+    "title": "Claude Codeで、採用はどこまで変わったか〜クラシル×kubell×グッドパッチ×AnotherBallの試行錯誤。交流会で直接聞ける夜〜｜8/31(月)開催 - PR TIMES",
+    "seen_at": "2026-08-17T00:28:14.634801+00:00"
+  },
+  "62d5512b6e9e64650d941f999f5ab7977afa70feb57005cc1a14551bfdf4dc8d": {
+    "title": "Claude Codeが「自動ツール」に変わった！ 「/goal」で自走させる手順 - ライフハッカー",
+    "seen_at": "2026-08-17T00:28:14.634805+00:00"
+  },
+  "d9509c16b2c66f6c27876edb62a34db1da8ed308cf0daa8f5fdfdf895b76e073": {
+    "title": "AIエージェント台頭でSaaS再編加速 主要SW各社が連携と課金転換 - CHOSUNBIZ - Chosunbiz",
+    "seen_at": "2026-08-17T00:28:14.634810+00:00"
+  },
+  "6b5d2e165e26a50c05d7aeb46b75a6e51b82d77639e2eae663aeba823d1d32fa": {
+    "title": "【さっつーのAIエージェント】8月16日まで2週間の海外/日本のフィジカルAI重要ニュース：東証プライム経営者用エグゼクティブサマリー - さっつーのAIエージェント",
+    "seen_at": "2026-08-17T00:28:14.634813+00:00"
+  },
+  "568def7077122a8820f0167607d0fc92d7d30e24be1f5f59701ae4903182cd05": {
+    "title": "DeepSeek、AIエージェント実行基盤「DeepSeek Harness」を公開 全面プラグイン設計で注目 - 디지털투데이",
+    "seen_at": "2026-08-17T00:28:14.634816+00:00"
+  },
+  "ed36aeeea104f442dd91ca2d3d5182e4024b53d07bc027ed95e6a745e137b3b9": {
+    "title": "AIエージェントによる銀行API操作をアウラムが実務検証、資金移動を伴う業務でのAIと人間の役割分担を明確化 - PR TIMES",
+    "seen_at": "2026-08-17T00:28:14.634819+00:00"
+  },
+  "b49f977702fd5417919d4f33298ace4aba8ac28a6f30f72126e6d3a8e0953e44": {
+    "title": "【さっつーのAIエージェント】8月15日まで2週間の海外/日本AIデータセンター重要ニュース：東証プライム経営者用エグゼクティブサマリー - さっつーのAIエージェント",
+    "seen_at": "2026-08-17T00:28:14.634822+00:00"
+  },
+  "c00cfa3b0af65cf5f9bcb6c9341afb7ee1b83774700f2238e967bebe67c5f529": {
+    "title": "【さっつーのAIエージェント】8月16日まで2週間のAI半導体・メモリ重要ニュース：東証プライム経営者用エグゼクティブサマリー - さっつーのAIエージェント",
+    "seen_at": "2026-08-17T00:28:14.634825+00:00"
+  },
+  "410e0c9fdd076d6d9dcf3231e6be06567ab6a7852355fc8c4c19743190c6a6a2": {
+    "title": "Qwen 3.8 9b?",
+    "seen_at": "2026-08-17T00:28:15.818895+00:00"
+  },
+  "118b06eadbebd3610ced8c049bdb01eb6db2a9311efb87820a300b01facf243f": {
+    "title": "Qwen 3.8 27b vs 3.6 27b - how good is with a Turtle library.",
+    "seen_at": "2026-08-17T00:28:15.818902+00:00"
+  },
+  "1c75e44f4729ab93fa0be141cb335cf86ed220cf825c077f49be4ed6efe0ea68": {
+    "title": "Dario Amodei defends his policy proposals, warns open weights won't decentralize power, endorses pre-launch vetting, says real accomplishments will earn trust",
+    "seen_at": "2026-08-17T00:28:15.818905+00:00"
+  },
+  "cd2c1e52ea56901d79978d07f09faa1ade4db16217a80bd8dfde46053cda90eb": {
+    "title": "Simon Willison: Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+    "seen_at": "2026-08-17T00:28:15.818911+00:00"
+  },
+  "e839dd4122e0fa731ccb5fbaf4327554ddfde8f758d356eebb6ad8448c036d43": {
+    "title": "Anyone else get a kick out of Qwen 3.8 27B Reasoning Dialogue?",
+    "seen_at": "2026-08-17T00:28:15.818917+00:00"
+  },
+  "da1adffab0e1d31158f6111f4054e60382c331bb1aba217b5f3ee61a8d8e6523": {
+    "title": "[audio.cpp] Release 0.6: dots.tts, MiniMax-H3 text2audio (up to 3x realtime), MiniMax-Music3 (preview), and more new audio models. 5+ demos included.",
+    "seen_at": "2026-08-17T00:28:15.818919+00:00"
+  },
+  "38972d104b19a2a61ac54e595bbece3d34b179ca30b39f3ee54485e3152e4500": {
+    "title": "Llama.cpp ROCm 7.2->7.14 upgrade, Radeon 780m iGPU benchmarks: ROCm vs Vulkan",
+    "seen_at": "2026-08-17T00:28:15.818923+00:00"
+  },
+  "2e1bce0a05778de247b22ad3a26d00518f66878bd018666b7bcebd2a91e79b06": {
+    "title": "NInfer RTX 4090 for Qwen 3.8 27B update - up to 250-350K tokens context in VRAM",
+    "seen_at": "2026-08-17T00:28:15.818925+00:00"
   }
 }
