@@ -1,80 +1,4 @@
 {
-  "2c35451d258802997ba8d95825672c984a90e3e19667fb60c9878269a14493b5": {
-    "title": "ムンペイはAIエージェント用金庫サービスである「ペイボックス(PayBox)」を発売したと30日明らかにした。 - mk.co.kr",
-    "seen_at": "2026-07-30T08:02:21.531023+00:00"
-  },
-  "c43936d0d59e363dbbd26a48a72d83b97d752e64b86f37f4bed3dcd0524494da": {
-    "title": "Fortune 500企業向けにサプライチェーン支出を自律的に管理するAIエージェントを提供する\"Freehand\"がSeedで$75Mを調達 - AT PARTNERS",
-    "seen_at": "2026-07-30T08:02:21.531026+00:00"
-  },
-  "2894102df640074f03dae97d936290f6e62be16e064fc8a825b533b4a417e053": {
-    "title": "AIエージェント「Hermes Agent」がウェイクワードに対応、「Hey Hermes！」で呼び出せる／検出処理はすべてローカルで完結 - forest.watch.impress.co.jp",
-    "seen_at": "2026-07-30T08:02:21.531037+00:00"
-  },
-  "1a06a9b8b546630ac8762296be1ff38ae746db993487894adbc5854eea3fdda0": {
-    "title": "Metaが個人用AIエージェント開発加速 数十億人利用見込む - CHOSUNBIZ - Chosunbiz",
-    "seen_at": "2026-07-30T08:02:21.531043+00:00"
-  },
-  "ab1cdfdd3249ecd17460682c700fb54b568b306391677c05151e3cd1f7f7e92c": {
-    "title": "4090 + 5060 Ti + 64GB RAM: 206 t/s on a 35B-A3B, and a 122B at 37 t/s",
-    "seen_at": "2026-07-30T08:02:23.442791+00:00"
-  },
-  "56219304811d11a2295c9f7cb39c1e6f736aedc383cdfbc515f574d444d4ad9f": {
-    "title": "What is the fastest local research tool (deep research) ?",
-    "seen_at": "2026-07-30T08:02:23.442797+00:00"
-  },
-  "4cb6aa179acae29b1727f97505ce8bdc652eb59b58e4e6a70a00b92304aa78d0": {
-    "title": "What am I missing?",
-    "seen_at": "2026-07-30T08:02:23.442800+00:00"
-  },
-  "8f3ef02bf32c420b4e52248409e206d9e8a06ca9514a232b29a378b6381d9456": {
-    "title": "Jetson Nano with embedding models",
-    "seen_at": "2026-07-30T08:02:23.442803+00:00"
-  },
-  "fb10b3fe9432603be14612aad239679c3fc3399f3eb315b8f22ff6e3c593528d": {
-    "title": "2× Radeon R9700 for Local AI Was Choosing AMD Instead of NVIDIA a Mistake Without CUDA?",
-    "seen_at": "2026-07-30T08:02:23.442806+00:00"
-  },
-  "9ccdad2d32269f4b26c0743c094fc41432ad5beb6492727997b24152c03fe2ff": {
-    "title": "静岡市、庁内情報照会システムとしてAllganizeの生成AIプラットフォーム「Alli LLM App Market」を採用 - PR TIMES",
-    "seen_at": "2026-07-30T10:56:07.685809+00:00"
-  },
-  "55199aa432d1449eb07b1b40187d792c904424e45864fb39e605469235e7daa4": {
-    "title": "日本のSNSクリエーターの64％が生成AIを活用--それでも「最終判断は人間」 - ZDNET Japan",
-    "seen_at": "2026-07-30T10:56:07.685817+00:00"
-  },
-  "136ac4dd5ffb33e157deb1dbcde08e3d004f6a21f71fbb2417fe47c59467e0b5": {
-    "title": "生成AIが答えられない「なぜ」に挑む──ヴェルトが賭けた因果推論という武器【Monthly Pitchの起業家たち】 - BRIDGE（ブリッジ）",
-    "seen_at": "2026-07-30T10:56:07.685821+00:00"
-  },
-  "e189437525503178418c97227679e606ba03b89bae70d5caa4d4415017f60fa8": {
-    "title": "【インタビュー】全社員が「当たり前に」生成AIを使う会社へ。住友化学が挑む「AIネイティブカンパニー」への道 - AIsmiley",
-    "seen_at": "2026-07-30T10:56:07.685826+00:00"
-  },
-  "606bdbaa9cb79c5cff0c23c0e1fd023ac36ecf4650479a0e9fb17b954462ce73": {
-    "title": "シャープ、９月に「ヘルシオ ホットクック」新機種…初の生成ＡＩ対応・献立をアドバイス - 読売新聞",
-    "seen_at": "2026-07-30T10:56:07.685829+00:00"
-  },
-  "37fbb60208cb56361a43a4b585e05cb5dcfb905af0b05665d793e973363dedaa": {
-    "title": "苫小牧市の生成AI利用者2倍に 導入1年で職員622人、「使えなければならない時代」 - 北海道新聞デジタル",
-    "seen_at": "2026-07-30T10:56:07.685832+00:00"
-  },
-  "fe5ca9bcba305e31c527b53c05e4c24348586067ee39b99deeff75c11a1d1afa": {
-    "title": "美術館の「敷居」は下げられるのか。ハーバード美術館、生成AIで来館者獲得に挑む - ARTnews JAPAN",
-    "seen_at": "2026-07-30T10:56:07.685835+00:00"
-  },
-  "0300190d2093354a97fe41308e281887f5891a501ff716810017ca6229d392b0": {
-    "title": "デジタル庁が被災地に生成ＡＩ提供 自治体職員の負担軽減へ - NHKニュース",
-    "seen_at": "2026-07-30T10:56:07.685838+00:00"
-  },
-  "42c8b5195cfb333a20d68196adcb95b171ecea0219c66149a4b404f7c92a62b4": {
-    "title": "苫小牧市の生成AI利用者2倍に 導入1年で職員622人、「使えなければならない時代」 - 47NEWS",
-    "seen_at": "2026-07-30T10:56:07.685841+00:00"
-  },
-  "c50620892cab348832d3c113fc7ccc0dbf6033e5002626442a8694fb8e6fb094": {
-    "title": "『ドラクエ』×Google生成AI“Gemini”のリアルイベント“ジェミニクエスト”で魔法使い気分が味わえる！ ド派手な呪文をぶちかまして“ちいさなメダル”をもらおう（ファミ通.com） - Yahoo!ニュース",
-    "seen_at": "2026-07-30T10:56:07.685848+00:00"
-  },
   "eff6f71ed252d7d9c035307194cae856e960ef55aa0ddf7aa3421f570db38596": {
     "title": "「みどりの窓口」に生成AI JR東日本、30年代早期に - 日本経済新聞",
     "seen_at": "2026-07-30T10:56:07.685851+00:00"
@@ -11998,5 +11922,81 @@
   "41874ced014a122677d7f8d37ecd7ef822328bdf60fcb00ddb0aa8916e52d025": {
     "title": "DeepSeek V4 Flash 0731 on Strix Halo: draft model, n_max sweep, and a launch line that actually helps",
     "seen_at": "2026-08-18T12:18:15.223561+00:00"
+  },
+  "237202fbacad68322673fd2209782c513e8634e1aea6603ee185bcbf3761c258": {
+    "title": "駐禁除外の標章 生成AIで偽造か 書類送検の53歳男性「小遣い無駄に使いたくなかった」 - テレ朝NEWS",
+    "seen_at": "2026-08-18T15:18:40.244025+00:00"
+  },
+  "ea40035fddd329d24ff321d979e4645d43bfd9a651f72c9a7e77d49aeddeb5a1": {
+    "title": "生成AIが世界の肥満問題を解決する？ 肥満管理上のChatGPTのエビデンスと臨床的意義、潜在的課題 - sndj-web.jp",
+    "seen_at": "2026-08-18T15:18:40.244031+00:00"
+  },
+  "a2ad65fff704b8aaf0aa5a0173e0d9085e8c17ca2435d0301a7adc3aa63a5a33": {
+    "title": "3D生成AIモデル「Meshy 7」がリリース！3D形状の一致精度が大幅向上 - CGinterest",
+    "seen_at": "2026-08-18T15:18:40.244037+00:00"
+  },
+  "aa2b3c3a9e3ea53628e1efaf5ea75f555140d4e30c154e52e2fff2e9a5a050cd": {
+    "title": "「AI Marketing Day 2026」に小林製薬 大槻開氏が登壇、生成AIを機能させる“土台づくり”のリアルを語る - au Webポータル",
+    "seen_at": "2026-08-18T15:18:40.244043+00:00"
+  },
+  "2c98a0803b41707ad3e5c6deacd12b1d1c186e1c6a19b3ddbb4539538f980250": {
+    "title": "ストックマーク自社LLMを活用し「非構造データ」「熟練者の暗黙知」をコア資産へ変革するFDE組織を拡大 - ニコニコニュース",
+    "seen_at": "2026-08-18T15:18:40.244046+00:00"
+  },
+  "0d0ffeaaf2e89fbba7806cc5d19d179ad4b01b5576cc664c0b0e57296e7a5cee": {
+    "title": "Hakuhodo DY ONE、生成AIプラットフォーム「Dify」の導入・活用支援とライセンス販売を開始 - RTB SQUARE",
+    "seen_at": "2026-08-18T15:18:40.244049+00:00"
+  },
+  "557767803843aa8b9d092c29f9e3ae05a50d27b7f345b121e28785826b2d706e": {
+    "title": "「10分でまるごと理解！生成AIを人材育成に取り入れて成果を上げる方法」についての資料を無料公開！｜株式会社LDcube - ニコニコニュース",
+    "seen_at": "2026-08-18T15:18:40.244051+00:00"
+  },
+  "a8ff9ee97a9bc75aa63e085e68601661e816c28b8bacb22dcb4957a72f2af06d": {
+    "title": "3大AIで「企画・マーケ」の記事はChatGPTが最多 1年分のnote投稿を分析 - 日経クロストレンド",
+    "seen_at": "2026-08-18T15:18:41.422976+00:00"
+  },
+  "9a4550d5b3c5cb12d6bf9211d49df32ad70ff7f959e7c2729b8612706c6e5a94": {
+    "title": "ベトナム企業がOpenAIのグローバルパートナーにさらに増える。 - Vietnam.vn",
+    "seen_at": "2026-08-18T15:18:41.422984+00:00"
+  },
+  "f7390911ad7eeb0984c87afc9ddc87a5aa0fd0e9e22f27f2dd18e59350d5b2cd": {
+    "title": "新ブックマーク機能「Remember this with Gemini」展開へ - jetstream.blog",
+    "seen_at": "2026-08-18T15:18:41.883845+00:00"
+  },
+  "27f783147ab3e3958f411ce3d6dcd25b799667987c7c4b6f0590f2efffc7a0b0": {
+    "title": "欲しいものが「もう揃ってる」へ 「ヤフショ」AIエージェントの世界 - Impress Watch",
+    "seen_at": "2026-08-18T15:18:42.362389+00:00"
+  },
+  "5f4452f671e7cb3a1faa8eda176f51fae70a45c2e631e00f2ac7ec3f1c9e7498": {
+    "title": "Linux Improves VRAM Management in 7.3 Kernel 🥳",
+    "seen_at": "2026-08-18T15:18:47.606084+00:00"
+  },
+  "5f5beaa772b0959195af0e68e4bee87e1b1ad68ebaee5798a0682eb50758acb7": {
+    "title": "Running DeepSeek V4 Flash Q4_K_XL at ~100 tok/s prompt processing on 4× RTX 3060 12GB",
+    "seen_at": "2026-08-18T15:18:47.606089+00:00"
+  },
+  "8699757fe694977f5ce8433914d3b2a7785aa34d9253866c238b3f98d58c1340": {
+    "title": "OpenCode overrides the samplers for Qwen models to the wrong values",
+    "seen_at": "2026-08-18T15:18:47.606091+00:00"
+  },
+  "094a3b14c1dc374017009b6001ffb1102addf5a39d2a33c3fba9f259532a5778": {
+    "title": "Is Ling 3 tiny underrated for its size?",
+    "seen_at": "2026-08-18T15:18:47.606093+00:00"
+  },
+  "1e1dade8727a147d942ec6dc34328ba661b598100ddfad1e01e4d8ad0251dd76": {
+    "title": "Qwen 4 expected for September",
+    "seen_at": "2026-08-18T15:18:47.606096+00:00"
+  },
+  "51602ca0ab98e621304d21c80105e0eebed22d57f9d136bdb3cf16a3ae47e52b": {
+    "title": "What would make an uploader-run refusal table independently reproducible?",
+    "seen_at": "2026-08-18T15:18:47.606100+00:00"
+  },
+  "1444dbde61319546974bba19ad8c14a3d015fb660b50d5484a003a69591506f5": {
+    "title": "If the weights never change, is it really recursive self-improvement?",
+    "seen_at": "2026-08-18T15:18:47.606102+00:00"
+  },
+  "bc4213cc88ef27dacd269aa255ae9c7f4875ba638018520b6332becf6035975c": {
+    "title": "What sandbox are you all using for AI agents?",
+    "seen_at": "2026-08-18T15:18:47.606105+00:00"
   }
 }
