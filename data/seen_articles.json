@@ -11726,5 +11726,89 @@
   "a8958b143497432565c74d0e7267423e4ad91484b520ace81205a19b855e7c69": {
     "title": "I pushed Qwen3.8-27B to 99 tps single request and 1150 tps with a batch request on a RTX 3090",
     "seen_at": "2026-08-17T21:13:33.967735+00:00"
+  },
+  "ac3b95e1f0a4a42ee55d6bddd1aa7bb92433788f7e2a98aa948c6aba201d5710": {
+    "title": "Google・NVIDIAが「動画生成AI」でロボットの未来を予測、世界モデルで日本が勝つワケ ｜Seizo Trend - ビジネス+IT",
+    "seen_at": "2026-08-18T00:27:45.460464+00:00"
+  },
+  "ded7e834f0c2ad12621d44c3544b0aa5f8798f847978841bf8fcebc440814b14": {
+    "title": "生成AIを巡る米欧中の規制動向最前線 中国の擬人化AIサービス規制：主要論点と日本企業の実務対応 - PwC",
+    "seen_at": "2026-08-18T00:27:45.460473+00:00"
+  },
+  "a4473f18ccda9bc69afaeaf69615883989e4ec6de42a972b9d0cc653a1725a9a": {
+    "title": "AI検索・生成AIに選ばれやすいWebサイトかどうか調査し、改善案をリストアップするツール「AI検索最適化診断」を無料で提供開始 - PR TIMES",
+    "seen_at": "2026-08-18T00:27:45.460476+00:00"
+  },
+  "521c8f54053f0b4efe46f435aef74bfdda6137673ff6de4457e9aada20fcd1dc": {
+    "title": "Claude Codeが突然止まった夜、開発者は何をしていたか。8月16日の36分間で見えたAI依存の輪郭 - hashout.jp",
+    "seen_at": "2026-08-18T00:27:46.007352+00:00"
+  },
+  "a74178dc5f1900bddf4ea7a30f27eb82a17fc8c7618285f0bf57dad7a519f5f7": {
+    "title": "AIの価格が急落しているのに、なぜOpenAIの収益はむしろ増えたのか - businessinsider.jp",
+    "seen_at": "2026-08-18T00:27:46.599551+00:00"
+  },
+  "5f23770c40acb6f027bd2dc70cc6df8ec066f77eb0a9368e77ecbcb228e0b41c": {
+    "title": "NVIDIA、OpenAIのオハイオAIデータセンターに最大1050億ドルの債務保証──SB Energyと提携 - ITmedia",
+    "seen_at": "2026-08-18T00:27:46.599556+00:00"
+  },
+  "f1c38270fc11f263709982f6ced9bed1b3cdd956772b54f20010811422c1b6f7": {
+    "title": "【OpenAI社長】AIによるサイバー攻撃が数カ月以内に蔓延と警告、防御体制の即時刷新を要請 - BigGo ファイナンス",
+    "seen_at": "2026-08-18T00:27:46.599558+00:00"
+  },
+  "bc9ffbd8e98f48fd564577ea7de599438c779f10053adb91942b830d36080aa3": {
+    "title": "NVIDIA、OpenAIのデータ施設料を17兆円保証 SBG系が開発 - 日本経済新聞",
+    "seen_at": "2026-08-18T00:27:46.599561+00:00"
+  },
+  "4eb24f5ff239b42fbfeac9d8b6f80f119a0cfc65126c210c220c74ac113d06e8": {
+    "title": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス マネーフォワード - ITmedia",
+    "seen_at": "2026-08-18T00:27:46.599564+00:00"
+  },
+  "c5fbd1d7bbe33be5620984df11bab4320af1c04dbb6d24135fd73d860c504b6d": {
+    "title": "OpenAI、オハイオ州の10GW級AIデータセンターを20年契約で賃借 NVIDIAは最大1050億ドルの損失補償 - 디지털투데이",
+    "seen_at": "2026-08-18T00:27:46.599568+00:00"
+  },
+  "7713cbb95530e69c6207e168fee26c0e6f7c0a9f4284eb10dc634c48e140028d": {
+    "title": "リアル会議でも「Google Meet」の［Gemini を使用したメモの作成］機能を利用可能に（窓の杜） - Yahoo!ニュース",
+    "seen_at": "2026-08-18T00:27:47.101174+00:00"
+  },
+  "59069043f3a662e4513991612b803c4b0ae6ff4c3a60e54be4a4d36f3f99812b": {
+    "title": "AIエージェントでCADやCAMを連携、製造プロセス自動化へ：メカ設計ニュース - MONOist",
+    "seen_at": "2026-08-18T00:27:47.655188+00:00"
+  },
+  "521365020180ccfdc81ae7e084d188b3f6b585d1528126a2bda806e6dde7c144": {
+    "title": "AIエージェントに同じ仕事をさせたら互いを妨害し始めた。アンソロピックが実験で確認した「縄張り争い」 - businessinsider.jp",
+    "seen_at": "2026-08-18T00:27:47.655195+00:00"
+  },
+  "8852b859690181193dbc56c57b8bb85a6c549171a9f038f03eb29186362fb2e7": {
+    "title": "ベース、Ubicom、PKSHA…「SaaSの死」で売られたSIer、AIエージェント株に復活期待（窪田真之） - トウシル",
+    "seen_at": "2026-08-18T00:27:47.655197+00:00"
+  },
+  "5ca2e234ba934dab61cf68634aea0e2f1d9add5c1071fbafe0b4e0ec6e904784": {
+    "title": "AIエージェントに「ID」と「ウォレット」を提供（Cloudflare） - ペイメントナビ",
+    "seen_at": "2026-08-18T00:27:47.655200+00:00"
+  },
+  "7767f72a2c8ca9c8e5158fc8df12a8e0363ab11d9cb1b0ec00f97c72779af57f": {
+    "title": "AIエージェントは、集めればチームになるのか Anthropicが見つけた「協調しない群れ」｜Trans-N - note",
+    "seen_at": "2026-08-18T00:27:47.655204+00:00"
+  },
+  "536f18937d42e71f977b11a287116f37357bb3e47c64ee91a383686436bc010d": {
+    "title": "AIエージェントは企業の働き方をどう変えるのか。VivaTech 2026で語られた「Agentic Enterprise」 - ASCII.jp",
+    "seen_at": "2026-08-18T00:27:47.655206+00:00"
+  },
+  "7a9e743d8b4c39b9f94d8e044d3ee84fbc51332af8e29234428664a919f06482": {
+    "title": "製造DXの決定版｜「工場のサーバ化」が導くAIエージェントの真価～デバイスデータ知能化と統合プラットフォームによる革新～ - ビジネス+IT",
+    "seen_at": "2026-08-18T00:27:47.655210+00:00"
+  },
+  "4102c7c6b2e2629e85db23dedd0e7d738d67cff0022ba7dcf67797e9766cb0f0": {
+    "title": "Waiting for Qwen 3.8 35B A3B",
+    "seen_at": "2026-08-18T00:27:50.048003+00:00"
+  },
+  "c637a1062c36c5bb8bdd74f5df8170765010390918de2532d6e802e15b9e0a4c": {
+    "title": "we benchmark models nobody actually runs",
+    "seen_at": "2026-08-18T00:27:50.048008+00:00"
+  },
+  "217f7232b0fc94946c37aadc43e3863b29d1ff75f557447f5688543e050d71cd": {
+    "title": "Qwen 3.8 35b and 122b - We hope/wait/beg for models incessantly. But how do we actually give the lab more incentive to make it?",
+    "seen_at": "2026-08-18T00:27:50.048011+00:00"
   }
 }
