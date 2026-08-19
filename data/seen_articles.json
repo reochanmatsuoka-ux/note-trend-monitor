@@ -1,100 +1,4 @@
 {
-  "1f9a2e7055c528906bb42008ee1531034cf2522cb534be7af5a07c0ee6a57a7e": {
-    "title": "日本AIセンター、FDE（フォワード・デプロイド・エンジニア）人材の専門窓口を開設 ― 現場に入り、AIエージェントを率いて実装まで解き切る - PR TIMES",
-    "seen_at": "2026-07-31T08:27:04.160544+00:00"
-  },
-  "9a6224156714004e9af5e47d051839191025d585011fce30dac3acb912cba884": {
-    "title": "議事録AI「YOMEL」がAIエージェント機能を強化。最大3つの会議ログを横断した分析・提案が可能に - ニコニコニュース",
-    "seen_at": "2026-07-31T08:27:04.160557+00:00"
-  },
-  "634c90f438d579367c47e27b9b3440e9dca3eb2b74055d419f5d428952aea36e": {
-    "title": "DeepSeek-V4-Flash has been updated, \"The official release of DeepSeek-V4-Pro will follow soon\"",
-    "seen_at": "2026-07-31T08:27:25.179844+00:00"
-  },
-  "d9b2c0b84ccef5ace67a11a12a8ceda14759f0b34d8a57884c4d27e776bcbec0": {
-    "title": "The official release Deepseek V4 flash is live on the API",
-    "seen_at": "2026-07-31T08:27:25.179849+00:00"
-  },
-  "f8d8d0a4d825c42942ce41a5fef5f95362e22385eceaf5d2929d8d7cc9595333": {
-    "title": "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna",
-    "seen_at": "2026-07-31T08:27:25.179852+00:00"
-  },
-  "809ac99de2fafbc71824565055db0f942c8cf25b96a92f87395b0e8b8d0eafd1": {
-    "title": "DeepSeek-V4-Flash-0731 is going to cause another market crash.",
-    "seen_at": "2026-07-31T08:27:25.179855+00:00"
-  },
-  "9bdca126a3a8c8e68412aff0114d67ec8852a097c5a5fcd5fb1e49ac4e2f2417": {
-    "title": "DeepSeek v4 Flash has a nice bump in Capability",
-    "seen_at": "2026-07-31T08:27:25.179859+00:00"
-  },
-  "eea7129a853ae764a7a8f757fd26600671594424f499a85d75482af8bcd06f89": {
-    "title": "Huawei opensouced openPangu-2.0-Pro, 505B-A18B",
-    "seen_at": "2026-07-31T08:27:25.179862+00:00"
-  },
-  "3e29e7f589b6545bf691a13b2d154c6510cc032b564dd36ba70cf3d4799603d8": {
-    "title": "I predict DeepSeek V4 Flash 0731's Artificial Analysis score to be 57 ± 1 point (Kimi K3 Level)",
-    "seen_at": "2026-07-31T08:27:25.179866+00:00"
-  },
-  "b00bf369566b9305a9440139908611df3e8408c88c0cd7f6c791da01daad5fb2": {
-    "title": "DeepSeek-V4-Flash-0731 now far surpassing the DeepSeek-V4-Pro-Preview in benchmarks",
-    "seen_at": "2026-07-31T08:27:25.179868+00:00"
-  },
-  "7e4ce91d04b39d6541f6327553283ddd0145f22d71377608e5a8197c9733ddc9": {
-    "title": "中国の大規模言語モデルが世界ランキングの上位2位を独占 - 人民網日本語版",
-    "seen_at": "2026-07-31T11:14:49.565285+00:00"
-  },
-  "3d517a4f9c975c9a6a1bda593b66d637f2959d3e3c54f0cb2f425dd29f1338ba": {
-    "title": "EU、生成AI監督強化 「暴走」抑止、制裁金も（共同通信） - Yahoo!ニュース",
-    "seen_at": "2026-07-31T11:14:49.565292+00:00"
-  },
-  "0efa51538c079c8efa74645c9c12840bcf91ea9ef4f8b3fcb4b248728e1c9b79": {
-    "title": "生成AIを駆使してゲームデモを作成、スクエニ遠矢氏が講演 - 日経クロステック",
-    "seen_at": "2026-07-31T11:14:49.565296+00:00"
-  },
-  "d6464d145af393b28dd26969e0570f863d20bff959ec6b880991cbe121ed4e10": {
-    "title": "株式会社Mavericksは、動画生成AI「NoLang」の素材検索を刷新。BGM・フォントなど7種類を「明るい気分になる曲」「上品」といった雰囲気の言葉で検索でき、素材名や分類を知らずに選択可能に - PR TIMES",
-    "seen_at": "2026-07-31T11:14:49.565299+00:00"
-  },
-  "77f829c14891cfc331f32c1566c112ec5d265ed73d6ef944fff531259f021cb4": {
-    "title": "CEDEC2026で語られた生成AI活用事例、コンテンツ生成とQA自動化 - 日経クロステック",
-    "seen_at": "2026-07-31T11:14:49.565303+00:00"
-  },
-  "73309d44b279024d9888eb844b12a8ea6555328f5d60e995fb5563581ef00d47": {
-    "title": "生成AIで新材料を開発する国際ネットワーク、三井化学が参画（EE Times Japan） - Yahoo!ニュース",
-    "seen_at": "2026-07-31T11:14:49.565308+00:00"
-  },
-  "b13af8d793d9e51a60c60bb7edc11c9c4a2c0bdfbc1b0ef6f694005d8d9edafc": {
-    "title": "ＥＵ、生成ＡＩ監督強化 - 京都新聞デジタル",
-    "seen_at": "2026-07-31T11:14:49.565312+00:00"
-  },
-  "cad0bc85556066c9df4ef319179033536cc8b4257aad059031166a1d2b8f97f1": {
-    "title": "ＥＵ、生成ＡＩ監督強化 - 京都新聞デジタル",
-    "seen_at": "2026-07-31T11:14:49.565315+00:00"
-  },
-  "d3626151093668a7abf19c848155544a5ddfa3611a1c06d70401758ffe80be07": {
-    "title": "EU、生成AI監督強化 「暴走」抑止、制裁金も - nippon.com",
-    "seen_at": "2026-07-31T11:14:49.565319+00:00"
-  },
-  "a2888981c3402f5b4ba654d72618bbb4b8db067c8ff63660372816b5881a36b3": {
-    "title": "「暴走」抑止、制裁金も - nnn.co.jp",
-    "seen_at": "2026-07-31T11:14:49.565322+00:00"
-  },
-  "439867244e7902461af8942d182167aebf3ecba524cbe1539aa3907d5336b2a3": {
-    "title": "『Stellar Blade: BLOOD RAIN』生成AI使用の公式ミュージックビデオ公開。「クオリティが低い」「プロモーションにはAIを使わないでほしい」といった反応も - Game*Spark",
-    "seen_at": "2026-07-31T11:14:49.565325+00:00"
-  },
-  "b74b79f3e73837c275925ed5e53cc8ca190b34c4725abee2f19e7aa5f49448f8": {
-    "title": "演習型学習で「考えを言語化する力」を習得、Progateが「生成AI入門」コースを提供 - こどもとIT",
-    "seen_at": "2026-07-31T11:14:49.565328+00:00"
-  },
-  "4bcacd9e1fe75d10a3f9b022c0a02fe6407b5d2e48424931d925296ea92926ba": {
-    "title": "TDSE、業務特化AIを“鍛造する”基盤 「TDSE AI Forge」の提供を本格開始 生成AIアセスメントから、LLM選定、エージェント構築、運用・セキュリティまで一気通貫で支援 - ASCII.jp",
-    "seen_at": "2026-07-31T11:14:49.565330+00:00"
-  },
-  "67b1b48139238168b14e803beaa809e1058a8d4dfaba80d60c6d4ac4fc6db60f": {
-    "title": "災害時にAIができること ――令和8年熊本地震と『期間限定アプリ』開発【生成AIストリーム】 - 窓の杜",
-    "seen_at": "2026-07-31T11:14:49.565334+00:00"
-  },
   "ee7ee667494ca3e574cf80a4cfffd7e5a70221ffe9c391cd3fec47c4f07677cc": {
     "title": "ＥＵ、生成ＡＩ監督強化 「暴走」抑止、制裁金も - 琉球新報デジタル",
     "seen_at": "2026-07-31T11:14:49.565336+00:00"
@@ -11998,5 +11902,101 @@
   "f6ed7cf6dd232dc95c207f888c7816d3a4b0a82e069b2ae5fa60a5f2053738cd": {
     "title": "When will there be a frontier level llm with updateable engrams or fixed engrams?",
     "seen_at": "2026-08-19T09:20:14.976684+00:00"
+  },
+  "9bc294a13a037ffba35abf9836d74b8c74243cefdf7e8bd298c800eb5f076112": {
+    "title": "生成AIで企業の課題解決さぐる 四国大学でワークショップ【徳島】（2026年8月19日掲載）｜JRT NEWS NNN - 日テレNEWS NNN",
+    "seen_at": "2026-08-19T12:18:31.470560+00:00"
+  },
+  "849e97a2436ed8bb83fddaa01d30682aecde06ae06bd4162d7a82745b1ff8fdd": {
+    "title": "Spotify、生成AI使用コンテンツ歓迎 粗悪品は取り締まり強化 - 音楽業界総合情報サイト",
+    "seen_at": "2026-08-19T12:18:31.470568+00:00"
+  },
+  "96e040fb0ca27c24ae5cbb47103a1df3775d2a39de9c77217d4f4aaa77673921": {
+    "title": "FXで生成AIを有効に活用するコツは？ 17億円の利益を上げたジュン氏はイベント時のトレード戦略を生成AIと練り上げる！ 手法のブラッシュアップに使う方法も(ザイＦＸ！) - Yahoo!ファイナンス",
+    "seen_at": "2026-08-19T12:18:31.470572+00:00"
+  },
+  "ae0fd70cd4ab220837fc29618613aaf928b93ce00dc0af58dabe7ff8c54395fd": {
+    "title": "生成AI画像で“架空の女性”に成り済まして政治投稿か 立憲栃木県連の男性党員 一部報道 - ITmedia",
+    "seen_at": "2026-08-19T12:18:31.470575+00:00"
+  },
+  "f611736725f375c558bbfdfbf1f0b3ec7f4a68f9938742dec91c232d5bc4b1c0": {
+    "title": "生成AIサービス、導入前に何を確認すべき？調達・契約・データ管理チェックリストを無料公開 - PR TIMES",
+    "seen_at": "2026-08-19T12:18:31.470579+00:00"
+  },
+  "62de45ed18bc1370a913db7b299c18d2bb5ee6d41bf356ec556982e763cdbcc9": {
+    "title": "グルーバー氏「クロードの隠しウォーターマークは文章表現の堕落」 - yellow.com",
+    "seen_at": "2026-08-19T12:18:32.102580+00:00"
+  },
+  "925aff270afc657c98bcffa6d8730f57a9b07910f6264ffe771492b7c837809b": {
+    "title": "OpenAI、次世代モデルの強化学習を一時停止、サイバー攻撃能力や安全性への懸念から - ビジネス+IT",
+    "seen_at": "2026-08-19T12:18:32.591093+00:00"
+  },
+  "fa9dfadd491c8b0193774e913f0418fbde0d7b0000a29421491e83784a823544": {
+    "title": "ChatGPTの反論で「道徳的判断」の3割超が覆る 高齢者が説得されやすい傾向 神戸大 - ITmedia",
+    "seen_at": "2026-08-19T12:18:32.591103+00:00"
+  },
+  "32d97ab7a8107810ad8a5f20bdfb0fccbc2dd389985d8ff1559a9800da42077a": {
+    "title": "OpenAI、「GPT-5.6 Sol」の回答をアップデートし、無料とGoユーザーのデフォルトモデルを「GPT‑5.6 Luna」に更新 - AIsmiley",
+    "seen_at": "2026-08-19T12:18:32.591107+00:00"
+  },
+  "4173f550a922e73c0155e6665425737f63bbada932a8b06b43e12acead3175a6": {
+    "title": "CerebrasとOpenAI、GPT-5.6 Solの推論を毎秒最大750トークンで処理する「Ultrafast Mode」を発表 - AIsmiley",
+    "seen_at": "2026-08-19T12:18:32.591113+00:00"
+  },
+  "ac855864657dfa7b862b3b6bdd296d4bfed0cc72b4d5d1597ff7ce0746765142": {
+    "title": "OpenAIが10代向けチャットツール「ChatGPT」を正式にリリース：コンテンツフィルタリング機能と保護者による監視機能を搭載。 - Vietnam.vn",
+    "seen_at": "2026-08-19T12:18:32.591116+00:00"
+  },
+  "2b8872d1b0c061fce4be677cb62814f3cc7a6c107a08775fa408c6bc2c483082": {
+    "title": "ジェンスン・フアンCEO「ロボティクスにもChatGPT時代」…韓国製造インフラに集まる視線 - BigGo ファイナンス",
+    "seen_at": "2026-08-19T12:18:32.591121+00:00"
+  },
+  "de7009108c276992e43838ccc4d51d9cc2f47392785bf6ccb803b9022f4ad2d0": {
+    "title": "グーグル、AIエージェントによる脆弱性検出のためのブループリントを公開 - ZDNET Japan",
+    "seen_at": "2026-08-19T12:18:33.672260+00:00"
+  },
+  "f2e1452a495d719d57afe349fcb3cca19ea38dbfd714c9145696bc6f99fe56f9": {
+    "title": "Grounded Reasoning CupにおけるAIエージェントのライブ評価 - Databricks",
+    "seen_at": "2026-08-19T12:18:33.672268+00:00"
+  },
+  "d7a1ae8999e9816487316cc5aa002c41746f1456d0c2de223f51b7312dd89c5e": {
+    "title": "AIエージェントのコマンド承認に潜む罠、Dockerが「安全な許可」でも任意コード実行の危険性を警告 - BigGo ファイナンス",
+    "seen_at": "2026-08-19T12:18:33.672276+00:00"
+  },
+  "2cdfef5346b85d4cbe1f6afbe3b35e7d5a4a67b8e5aedc5a13cf448388b676fc": {
+    "title": "【プロダクト開発関係者向け】AIエージェントで変わるチームコラボレーション 9/12（土）無料セミナー「プロダクト・UX・開発をつなぐ新しい仕事の進め方」開催 - PR TIMES",
+    "seen_at": "2026-08-19T12:18:33.672279+00:00"
+  },
+  "b16b627c076608085900fa5a6aa7860d3896e1424ff35664891760ce0cab2c31": {
+    "title": "ローカルAIエージェントアプリ「Bionic」がSkillsに対応しCodexやClaude Codeの使い勝手に近づく - GIGAZINE",
+    "seen_at": "2026-08-19T12:18:33.672284+00:00"
+  },
+  "8c88245f14c7871232f6c11e6be8522c0c03d9cc3301d0eea79c012d44756eff": {
+    "title": "Comfy-Org、ローカル環境対応の「Comfy MCP」を公開！AIエージェントからローカルComfyUIを直接操作可能に - CGinterest",
+    "seen_at": "2026-08-19T12:18:33.672293+00:00"
+  },
+  "c0179232fcc4fb6cc420c349c32d3dcf4ddffb4827892cb3e22d1b81f7a69ed3": {
+    "title": "Stop Anthropomorphisizing Intermediate Tokens: Qwen3.8 doesn't \"overthink\"",
+    "seen_at": "2026-08-19T12:18:38.048239+00:00"
+  },
+  "cb47225a6c6203eb41c3cf95a9ddf587cfb81de8ee5f1b70720f99e6de0c36c0": {
+    "title": "Am I doing something wrong? Qwen 3.8 27B seems useless for agentic coding",
+    "seen_at": "2026-08-19T12:18:38.048244+00:00"
+  },
+  "f24c37fb7798da880470a80005c167eed600ddc1f9effab3c9cb1f197e67ecfd": {
+    "title": "[2511.07885] Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "seen_at": "2026-08-19T12:18:38.048247+00:00"
+  },
+  "52bc7ba732f942d0bc8ec8a631431500e8c8840e4ad7b8afaa47f26cb94915dc": {
+    "title": "Waiting for a 122B because of world knowledge?",
+    "seen_at": "2026-08-19T12:18:38.048250+00:00"
+  },
+  "bfb42d71f54fdbd7c46a3478a5569f71e8f658f07a063b64dd7b09c3c5b967c6": {
+    "title": "[Open PR] llama : add --n-cpu-ffn option by John-194 · Pull Request #26622 · ggml-org/llama.cpp",
+    "seen_at": "2026-08-19T12:18:38.048253+00:00"
+  },
+  "8f7c49c609d18fada15b28f916caea3e7e98f3add77882ca77fdefac40994bab": {
+    "title": "Qwen3.8 27B without MTP?",
+    "seen_at": "2026-08-19T12:18:38.048255+00:00"
   }
 }
