@@ -1,100 +1,4 @@
 {
-  "e8a324d1dfc4ba05ded67aef81c72705ea136f25dfab2c02d9fb6655a80d67d4": {
-    "title": "EU、生成AIコンテンツに表示義務 禁止行為なら制裁金65億円 - 日本経済新聞",
-    "seen_at": "2026-07-31T13:24:03.552024+00:00"
-  },
-  "c69707a98a8a9fd01e6ccf23ed5c5252c41df4bf43cfe5b33f5cbfea756b00c8": {
-    "title": "生成AI実行環境と画像・レイアウト・動画エディターを備えた「Sloom Studio」v0.9.10 ほか - 窓の杜",
-    "seen_at": "2026-07-31T13:24:03.552031+00:00"
-  },
-  "0ca41d7356166474d4087f0fa27b7e888fb4d52e3f1d01b2636badbf0d4787db": {
-    "title": "ＥＵ、生成ＡＩ監督強化 - デイリースポーツ",
-    "seen_at": "2026-07-31T13:24:03.552035+00:00"
-  },
-  "190cb29dadd80e1c810540e9ab97ffe8f55bc54bb2a100c522deed25fb699811": {
-    "title": "ChatGPTとは何が違う？KDDIが“出典の見える生成AI”を開始 - DXマガジン",
-    "seen_at": "2026-07-31T13:24:03.552038+00:00"
-  },
-  "9cd14810861a679676dd4b4ee5eaa4de20b2c953670c220ce89ca1359c1eb173": {
-    "title": "＼ X「本日のニュース」に選出 ／Alibaba Cloud共催の世界最先端の動画生成AI「Happy Horse 1.1」を活用したハッカソンが大盛況にて閉幕 - PR TIMES",
-    "seen_at": "2026-07-31T13:24:03.552043+00:00"
-  },
-  "4c78eedfdefd510fd04be248a41e41440f20483a47cfb9372474bc98a41258a7": {
-    "title": "中央区公式WebサイトにAI検索・RAG型生成AI「Cogmo」を導入 - ニコニコニュース",
-    "seen_at": "2026-07-31T13:24:03.552046+00:00"
-  },
-  "0fa82e7ab67cbb7efe8f6b51f393314f049ac9c9b57dcbd6dd6b40977d1750f5": {
-    "title": "営業の人手不足をAIエージェントで解消へ RAYVEN、愛媛県「トライアングルエヒメ2.0」に採択 - PR TIMES",
-    "seen_at": "2026-07-31T13:24:05.707448+00:00"
-  },
-  "fce16cb58d1edb498ab6326c408de6f7fd9b67c2115810836842bb1bed0af1d2": {
-    "title": "deepseek-ai/DeepSeek-V4-Flash-0731 on Huggingface",
-    "seen_at": "2026-07-31T13:24:06.862366+00:00"
-  },
-  "34452aaa638e577e8570dbf62d15ffc3c6269fc048ec55b03a00ebeb74b847e3": {
-    "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-    "seen_at": "2026-07-31T13:24:06.862372+00:00"
-  },
-  "c4bc6c015e3b252936e069bf3ed89bcc7ce612e6d02762b0521a69cbf2e42465": {
-    "title": "DeepSeek-V4-Flash-0731 Open weight!",
-    "seen_at": "2026-07-31T13:24:06.862375+00:00"
-  },
-  "dc25408ff450bd265927b49218e3883acf98650bf087c26998be676e5f0be113": {
-    "title": "DeepSeek-V4-Flash-0731 - GGUF also will come as I can see..",
-    "seen_at": "2026-07-31T13:24:06.862379+00:00"
-  },
-  "54ebb35abb0e383c963e7325dfbc9bd7354ab978af3f9e4966a332746dc5bcc1": {
-    "title": "I ported TurboFieldfare to Qwen 3.6 35B and it runs in 1.4 GB of RAM",
-    "seen_at": "2026-07-31T13:24:06.862382+00:00"
-  },
-  "5badcb59db0739be55dc52682f98ad50352ec4d94eb7b0de0e8559cac1073801": {
-    "title": "Rule Suggestion: \"Open\" models without weight releases should be tagged [no weights]",
-    "seen_at": "2026-07-31T13:24:06.862386+00:00"
-  },
-  "8c40276ec3aa418614782bae5204500351f5750941aaf21b47e9648236dcae58": {
-    "title": "EUが生成AIの監督強化 暴走を抑止 - Yahoo!ニュース",
-    "seen_at": "2026-07-31T16:28:48.039579+00:00"
-  },
-  "dc9cfa1ffcf13ea989aa24df587ffb7fe5b667efcd96e9bd0d9ba8e8ea4417a8": {
-    "title": "EUが生成AIの暴走抑止へ監督強化、8月2日から制裁金も視野に執行開始 - finance.biggo.jp",
-    "seen_at": "2026-07-31T16:28:48.039586+00:00"
-  },
-  "2855907e8a6ac0b5885deb8cc52d822a175f68863aa9e52c6f66f7a0e5bda7f4": {
-    "title": "米テック決算生成AI投資の現在地/日銀植田総裁何語る？｜NIKKEI NEWS NEXT - テレ東BIZ",
-    "seen_at": "2026-07-31T16:28:48.039590+00:00"
-  },
-  "23b44e3b62e5bd5124316fa46cd7304dde09bbdbcf7354fe20dd7ffd60e18da2": {
-    "title": "OpenAIアルトマンCEOが米政府高官と会談、AIモデルの「脱走」事件受け規制強化の可能性も - 財経新聞",
-    "seen_at": "2026-07-31T16:28:49.245756+00:00"
-  },
-  "84577401cf71365431d76d52a0be619b390731fd3b5484ac0dd21d0ce4b64c2f": {
-    "title": "住宅ローン比較診断サービス「モゲチェック」、AIエージェント連携向けMCPサーバーを公開 - AIsmiley",
-    "seen_at": "2026-07-31T16:28:50.415116+00:00"
-  },
-  "ef772fe578220750071ece5e48d5bb49358c34df162786e48a6c8b245544f924": {
-    "title": "The Chinese LLM release carousel never stops. Place your bets for MiniMax next week.",
-    "seen_at": "2026-07-31T16:28:51.435203+00:00"
-  },
-  "78f57a145e2140b767b0186878338c1181e420488f445c655c2231c2ca34289b": {
-    "title": "Unsloth Deepseek V4 0731 GGUF's are UP!",
-    "seen_at": "2026-07-31T16:28:51.435208+00:00"
-  },
-  "ef0c8e1335df2b653f18e82ceea4c38d4e99159fafc3fc27ef2345cde16ee76b": {
-    "title": "Meituan just dropped LongCat-Flash-Lite-Sparse",
-    "seen_at": "2026-07-31T16:28:51.435210+00:00"
-  },
-  "54050d3d9c174f4bdbf7bb2126f5bf11ed046a903840de575c9fa7a5a9a3511f": {
-    "title": "Review testing on Ling 3.0 flash - From one prompt to a 3D world",
-    "seen_at": "2026-07-31T16:28:51.435212+00:00"
-  },
-  "4e53bb255e7de50a064add8ae3370b5337e9ea49eae85dfdafa1a3e4a85da39e": {
-    "title": "Deepseek V4 Flash on SlopCodeBench",
-    "seen_at": "2026-07-31T16:28:51.435215+00:00"
-  },
-  "2407430cfc91b1cabd55c2d364c0935a715a00091cd5b1e27fa47e865216598e": {
-    "title": "SenseNova U1.5 Lite preview just dropped",
-    "seen_at": "2026-07-31T16:28:51.435217+00:00"
-  },
   "d8b80350ecf7ba921385b8f830569b7078e1e9a6bcfca37fc5c1efdefdae841e": {
     "title": "Deepseek v4 flash MXFP4 (original quality) ggufs",
     "seen_at": "2026-07-31T16:28:51.435219+00:00"
@@ -11998,5 +11902,101 @@
   "52f21b89d53234f2e3bbbf4b70a2c367a10289539f68c9b90df0d45d74866f06": {
     "title": "I posit QWEN team will dust off the old 397B-A17B architecture to compete with Deepseek V4 0731 Flash",
     "seen_at": "2026-08-19T18:14:58.321113+00:00"
+  },
+  "0e430c1be82e240208d46f98e0283303edacae16ea06ef54b3a1d5043cb64cf0": {
+    "title": "生成AIで部下からの質問は減ったけれど 管理職調査で見えた新たな課題 - ITmedia",
+    "seen_at": "2026-08-19T21:13:55.292402+00:00"
+  },
+  "33c603db5743b2fb565268727e4d1650e4ee6f10ef9be3ddf7f8ae9f708295a0": {
+    "title": "「最新生成AI」が壊したハッカー「技能の壁」――低スキル人材が「傭兵」となるサイバー攻撃に企業はどう対応すべきか - que.dailyshincho.jp",
+    "seen_at": "2026-08-19T21:13:55.292409+00:00"
+  },
+  "dfd4354b8f229304aed8202f85b6bfa6328f4af6db505dd45b3818dffa152c68": {
+    "title": "レゾナック、管理職による各職場の分析や改善アクション検討までに生成AI技術を使うアプリを運用開始 - デジタルクロス",
+    "seen_at": "2026-08-19T21:13:55.292413+00:00"
+  },
+  "ac16b87c6912f827b8b7e214c2a396256786d2aa806d241900565aaf658368d4": {
+    "title": "校務効率化へ生成ＡＩ活用 松江で教員向け研修会 - 山陰中央新報デジタル",
+    "seen_at": "2026-08-19T21:13:55.292416+00:00"
+  },
+  "f653446cffe001753d62727804505a69259e7140a1b1f42a28fb13b1b101e730": {
+    "title": "NETIS 技術革新の20年(3)生成AIが新技術を比較 進化続ける研究開発基盤 - 建通新聞",
+    "seen_at": "2026-08-19T21:13:55.292422+00:00"
+  },
+  "af7db10decf13f08548b3a2baa169b6db7dea53795ba90ad860c3ac755d6d175": {
+    "title": "サムスン：Claude Codeがチップ設計を1か月から2日に短縮、しかし回路でミスも - Pasquale Pillitteri",
+    "seen_at": "2026-08-19T21:13:55.780282+00:00"
+  },
+  "19ac00017e8246a12aedc1321ee0e6c197b310edb451897b015ce05781023814": {
+    "title": "苛立つ孫正義は完全にハシゴを外された…「OpenAI」アルトマンの「上場延期」にソフトバンクが喰らう大迷惑 - 現代ビジネス",
+    "seen_at": "2026-08-19T21:13:56.256305+00:00"
+  },
+  "9b20c762ec10d6187170b53e6043a8085607967181c4e804393939822ad17bd3": {
+    "title": "「OpenAI」の首脳陣が続々更迭…「1兆ドル」の超大型IPO前のサム・アルトマンに一体何が起こっているのか - 現代ビジネス",
+    "seen_at": "2026-08-19T21:13:56.256311+00:00"
+  },
+  "a95f25b48fd783e27fff3fb8ab397401deb2a824a6a0cba736f3da4b86056356": {
+    "title": "OpenAIがTACのアクセスを誤って停止、サイバー研究者に再認証を要請 - Межа. Новини України.",
+    "seen_at": "2026-08-19T21:13:56.256315+00:00"
+  },
+  "0c9e0bf315d0d0639044c292f425e682717798946dac21e99035b5d8d3f11b9d": {
+    "title": "Googleが検索とGeminiに学習支援AIを追加、理解を深める新機能を展開 - Межа. Новини України.",
+    "seen_at": "2026-08-19T21:13:56.808917+00:00"
+  },
+  "96f546412454cfc37fbc6491476669b58294e9c0da34006231ff030d01da3f8f": {
+    "title": "日本のAIエージェント導入は遅れているのか 足踏みの理由と「慎重」戦略：Salesforce調査で判明 - ITmedia",
+    "seen_at": "2026-08-19T21:13:57.373000+00:00"
+  },
+  "8e0ec16ac32128725b0ce6002e1809244ec5afb7152c378a863ae3fca43a7030": {
+    "title": "業務アプリやAIエージェントを自然言語で開発するための基盤、日鉄ソリューションズが販売 - デジタルクロス",
+    "seen_at": "2026-08-19T21:13:57.373006+00:00"
+  },
+  "374c2da78581b76a43c12c2346a6f40bb6f4ae08baee4fe4e36845f3ec4a4d3b": {
+    "title": "花王 ＡＩエージェントが需要計画立案を支援 - カーゴニュースオンライン",
+    "seen_at": "2026-08-19T21:13:57.373010+00:00"
+  },
+  "0adc53c9dac7764dfff1ca535cb39cc6c4f952f800e16423fe9ecd87f5709f24": {
+    "title": "AIエージェント基盤が刷新する企業経営の在り方：日立製作所が挑む「カスタマーゼロ」変革／ 礒田有哉（日立製作所・研究開発グループ） - WirelessWire",
+    "seen_at": "2026-08-19T21:13:57.373013+00:00"
+  },
+  "3e4bfd597846492255bc099c1f82150a8d6ccbef6c8355a2b2228c5fc67913c6": {
+    "title": "Skillsは簡単だから誤る AIエージェントを壊さず運用する5つの原則：「全部LLMに考えさせない」が重要 - ITmedia",
+    "seen_at": "2026-08-19T21:13:57.373016+00:00"
+  },
+  "8b0c06f3cf06ba115ab44947a8149e4c0c9f590bb6c56077f391da2c5c596177": {
+    "title": "法人向け気象情報にＡＩエージェント搭載 - カーゴニュースオンライン",
+    "seen_at": "2026-08-19T21:13:57.373019+00:00"
+  },
+  "a4a7ca12740a8f00bf333c552e0095c4158c525e0dd77ebe967e80a7acb4f315": {
+    "title": "花王、ＡＩエージェント開発 化粧品の在庫削減へ - 化学工業日報 電子版",
+    "seen_at": "2026-08-19T21:13:57.373022+00:00"
+  },
+  "6bf2813862c8dc7585b5d49503e968d3557d1767003da44e414ab455682bf55a": {
+    "title": "DFlash2 speeds Qwen 3.8 27B up to 4 times",
+    "seen_at": "2026-08-19T21:14:04.530568+00:00"
+  },
+  "913aa319f73f3c55a20bece0dc52889a0ead5f7be2f8ffaf3b1f7bf869b577d1": {
+    "title": "I pushed Qwen3.8-27B limits again... Dflash2 - 134 tps on a RTX 3090",
+    "seen_at": "2026-08-19T21:14:04.530578+00:00"
+  },
+  "505fe56e3b5dc85c8eecefa2b5de6bef8096defae2889c86b67779981a7ea4a8": {
+    "title": "Ornith-1.5 9B might not be bad at all",
+    "seen_at": "2026-08-19T21:14:04.530582+00:00"
+  },
+  "ea3e1f71945228b3971306c26e03abeed08478b711c08c467e13e90044fd4ffc": {
+    "title": "Reverse-Engineering the RK3588 NPU: Building an Open Compiler to Run GPT-2 at 36 tok/s",
+    "seen_at": "2026-08-19T21:14:04.530585+00:00"
+  },
+  "92c4509c4a2b911e9bd468af93e5f5c4ee7a5148df269ecd0e4bc9028ab48268": {
+    "title": "KV cache may affect a lot on the quality in Qwen3.8-27B-Q6_K",
+    "seen_at": "2026-08-19T21:14:04.530588+00:00"
+  },
+  "f0db251bb2b6078002d7f4db256cd45b5703d81ffd873d23537f6e7fd051a276": {
+    "title": "We quantized the new Ornith 1.5 9B and 35B-A3B",
+    "seen_at": "2026-08-19T21:14:04.530591+00:00"
+  },
+  "86079d1acac66d2a2fe4cda59e75261cfc224c245bdef6c18894d2faac929f31": {
+    "title": "I might have found the perfect config parameters for qwen 3.8 27b",
+    "seen_at": "2026-08-19T21:14:04.530593+00:00"
   }
 }
