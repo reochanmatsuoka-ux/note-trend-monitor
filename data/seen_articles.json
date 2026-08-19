@@ -1,52 +1,4 @@
 {
-  "b4f73ff0a3ca41f184bbb3851a77427dc6ee70f627f51b3738603c2911788801": {
-    "title": "TDSE---オンプレミス型AIエージェント基盤「TDSE_AI FORGE」の提供を本格開始 - ｄメニューニュース",
-    "seen_at": "2026-07-31T11:14:51.596842+00:00"
-  },
-  "6b72db8a50fafb733578bdf764dfbca3ee3141acac292cc85a3638dab5860102": {
-    "title": "AIエージェントは便利な部下ではない 沖縄企業が先に決めるべき権限と停止ルール｜菅原崇文 - mbp-japan.com",
-    "seen_at": "2026-07-31T11:14:51.596847+00:00"
-  },
-  "a69f7a8a997f1babc760a3f3e73b29ab54f68e1fa85b3fe6292d6eb89cfdb596": {
-    "title": "Simbian、自律型AIエージェント「AI Threat Hunt Agent」を日本市場で発表 - PR TIMES",
-    "seen_at": "2026-07-31T11:14:51.596850+00:00"
-  },
-  "89b435a3d433ef025205b3502200c8cbfa635d2415d46113a5f3cb1c0ee6b65d": {
-    "title": "「FINSTAR AGENT」AIエージェント機能を順提供へ - PR TIMES",
-    "seen_at": "2026-07-31T11:14:51.596853+00:00"
-  },
-  "2d061539fdfc61fb0cabda0f60318e6427a65d73117a35246241b285c53f40a5": {
-    "title": "資料作成自動化AIエージェント構築のPoC実施について（自律的に業務を遂行するAIエージェント活用に向けた取組み） - zakⅡ",
-    "seen_at": "2026-07-31T11:14:51.596859+00:00"
-  },
-  "2c01eb5a35b67342b15a215df9c7d582fd557eba14923abbc26ac7b2a349fc12": {
-    "title": "米哈遊創業者蔡浩宇氏、AI事業が急転換：製品を相次ぎ停止、「独立系大規模モデル・AIエージェント開発者」へ転身 - BigGo ファイナンス",
-    "seen_at": "2026-07-31T11:14:51.596862+00:00"
-  },
-  "f211496e294666789bf9c33d1659abb64c1f84aace7589416bcbc7777365b168": {
-    "title": "「FINSTAR AGENT」AIエージェント機能を順提供へ - Excite エキサイト",
-    "seen_at": "2026-07-31T11:14:51.596866+00:00"
-  },
-  "8b46240895e670b56a859a094165cedccbb73a840b3040c3b9a6e8b906ee24cf": {
-    "title": "Why are AI model tests always the same generic prompts?",
-    "seen_at": "2026-07-31T11:14:56.533502+00:00"
-  },
-  "a451812d1102409168fde00ba7cd823c095bca7ea96d33ba14c5a42693fff1ab": {
-    "title": "Has anyone actually benchmarked where the \"big-model orchestrator + local-model worker\" split breaks down?",
-    "seen_at": "2026-07-31T11:14:56.533512+00:00"
-  },
-  "1d791e9fe02d34e6c17ec33ea19988808b113fffbe8a4ed3bb35fd671147a8eb": {
-    "title": "Can we expect Deepseek v4 distills into smaller models?",
-    "seen_at": "2026-07-31T11:14:56.533516+00:00"
-  },
-  "ff93c4961c60664cb2aa8c106c1bdf2b8b04e9181f1574f23ef6ae5906ea3957": {
-    "title": "生成ＡＩ活用で業務の効率化を 宮城県が職員対象の研修会 - khb-tv.co.jp",
-    "seen_at": "2026-07-31T13:24:03.552003+00:00"
-  },
-  "602ec053f71c687aee2f27790f2a5eb13f33851907287e9783d3af05e1e120df": {
-    "title": "【生成AI時代のシン・ビジネス(第13回)】生成AIによる法人営業革新/アークエルCEO宮脇良二 - ガスエネルギー新聞",
-    "seen_at": "2026-07-31T13:24:03.552017+00:00"
-  },
   "e8a324d1dfc4ba05ded67aef81c72705ea136f25dfab2c02d9fb6655a80d67d4": {
     "title": "EU、生成AIコンテンツに表示義務 禁止行為なら制裁金65億円 - 日本経済新聞",
     "seen_at": "2026-07-31T13:24:03.552024+00:00"
@@ -11998,5 +11950,53 @@
   "e499d7f7b74ede94d8ca090744414ccb6a76d47d292f906ab4872be733c1e464": {
     "title": "I transformed Pokelike.xyz into a LLM and RL benchmark!",
     "seen_at": "2026-08-19T15:18:42.067664+00:00"
+  },
+  "ef89685814b529fdf3511cc3faa55f0b5840355988d533ad57c2e62a35492295": {
+    "title": "生成AI企画術セミナー、9月16日開催―問いの技術でAI活用を極める - koubo.jp",
+    "seen_at": "2026-08-19T18:14:55.345493+00:00"
+  },
+  "5d787da35c388129ca4693972b83c0cf8ea25b36ca8c7e1cb49c9cb5e139b326": {
+    "title": "東京書籍、教科書に連動した生成AIサービス「教科書AIワカル」がキッズデザイン賞を受賞 - rbbtoday.com",
+    "seen_at": "2026-08-19T18:14:55.345498+00:00"
+  },
+  "3a71c707848a785ede59fa5ec11e68a10cb695f71237927870f6eaaa3c582ada": {
+    "title": "【生成AI×DX】「配ったのに、使われない」をどう越える？──ロッテ様・サーラグループ様の現場活用定着の軌跡を「BSI - news.nicovideo.jp",
+    "seen_at": "2026-08-19T18:14:55.345502+00:00"
+  },
+  "7469eae045cef10019996bdaeb8cadf60cec73d639d9ae6f5e4f25f3855f42b2": {
+    "title": "ゲイツ氏創業のTerraPower、生成AIデータセンター向け原発計画を1年以内に発表へ - Межа. Новини України.",
+    "seen_at": "2026-08-19T18:14:55.345506+00:00"
+  },
+  "9ba85cf0e6a7d946b9563df59542a268d2a19821ab31d97b698c6dcd73a1d8eb": {
+    "title": "OpenAIは、13歳から17歳までのユーザーの保護を強化するChatGPT for Teensをリリースしました。 - vietnam.vn",
+    "seen_at": "2026-08-19T18:14:56.333811+00:00"
+  },
+  "ff1ded119392afcde856eb0186058aa98711d27c7d11e92cc800e3e7bda87001": {
+    "title": "Introducing Qwen3.8-27B Dynamic v3 Unsloth GGUFs",
+    "seen_at": "2026-08-19T18:14:58.321088+00:00"
+  },
+  "b1f8c3c2fc505ec74c582c4acd9a55bf39e4f5cf05c3c06c90de9ba900180af6": {
+    "title": "NVFP4 on VOLTA! Despite being built for Blackwell, I made four 2017 V100s run Qwen 3.8 NVFP4 natively and match my $6000 RTX 5090.",
+    "seen_at": "2026-08-19T18:14:58.321094+00:00"
+  },
+  "7e02acfb6a6eb8d77dffb4c298b6ef387f7259a82e64b8622a6945e391cea898": {
+    "title": "AntLing’ve open-sourced 6 Base Model checkpoints for Ling-3.0-tiny & Ling-3.0-flash, covering pre-trained, mid-trained, and WSM-merged stages.",
+    "seen_at": "2026-08-19T18:14:58.321099+00:00"
+  },
+  "14b7243b073a7478ea3e30cbf2562f43c70b87fdcb7c874cc3c8ec1aec8346da": {
+    "title": "LFM 2.5 QAD",
+    "seen_at": "2026-08-19T18:14:58.321103+00:00"
+  },
+  "ec4ef1ba8b08b0bd4309c5fd0dadc56d55364943ed79870111699fb710d305a2": {
+    "title": "ling 3.0 flash/tiny base models",
+    "seen_at": "2026-08-19T18:14:58.321107+00:00"
+  },
+  "de0ae80ef5f3ca27c79e67f97ffffe207150d15cbc6d913c8ae78fb9481d6a1e": {
+    "title": "Qwen 3.8 27B vs Gemini 3.7 Flash (High) for real coding: open-source 27B model did a much better job",
+    "seen_at": "2026-08-19T18:14:58.321110+00:00"
+  },
+  "52f21b89d53234f2e3bbbf4b70a2c367a10289539f68c9b90df0d45d74866f06": {
+    "title": "I posit QWEN team will dust off the old 397B-A17B architecture to compete with Deepseek V4 0731 Flash",
+    "seen_at": "2026-08-19T18:14:58.321113+00:00"
   }
 }
