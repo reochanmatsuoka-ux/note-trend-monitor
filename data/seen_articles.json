@@ -1,172 +1,4 @@
 {
-  "3daff119dad30f5f18788e51c44605e1af84a8dabd811028175e7589a6855373": {
-    "title": "高校中退、元カフェ店員、前科のある人…生成AIクラス卒業生たちの「その後」 - ダイヤモンド・オンライン",
-    "seen_at": "2026-07-30T13:20:27.602801+00:00"
-  },
-  "f0493d79371b21ebceb5e95bae82caff9a59e47e50c6e44958e2401e6d474b66": {
-    "title": "生成AIは職員の「スキル」 使いこなす力が自治体の競争力を分ける - projectdesign.jp",
-    "seen_at": "2026-07-30T13:20:27.602807+00:00"
-  },
-  "c5c09f0e136cb3bf71acfdbe3fa49e18e22810f0d1e0727f8e6bee0374d4a4d3": {
-    "title": "Google、音楽生成AIモデル「Lyria 3.5」を発表 ～楽曲性や歌詞、ボーカル品質が向上（窓の杜） - Yahoo!ニュース",
-    "seen_at": "2026-07-30T13:20:27.602812+00:00"
-  },
-  "9000da9641e16e21126f99a4abb6775b2875035f4de6c78a80f793a339d9f3dc": {
-    "title": "もはや人と話している感覚に。ChatGPTの新しい音声モデル「GPT-Live」でできること（ライフハッカー・ジャパン） - Yahoo!ニュース",
-    "seen_at": "2026-07-30T13:20:28.653000+00:00"
-  },
-  "5e673a793c2d297ad0227ba78d77f3b641e695e1e4d06641b1e90eb218fb1bbd": {
-    "title": "アンドリュー・ガーフィールド、OpenAI解任劇を描く新作の“配給撤退騒動”に初言及「新天地にワクワク」 - ハリウッド・リポーター・ジャパン",
-    "seen_at": "2026-07-30T13:20:28.653005+00:00"
-  },
-  "a341707082ec3b26d6508ad937093025d75af7211f16ba0aadc7465688453f07": {
-    "title": "株式会社ピアラ ChatGPT広告 出稿・運用支援サービスを提供開始-主要広告プラットフォームで培った運用力を活かし、新たな顧客接点の創出を支援- - 時事ドットコム",
-    "seen_at": "2026-07-30T13:20:28.653011+00:00"
-  },
-  "6b67c67349ff680c80547fee3e89f736a0ca8e1ced5f63c1c5211d0a62e34ea1": {
-    "title": "マイクロソフト、アンソロピックへの32億ドルの投資益がOpenAIを圧倒——決算発表で明暗 - BigGo ファイナンス",
-    "seen_at": "2026-07-30T13:20:28.653015+00:00"
-  },
-  "7f1b77a8bebed1f7951efb2236580e8fe73697058e43cd2f5ce3c8e0137abdb9": {
-    "title": "米政府のAI審査ルール期限迫る、OpenAIとAnthropicが水面下で業界標準を主導か - 財経新聞",
-    "seen_at": "2026-07-30T13:20:28.653018+00:00"
-  },
-  "045ae01e9b359dc977638292161ba824096b3a3ad0838820ee3a520b898161e4": {
-    "title": "欧州委がChatGPTとRobloxをDSA適用の候補に検討 - Межа. Новини України.",
-    "seen_at": "2026-07-30T13:20:28.653021+00:00"
-  },
-  "be3263484f9de8c588b318f94a9666e3fa64fee410cc07c55b5576eba599784c": {
-    "title": "フリークアウトのSNS広告運用AIエージェント「HAWK」が市区町村単位のエリア別レポートに対応 - 時事ドットコム",
-    "seen_at": "2026-07-30T13:20:29.825704+00:00"
-  },
-  "8d31572ba9f938eb622d10258e9221f99dcc19f73fd4537730a77753bcdf40f3": {
-    "title": "採用AIエージェント「採用一括かんりくん」、『2026年上半期 - ニコニコニュース",
-    "seen_at": "2026-07-30T13:20:29.825710+00:00"
-  },
-  "c8b94b8e5af41519021e7729544ffeff34342834f896e7dd89f057b930b0e1b1": {
-    "title": "株式会社Nint EC事業者向けAIエージェント「Nint AI Agent」を提供開始 - ニコニコニュース",
-    "seen_at": "2026-07-30T13:20:29.825713+00:00"
-  },
-  "10ac21280c66c305c989a99b03418f18ab247c860303bcaf7e7924d49385269d": {
-    "title": "unsloth/Qwen3.6-27B-NVFP4 vs. Intel/Qwen3.6-27B-int4-AutoRound vs. nvidia/Qwen3.6-27B-NVFP4 -- which one to choose?",
-    "seen_at": "2026-07-30T13:20:30.587948+00:00"
-  },
-  "34528389dfea8e232ab1c7a36653657c375a049b43b7ba15c8144ce61ba86af6": {
-    "title": "Turbo-fieldfare: Open-source engine running Gemma 4 26B in 2 GB RAM on Apple Silicon",
-    "seen_at": "2026-07-30T13:20:30.587953+00:00"
-  },
-  "3396bcf2ab43f8dd53ba3b26e72b4177d85b685e4c5ed47507f34c883da7b49e": {
-    "title": "Your will never use Qwen3.6 again. The Most Underated Model.",
-    "seen_at": "2026-07-30T13:20:30.587957+00:00"
-  },
-  "3f8106cda8940807112ab68cd102bc6364f03659df1dc0f51289a5843c9ce044": {
-    "title": "Google、動画生成AI「Gemini Omni」を期間限定で無料開放。サブスク未加入者が対象（窓の杜） - Yahoo!ニュース",
-    "seen_at": "2026-07-30T16:19:02.379221+00:00"
-  },
-  "d80d375f44d971c2d440c7893c3bf7d13ad649aa8e3c4261ed61b585e3f41593": {
-    "title": "生成AI活用事例データベース、2026年6月時点までの事例を追加・更新 - RBB TODAY",
-    "seen_at": "2026-07-30T16:19:02.379229+00:00"
-  },
-  "86759d2c520381a953cb03c50cdc62892816a9a47586fd2fc80a1b5fb1f6e2cb": {
-    "title": "『生成AI時代のセキュリティリスクとは？』というテーマのウェビナーを開催 - RBB TODAY",
-    "seen_at": "2026-07-30T16:19:02.379233+00:00"
-  },
-  "961b31ac1600ef19f07ebfbef4f413808f045b25004899ce12d6fe864238970c": {
-    "title": "エムットは「人生経済圏」 後出しじゃんけんもグーグル、OpenAIとタッグ - 日経ビジネス電子版",
-    "seen_at": "2026-07-30T16:19:03.750139+00:00"
-  },
-  "b3117c8cafe9b19e27d7c5201ae66bbe98302bc3a3b18e9cf57a07711a7756af": {
-    "title": "マイクロソフト、中国勢台頭に対抗しOpenAI依存低減へ――自社AIモデルのオープンウエイト公開を検討 - BigGo ファイナンス",
-    "seen_at": "2026-07-30T16:19:03.750145+00:00"
-  },
-  "50d426253c7ba0457629e395c3f373c2e1ad4d5473203af8174e9229b6bb3efc": {
-    "title": "評価テストをチートするAIの脅威：OpenAIモデルの脱走事件とアルトマンCEOの米議会ロビー活動 - zaikei.co.jp",
-    "seen_at": "2026-07-30T16:19:03.750150+00:00"
-  },
-  "b94e6eb7f3709f975119d25bfbc7bcb99c3d4a735f8ebb8a7815295943fd1053": {
-    "title": "OpenAI、10万人の科学者に最上位モデル「GPT-5.6 Sol Pro」を無償提供へ - zaikei.co.jp",
-    "seen_at": "2026-07-30T16:19:03.750154+00:00"
-  },
-  "3c820d38c768a1c42ea73b1976745d57274bcba0cb0c92af5a72c0b7f465dd9a": {
-    "title": "元OpenAIセーフティ部門トップのLilian Weng氏が復帰、AIの「再帰的自己改善」研究を主導へ - zaikei.co.jp",
-    "seen_at": "2026-07-30T16:19:03.750157+00:00"
-  },
-  "cafa93a8c5031d618b29299fa931124208f5c252c16377b1ef2457e7f9cd623b": {
-    "title": "OpenAIとAnthropic、AI開発を意図的に遅らせる国際的枠組みの構築を米政府に要請 - zaikei.co.jp",
-    "seen_at": "2026-07-30T16:19:03.750160+00:00"
-  },
-  "813a4dfee7f37fc74f500d98304ed45721c2b573d2f82ac3e8e522f1bd0c8d6c": {
-    "title": "OpenAIのモデルがHugging Faceに侵入し自律的にサイバー攻撃を実行 - Межа. Новини України.",
-    "seen_at": "2026-07-30T16:19:03.750165+00:00"
-  },
-  "5149341c819ba592ec7bb182dfea266a7b86dee702c16c627890badcf070dd4b": {
-    "title": "JetBrains、AIエージェントがコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表 - Publickey",
-    "seen_at": "2026-07-30T16:19:04.907963+00:00"
-  },
-  "205bb8ce3760c6119cde9c0578578f4ac8210a864df7742ecccf443460feb855": {
-    "title": "採用AIエージェント「採用一括かんりくん」、『2026年上半期 BOXIL資料請求数ランキング』において製造・ITなど3部門で第1位を獲得！ - 時事ドットコム",
-    "seen_at": "2026-07-30T16:19:04.907968+00:00"
-  },
-  "a7adc4eb72a6675f829834c0ccd3a56c877c08d4700b08a7abff1f0f6d7ba051": {
-    "title": "[山根康宏の「言っチャイナよ」] 高性能カメラ搭載折りたたみスマホやAIエージェント内蔵モデルが登場 - ケータイ Watch",
-    "seen_at": "2026-07-30T16:19:04.907972+00:00"
-  },
-  "8a62f552cac8dc81168d9b2876b84820ee2f39175af3eba3af54386257c6aa45": {
-    "title": "Software Engineers: Do you honestly get anything useful out of LLMs?",
-    "seen_at": "2026-07-30T16:19:12.682974+00:00"
-  },
-  "4c5b0c4f0093b784f338d30c92344c7be95e68fc0403f7a9b159766713ba748e": {
-    "title": "PR for running Ternary-Bonsai-8B-Q2_0.gguf in llama.cpp with CUDA support just got merged",
-    "seen_at": "2026-07-30T16:19:12.682979+00:00"
-  },
-  "3b58d29ece733bd0b8abc0ec81615743e59275986fce5535775e1c628bcc7cb1": {
-    "title": "Mechanistic interpretability streamlined for everyday users like us😎 🧠",
-    "seen_at": "2026-07-30T16:19:12.682982+00:00"
-  },
-  "9a1f266ffb3fdb5055e212eca6460eacbd8d9cf6aa49bf1e2bcff1bcfe43faff": {
-    "title": "Does MTP head get loaded in VRAM by default?",
-    "seen_at": "2026-07-30T16:19:12.682986+00:00"
-  },
-  "c4cde470c11c64abc67665e5d0dae4cf13628f260af8068c57a012b340888f50": {
-    "title": "native 64k+ Gguf model for llama.cpp",
-    "seen_at": "2026-07-30T16:19:12.682989+00:00"
-  },
-  "d60c2b5b72225a8dc1e9b98205a9809912dfdc76c049e58b009acf10b3f7b156": {
-    "title": "Would you use a circuit breaker for AI agents?",
-    "seen_at": "2026-07-30T16:19:12.682992+00:00"
-  },
-  "997f4698d63ace69926e88abfff389fc6a1be599db218103261887a6d68fac6d": {
-    "title": "OpenAI出身者のファンドが手放したAI関連株、大半をシタデルが取得 - bloomberg.com",
-    "seen_at": "2026-07-30T19:05:22.260565+00:00"
-  },
-  "a4706930eff4840ed841eb68fac3494d383201434f063539a30cb90502eb6a4c": {
-    "title": "OpenAI、小型モデルを大幅値下げ コスト圧力と中国勢の台頭で競争激化 - BigGo ファイナンス",
-    "seen_at": "2026-07-30T19:05:22.260571+00:00"
-  },
-  "7c7299595ca2f5d8e38b5275e7fd09b2d69b4ac4938691cb28ad2e205d54026b": {
-    "title": "グレッグ・ブロックマン氏、OpenAIは2025年初頭にコーディングを「最上位の企業目標」に設定していたと明かす - BigGo ファイナンス",
-    "seen_at": "2026-07-30T19:05:22.260575+00:00"
-  },
-  "b7f4d0421cae8509df4b38f78c43999c71b81af85975948afdddbeceff3abf12": {
-    "title": "【米国】トランプ大統領、AI規制を検討－OpenAIのAIエージェントがシステム侵害、中国への警戒感も表明 - BigGo ファイナンス",
-    "seen_at": "2026-07-30T19:05:22.260579+00:00"
-  },
-  "14f599e3f82539b75d29e31ce09cf1e6c05f8b5b5ebde0420f48e3703a2e4f1e": {
-    "title": "30/7テクノロジー：OpenAIが音声対話機能を備えた新デバイスを開発 - Vietnam.vn",
-    "seen_at": "2026-07-30T19:05:22.260583+00:00"
-  },
-  "981c66d637d1933c57627786f5bc7be2504dbc09413e7ec19ab83c52e6e3a9a2": {
-    "title": "OpenAI、10万人の科学者に最上位モデル「GPT-5.6 Sol Pro」を無償提供へ - 財経新聞",
-    "seen_at": "2026-07-30T19:05:22.260586+00:00"
-  },
-  "696609fe9bd3edfbe963a4b7ee51eb0a8e1a60fbc0a0d8becfde6efc9a6306f9": {
-    "title": "個人商店向けAI検索最適化ハイパーローカルグルメプラットフォーム『Machi Mise 亀戸』ハブサイト本格公開 - ニコニコニュース",
-    "seen_at": "2026-07-30T19:05:22.870253+00:00"
-  },
-  "7f7077ee810e2cdf3daac8505cbce1f99ca7cc700d3fb6e0d3e649ae500f80c1": {
-    "title": "OktaがPermiso Securityを買収に合意しAIエージェント保護を強化 - Межа. Новини України.",
-    "seen_at": "2026-07-30T19:05:23.338890+00:00"
-  },
   "1d2910fe07b7b51793d975a9bd59d749466259c0f8b007ef781d4f55834a4248": {
     "title": "2026年上半期の仮想通貨ハッキング件数が過去最多に、北朝鮮の攻撃とAIエージェント悪用が急増 - 財経新聞",
     "seen_at": "2026-07-30T19:05:23.338896+00:00"
@@ -11998,5 +11830,173 @@
   "7ee59c76be27445fd81a50887feb5d60fbbd8f57cd3213639154b9f9ab1fbba1": {
     "title": "I love doing physics simulations in html/javascript",
     "seen_at": "2026-08-18T21:11:29.856593+00:00"
+  },
+  "fe8ebad1c29a0917321b86649fbbb3da885f7e1892a142ba9958c67cafc05b9c": {
+    "title": "【決定版】Gemma4 、Ornith-1.0…どれが最強？ ローカルLLM「最新5モデル」を徹底検証 - ビジネス+IT",
+    "seen_at": "2026-08-19T00:28:30.307094+00:00"
+  },
+  "e96fba4b2f9baefa68b665d23a25e711aea9c9c7c0fce26b9b4d3c77dcb94844": {
+    "title": "［スキャナー］生成ＡＩ事業者向け基本原則、「学習データ」の透明性向上が柱…実効性の確保焦点 - 読売新聞",
+    "seen_at": "2026-08-19T00:28:30.307099+00:00"
+  },
+  "70c18f9016a045734823e672b2d068d3fc07a260906acdbd1614d3bae991e7ed": {
+    "title": "生成AIが“たった5分”でパスポート偽造…デジ庁が語る「本人確認」の恐るべき現実 - ビジネス+IT",
+    "seen_at": "2026-08-19T00:28:30.307103+00:00"
+  },
+  "5553e48670cb588667d4e90a38de40aaed8374ec6837c3f9bbdc4c9e006495e7": {
+    "title": "AIチューター「Knock」が高校「工業」科目に対応。60近くの専門教科や国家資格に向けた学びを生成AIがサポート - PR TIMES",
+    "seen_at": "2026-08-19T00:28:30.307106+00:00"
+  },
+  "b6cfcc35a6a615618aa990509593368e294b8ae9365ed51f947fc0eb73b651fc": {
+    "title": "進化続ける生成ＡＩ 新たな活用方法学ぶ/行政業務効率化で山陽小野田市職員 - yama.minato-yamaguchi.co.jp",
+    "seen_at": "2026-08-19T00:28:30.307109+00:00"
+  },
+  "98df3eef75ba3594000b79e0b4236298e19197a6451af7c15631b4cf3d609915": {
+    "title": "生成ＡＩを補助的に活用 - 滋賀報知新聞",
+    "seen_at": "2026-08-19T00:28:30.307111+00:00"
+  },
+  "44fee4cff596226275b9aeaef8493b129e846bfd1f6b6a5714377ff343ed2c02": {
+    "title": "生成ＡＩどう活用 新事業展開や地域課題解決、室工大「次世代リーダー育成塾」 - 47NEWS",
+    "seen_at": "2026-08-19T00:28:30.307113+00:00"
+  },
+  "c41e3ba84e48090f1f9204037d17190d03d8c41e0e5a1fe2d38b620610c513f7": {
+    "title": "韓国と台湾が生成AI需要で競争から協力へ転じる、半導体供給網で高まる相互依存 - Межа. Новини України.",
+    "seen_at": "2026-08-19T00:28:30.307115+00:00"
+  },
+  "959fc3b07b24acfc32a05c9194ec55606abaf9c5a5c5a023695c7fae2264c1f7": {
+    "title": "Anthropic、Claude CodeでUI案を作る/designを早期公開：未公表の利用条件も残る - XenoSpectrum",
+    "seen_at": "2026-08-19T00:28:30.906442+00:00"
+  },
+  "82ee8adc8c03645661a043cfdbf8bd89fc70b3718dbf5b4916bffe85a8e2193e": {
+    "title": "Claude Code「/design」始動｜デザインが手元の能力に - innovaTopia",
+    "seen_at": "2026-08-19T00:28:30.906447+00:00"
+  },
+  "9dc5a7724a9d63d870b896f63ac3b3915cfb9a512e21cb8c23e85ea24bccbb82": {
+    "title": "「Claude Code」の週の制限、50％増プロモーションが8月31日まで延長／恒久化にも意欲 - forest.watch.impress.co.jp",
+    "seen_at": "2026-08-19T00:28:30.906450+00:00"
+  },
+  "0de39c4ef52c71908bdb1439ffbbfc80d5b579f6e91db8e1591755aeb51d6f23": {
+    "title": "OpenAI、「ChatGPT for Teens」発表──宿題の“丸投げ”検知、自傷や摂食障害などの保護も強化 - ITmedia",
+    "seen_at": "2026-08-19T00:28:31.629291+00:00"
+  },
+  "94c448da9f6863568ac956a724ab320406f71385078ab146a81e9eb4b2e30917": {
+    "title": "OpenAIが明かす、ユーザーはChatGPTを「こう使っている」（ITmedia エンタープライズ） - Yahoo!ニュース",
+    "seen_at": "2026-08-19T00:28:31.629295+00:00"
+  },
+  "3cfb9afafb6c89dec6a9981ad9942e7625955d693584c94c34ea09888f9e994a": {
+    "title": "米OpenAIが13～17歳の子ども向けChatGPT－安全な利用と学習促す機能 - TBS NEWS DIG",
+    "seen_at": "2026-08-19T00:28:31.629298+00:00"
+  },
+  "7d75ce998cd3e64068b49084a608611259169989aff9390882827edf41d47d59": {
+    "title": "「ティーン向けChatGPT」登場、依存リスクを軽減し学習を支援 - CNET Japan",
+    "seen_at": "2026-08-19T00:28:31.629307+00:00"
+  },
+  "2e2a8f456cb59490c288f342163186d149b97aae70e3eb111b65d772f5736aa7": {
+    "title": "米OpenAIが13～17歳の子ども向けChatGPT－安全な利用と学習促す機能 - Infoseek",
+    "seen_at": "2026-08-19T00:28:31.629311+00:00"
+  },
+  "3e29705c4bc7837dff9f5ce2eb95f3320881a9537b59439416d90af386c587eb": {
+    "title": "米OpenAIが13～17歳の子ども向けChatGPT－安全な利用と学習促す機能 - Bloomberg.com",
+    "seen_at": "2026-08-19T00:28:31.629313+00:00"
+  },
+  "6d5dc6e54eb203cf1a4440c72e2db91d2fef517a51eec22a033d60e2fa3d30bc": {
+    "title": "主要証券会社初「ChatGPTプラグイン」対応の「MONEX MCP Server」提供開始 - マネックス証券",
+    "seen_at": "2026-08-19T00:28:31.629316+00:00"
+  },
+  "5b79975be1786033cf894650d2165443bb5d25f41e6dce588f18c0b5d354f4b0": {
+    "title": "OpenAI、開発中AIモデル向けの新たな安全対策を発表。Hugging Face事件受け不正の監視を強化 - techno-edge.net",
+    "seen_at": "2026-08-19T00:28:31.629318+00:00"
+  },
+  "e0b3bea1a909b7596b0d21dc307639d29035ee61eac9b60881e19b914edfb05f": {
+    "title": "OpenAI社長ブロックマン氏「時間が重要」。企業が今すぐ着手すべきサイバー防御10項目 - Business Insider Japan",
+    "seen_at": "2026-08-19T00:28:31.629321+00:00"
+  },
+  "e7792cd429f71088edf8e098043d808f4b4f1c5fe87ac5d9a9ef0b2af61684be": {
+    "title": "「ティーン向けChatGPT」登場、依存リスクを軽減し学習を支援 - Yahoo!ニュース",
+    "seen_at": "2026-08-19T00:28:31.629323+00:00"
+  },
+  "2b95d61d3102f7df7a92a919a93bf4c25aa5adb2d9f789b1fd0dd00d420e0806": {
+    "title": "OpenAI、フロンティアAIの強化学習を一部停止 安全対策を強化 - ITmedia",
+    "seen_at": "2026-08-19T00:28:31.629325+00:00"
+  },
+  "64454b072452f593971bf8006e84c6e6454bd96e8839a2485b7ea316299470f1": {
+    "title": "OpenAI、AIの開発ペースを一時減速 最新モデルの強化学習を2週間停止 暴走リスクの高まりで - Yahoo!ニュース",
+    "seen_at": "2026-08-19T00:28:31.629327+00:00"
+  },
+  "6b6ee9e19594824d4551fd6b61b8a240a8b70c6a48d118b81671add4791d5534": {
+    "title": "話題の職種「FDE」、実際何をやってるの？ OpenAIの現役2人に聞いた（ITmedia NEWS） - Yahoo!ニュース",
+    "seen_at": "2026-08-19T00:28:31.629329+00:00"
+  },
+  "b615bdffcabe798bd3e10a66a089ea7296791e6f2c066b1284bde08dfdfc57d0": {
+    "title": "話題の職種「FDE」、実際何をやってるの？ OpenAIの現役2人に聞いた (ITmedia NEWS) - Yahoo!ニュース",
+    "seen_at": "2026-08-19T00:28:31.629331+00:00"
+  },
+  "79d7d09313e61b2033aa4a0fa629e04b513405ebb568cf8086e0c7ec1d3f1cd4": {
+    "title": "OpenAI、AIがサンドボックス突破しHugging Faceに侵入——最先端モデルの訓練を2週間停止 - BigGo ファイナンス",
+    "seen_at": "2026-08-19T00:28:31.629333+00:00"
+  },
+  "e163e729709fab80c040b310195985f3733c1ae7bb456b0c6fb8f6eb2ccfd04a": {
+    "title": "OpenAI、開発中AIモデル向けの新たな安全対策を発表。Hugging Face事件受け不正の監視を強化 1枚目の写真・画像 - techno-edge.net",
+    "seen_at": "2026-08-19T00:28:31.629335+00:00"
+  },
+  "dd805697730984e6eb0472a2d8c78af9730773150e03f759dd429ab73342f841": {
+    "title": "AIエージェントを使い始めた非エンジニア部門 最も伸びたのは開発ではなかった：AIニュースピックアップ - ITmedia",
+    "seen_at": "2026-08-19T00:28:31.629339+00:00"
+  },
+  "472fa4daae2f0a6325346a5dad7c85c40a0860c99a82d1a4c881d74a07d7b8a1": {
+    "title": "OpenAI、13〜17歳向け「青少年ChatGPT」を導入 年齢偽装も検知 - 디지털투데이",
+    "seen_at": "2026-08-19T00:28:31.629341+00:00"
+  },
+  "3cfb8a2babdae47b6095a9f235910b4791fb5cfcae46e7e236c7d9312e4d3a98": {
+    "title": "OpenAI、最大規模のフロンティアRLを保留：次世代モデルAstraに「Critical」の可能性 - XenoSpectrum",
+    "seen_at": "2026-08-19T00:28:31.629343+00:00"
+  },
+  "f99ff9e4a68084a1245d1e2c0a4dc5ce718549748cbf5e6c19f162f3ac481327": {
+    "title": "ちょびっとラビット耳よりラピッドニュース #076：ChatGPTと運転中に壁打ちしたら、50時間の移動時間が劇的に変わった件 - chiba-tv.com",
+    "seen_at": "2026-08-19T00:28:31.629345+00:00"
+  },
+  "b9fa0d3838c355e9e4cb1b56ae49ea45117ce6be8afc4fe8d54d417774e2b0a1": {
+    "title": "OpenAIとAnthropic、先端モデルのAPI提供を抑制へ 自社アプリ強化で顧客と競合 - 디지털투데이",
+    "seen_at": "2026-08-19T00:28:31.629347+00:00"
+  },
+  "b80e8a68d729cedb3c556d365e76d8bbc9cb3d72af78f4067a7f2456f772c389": {
+    "title": "Google Meet、対面会議でもGeminiが自動メモ 要約・アクション項目・全文文字起こしをGoogle Docsに保存 - Ledge.ai",
+    "seen_at": "2026-08-19T00:28:32.146840+00:00"
+  },
+  "7a7665f81941ca625bb2370ac923e6f940ec2f13e6faaa347e78368b5fde8a29": {
+    "title": "「Gemini」で生成した画像、動画、音楽のAI生成を示す透かし表示をON/OFF可能に／見えない電子透かしは常に有効 - forest.watch.impress.co.jp",
+    "seen_at": "2026-08-19T00:28:32.146845+00:00"
+  },
+  "d4b2289ba6c23ff3ba218d559b743dcb470c6c92c928f750d5e5c9a4ba7484a2": {
+    "title": "一か月半遅れ。Android「Gemini in Chrome」展開【米国】 - jetstream.blog",
+    "seen_at": "2026-08-19T00:28:32.146848+00:00"
+  },
+  "63938ad00343ceaff0646b516db457aad9af42822d561250b456df86aae1e3f3": {
+    "title": "非エンジニアの経営者が「Claude Code」を使って開発した〝組織改革に効くアプリ〟とは？（＠ＤＩＭＥ） - Yahoo!ニュース",
+    "seen_at": "2026-08-19T00:28:32.750653+00:00"
+  },
+  "42362179f72b5a738c18bb911c41df7197706c9fa5f6d826ff9d3c2c960a0f1b": {
+    "title": "新規3セミナーをまとめて開講！Claude・Claude Code・Power Automateで学ぶ、AI開発と業務自動化 - PR TIMES",
+    "seen_at": "2026-08-19T00:28:32.750657+00:00"
+  },
+  "b485b4d8b7ac5cc43b639f9c42f3c69b39f601f1a4e4d76f52f8ece33ab6a91e": {
+    "title": "SRA東北、大学の研究者情報・研究業績をAIエージェントから活用可能に - ICT教育ニュース",
+    "seen_at": "2026-08-19T00:28:32.750660+00:00"
+  },
+  "dbb90a8799d4e408410850815ae47747347837d741ceba0fde0bf2bb7c3848bf": {
+    "title": "DFlash 2 available for Qwen 3.8 27B and Muse Glimmer",
+    "seen_at": "2026-08-19T00:28:35.218663+00:00"
+  },
+  "0df54976e45b5150a531f547234ff3e81b1e7dc3b721c778f227cced78520420": {
+    "title": "GLM5.3 Artificial Analysis Benchmarks",
+    "seen_at": "2026-08-19T00:28:35.218669+00:00"
+  },
+  "b4289154d57a68d4173e273381b7d2e442eafbef983605db1bc32735e0890409": {
+    "title": "DFlash 2: Keep Drafting Parallel",
+    "seen_at": "2026-08-19T00:28:35.218673+00:00"
+  },
+  "949ccf12f86224968307144fa58d598f3a923b71293aefcce020f0bfecd36557": {
+    "title": "I tested DFlash2 for Qwen3.8 27B on a 5090",
+    "seen_at": "2026-08-19T00:28:35.218675+00:00"
   }
 }
