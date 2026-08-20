@@ -1,148 +1,4 @@
 {
-  "4aba1b087d09089c630f4dd4ad745dab68c7dd96e318a2178099c21d89654a58": {
-    "title": "DeepSeek V4 Flash 0731 local setup gotcha: model, tool call & config setting",
-    "seen_at": "2026-08-02T05:45:01.973600+00:00"
-  },
-  "a722b69d4a5a423d214d5d71386caf47847e374f23efa7c569644b6f34b7cca3": {
-    "title": "データセンター9割が関東・関西に集中、生成AIで需要急増 地方分散が喫緊の課題に - BigGo ファイナンス",
-    "seen_at": "2026-08-02T07:58:54.610044+00:00"
-  },
-  "b884976a60a1fd3b8efec052cecc874ce69ea4a4de2e7bdf127cdbbc6e8953e3": {
-    "title": "ノーラン、スピルバーグ、デル・トロらが語る「映画と生成AI」…トップクリエイターたちの懸念とは - businessinsider.jp",
-    "seen_at": "2026-08-02T07:58:54.610051+00:00"
-  },
-  "264f581a4a93ac98f328223b93b0964fc91c851d868b4fdbb1dcc667c56943c6": {
-    "title": "生成AIデマは災害の二次被害になる 沖縄企業が情報発信で信頼を失わないために｜菅原崇文 - mbp-japan.com",
-    "seen_at": "2026-08-02T07:58:54.610058+00:00"
-  },
-  "079a9ed302eae677cbb7a84f2df79fff65932918e438186213abcd4fff8b33dc": {
-    "title": "中国軍関連研究者、米国製AIを軍事モデル訓練に利用か｜モデル蒸留の規制課題 - innovaTopia",
-    "seen_at": "2026-08-02T07:58:55.133206+00:00"
-  },
-  "a641a4922eccd209590d545f52035306036727e4c1fd98f09f773c41a82a7d12": {
-    "title": "OpenAIのEU AI法対応声明、著作権要件に沈黙──8月2日の執行権限発効で焦点化する「学習データ開示」ギャップ - 財経新聞",
-    "seen_at": "2026-08-02T07:58:55.665262+00:00"
-  },
-  "fa91f869ca567fe19a0dfe30565c17e4491124fcb744d0ef0e1a83fddd511d4e": {
-    "title": "加速するAIの進化と追いつかない社会 : AIエージェントの「隔離環境突破」が突きつけた脅威の現実 #エキスパートトピ - Yahoo!ニュース",
-    "seen_at": "2026-08-02T07:58:56.765995+00:00"
-  },
-  "dd845c72a97150c50b6e1b169d19c1e770d674e93369081d6dcc4b1ca9f8e07f": {
-    "title": "DeepSeek-V4-Flash 284B on 5.3GB of memory",
-    "seen_at": "2026-08-02T07:58:57.706415+00:00"
-  },
-  "a70e514c2962cde74c1aaa764c86d5f5042c93ec0779bfe38115a87a9052c827": {
-    "title": "DeepSeek-V4-Flash-0731 UD-IQ3_XXS about 11t/s on 1x 7900 XTX 24GB + 3x MI60 32GB + 128GB DDR4",
-    "seen_at": "2026-08-02T07:58:57.706421+00:00"
-  },
-  "0b3935ff28e709a22457959700ccd0041b35cbce44b7fd91204102dab3cd23b4": {
-    "title": "PSA for DeepSeek-V4-Flash-0731 users — don't blow out your prompt cache with system role messages mid-conversation",
-    "seen_at": "2026-08-02T07:58:57.706424+00:00"
-  },
-  "19bc4b32c50c4d3835c4f61db44b68e42e3143468a95aa76b71f2b7b2e458baa": {
-    "title": "LLM頼みのプロダクトに価値はあるのか——247いいねの投稿が呼んだX上の賛否 - shiritomo",
-    "seen_at": "2026-08-02T10:22:50.064070+00:00"
-  },
-  "f7a19d4d5f51cdfb424b15f8c56bf40db857ef576922f7542e21c95010339d32": {
-    "title": "ChatGPTがAIエージェントに大変身 / 『頭文字D』連載30周年、自動巻き腕時計【まとめ記事】 : ITライフハック - ITライフハック",
-    "seen_at": "2026-08-02T10:22:51.300777+00:00"
-  },
-  "b1e47b7c0050022c5f2ef8f03d82504e49bafa5365b05ab58effe19122c490c7": {
-    "title": "OpenAI利用者10億人突破の裏でAmazonが500億ドル投資完了、条件未達成でも前倒しした理由 - shiritomo",
-    "seen_at": "2026-08-02T10:22:51.300783+00:00"
-  },
-  "dffca355ebbd5318a56667583b42f22f25fde5020fe0c9adf82fd3b9a0df57a6": {
-    "title": "Setting up of a 16xGB10 (DGX Spark) cluster",
-    "seen_at": "2026-08-02T10:23:16.266459+00:00"
-  },
-  "bdc2ef7d86eaef4878745b20836ea2a1bfd999e4537313e7d8404859770e8316": {
-    "title": "Xberg v1 is out",
-    "seen_at": "2026-08-02T10:23:16.266467+00:00"
-  },
-  "e94d72a61af2ada47f58b57e2056559842d663a3c9cc9e62bca1573efc026079": {
-    "title": "Real-world reality check on Qwen for autonomous coding agents",
-    "seen_at": "2026-08-02T10:23:16.266473+00:00"
-  },
-  "208db94b03e217f8a91f58607bf270585bbe40762ce6966bf56ac4c62b05bd71": {
-    "title": "[Release] WinterMix — Qwen3.5-122B-A10B in native MLX: an 82 GiB build that beats 94–95 GiB quants, plus a 68 GiB build for agent swarms",
-    "seen_at": "2026-08-02T10:23:16.266476+00:00"
-  },
-  "1826233ebcd117f2792a132912eaf074f8a68482c9c621e396b70a76ebf529c9": {
-    "title": "キーエンス、技術的な問い合わせに対応する生成AIアシスタント機能をリリース - オートメーション新聞",
-    "seen_at": "2026-08-02T12:50:15.051034+00:00"
-  },
-  "9bd0a4db008a554f3e26488a805eda01d3841b98d4bab01bd0d6fbfe1e80707b": {
-    "title": "Vacuum 16T",
-    "seen_at": "2026-08-02T12:50:27.648294+00:00"
-  },
-  "f06586b8c023700fbc5a2206e784c1bee67f99698329e710ac386c23ecad2fbd": {
-    "title": "Single system with dual cards or two systems with single cards?",
-    "seen_at": "2026-08-02T12:50:27.648302+00:00"
-  },
-  "bf1cc4d4d06dc923d41bc828c9f05d128d83607f1f4274023846737661e9925d": {
-    "title": "How do you test your setup?",
-    "seen_at": "2026-08-02T12:50:27.648305+00:00"
-  },
-  "4bb20f4234dc7bc8f621705e4066e270e9a12b053738b9ae7202ae3752da44e9": {
-    "title": "【調査結果】文書・データ管理の改善、「重要」94.7％も6割が未着手。最大の理由は「人手・時間が足りない」54.1％ ― 生成AI時代の“データの土台”に停滞の壁 | 一般社団法人自治体DX推進協議会のプレスリリース - PR TIMES",
-    "seen_at": "2026-08-02T15:49:18.767478+00:00"
-  },
-  "ec73e2d99f1dc6860d9600ea0d7ea4d8ad295a157bf0e4970a1bd08091267379": {
-    "title": "マーケの本命「Claude」スキル構築の極意 SWOT分析もわずか15分 - 日経クロストレンド",
-    "seen_at": "2026-08-02T15:49:19.282472+00:00"
-  },
-  "50a41de829a5f964908bf977d1a83f9fc057cdc07462e4bfe79e25e91690bf60": {
-    "title": "F*: A general-purpose proof-oriented programming language",
-    "seen_at": "2026-08-02T15:49:22.767378+00:00"
-  },
-  "4ac7b796555ee57093c37de0d19c7383e729b3754335b82a1a0528d552d52a8c": {
-    "title": "Show HN: Fuse – statically typed functional programming language",
-    "seen_at": "2026-08-02T15:49:22.767383+00:00"
-  },
-  "a75814550373835cd5f0ad3e77289726ba9c5577fd92c91f0798a458e941ccfb": {
-    "title": "llama.cpp just added MTP / DSpark support for DeepSeek V4 Flash",
-    "seen_at": "2026-08-02T15:49:23.641632+00:00"
-  },
-  "4dbce09e3e47347278bbb1da4e1af46934dfb6af526a70951d5c7b77dfae315e": {
-    "title": "Conclusion: r/LocalLLaMA still has brilliant open-weight research, but finding it requires wading through endless benchmark drama, non-local Discussion Points and repetitive hardware flexes.",
-    "seen_at": "2026-08-02T15:49:23.641639+00:00"
-  },
-  "983b7e1e58b71373f2792e2e4fcc81256ef7d1f7534b4011f39cab121a85ab83": {
-    "title": "Deepseek-V4-Flash-0731 Dwarfstar on Mac",
-    "seen_at": "2026-08-02T15:49:23.641642+00:00"
-  },
-  "4f7f0a562dddabdc5abb7e01a59d9f074b6e9f20be08cbb2464ace87b592dfdb": {
-    "title": "How the words we teach English language learners changed",
-    "seen_at": "2026-08-02T18:48:13.913440+00:00"
-  },
-  "0414d261c4953df7f649d53b3f410bf27686f2f774e59c6d9fcd7d715b9d0b3b": {
-    "title": "Are you ready for Le Chaton FAT or still wasting money on GPUs?",
-    "seen_at": "2026-08-02T18:48:14.717752+00:00"
-  },
-  "ba371f704efafef53d475c9dbb581011ae91babbd833755429bd4387688a4dff": {
-    "title": "All Qwen model oneshots: 1109 outputs to look at and compare!",
-    "seen_at": "2026-08-02T18:48:14.717759+00:00"
-  },
-  "263247a20887e2a1382fc573dee4fbb3183badf7b6030bc38465bc148b194911": {
-    "title": "Deepseek v4 flash - 100-150 faster t/s in prefill/pp.",
-    "seen_at": "2026-08-02T18:48:14.717762+00:00"
-  },
-  "e1f2e1ebd17d26e2e6990721e37a15da9f9806078e1587b9cb1fc1dfc8e66aa1": {
-    "title": "Running DeepSeek-V4-Flash-0731 (155 GB MoE) on a DGX Spark with vLLM-Moet 2-bit quantization - AI's narrative",
-    "seen_at": "2026-08-02T18:48:14.717766+00:00"
-  },
-  "5235c2f5b3a65ff9d5de2de8536f9a79704f23996ac1b954cdede2179efb9fd3": {
-    "title": "DSpark Benchmark Result on Deepseek v4 Flash 0731",
-    "seen_at": "2026-08-02T18:48:14.717769+00:00"
-  },
-  "a9a0ba282941416ade88f0b1449772e502883e2aa409b65f90faf7423d4a9126": {
-    "title": "What is OpenCode privacy situation when pairing with outside providers?",
-    "seen_at": "2026-08-02T18:48:14.717772+00:00"
-  },
-  "599793eda4d2f5e2224fb3ca32f38ab99c2d9c290aae2058aaab660f087bd229": {
-    "title": "生成AI時代の経理財務部は「価値創出の中核」に――データ集約中枢としての役割転換を - クラウド Watch",
-    "seen_at": "2026-08-02T21:42:04.724476+00:00"
-  },
   "450c7a0ec80a6105c75a6415e15133c534173a092c637ff743bb0051347b1f21": {
     "title": "生成ＡＩで体操着姿のわいせつ少女画像作成、容疑の会社員を逮捕…３００枚作成し一部ＳＮＳに投稿 - yomiuri.co.jp",
     "seen_at": "2026-08-02T21:42:04.724485+00:00"
@@ -11998,5 +11854,149 @@
   "71ec27300ecc2992c520d6e09d98571ce7e7a94205aa075cf0f45412e68349f2": {
     "title": "How do you deal with long-context sessions after restarting llama.cpp?",
     "seen_at": "2026-08-20T06:21:53.761623+00:00"
+  },
+  "befcc61a29ab1610c3d3f5cfd8a9e61f742f1430b7f360cf5120b4d78a932671": {
+    "title": "博報堂、生成AIソリューション「バーチャル市民カイギ™」の提供を開始。自治体の政策検討を支援 - AIsmiley",
+    "seen_at": "2026-08-20T09:21:16.987476+00:00"
+  },
+  "85533dbc892e9a142dedeb1906e2feda2500f7f4b96981d29b633810cb00d7bd": {
+    "title": "【ビジュアルニュース】YONTAKU AI 生成AIが作った最新の時事クイズに挑戦！（8月20日更新） - oita-press.co.jp",
+    "seen_at": "2026-08-20T09:21:16.987488+00:00"
+  },
+  "c9d60d67b9d0cb284f58e310c17ca05d506b949d3dc298042009d28e7c1545e1": {
+    "title": "Autodeskの3D合成ツール「Flow Studio」が3Dワールド生成AI「Marble」に対応 - Mogura VR",
+    "seen_at": "2026-08-20T09:21:16.987494+00:00"
+  },
+  "ed8eef178ea76f23e614abd1d9506f7187f7baf53537d5f14ffa6161a91b54c3": {
+    "title": "【京都橘大学】生成AIによる「声の模倣」をアニメの現場から考える ―声優・弁護士・AI開発者と考える声の著作権連続講座を開催 申込受付中― - 時事ドットコム",
+    "seen_at": "2026-08-20T09:21:16.987501+00:00"
+  },
+  "3f55eeeddda638c75d180c76aac5659e2c40c38a6079a24a362c38b597b79a50": {
+    "title": "人と生成AIが共創する「未来の実用美」--TOKYO AI Fashion Week 2026 コンテスト、受賞3作品が決定 - 時事ドットコム",
+    "seen_at": "2026-08-20T09:21:16.987504+00:00"
+  },
+  "93c47431fbb900d835caca081cf952e5810bbc5abc79836e26e2ee7e318d0d9a": {
+    "title": "CATL、中国郵政と戦略的提携協議を締結 - marklines.com",
+    "seen_at": "2026-08-20T09:21:16.987507+00:00"
+  },
+  "553c4d2b08507e099350e62fec11f486e8be62c972edbe1d7b5fc7b735745e01": {
+    "title": "プレスリリース：最新動画生成AI「Seedance 2.5」搭載AIアニメ制作プラットフォーム「PopPixs」提供開始（PR TIMES） - 毎日新聞",
+    "seen_at": "2026-08-20T09:21:16.987510+00:00"
+  },
+  "93573b543c3806d1e55530db06385b0f5125b76413eb644752a2860b4bc2b0e0": {
+    "title": "長期入院患者だからできたゲーム開発と、生成AIによる効率化がもたらした「もっとゲームを作りたい」という“生きがい”【CEDEC2026 セッションレポート】 - au Webポータル",
+    "seen_at": "2026-08-20T09:21:16.987515+00:00"
+  },
+  "63a16232ef4f1aea1a3fe57829d0dad192cd45eac4e16bd1020487e378ae8451": {
+    "title": "ディスカバリーズ、パナソニックグループ約8万人の生成 AI 活用定着をコミュニティ運営・情報発信で支援 - RBB TODAY",
+    "seen_at": "2026-08-20T09:21:16.987520+00:00"
+  },
+  "909a44f67489ac6d51ac38689f30878701d15a4705d84b067009ab72b0211d9f": {
+    "title": "GMOグループと米Anthropicが戦略的パートナーシップ契約を締結。Claudeの徹底活用でAI基盤を強化 - AIsmiley",
+    "seen_at": "2026-08-20T09:21:17.430789+00:00"
+  },
+  "9291084186dc7acce755cff13eb5e749c1428b9f6f080954a45b146596e15227": {
+    "title": "「ロボットのChatGPTモーメントが近づいている」 中国UnitreeのCEO、世界ロボット大会で言及 - ITmedia",
+    "seen_at": "2026-08-20T09:21:17.897493+00:00"
+  },
+  "d90ba0ad46967fb4e4bd7357bc36af6672f6639a5a2039e53ae922aec77d2a68": {
+    "title": "OpenAI Japan、パートナープログラムでAI実装加速へ 知見共有し多様な価値を一体提供 - 週刊BCN＋",
+    "seen_at": "2026-08-20T09:21:17.897500+00:00"
+  },
+  "19a0382f2849eb273b0b307e927d2726a14579bd763a1748d3df0e39426c0ac1": {
+    "title": "プレスリリース：LLMO（AIO/GEO）対策ツール「DolphinX AIO」が、ChatGPT広告データの取得に対応｜競合のChatGPT広告の検知が可能に（PR TIMES） - 毎日新聞",
+    "seen_at": "2026-08-20T09:21:17.897504+00:00"
+  },
+  "cacac6c2334c2b1767fde84fade5919a58a2ec2743182eb21ad3f97d6051eaff": {
+    "title": "ChatGPTが落ちた朝、Codexまで道連れになった8月20日の障害でわかったこと - shiritomo",
+    "seen_at": "2026-08-20T09:21:17.897507+00:00"
+  },
+  "c495bc6253d32b6ed120b6309ec6fb60eb24c8eef7290f7f2c5a3ecf065a6878": {
+    "title": "OpenAI、Hugging Face侵入を受けAI監視を強化―最大規模のRL訓練は停止継続 - 財経新聞",
+    "seen_at": "2026-08-20T09:21:17.897513+00:00"
+  },
+  "bfd766958e844ff1a61382646f597c181fc3c52e2a0e9fc7e9dd3ef87f73a035": {
+    "title": "OpenAI、サイバー研究者向け限定プログラムで一部アクセス剥奪｜「技術的問題」と説明 - innovaTopia",
+    "seen_at": "2026-08-20T09:21:17.897518+00:00"
+  },
+  "971c2c40a63d7bee5c3011659356756c82ccffd0f957b6379dfe43f5c4dd378f": {
+    "title": "Chrome 151が重大な脆弱性2件を修正、OpenAI研究者はFirefox 154にも同日貢献 - 財経新聞",
+    "seen_at": "2026-08-20T09:21:17.897522+00:00"
+  },
+  "ceaec03b3706fdc5ad4082eb9bec0c06d73c60072d2a41616f44feba876e7924": {
+    "title": "Anthropicは企業データを30日間保持、OpenAIは「原則ゼロ保管」で対抗 - Yellow.com",
+    "seen_at": "2026-08-20T09:21:17.897526+00:00"
+  },
+  "77e4e87c030645c5109e054d8bb48116348aebeec0f59865a2eeaf7f55684ea6": {
+    "title": "OpenAI、「ChatGPT Work」と「Codex」の活用拡大 知的労働の実務を再設計 - 디지털투데이",
+    "seen_at": "2026-08-20T09:21:17.897529+00:00"
+  },
+  "746d6f24085697c5532ffbed23a71a974c978fcf4bdda5a232c9722e0f8e2abb": {
+    "title": "グーグル、大学生に向け「AI Plus」を1年間無料提供（Impress Watch） - Yahoo!ニュース",
+    "seen_at": "2026-08-20T09:21:18.505436+00:00"
+  },
+  "94e5c887e9c7d0a58138f435efea036e273f563a9800b65439758c8db33ab812": {
+    "title": "エージェント向けスキルの効果を測る「SkillEvaluator」 - gihyo.jp",
+    "seen_at": "2026-08-20T09:21:18.995609+00:00"
+  },
+  "5967629f4a95c7fc2ec2b6528b1d7a2aff5ec569bd1bb79d6586e02dad4922ae": {
+    "title": "AIエージェント市場機会分析2026：2032年に411816百万米ドル規模へ拡大 - アットプレス",
+    "seen_at": "2026-08-20T09:21:18.995617+00:00"
+  },
+  "42b288c82e764d201fcda5b47808f1e4199a55681abdfe61fb3624b3d2b96bd5": {
+    "title": "アーサー・ヘイズ、AIエージェント向け「Flop Labs」CEOに就任（あたらしい経済） - Yahoo!ニュース",
+    "seen_at": "2026-08-20T09:21:18.995620+00:00"
+  },
+  "b62270d7cda80eed4c725d43c7c9059c29e57a30cfe92eb0322cedaf469a8c42": {
+    "title": "AIエージェント利用状況を可視化する「AvePoint AgentPulse」提供開始 - EnterpriseZine",
+    "seen_at": "2026-08-20T09:21:18.995623+00:00"
+  },
+  "8b1efd7e628aab93b5053e1788053a37294435f489f0ceee421b0ea7e3537576": {
+    "title": "oMLX – MacでローカルAIエージェントを動かす - Korben",
+    "seen_at": "2026-08-20T09:21:18.995626+00:00"
+  },
+  "3fccae643215e918fa1a804a1706b476c784c4958929bab0d12941a27bcdfc1a": {
+    "title": "検索エンジンから「AIエージェント」へ、Shopify社長が語ったAI効果。AI経由の注文・アクセスが前年比3倍、新規獲得率2倍、購買プロセスの短縮（ネットショップ担当者フォーラム） - Yahoo!ニュース",
+    "seen_at": "2026-08-20T09:21:18.995629+00:00"
+  },
+  "9b01513d6719875d7e4e067da5e7f01b853f7d1ac1da28aa4ee6ce3a0a0defc8": {
+    "title": "住友電工情報システム、楽々Document Plus Ver.7.0でAIエージェントが文書を自律的に検索する機能を提供 - 日本経済新聞",
+    "seen_at": "2026-08-20T09:21:18.995634+00:00"
+  },
+  "e51bb353bf2450252c066f84ca8fb7f3ab69e274b2d758e934585d0415f7a21a": {
+    "title": "Meta、AIエージェント向け新ツール「Meta XR Operator」を公開 - Mogura VR",
+    "seen_at": "2026-08-20T09:21:18.995637+00:00"
+  },
+  "50ca57b941344827fbe9ed7322dd56290e58e4dc2976af70ba7766d32a3eadab": {
+    "title": "Block、キャラクター化したAIエージェントと作業するデスクトップアプリ「Berd」をオープンソース化 - gihyo.jp",
+    "seen_at": "2026-08-20T09:21:18.995641+00:00"
+  },
+  "716874e7589e203527d61b2524417243b0235e63470984aae200a54fa4ea4f40": {
+    "title": "VirtualHatch、AIエージェントの実行を統制する「OmniHatch」の提供を開始 - ニコニコニュース",
+    "seen_at": "2026-08-20T09:21:18.995645+00:00"
+  },
+  "d37dcbdb2fec2f1c6459c9913332f1581beaf9ff164c5df9c174b1ab8fb8ea87": {
+    "title": "Salesforce、MCP向け「Headless Data 360」を提供 AIエージェントが顧客データを直接活用 - 디지털투데이",
+    "seen_at": "2026-08-20T09:21:18.995651+00:00"
+  },
+  "9f89ce4bedef2ab7251f59b1a30a16385673c33c6a3d6578fff4eef60b9cf7ec": {
+    "title": "Spider-man: Brand New Day, does Peter self host his AI? (Spoilers)",
+    "seen_at": "2026-08-20T09:21:19.715578+00:00"
+  },
+  "82266e3935888c9a3c2ad77c76b31451acec2a771d34683d2917ae5208003f82": {
+    "title": "Qwen 3.8 27B KV f16 vs q8_0 are not equivalents",
+    "seen_at": "2026-08-20T09:21:19.715583+00:00"
+  },
+  "bb3736e7a5fb2b1444937bfb0e5f64899b8f93dfaf1b5aa15d2f8243067e32e7": {
+    "title": "3 days benchmarking most llama.cpp flags on my weird 40gb vram laptop + tb4 egpu setup. Got +70% generation, +40% prefill, 60k more context, and filed a bug in llama around MTP. What I learned.",
+    "seen_at": "2026-08-20T09:21:19.715587+00:00"
+  },
+  "d6426a09a94911d3bbb1181b5d88b562ed836431a4506856fe96452600826e92": {
+    "title": "SyzygyResearch/Mach-1-Additive-35B-GGUF · Hugging Face",
+    "seen_at": "2026-08-20T09:21:19.715589+00:00"
+  },
+  "54e815c33b2b9b8b372447f88e0eefaa3a2889cbca0b0ba7730b0e2e2a2257e2": {
+    "title": "The \"local frontier\" is now smarter than Sonnet 4.5",
+    "seen_at": "2026-08-20T09:21:19.715592+00:00"
   }
 }
