@@ -1,204 +1,4 @@
 {
-  "3fff5ba754aafb906b46fa458cb14a8fe5e8770a500e539cf8118ded05643163": {
-    "title": "Deepseek V4 Flash 0731. LM Studio loading only into RAM.",
-    "seen_at": "2026-08-01T12:47:54.180141+00:00"
-  },
-  "74c94644e10dd91b4e025647725d6fda235f1efa4f7840f68b63efdb83864143": {
-    "title": "EUが生成AIコンテンツの識別表示を義務化など 日刊出版ニュースまとめ 2026.08.02 - HON.jp",
-    "seen_at": "2026-08-01T15:49:14.392205+00:00"
-  },
-  "a2e93a49c2377b8d5a172e4d2e53df9e46ebdc4a90dd87f86ad8297f7aa0fefb": {
-    "title": "Google AI Studio のモバイルアプリ提供が中止。Gemini アプリに統合へ - HelenTech",
-    "seen_at": "2026-08-01T15:49:16.027805+00:00"
-  },
-  "9e9238cf0bbd920f913738dd465e54834e5dd8f6afa4a8b578e8d716fc77c29a": {
-    "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-    "seen_at": "2026-08-01T15:49:19.345854+00:00"
-  },
-  "6bdd73a23263a68945daa0c845cabc0154725fba23a27eaef601dbc3822b6ed4": {
-    "title": "New official weights for Laguna S 2.1 FP8 & NVFP4 are now available",
-    "seen_at": "2026-08-01T15:49:20.091252+00:00"
-  },
-  "fd6c0b334cde70313c4aa5c7de9642abe79e0ce104ff6750f4a0eb1ded3b1d3a": {
-    "title": "LongCat-Flash-Lite-Sparse Is Now Available for Download",
-    "seen_at": "2026-08-01T15:49:20.091260+00:00"
-  },
-  "2996c430dd318cc571aa7400a8ac6f9c5d242c6a555f5e3a1072bebcd452ec16": {
-    "title": "I'm kinda tired of obsession for one-shot tests in coding, there are good tests for multi-step debugging with analyzing output/images/videos?",
-    "seen_at": "2026-08-01T15:49:20.091263+00:00"
-  },
-  "25eb62a1bcac71bba985180a100dcbdf8181774e6ddfd21c367575505effdfda": {
-    "title": "Gemma4 (31B, bf16) constantly fails to edit files due to mismatches in original text - just me?",
-    "seen_at": "2026-08-01T15:49:20.091266+00:00"
-  },
-  "7af5a63d7dd69c8e0fcc1cec371b90ac4dd66d99994b5b636fe108aeca1eacef": {
-    "title": "DeepSeek-V4-Flash-0731: Oneshot evals, surprisingly not token efficient??",
-    "seen_at": "2026-08-01T15:49:20.091269+00:00"
-  },
-  "eb0a8e8d1271ad01c4947b22d3936e4c9b716e55ab88efa85768f7fddba13157": {
-    "title": "EU AI Act takes effect tomorrow, August 2, 2026. 🤡",
-    "seen_at": "2026-08-01T18:47:19.810472+00:00"
-  },
-  "ccd987822fe135fa739910c4de5253191b2f1da287dba95c5251beffe678ba88": {
-    "title": "Deepseek v4 flash 0731 still not holding up.",
-    "seen_at": "2026-08-01T18:47:19.810477+00:00"
-  },
-  "61b72db485fc519523d0b06bfe164c4f04bc71ec2d8fda1f7851f541c0c06c4b": {
-    "title": "DeepSeek V4 Flash 0731 IQ2_M benchmark for Dual 3060 and 96GB RAM ≈ 3.5 tok/s.",
-    "seen_at": "2026-08-01T18:47:19.810482+00:00"
-  },
-  "7efb1da1ab98c1d3de5107a66d31f8a1c0b9115f871137d3bbfe7b7b9ab8aaf7": {
-    "title": "DSv4 Flash 0731 Running on Unoptimized Single 3090 System",
-    "seen_at": "2026-08-01T18:47:19.810486+00:00"
-  },
-  "59fafbd175e01c57ac8d17155f92170e2f14a96654b09b49e9171c5a619d11e8": {
-    "title": "DeepSeek-V4-Flash-0731-UD-Q3_K_XL 3x3090 test results",
-    "seen_at": "2026-08-01T18:47:19.810488+00:00"
-  },
-  "97178060d5d29e211dc4afcf7e4b8580e7949ee2288bfdc1012ce018620ade54": {
-    "title": "［福岡県］観光情報発信に生成AI活用を 福岡市でセミナー - 西日本新聞me",
-    "seen_at": "2026-08-01T21:41:38.198420+00:00"
-  },
-  "d89dc5f129fa0d3d717368ac214d1fb71c8da86e5e43095fc657425366721dc4": {
-    "title": "「陥没呼吸ではないですか？」…生成ＡＩに言われて小児科を受診 医師は「心配なことがあれば受診が正解」 - 読売新聞",
-    "seen_at": "2026-08-01T21:41:38.198429+00:00"
-  },
-  "07aaad4a75141a461a0bb38dee465fc973c42241cb02ebd3439c37c50196dfee": {
-    "title": "AIが電力を食い尽くす？ Microsoftの気候目標見直しが映す、生成AIブームの代償（AMP［アンプ］） - Yahoo!ニュース",
-    "seen_at": "2026-08-01T21:41:38.198433+00:00"
-  },
-  "f30c713f1bdefd0025595df986d6d44d43fff7baec39a20344fcd673d156d01d": {
-    "title": "DeepSeek-V4-Flashショック：NVIDIA主導のAIデータセンター業界が崩壊する可能性。DeepSeek-V4-Flashが実現した格安AIエージェントの経済学[抜粋]｜【第二ブログ】経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔 - note.com",
-    "seen_at": "2026-08-01T21:41:40.595891+00:00"
-  },
-  "7094f62a1500527cc139726c5adaa924881679c7b91f7692a8ec8d907da4b2bc": {
-    "title": "Fix for Deep Seek v4 Flash 0731 tool calling has been added to llama cpp",
-    "seen_at": "2026-08-01T21:41:46.217166+00:00"
-  },
-  "a3ece3687224fe30b1a854b0dea6b9c1546eb4bd963a4b2891614ac9499b08de": {
-    "title": "DeepSeek-V4-Flash-0731 UD-IQ3_S 12.5 tok/s on RTX 3090 +128GB DDR5",
-    "seen_at": "2026-08-01T21:41:46.217173+00:00"
-  },
-  "87381b51b75b15ef087aa4d6b747594533b3ebdd1e3eb9efbf224e8beec60d89": {
-    "title": "Is there a point where models just cannot get any smaller without losing intelligence?",
-    "seen_at": "2026-08-01T21:41:46.217177+00:00"
-  },
-  "97e1ecdfffec06994ae4f03536eaba1752367710a187651b1a2feee9a795be76": {
-    "title": "What’s next for Qwen open-source releases?",
-    "seen_at": "2026-08-01T21:41:46.217180+00:00"
-  },
-  "90ffeacf5eddcb33a57aab08c14b2bdfe499e471bbd11523f645bc26a20b7b1d": {
-    "title": "A collection of small domain-specific benchmarks for local models (30+ and growing)",
-    "seen_at": "2026-08-01T21:41:46.217182+00:00"
-  },
-  "4568464d3de625a862bf3231587b6d02b429daf0b3ddb4f390291be32c5fc8fc": {
-    "title": "Safety and reliability of a dual PSU config",
-    "seen_at": "2026-08-01T21:41:46.217185+00:00"
-  },
-  "7b5f97a8b3ddf19111fe9496d67a10e788bf33dda937d9dc92bb921a2021e985": {
-    "title": "DeepSeek-V4-Flash-0731 on Bosgame M5 with RTX PRO 6000 Max-Q eGPU",
-    "seen_at": "2026-08-01T21:41:46.217188+00:00"
-  },
-  "07e728c601fd5450a8fe20a4fa5161dc9afaf2d4cd29ad721c6823840f9d9843": {
-    "title": "エグゼクティブの生成AIの使い方 【第4回】日立製作所 水・環境事業統括本部長 風間裕介の活用術（前編） - Hitachi Global",
-    "seen_at": "2026-08-02T01:23:16.499085+00:00"
-  },
-  "dee01cced985a9c9c11e4397ff56fa917a5159257434ddd79265810740125d13": {
-    "title": "1000人調査から見えた、生成ＡＩ「本格利用」への壁とは？ - M＆A Online",
-    "seen_at": "2026-08-02T01:23:16.499095+00:00"
-  },
-  "5f756f27596bd65577be2c862ef7fcc54325031d1caeb2fdd9e33b18ac0da55b": {
-    "title": "KIMU Studio、LLM・画像認識基盤の「美術心理検査自動化」特許を登録 - korit.jp",
-    "seen_at": "2026-08-02T01:23:16.499099+00:00"
-  },
-  "7ec9de7691e07794f9bec27e5419622e66690af0b6081304258a34642ef70c0c": {
-    "title": "【越谷市議会議員研修】生成AIと議会について7月31日、埼玉県市議会議長会第4区議長会の議員研... - 選挙ドットコム",
-    "seen_at": "2026-08-02T01:23:16.499102+00:00"
-  },
-  "49097ea4b136dd5495cf96c4970f73c663b69093897a9cf6ba56d193ffd116c7": {
-    "title": "ソフトバンク経由で日本市場に入るOpenAIリスク - ダイヤモンド・オンライン",
-    "seen_at": "2026-08-02T01:23:17.659474+00:00"
-  },
-  "fad05a0923873297062b64dbdea1f10c603fe9a27a65c99f9ac9685830bc0e66": {
-    "title": "OpenAI、アクティブユーザー10億人超に 導入企業は200万社超 - ITmedia",
-    "seen_at": "2026-08-02T01:23:17.659481+00:00"
-  },
-  "3a9fc8ab3826499b69799a3db45494b2f8933c249e4dc893580dc8960706ee8d": {
-    "title": "OpenAIの次世代モデル「Astra」が10年以上進展のなかった数学の難問10問を解く：その計算コスト2,000ドルの衝撃とは - XenoSpectrum",
-    "seen_at": "2026-08-02T01:23:17.659484+00:00"
-  },
-  "da847c47e42e4ab27b28550ea3a68c1fd4fc0a4ad156257049ef6f08b4026a25": {
-    "title": "Google AI Proでも「Gemini Spark」、日本語対応で数週間以内に展開へ - shiritomo",
-    "seen_at": "2026-08-02T01:23:18.219481+00:00"
-  },
-  "fac3c2c5fcf2d0ce6d430b98161b844f61d1427c0a61b933fc0d540645490ca7": {
-    "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に Chrome統合は米国から - ITmedia",
-    "seen_at": "2026-08-02T01:23:18.219487+00:00"
-  },
-  "5d02f8ae91eb58638c2ec9c92a711893572b815706df6946857dc24b996638f8": {
-    "title": "Koboldcpp v1.118 released",
-    "seen_at": "2026-08-02T01:23:35.065112+00:00"
-  },
-  "934f3a69ef40f731e2731820211298c3be96daa1462b4caecd132b231434f360": {
-    "title": "Why are almost all new benchmarks and leaderboards coding focused?",
-    "seen_at": "2026-08-02T01:23:35.065117+00:00"
-  },
-  "2dd5dccba86506f4e7cf3b376ffb5a5d49e0afd69e5cdf6274b50155cf64f24a": {
-    "title": "Expert-only IQ3 requant of DeepSeek-V4-Flash-0731: better KLD than UD-IQ3_S, 1.4x decode on a CPU-spill rig",
-    "seen_at": "2026-08-02T01:23:35.065122+00:00"
-  },
-  "78955bd7ccdeae6a872771eb50248a02f5eb82a76b64119ce55764aad37a1e9b": {
-    "title": "How well do multiple GPUs scale for LLM inference? (Trying to understand the basics)",
-    "seen_at": "2026-08-02T01:23:35.065127+00:00"
-  },
-  "21aff709ff9b130e9f07fdc40cbd4ff201786d2a33e926e94f3053afbe6ac09a": {
-    "title": "【熊本地震デマ拡散】生成ＡＩで偽動画容易に ＳＮＳ投稿、精巧さに警鐘 - 沖縄タイムス社",
-    "seen_at": "2026-08-02T05:44:55.785980+00:00"
-  },
-  "42f84e6a82de3527ec680d53a84a06cffc2784f7cfb7683a526b30337b3199c4": {
-    "title": "【熊本地震デマ拡散】生成AIで偽動画容易に SNS投稿、精巧さに警鐘 - 信濃毎日新聞デジタル",
-    "seen_at": "2026-08-02T05:44:55.785991+00:00"
-  },
-  "9de28e55aa83f9bf74e6a4fdeb1617156862cc11f77b860aa8fb2b78c54ee17f": {
-    "title": "【熊本地震デマ拡散】生成ＡＩで偽動画容易に - 山陰中央新報デジタル",
-    "seen_at": "2026-08-02T05:44:55.785994+00:00"
-  },
-  "2ddfe24ffb6fe17cc54ae91580812d01013003598446df46e00f4cf619e48f25": {
-    "title": "【熊本地震デマ拡散】生成ＡＩで偽動画容易に - 下野新聞社",
-    "seen_at": "2026-08-02T05:44:55.785997+00:00"
-  },
-  "b951a1fef6faa3b1057b713af4c4ee09fe7a03be3e0ec629a83c8a0d93a70d2f": {
-    "title": "三重県いなべ市、全小中学校15校で学校向け対話型生成AI「チャッともシンク」が本格稼働 - 教育家庭新聞社",
-    "seen_at": "2026-08-02T05:44:55.786000+00:00"
-  },
-  "f16507e92ab3a113ee8bfc6424e0503c2e88e7a3d34c48b569c9ad3ac6a72d90": {
-    "title": "【熊本地震デマ拡散】生成ＡＩで偽動画容易に ＳＮＳ投稿、精巧さに警鐘（共同通信） - 熊本日日新聞社",
-    "seen_at": "2026-08-02T05:44:55.786003+00:00"
-  },
-  "6d16ca6abbcd5df03911a118a8efaa7ec30eb1e671685bcc6f0c4b768e658d32": {
-    "title": "NVIDIA OpenAIの計算能力リースに約2500億ドルの融資保証提供へ - AFPBB News",
-    "seen_at": "2026-08-02T05:44:57.053086+00:00"
-  },
-  "9ad08bd1f5b4b6b8d42281f9c58c5de96015222966f91ce45cbd7d5884181dc6": {
-    "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に Chrome統合は米国から（ITmedia NEWS） - Yahoo!ニュース",
-    "seen_at": "2026-08-02T05:44:57.685961+00:00"
-  },
-  "89856e2742402ce49004cf28a714a22c77d43467eb177099656afcde45112b43": {
-    "title": "I pushed Kimi K3 onto one CPU with 8 GB of RAM",
-    "seen_at": "2026-08-02T05:45:01.973560+00:00"
-  },
-  "5921330b8168377754c222e69b36cdca994204f42e421bac2ef420a2838aef89": {
-    "title": "Ran DS V4-Flash-0731 Locally on 3xMI50 32GB @ ~15 t/s TG",
-    "seen_at": "2026-08-02T05:45:01.973564+00:00"
-  },
-  "9d68bc4d7e5881c6e67ef2ceaa856202acb0dd88c31a59e7bc6b74344aace573": {
-    "title": "DeepSeek-V4-Flash-0731 UD-Q8_K_XL 17.20~ t/s on A6000 + 256GB DDR4",
-    "seen_at": "2026-08-02T05:45:01.973570+00:00"
-  },
-  "be7245e779cf349f9dbf5265c920d6e9834f649f2e53ab49d855809167159985": {
-    "title": "What’s the community’s favorite benchmark to validate performance?",
-    "seen_at": "2026-08-02T05:45:01.973592+00:00"
-  },
   "4aba1b087d09089c630f4dd4ad745dab68c7dd96e318a2178099c21d89654a58": {
     "title": "DeepSeek V4 Flash 0731 local setup gotcha: model, tool call & config setting",
     "seen_at": "2026-08-02T05:45:01.973600+00:00"
@@ -11998,5 +11798,205 @@
   "64803a95a97aba62de0564c1d16781836fe7815c80508d7a62c2705932347b90": {
     "title": "Ornith-1.5-35B-A3B Q4 running 60tk/s on 4070Ti.",
     "seen_at": "2026-08-20T03:36:20.356761+00:00"
+  },
+  "cdbe14ea4c8df4970fcbc8c1d1d47b9f331c90ace5c318926ae35026a48062d0": {
+    "title": "アセンド／「ロジックス」に生成AI活用した点検・整備費の自動取込み機能 - 物流ニュースのLNEWS",
+    "seen_at": "2026-08-20T06:21:51.017209+00:00"
+  },
+  "610ccf64d17ad5fc450c8b4f425f463d86c1be9621b995f7c94f3c64409c155a": {
+    "title": "10社以上が挑んだ「フルスクラッチ国産LLM」。PFNはなぜ「PLaMo」をつくり続けられるのか - levtech.jp",
+    "seen_at": "2026-08-20T06:21:51.017217+00:00"
+  },
+  "95bdf0c8eee70af36fe67b0d9d6bd56209c60501aef0138ce573aefa441f89df": {
+    "title": "ディスカバリーズ、パナソニックグループ約8万人の生成 AI 活用定着をコミュニティ運営・情報発信で支援 - PR TIMES",
+    "seen_at": "2026-08-20T06:21:51.017223+00:00"
+  },
+  "761eac965cd6b70968ba1f521bfe49694315d442559a9afa3afaf8e603cc27c2": {
+    "title": "オプティム、企業内の生成AI利用を一元的に管理する「OPTiM Biz AI Agent β」を提供 - クラウド Watch",
+    "seen_at": "2026-08-20T06:21:51.017227+00:00"
+  },
+  "c85a0d882797e8a41e39251b3adda666b918a2959ccd243a3aeaf9c45e60e8ff": {
+    "title": "Copilotの利用実態から考える​現場で使われるAIとはー生成AI活用は​なぜ社内に浸透しないのか​ - 株式会社エクサウィザーズ",
+    "seen_at": "2026-08-20T06:21:51.017232+00:00"
+  },
+  "c2782c6881e7bd78fb2a839fb7e2ed9b835e8f7d821ce359d38a0583f996536a": {
+    "title": "LLMは人間ほど創造的ではない Google DeepMind研究者が指摘するAIの限界 - Forbes JAPAN",
+    "seen_at": "2026-08-20T06:21:51.017236+00:00"
+  },
+  "b1dba3b8d7da5fba3dbf3f18d4ae908eaca008a8a770a626241c74067879a790": {
+    "title": "エスプールグローカル、ZVC JAPANと「生成AI×コンタクトセンター・サミット」に共同登壇 - PR TIMES",
+    "seen_at": "2026-08-20T06:21:51.017239+00:00"
+  },
+  "b711a6f3175699b5ee8fc3e24832f4886daf755590210ea73b7552fa9d0e9000": {
+    "title": "2026年9月8日（火）ウェビナー開催のお知らせ『生成AI時代のCG制作戦略〜プロジェクト事例に見る、コストと品質を両立するワークフロー〜』 - PR TIMES",
+    "seen_at": "2026-08-20T06:21:51.017242+00:00"
+  },
+  "d1a3241d12d00d22239fd9b6520ac2953c0eaf049d0de66d5e94ec62bd4b2133": {
+    "title": "【BtoB営業における生成AI活用】“AI活用は当たり前”の時代へ──それでも差がつく「対人力×独自データの活用」とは - PR TIMES",
+    "seen_at": "2026-08-20T06:21:51.017244+00:00"
+  },
+  "2825fb2fd7737fd550833e0f517d2fcea6529f55d3972e2a3b2a034c392135d9": {
+    "title": "東京都が運営する「西新宿スマートシティラボ」の生成AI体験イベントに、「AI英会話スピークバディ」が登場！ - PR TIMES",
+    "seen_at": "2026-08-20T06:21:51.017247+00:00"
+  },
+  "b42b1d9344343d70ff8ecba1273a7c1d48ca45df8c47de5e4af578b8b401df8c": {
+    "title": "人と生成AIが共創する「未来の実用美」——TOKYO AI Fashion Week 2026 コンテスト、受賞3作品が決定 - PR TIMES",
+    "seen_at": "2026-08-20T06:21:51.017251+00:00"
+  },
+  "9d84ab9d9c164d5fcc4258ffa2c9d7f10181b0c1e75f42af1faea80eb0fb00e4": {
+    "title": "日本経済の未来を担うフィジカルAI・国産LLMが集結！ 「AI博覧会 Summer 2026」いよいよ開幕！ - ドリームニュース",
+    "seen_at": "2026-08-20T06:21:51.017254+00:00"
+  },
+  "71e212677aaf0ba62b8a08f6b27e51bcf4ea9342c2a0a858383a29e57fa604f1": {
+    "title": "生成AI×プログラミングで、子どもたちの「作りたい！」を応援 第9回 北区こどもプログラミングコンテスト作品応募スタート - PR TIMES",
+    "seen_at": "2026-08-20T06:21:51.017259+00:00"
+  },
+  "e6121bc608106dabcefb3f9038bcaa094ed676b19885271875efdab6e56904fc": {
+    "title": "OKI、生成AIを活用した顧客課題分析AIシステム「議事プロAI」を開発 - 日本経済新聞",
+    "seen_at": "2026-08-20T06:21:51.017262+00:00"
+  },
+  "558564d807091dc94003b24b0b5c502c2375d8704007121f93ce9af2c3d50407": {
+    "title": "【9/9（水）オンライン開催】AI時代に成果を出す人材とは？株式会社AX、代表の石綿文太が「生成AIサミット Vol.8」登壇 - PR TIMES",
+    "seen_at": "2026-08-20T06:21:51.017266+00:00"
+  },
+  "a04b76684dd610363188b249fe9d27222518c8498ee366552afb96570bef1b6a": {
+    "title": "AI生成画像の元ネタは特定できない？ MITの研究が示す、生成AIと著作権の新たな論点 - ARTnews JAPAN",
+    "seen_at": "2026-08-20T06:21:51.017271+00:00"
+  },
+  "140b9e6e03fca65136aec89e70f2ef719edca409cff362b8027d1301bba4df84": {
+    "title": "小学生のAI利用実態調査、約4割が生成AIを利用も保護者の6割が「教えられない」SHIFT AI調査 - コマースピック",
+    "seen_at": "2026-08-20T06:21:51.017278+00:00"
+  },
+  "7379237c992d435a229016a046ce37859d8a6969a4d2f411263bd2dd383328a0": {
+    "title": "最新動画生成AI「Seedance 2.5」搭載AIアニメ制作プラットフォーム「PopPixs」提供開始 - PR TIMES",
+    "seen_at": "2026-08-20T06:21:51.017282+00:00"
+  },
+  "bb49e005488d7939a80636f882e097f0d1fab6c44fcf1b4581c3c7c464ea5130": {
+    "title": "清水建設、生成ＡＩ活用を全社展開、利用者８８００名・ＡＩアシスタント８０００個超 - kabu-ir.com",
+    "seen_at": "2026-08-20T06:21:51.017285+00:00"
+  },
+  "c029e0c17b2e0c0f9fe9c1145b9bbd8fad57d2d7f01eed300afa40ff57720db2": {
+    "title": "生成AIの活用により、点検・整備費のデータ入力工数を70%削減 - イザ！",
+    "seen_at": "2026-08-20T06:21:51.017289+00:00"
+  },
+  "a5210f7db588500a3d944448b08966cdc7dd38311af44a89b3ebc329dfc2cfdf": {
+    "title": "「生成AIなんでも展示会 Vol.6」サークル出展の一次当選を発表！追加募集は8月23日（日）まで--企業協賛・ビジネス出展も引き続き受付中 - RBB TODAY",
+    "seen_at": "2026-08-20T06:21:51.017291+00:00"
+  },
+  "c72cd612b1d198f04ca67968210fa84d452ce8be598b6eaefba68fcac9af0702": {
+    "title": "生産者になりすまし果実直売のうそ投稿 生成AIで農園主が別人に 被害相次ぐ - ABEMA TIMES",
+    "seen_at": "2026-08-20T06:21:51.017294+00:00"
+  },
+  "7092431563da4f6320f5c6c6a20cb2ec276eb08560e97fe96050985ea632c45c": {
+    "title": "アンソロピックの電子透かしが24時間で突破されても「業界標準になる」理由 - Forbes JAPAN",
+    "seen_at": "2026-08-20T06:21:51.446981+00:00"
+  },
+  "6b3fd90beedf3aed9c3f2dd696f2a2ca1cef55eab11d4b9a7aa8b76c505dd0a9": {
+    "title": "OpenAI、ZDRを維持したまま悪用検知へ ログ保持を求めるAnthropicに対抗 - ITmedia",
+    "seen_at": "2026-08-20T06:21:51.900703+00:00"
+  },
+  "a69b18c1c32ebc8ac4007ac54f8342daa55574b918c522831a79cad075fa98f6": {
+    "title": "ChatGPTが「あの作業、何してたっけ？」に答えてくれる。新機能Computer Historyを試す前に知っておきたいこと - ライフハッカー",
+    "seen_at": "2026-08-20T06:21:51.900708+00:00"
+  },
+  "f6f3b1d53e3549112d37b9d6e7291727ff29e0d9105716aab217ea05831f1978": {
+    "title": "LLMO（AIO/GEO）対策ツール「DolphinX AIO」が、ChatGPT広告データの取得に対応｜競合のChatGPT広告の検知が可能に - PR TIMES",
+    "seen_at": "2026-08-20T06:21:51.900714+00:00"
+  },
+  "e9d2f4d9e83d9f824368368a6439ab2e3d641357698b2cff70034845e2dcbf24": {
+    "title": "OpenAI、「2027年に上場」方針をCFOが示す 成長加速なら前倒しも - Yahoo!ニュース",
+    "seen_at": "2026-08-20T06:21:51.900718+00:00"
+  },
+  "95c9dac3c11f5c53adb755ac3d68e762aa294d26f781ff24da11a4ab24e1c649": {
+    "title": "マネックス証券が「MONEX MCP Server」の提供を開始、AIとの対話で口座情報が手軽に参照可能（Web担当者Forum） - Yahoo!ニュース",
+    "seen_at": "2026-08-20T06:21:51.900724+00:00"
+  },
+  "baec14dd6f3113b1ecd9051c65d10c0e52484575c3d01f984173d86c5207a8e1": {
+    "title": "Google GeminiがChatGPTよりもはるかに優れている5つの特徴。 - Vietnam.vn",
+    "seen_at": "2026-08-20T06:21:51.900727+00:00"
+  },
+  "279fa1c6733c06afac690b4e4be24dc4bbccfdd13f3255f59622f025a772301b": {
+    "title": "OpenAIは、セキュリティ上の懸念から、高度なAIプログラムの開発を減速させている。 - Vietnam.vn",
+    "seen_at": "2026-08-20T06:21:51.900731+00:00"
+  },
+  "c7c9ad30dced62b0a35e4e1c4fb6180ebeeb64460b438dc50f0d5a6336102954": {
+    "title": "元青汁王子、ChatGPTに架空の犯罪予告→アカウント停止 「AIに冗談を言う人も多いと思うけど」 - Yahoo!ニュース",
+    "seen_at": "2026-08-20T06:21:51.900736+00:00"
+  },
+  "8be0c0e1b50877921427745b6dd298fcc35b3c2e5a2ea26f33b2c8230c37a508": {
+    "title": "マネックス証券、MCPサーバー提供開始で資産状況や取引履歴をChatGPT・Claude上で確認可能に - EnterpriseZine",
+    "seen_at": "2026-08-20T06:21:51.900739+00:00"
+  },
+  "d053b57ce2403764fe72253c01b59c35eae5abf4b93827a5638a9a27bf60b495": {
+    "title": "グーグル、大学生に向け「AI Plus」を1年間無料提供 - watch.impress.co.jp",
+    "seen_at": "2026-08-20T06:21:52.439386+00:00"
+  },
+  "51f5236e8498afc8739ece3a1cb5acf59fff04c3d38c60b21d9e672da7f80edd": {
+    "title": "グーグル、大学生に「Google AI Plus」1年間無料--Geminiの学習支援も強化 - Yahoo!ニュース",
+    "seen_at": "2026-08-20T06:21:52.439394+00:00"
+  },
+  "7a895e0b24de1c899766024393750283b435bca8872cb78a612a4ea5578e79c1": {
+    "title": "船井総合研究所、統合型AIエージェントプラットフォーム「PRIME」を発表 - PR TIMES",
+    "seen_at": "2026-08-20T06:21:52.899570+00:00"
+  },
+  "af75de25316841abca4c45281db69ba2b32d90bdb720f2cc9b80a7662d77ec2b": {
+    "title": "文書管理システム「楽々Document Plus」にAIエージェント搭載。情報探しの新パートナーに - Digital PR Platform",
+    "seen_at": "2026-08-20T06:21:52.899575+00:00"
+  },
+  "ceda3ac420176039f43e08cdd9e3aec328c6a447daa8e559c22dcd3cda966150": {
+    "title": "AIエージェント市場機会分析2026：2032年に411816百万米ドル規模へ拡大 - Newscast.jp",
+    "seen_at": "2026-08-20T06:21:52.899580+00:00"
+  },
+  "3f05d361cb601c25828ecd877e20ed0eb63a321f85a12d54d471b8081e9da33a": {
+    "title": "話題のAI「Claude」のビジネス向けAIエージェントで日常業務を爆速化！ 今日から使える実践例が詰まった『Claude Cowork スゴイ活用術』発売 - 時事ドットコム",
+    "seen_at": "2026-08-20T06:21:52.899583+00:00"
+  },
+  "b8fc8fb6eb23ecd813ab9f1eb7de2ed9a52e0b84a43fe8ce3cce9e66656415b2": {
+    "title": "人事の複雑な業務を、AIエージェントで「点」から「線」へ 「つなぎAI Powered by Dify」による社内実装の試行錯誤を公開 - PR TIMES",
+    "seen_at": "2026-08-20T06:21:52.899586+00:00"
+  },
+  "6eb5e58f19632195bc6445376c7772a9fa308c70d747b4d4c29a9d1c16b27c8e": {
+    "title": "売れるネット広告社グループ（9235）、一般社団法人日本情報技術協会とAI分野で戦略的パートナーシップを締結～AIエージェントと国際標準コードを活用、EC・広告・M&Aの高度化と企業価値向上へ～ - PR TIMES",
+    "seen_at": "2026-08-20T06:21:52.899589+00:00"
+  },
+  "e2e7251a00c10f20581b8b5b30119bb505e9d7c1a71ca921643252a2e857ef74": {
+    "title": "【9/8(火)オンライン開催】自社のLPを1時間でつくって公開するセミナー ～Claude Codeではじめる、外注に頼らないサイト制作～ - PR TIMES",
+    "seen_at": "2026-08-20T06:21:52.899592+00:00"
+  },
+  "6dec2199852ed35926fac47484fe77ed8d472200f516af82cfd3750719b6ea12": {
+    "title": "サーバーワークス、AIエージェントに関する調査結果を公表：時事ドットコム - 時事ドットコム",
+    "seen_at": "2026-08-20T06:21:52.899597+00:00"
+  },
+  "7b685618183a0f95f47ecad203791d96f31e80431452a6f214ae8ac206fb1b0a": {
+    "title": "3,823名が申し込み──国内最大級のAIエージェントカンファレンス「AI Agent Day 2026 Summer」開催レポート - ニコニコニュース",
+    "seen_at": "2026-08-20T06:21:52.899603+00:00"
+  },
+  "5809ed1667cc03f8fc3037fade964f2646645bd9b9e6a9ae3c904e568769e181": {
+    "title": "ウェザーニューズが24か月予報の業務許可取得、法人向け気象情報のAIエージェントで気温提供開始 - LOGI-BIZ online",
+    "seen_at": "2026-08-20T06:21:52.899605+00:00"
+  },
+  "a1e9810bc23fe45822f0718a53d362f2b573d231ac14359b1e9f71925f366200": {
+    "title": "ITエンジニア向けウェビナー～開発業務のレポーティングにも「Claude Code」が活用できる!?～『「Claude - ニコニコニュース",
+    "seen_at": "2026-08-20T06:21:52.899608+00:00"
+  },
+  "2058d676c1dbb433194e5f5a569b5cb7a53d7efbf4b1feef7f1acd4e8518e95c": {
+    "title": "VirtualHatch、AIエージェントの実行を統制する「OmniHatch」の提供を開始 - RBB TODAY",
+    "seen_at": "2026-08-20T06:21:52.899611+00:00"
+  },
+  "8eac63a13eb99c8ef9284f5e28f4a361711612c87c8bcc64e641461c90e3dafc": {
+    "title": "フィールドセールス向けAIエージェントのUPWARDが、地域金融機関向けの総合展示会「FIT大阪2026」に出展 - RBB TODAY",
+    "seen_at": "2026-08-20T06:21:52.899615+00:00"
+  },
+  "446321a1b1949069e719bc829b172fc34301bcc7f790ab8de674c1129697bd62": {
+    "title": "BtoB ECプラットフォーム「Bカート」と顧客理解AIエージェント「チャネルトーク」がパートナー連携。BtoB - ニコニコニュース",
+    "seen_at": "2026-08-20T06:21:52.899618+00:00"
+  },
+  "d696eaf59a8bbf9878917a00694694c1c3617fb01c179414e8071f4a861c29e0": {
+    "title": "【書籍発売のお知らせ】BLUEISH代表 為藤アキラ・著『現場で役立つ マルチエージェントAI設計入門』～Google - ニコニコニュース",
+    "seen_at": "2026-08-20T06:21:52.899621+00:00"
+  },
+  "71ec27300ecc2992c520d6e09d98571ce7e7a94205aa075cf0f45412e68349f2": {
+    "title": "How do you deal with long-context sessions after restarting llama.cpp?",
+    "seen_at": "2026-08-20T06:21:53.761623+00:00"
   }
 }
