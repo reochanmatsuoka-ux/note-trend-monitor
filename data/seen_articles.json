@@ -1,100 +1,4 @@
 {
-  "d8b80350ecf7ba921385b8f830569b7078e1e9a6bcfca37fc5c1efdefdae841e": {
-    "title": "Deepseek v4 flash MXFP4 (original quality) ggufs",
-    "seen_at": "2026-07-31T16:28:51.435219+00:00"
-  },
-  "a8459529759828a35ee8eb30d9cb54753e5908702ebf8bb52a840383a5a95514": {
-    "title": "A lesson about retries, hidden in the DeepSeek-V4 paper",
-    "seen_at": "2026-07-31T16:28:51.435220+00:00"
-  },
-  "59c6832a3da9bd7e3d0c32119d6b1f074231e53c53025b67cf7cd73fbe05a378": {
-    "title": "Unsloth - Deepseek-v4-Flash 0731 GGUF",
-    "seen_at": "2026-07-31T16:28:51.435223+00:00"
-  },
-  "a768f0719b6589a3b530dab3aaf62e93cfb2da9b5c5646fb095e3eafe657eaa9": {
-    "title": "TDSE、業務特化AIを“鍛造する”基盤 「TDSE AI Forge」の提供を本格開始 - ニコニコニュース",
-    "seen_at": "2026-07-31T19:02:17.282389+00:00"
-  },
-  "58ab039990c71f2b1a1265b098a79b7b8930b5475bc8a09ae4531f01c8b5d54f": {
-    "title": "『Stellar Blade: BLOOD RAIN』生成AI使用の公式ミュージックビデオ公開。「クオリティが低い」「プロモーションにはAIを使わないでほしい」といった反応も - 千葉テレビ放送",
-    "seen_at": "2026-07-31T19:02:17.282395+00:00"
-  },
-  "2d834bf1dd8a186d1ce2e1efe6252fc568c493fa39ab518dcc74cc23c676f318": {
-    "title": "ChatGPT広告主が3倍の800社超に、OpenAIがモバイル広告量を拡大 - finance.biggo.jp",
-    "seen_at": "2026-07-31T19:02:18.539947+00:00"
-  },
-  "ed687fba77bd949eb2a2a9977bb17b862e13356db4764b1141eb6dae90a515cb": {
-    "title": "OpenAIがGPT-5.6 Lunaを80%値下げ、AIが自身の推論コードを書き換えコスト削減 - 財経新聞",
-    "seen_at": "2026-07-31T19:02:18.539952+00:00"
-  },
-  "b18ecd2de8ca172791583656bdb4fea2af5aa85257ee17e96a703e5ef9b3b207": {
-    "title": "ニレイ・パテル：OpenAIのサンドボックス失敗は安全問題ではなく、法的責任の危機である - finance.biggo.jp",
-    "seen_at": "2026-07-31T19:02:18.539956+00:00"
-  },
-  "b05a9e5864ee108c91ee13ab5f33135917b1266ef5f8c011239f25698ea0f905": {
-    "title": "新機能6つ！2026年7月版「Gemini Drops」 - jetstream.blog",
-    "seen_at": "2026-07-31T19:02:19.166555+00:00"
-  },
-  "3805915c329ef55b75f1b5fc06044c6f2279dcf236a4b657737a9021e0f6b2a7": {
-    "title": "Google DeepMind、単一AIでヒューマノイド全身を制御する「Gemini Robotics 2」 - 財経新聞",
-    "seen_at": "2026-07-31T19:02:19.166560+00:00"
-  },
-  "f3ff4f776980301b0f046088c10326e9b6c054cd84b35ddfd44d68a3cacb2c4b": {
-    "title": "【a16zポッドキャスト】Decagon創業者に聞く：AIエージェントはソフトウェアを殺さない、むしろこれまで以上に必要とされる - finance.biggo.jp",
-    "seen_at": "2026-07-31T19:02:19.812439+00:00"
-  },
-  "4df3c6f43e182dd6032feeefe12563913430232843ecad97dcf6681fe5151149": {
-    "title": "KDDIアイレット、AI エージェントの継続的な品質改善を実現する新サービス「LLMOps for Google Cloud」の提供を開始 - Excite エキサイト",
-    "seen_at": "2026-07-31T19:02:19.812445+00:00"
-  },
-  "8387aa4ef870b8e905dcb61990cffe9205872d106be6a36684339766a87beeb9": {
-    "title": "DeepSeek V4 Flash GA ranks the same as Sonnet 5 and Grok 4.5 on DeepSWE",
-    "seen_at": "2026-07-31T19:02:24.941981+00:00"
-  },
-  "f4091e4229aa5819d999aa677d093f1fb6630386d5c005dc1719e8d149b6e20a": {
-    "title": "Deepseek flash 0731 reasoning is hilarious",
-    "seen_at": "2026-07-31T19:02:24.942007+00:00"
-  },
-  "ede23a58ba76f6a90fd68b036897bed85408412f367ec152103ea4412ab7f7f9": {
-    "title": "DeepSeek V4 Flash unsloth quants are out!",
-    "seen_at": "2026-07-31T19:02:24.942012+00:00"
-  },
-  "a3c39c402931307ac76c472df4bc4162ad7944ce356518c92ed9884c67e2cfce": {
-    "title": "DeepSeek-V4-Flash-0731 unsloth gguf on A100",
-    "seen_at": "2026-07-31T19:02:24.942016+00:00"
-  },
-  "d0182022a161a50f56ac967aca1afd7f9dba1fbb4e49d29fd11cb080cfc874ac": {
-    "title": "With release of Deepseek V4 I wanted see how the model sizes are trending over time. The trend is that by this time next year, we probably will have Opus 4.5 level models on consumer grade laptops!",
-    "seen_at": "2026-07-31T19:02:24.942019+00:00"
-  },
-  "39d02223953825c99a12a621321e31a7f6d33c92c098f2bdf31f24d3cd530c4a": {
-    "title": "Uncensored Multi-Model Releases, LongCat-Flash-Lite with MTPs, Jamba2-Mini, Qwen3.5-9B-Nikusui-v1 with MTPs and Qwen3.5-27B-Nikusui-v1 with MTPs, Available in Safetensors and GGUF Formats!",
-    "seen_at": "2026-07-31T19:02:24.942023+00:00"
-  },
-  "2e1a9a30515ef0df4c2fd3b40684c5e62d3d38d29553e288e439b79b9ee913fd": {
-    "title": "Initial testing of DeepSeek v4 Flash shows significant improvements in UI/UX design capabilities (despite being token hungry)",
-    "seen_at": "2026-07-31T19:02:24.942027+00:00"
-  },
-  "17abcf73bfe9b3336974a740ed884bcc5d74ba53f0273f30aaf3559e45a0a788": {
-    "title": "Everyone is building LLM routers, we deprecated ours",
-    "seen_at": "2026-07-31T21:55:01.046979+00:00"
-  },
-  "5fe17a5931a84cf4d6baaf017277478544aa07594dd3e20bf72e706009ddb9c6": {
-    "title": "IQ3 DS out",
-    "seen_at": "2026-07-31T21:55:02.202831+00:00"
-  },
-  "5a525deef721b205e69a645a3fcb99b9d447357391c544897e34bd137df3056e": {
-    "title": "Minimum VRAM GPU to run DeepSeek-V4-Flash-0731 Q4_K_XL at around 30 t/s ?",
-    "seen_at": "2026-07-31T21:55:02.202837+00:00"
-  },
-  "a9c1ff4eab6f632d1075ce98c32efeb22a280f2b47d47b8731540c472b88a7e3": {
-    "title": "60-82% accuracy swing on 4B model classification task: the only variable was harness design",
-    "seen_at": "2026-07-31T21:55:02.202841+00:00"
-  },
-  "44144ae32a68f0c8e4204a0190844fe48de7abe64484207014f159361d6f733e": {
-    "title": "夏休みの宿題をAIにやらせていい？「13歳の壁」と子どもが賢くなる生成AIの使い方 - Yahoo!ニュース",
-    "seen_at": "2026-08-01T01:25:27.673574+00:00"
-  },
   "f2ca6b1d38314537b43716b6f11e7e79eb4b2c936bf19dc801c709509de4461d": {
     "title": "株式会社Mavericksは、動画生成AI「NoLang」の素材検索を刷新。BGM・フォントなど7種類を「明るい気分に - ニコニコニュース",
     "seen_at": "2026-08-01T01:25:27.673581+00:00"
@@ -11998,5 +11902,101 @@
   "86079d1acac66d2a2fe4cda59e75261cfc224c245bdef6c18894d2faac929f31": {
     "title": "I might have found the perfect config parameters for qwen 3.8 27b",
     "seen_at": "2026-08-19T21:14:04.530593+00:00"
+  },
+  "4e2aec6e68c7781780a6b8a9bd69e123e78305985d90617e7d3cd7f49d42074a": {
+    "title": "【セミナーレポート】生成AI・AI・RPAを使いこなす！～事例から学ぶ業務活用と庁内浸透～【Day1】 - ジチタイワークスWEB",
+    "seen_at": "2026-08-20T00:28:40.339482+00:00"
+  },
+  "111d2f05448972501af69560767c02620d0a1327ec806ef548ae6b3650c7e6c2": {
+    "title": "OKI、生成AIを活用した顧客課題分析システムを開発 顧客提案活動の高度化を推進：製造ITニュース - monoist.itmedia.co.jp",
+    "seen_at": "2026-08-20T00:28:40.339490+00:00"
+  },
+  "434d380e6318bca5889ba94933f6c82e356cb398576203c7c4c6b2424b1fce88": {
+    "title": "生成AI利用で迷う家庭に指針 SHIFT AIが親子で考える「10か条」を公開 ルール共有は1割 - 教育家庭新聞社",
+    "seen_at": "2026-08-20T00:28:40.339498+00:00"
+  },
+  "d652209d7cf334eb25908c06db99bd1acf51d96d2cfe61d1ba936825f2d5d272": {
+    "title": "小中学生の47.1％が学習に生成AIを利用、保護者の8割超は「自主的な学び」を重視 Duolingo調べ - こどもとIT",
+    "seen_at": "2026-08-20T00:28:40.339501+00:00"
+  },
+  "aa47d77bb6927ea5b19d6660b42ee7d6804667cb50318abba8af2c971f73bccd": {
+    "title": "【生成AIやってみた！Pally編】直接SMSを送って使うパーソナルアシスタントの使い勝手は？ - @DIME アットダイム",
+    "seen_at": "2026-08-20T00:28:40.339507+00:00"
+  },
+  "66c0c9199b888a2f0470290f9b202073be82eac33feec49a324a5c8aba4e6ff9": {
+    "title": "小中学生の47.1％が学習に生成AIを利用、保護者の8割超は「自主的な学び」を重視 Duolingo調べ - chiba-tv.com",
+    "seen_at": "2026-08-20T00:28:40.339510+00:00"
+  },
+  "e02d3205fe4f935ce046646cb8e6e18bb2b23de7f1dd6ab0931cf3e9257fae24": {
+    "title": "高度なAIのサイバー攻撃、どう対策？ 企業が知るべき「スピード格差」の埋め方 - ITmedia",
+    "seen_at": "2026-08-20T00:28:40.894742+00:00"
+  },
+  "c73a37f500ef64ce3e4f83504366239b1aca812e638bb7d0e248aa46c07d9f33": {
+    "title": "ジオコード、ChatGPT広告の出稿・運用支援サービスを提供開始 - PR TIMES",
+    "seen_at": "2026-08-20T00:28:41.595179+00:00"
+  },
+  "821683d0805b9221696e508158e81ddc16d78269ac4cef53040597f6a8f4a3c5": {
+    "title": "OpenAI、モデル開発を一時「減速」 最新モデルのRL学習を2週間停止、最大規模の学習は現在も保留 - Ledge.ai",
+    "seen_at": "2026-08-20T00:28:41.595185+00:00"
+  },
+  "13f6f84a22aa8ded4af76fb153ac761bb00476a96b15c8f4f47d989d486713cf": {
+    "title": "会計AIのXero、JAXを拡張しMicrosoft 365・Claude・ChatGPTからリアルタイム財務データを利用可能に - atpartners.co.jp",
+    "seen_at": "2026-08-20T00:28:41.595191+00:00"
+  },
+  "2c9bf6053f8419d40335b1df02805cc4e65709d22ca315fb69822afdd5820c51": {
+    "title": "OpenAI、ゼロデータ保持を維持する新安全技術　30日保持のAnthropicと異なるアプローチ - ｄメニューニュース",
+    "seen_at": "2026-08-20T00:28:41.595196+00:00"
+  },
+  "efd177cae56d9effa8a2cb1e357abf21f0fbdf76fb623ec384f1e162b503dcb0": {
+    "title": "OpenAI、AIによる自動攻撃が既存の脆弱性を高速発見・悪用すると警告 「Defender’s Window」で防御自動化を促す - rocket-boys.co.jp",
+    "seen_at": "2026-08-20T00:28:41.595199+00:00"
+  },
+  "010f4c4a00fc350963c49c69d8f763a9c1b43473350791246f47ec357941e3da": {
+    "title": "「良心を持ったなんて信じない」——OpenAIが最速を競う最中に自ら開発を止めた2週間 - shiritomo",
+    "seen_at": "2026-08-20T00:28:41.595202+00:00"
+  },
+  "d1329329aa6ebbbef759ef9b660b9666e3c3c23315c48f005cc82f5f7ed4d6b5": {
+    "title": "Anthropic、四半期売上116億ドルでOpenAIを初めて上回ると報道 - XenoSpectrum",
+    "seen_at": "2026-08-20T00:28:41.595206+00:00"
+  },
+  "b56f11367cf30a0885b2b70025b1a052c89a8ff4e2f65c3a10b5540d57d805c7": {
+    "title": "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も - ITmedia",
+    "seen_at": "2026-08-20T00:28:47.289334+00:00"
+  },
+  "7c6ec049d9d846e6cdbc8d8f9a3c1f500aa9513a4f4e01d7b0b8f83169542939": {
+    "title": "大学生であれば｢Google AI Plus｣が1年間無料に ｰ ｢AI Pro｣も最大75％オフ - taisy0.com",
+    "seen_at": "2026-08-20T00:28:47.289341+00:00"
+  },
+  "5792dee845c28e62932e4861d9d1eb444faf9b3d1bb004f8c9e74a8925bb97cc": {
+    "title": "大学生限定「Google AI Plus」1年間無料プラン提供開始 - jetstream.blog",
+    "seen_at": "2026-08-20T00:28:47.289346+00:00"
+  },
+  "1d404f63b7efb9058a3e4a330592c73aa3e74567f76b0e36f0f600b0f623111e": {
+    "title": "バクラク、導入時の初期設定を自動化するAIエージェント機能をリリース - PR TIMES",
+    "seen_at": "2026-08-20T00:28:47.827442+00:00"
+  },
+  "4d009c5f204ffe5071a5814c5f3d63dc2b1ba1735680a8700dc928ca9763f5b7": {
+    "title": "「AIエージェントには良心がない」――人間ともbotとも違う“特有の危うさ”とは：ID管理の前提が変わる（前） - ITmedia",
+    "seen_at": "2026-08-20T00:28:47.827456+00:00"
+  },
+  "9849e669452772034d0710e86497c832213c02dce791dd7f9736ce41ffb22292": {
+    "title": "【プロダクト開発関係者向け】AIエージェントで変わるチームコラボレーション 9/12（土）無料セミナー「プロダクト・U - ニコニコニュース",
+    "seen_at": "2026-08-20T00:28:47.827460+00:00"
+  },
+  "9c84266c08e945e587ec03a79b23fd472d16123bd5880324d7d8433cfecb9e9b": {
+    "title": "Qwen3.8-23B-Mini-Me: A Depth-Pruned Qwen3.8-27B (to ~22.7BB)",
+    "seen_at": "2026-08-20T00:28:50.259676+00:00"
+  },
+  "032e856592924edb42d4754b1858e61fa94842d8397bfedeedf1e35f26ff62aa": {
+    "title": "Anyone NOT on full auto when coding with local LLMs?",
+    "seen_at": "2026-08-20T00:28:50.259682+00:00"
+  },
+  "27369b922ad134d663f6ae145becc4533af267f31b935fb25efac28bdc66e36a": {
+    "title": "Fluid Simulation Qwen3.8 27B IQ3_XXS",
+    "seen_at": "2026-08-20T00:28:50.259688+00:00"
+  },
+  "5fd6522d2cb27fa9ed609ca4ecafe9301ced08b77842ec198b5349e7b62d6a4d": {
+    "title": "S1-mini by Superwhisper running 100% locally in the browser on WebGPU with Transformers.js",
+    "seen_at": "2026-08-20T00:28:50.259691+00:00"
   }
 }
