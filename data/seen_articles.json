@@ -1,60 +1,4 @@
 {
-  "e696e826fbaf51fca46f4501a7e4229dbb700714a7d988c94baa3e78928022b5": {
-    "title": "OpenAI、次期モデルは「Astra」 数学の未解決問題を解決 - watch.impress.co.jp",
-    "seen_at": "2026-08-03T01:23:33.749378+00:00"
-  },
-  "a889be70a01c9cf38d59454566aba114c628523ce5d92ec239e8a564de79dede": {
-    "title": "ChatGPTに人生相談しすぎるのは危険？ Xで広がる警告の中身を調べた - shiritomo",
-    "seen_at": "2026-08-03T01:23:33.749381+00:00"
-  },
-  "647faca0578d9290a84bd06cb712ef27b0634ef1552135b363fd06f81a86fa72": {
-    "title": "ChatGPTが「モラルスリップ」？ユーザー投稿から見えたAI安全システムの揺らぎ - shiritomo",
-    "seen_at": "2026-08-03T01:23:33.749383+00:00"
-  },
-  "52ff733e5e2c54e10b111b25518901847b1a090275a54a754e007da203d9a0a6": {
-    "title": "Google AI Studio、単体アプリを中止｜Geminiとの会話からアプリが生まれる新体験へ - innovaTopia",
-    "seen_at": "2026-08-03T01:23:34.219153+00:00"
-  },
-  "83e6646757cd97bfd30f31d854c33af322a04003e8b6f598c439166cfba738db": {
-    "title": "非エンジニアの経営者が「Claude Code」を使って開発した〝組織改革に効くアプリ〟とは？ - @DIME アットダイム",
-    "seen_at": "2026-08-03T01:23:34.683191+00:00"
-  },
-  "cd9d9a194c59f9db3eb30572bbc443f4dfc0eb7e0fdc2d3b3317a567d5674b9f": {
-    "title": "LINER、投資リサーチAIエージェント「Liner Finance」を公開——企業分析を支援 - korit.jp",
-    "seen_at": "2026-08-03T01:23:34.683199+00:00"
-  },
-  "9c80520874f09d195df9703c39d67ca62089deb20e6eab3554edd14559567ef9": {
-    "title": "AIエージェントに潜む新たな攻撃対象領域。従来のAppSecが機能しない理由と90日間で進める対策とは - マイナビニュース",
-    "seen_at": "2026-08-03T01:23:34.683204+00:00"
-  },
-  "900c1ec63b2fd7d52f15087e6b54f72139d26f2e4b47dcff1c7a502f07c98d36": {
-    "title": "AnyMind、月550時間削減のAIエージェント提供 - ニュースメディアVOIX",
-    "seen_at": "2026-08-03T01:23:34.683207+00:00"
-  },
-  "ab91fca5f86712c7906d18d574dc9f1d1de975ac06e7314f65ef7dc902382daa": {
-    "title": "China’s DFSX Offers 2x The Memory Bandwidth Of NVIDIA’s GB200",
-    "seen_at": "2026-08-03T01:23:36.140378+00:00"
-  },
-  "679e9e6272d768737a6f4fa2c398f5c7a1639afa9984dbbc41f395186a746a99": {
-    "title": "You really should not quantize KV Cache for DeepSeek V4 Flash",
-    "seen_at": "2026-08-03T01:23:36.140386+00:00"
-  },
-  "f334cb5cdf990e2c73aff571ba8db361012c96920352478ebbbe0ee7c62e7022": {
-    "title": "Kindly Benchmark Higher Quants of DeepSeek-v4-flash Against Qwen-3.6-27B Q8!",
-    "seen_at": "2026-08-03T01:23:36.140401+00:00"
-  },
-  "3864531cd210d3d6244b5728a48c29b4534bc9b1660a190f2e865433a5d2de9d": {
-    "title": "Anyone Used MiniMAx H3 yet? Open Weights are out today!",
-    "seen_at": "2026-08-03T01:23:36.140407+00:00"
-  },
-  "14fcdf3d0ac51339cc83493c3dae5771e36f1f70a7ab3a58d972590635267822": {
-    "title": "[Paper] EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation",
-    "seen_at": "2026-08-03T01:23:36.140412+00:00"
-  },
-  "938e3dc5a5c48e79bbd9d8838d18d36d3e409b265796a96124870fe69df920a9": {
-    "title": "GitHub - sqliteai/waste: Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weights directly from NVMe. A dependency-free, embeddable C inference engine.",
-    "seen_at": "2026-08-03T01:23:36.140417+00:00"
-  },
   "77faedb7c86bd1395b921527015f90e45c3b87470c87e498e5d722ebb930e04f": {
     "title": "生成AI学習の新手法「Explorative Modeling」を米研究チーム発表、データ効率は6.2倍 - ビジネス+IT",
     "seen_at": "2026-08-03T06:01:40.538419+00:00"
@@ -11998,5 +11942,61 @@
   "8c985843b63b152a729111cbe782e6f69e35aba308676b926a5c6e040d545f73": {
     "title": "Qwen with cache offload vLLM",
     "seen_at": "2026-08-20T15:21:28.321403+00:00"
+  },
+  "52f39d6295b156bebfcea35f692577a0cb176a53d1caa8d3a84fbd2fc161278c": {
+    "title": "【9/2オンライン再放映】好評につき、「自治体における文書・データ管理および生成AI活用に関する実態調査」調査報告会を再放映 - PR TIMES",
+    "seen_at": "2026-08-20T18:19:01.722278+00:00"
+  },
+  "76ba6f776b54df00900e74bc5af60c2f9feb6fde3407348b598d4b7927cf9c43": {
+    "title": "「生成AIなんでも展示会 Vol.6」サークル出展の一次当選を発表！追加募集は8月23日（日）まで--企業協賛・ビジネス出展も引き続き受付中 - 時事ドットコム",
+    "seen_at": "2026-08-20T18:19:01.722287+00:00"
+  },
+  "dc8ae62adbbe31bed39039b594507788ca2d17be836e6d344a496bd61dc1f955": {
+    "title": "生成AIシェア徹底解剖 2026｜ChatGPT・Gemini・Claudeの勢力図と日本・中小企業の現在地 - london3.jp",
+    "seen_at": "2026-08-20T18:19:01.722291+00:00"
+  },
+  "747613d549d11f044ee36f1c21060337850a16a9cd7d8d5276c86c0b8a1cf38f": {
+    "title": "OpenAIのIPOは2027年上場へ CFOサラ・フライアー氏が社員に示した新目標 - Yellow.com",
+    "seen_at": "2026-08-20T18:19:03.142064+00:00"
+  },
+  "f053b7cd82013833d3345ba0d05f7c1bda8f034c52382d794bf9c253552fb543": {
+    "title": "船井総合研究所、統合型AIエージェントプラットフォーム「PRIME」を発表 - 時事ドットコム",
+    "seen_at": "2026-08-20T18:19:04.438613+00:00"
+  },
+  "0332ba45652135130ea8012baa9b7aa7be18b8673a8d8a733b73aa459d2a7d8d": {
+    "title": "QwenMix-3.7: Kept seeing posts about Qwen3.8 and 3.6 sharing the same structure.. so I had Qwen3.8 combine them.",
+    "seen_at": "2026-08-20T18:19:05.586249+00:00"
+  },
+  "d5e531ea3a5232b4886e1ddd7bd43331776c2a4f40cb174e6366ef413ad6406d": {
+    "title": "Ling-3.0 released all 6 base checkpoints: 2 sizes × 3 stages",
+    "seen_at": "2026-08-20T18:19:05.586254+00:00"
+  },
+  "34004f143fe3986e4fad66679140827efdbbae25ef33ff2a45d56c36731695e4": {
+    "title": "Getting better at coding doesn't make a model better at everything else",
+    "seen_at": "2026-08-20T18:19:05.586259+00:00"
+  },
+  "abd255724e60cd1c810380909e582acdcfc166da4c8294e3d04de6420f9f8b4d": {
+    "title": "Ladies and gentlemen I present to you Qwen3.8 27b 1bit brain damage quant",
+    "seen_at": "2026-08-20T18:19:05.586261+00:00"
+  },
+  "df59fdb9f84a214fd7dc729113ff24192c95d8434ab18fa90b448c597b58bed8": {
+    "title": "GLM 5.3 SlopCodeBench Results",
+    "seen_at": "2026-08-20T18:19:05.586266+00:00"
+  },
+  "7c5a16082bfb2aa6af4175b894738084f98daf07eb6dcb394fe50cd7feefe011": {
+    "title": "Theres surely SOMEONE out there whose job is just pumping out low-poly oneshot ThreeJS assets..",
+    "seen_at": "2026-08-20T18:19:05.586269+00:00"
+  },
+  "8b444cd72fdb5683ad49d88e05b13381a9fed05e707a46cdb280d158b0cb46dc": {
+    "title": "Claude sonnet 4.6 was really good at estimating the future qwen 3.8 27b performance",
+    "seen_at": "2026-08-20T18:19:05.586272+00:00"
+  },
+  "8f45d9f10e1193b1b84ed47cc567ac57ee029489ca4f751e6c76d76d9099e970": {
+    "title": "Another qwen 3.8 27b showcase - gta style prompt - also a remainder to use ngram in your configs.",
+    "seen_at": "2026-08-20T18:19:05.586275+00:00"
+  },
+  "b6ea9a813db9bca3c826b7afe802729328968d901affe6312452213f9eeb917f": {
+    "title": "Qwen 3.8 27b *MEDIUM* is insane: 1/20th the thinking time of xhigh for almost the same quality output??",
+    "seen_at": "2026-08-20T18:19:05.586277+00:00"
   }
 }
