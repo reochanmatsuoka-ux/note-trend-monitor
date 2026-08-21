@@ -1,20 +1,4 @@
 {
-  "c52926b3335f6e4f1c0b0683e9265c0142d11045583ebb81ff1ab993b4356367": {
-    "title": "Claude Codeは「同僚」になれるか。書籍著者2人がFindyイベントで語ったこと - shiritomo",
-    "seen_at": "2026-08-04T11:13:08.794646+00:00"
-  },
-  "de06be2d240ba7daf88bc40a59f577eeee1180b8d281868bf2607dd1a6ea274f": {
-    "title": "「人主導」から「自律実行」へ――進化する「Microsoft 365 Copilot」の新機能とエージェントAIの現在地（1/2 ページ） - ITmedia PC USER - ITmedia",
-    "seen_at": "2026-08-04T11:13:08.794653+00:00"
-  },
-  "f866335f4111051b2c52ad108c1c7d2260c14ed7c5afe9360127f0262f6c4298": {
-    "title": "ContractSが実現する法務組織の新たな働き方「AIエージェント社員」の導入 - voix.jp",
-    "seen_at": "2026-08-04T11:13:08.794658+00:00"
-  },
-  "245ea8ed84cea6f2582a2a0928425a827d065af419f7d1ca89d89ce31dd27b72": {
-    "title": "株式会社丸田組が「Kencopa工程AIエージェント」の導入を開始し効率化を図る - voix.jp",
-    "seen_at": "2026-08-04T11:13:08.794662+00:00"
-  },
   "12e866e0a25e7f410854c2255a6d6ea1753d51a847aed38adb591674ef7830d6": {
     "title": "Teradata、AWS MarketplaceでAIエージェント「Data Analyst Agent」の提供を開始し分析革新を実現 - voix.jp",
     "seen_at": "2026-08-04T11:13:08.794665+00:00"
@@ -11998,5 +11982,21 @@
   "20373b8052de0d5d1b00945e74ff0a2ee26295b1105e5bccf506c9ed9dbf83f4": {
     "title": "Ultrafast Qwen3-TTS at 34 ms Time-to-First-Audio, Handling 10 Requests Per Second [OSS]",
     "seen_at": "2026-08-21T18:18:10.557457+00:00"
+  },
+  "3bb8fa28141fe3dbad90b32e3567a1002ea6961a951e7873135772202c85827e": {
+    "title": "Qwen3.8-27B Q6 is a beast at agentic coding",
+    "seen_at": "2026-08-21T21:11:58.947681+00:00"
+  },
+  "6453e724d45e1b809a0e1391a755aed1f1b570b88c50bcc31d9e355e9610aadc": {
+    "title": "Qwen 3.8 Low and Medium are goated",
+    "seen_at": "2026-08-21T21:11:58.947688+00:00"
+  },
+  "d73a4a553a186dbe8641cc2dd0221a02804e88222a525932b4cc6ccaa7c650ae": {
+    "title": "Qwen3.8-27B different thinking levels",
+    "seen_at": "2026-08-21T21:11:58.947692+00:00"
+  },
+  "1a1ea787e7f2b61381ec9f97d5182d7c8a1c9f84fc8f42ae711c2ba0676982d2": {
+    "title": "What’s the best general chat “harness” in Aug 2016?",
+    "seen_at": "2026-08-21T21:11:58.947701+00:00"
   }
 }
