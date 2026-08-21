@@ -1,56 +1,4 @@
 {
-  "d7fb2da4d136d59d35335b5dc927215fe8745e01e9e49a136a61d0accb19963f": {
-    "title": "ホンダ、ID統制基盤「Saviynt」を導入--AIエージェント管理も視野に - ZDNET Japan",
-    "seen_at": "2026-08-04T08:12:40.464170+00:00"
-  },
-  "542adce20148dce022038b541caeaa32b2e04b8b16827505f89a0e052f796def": {
-    "title": "「ハイパフォーマーの働き方」をAIエージェントに学習させ、10人チームを1人に削減した企業の話…人間は「高付加価値でクリエイティブな業務に」 - Business Insider Japan",
-    "seen_at": "2026-08-04T08:12:40.464175+00:00"
-  },
-  "5a187492053848f1b098745f879391232578dfc943729f472dd74a87b5d04c46": {
-    "title": "DeNA AI Link、工場シミュレーション開発を自律型AIエージェント「Devin」で支援 - 株式会社インプレス",
-    "seen_at": "2026-08-04T08:12:40.464182+00:00"
-  },
-  "22e5b06c66ff2d29ee5c8cc68a2489df1445e96a860487ff90c1aa37f233ba1d": {
-    "title": "LINEヤフー、AIエージェント「Agent i」の「お買い物」に写真から商品を探せる「ショッピングレンズ」機能を追加 - 株式会社ヴァリューズ",
-    "seen_at": "2026-08-04T08:12:40.464186+00:00"
-  },
-  "fa4c742d5be04a2217e437a01f052d2b570d8d99058d104251d3b43f5489bbde": {
-    "title": "【音声AIでDX】モコボイス、8月18日〜21日開催「AIエージェントDXPO東京'26【夏】」に出展 - PR TIMES",
-    "seen_at": "2026-08-04T08:12:40.464195+00:00"
-  },
-  "9d0310be68ee9dee722cda25f1c2d8b190e12b4827ac961e8970b57a5c6efbdb": {
-    "title": "AIエージェントの負荷分散は「リクエスト数」だけでは不十分、Googleが注意点を解説 - GIGAZINE",
-    "seen_at": "2026-08-04T08:12:40.464197+00:00"
-  },
-  "e1d23a688486725741f716b07b642fe988555d50f099e8e2f0a5341fe5510a70": {
-    "title": "米国OS利用シェア、Windowsが首位から後退 Linux初の10％超 - AIエージェントが影響か - マイナビニュース",
-    "seen_at": "2026-08-04T08:12:40.464203+00:00"
-  },
-  "9120cde31369dc936a3a4bfb11b5fcf7f7cc24d616a9a30a1ad5b5af7b59aae2": {
-    "title": "ナレッジワーク、営業効率向上のための「セールスAIエージェントOS」を発表し資金調達を実施 - ニュースメディアVOIX",
-    "seen_at": "2026-08-04T08:12:40.464211+00:00"
-  },
-  "bcf53fc85d0a13b64effef3c9c5c5fcfdf243c86396f6d96210cd6c53c2532bb": {
-    "title": "Aurora Mobileが発表したAIエージェント「LoopAgent」が業務を自動化する革新性 - ニュースメディアVOIX",
-    "seen_at": "2026-08-04T08:12:40.464215+00:00"
-  },
-  "7e57ad9cf97e069de98e6bef5655806215b4b5743a90c0cebb128a85dfcf41a1": {
-    "title": "営業生産性を高めるセールスAIエージェントで成長する株式会社ナレッジワークへの追加出資 - ニュースメディアVOIX",
-    "seen_at": "2026-08-04T08:12:40.464218+00:00"
-  },
-  "3c7a84ba30972082b924800e00401fc777bde4a8c06082a77225bfc240839b84": {
-    "title": "株式会社Proteinumが提供するEC特化AIエージェント「ECPRO BRAIN」、Yahoo!ショッピング連携開始で3大モールの一元管理が実現 - ニュースメディアVOIX",
-    "seen_at": "2026-08-04T08:12:40.464222+00:00"
-  },
-  "59ceca5daae8414ed94072fb2fa1f14d6d1eff208393acaf754246acff73d1fd": {
-    "title": "Is LM Studio abandoning their core product?",
-    "seen_at": "2026-08-04T08:12:42.722262+00:00"
-  },
-  "3491cc57c2e108fc3f3fb7569d6f5127f7f20c87cd1d278425c82f09df16db7d": {
-    "title": "「デザイン業」の倒産が14年ぶり高水準、生成AI普及も影響か──東京商工リサーチ - ビジネス+IT",
-    "seen_at": "2026-08-04T11:13:06.792512+00:00"
-  },
   "211cb95849a9c821a22a35503e0faab7b52918a804300abe2d4e48d6ea59135a": {
     "title": "古河電、生成ＡＩ需要で光ファイバーケーブルの生産能力を増強 総投資額１０００億円 - 株探",
     "seen_at": "2026-08-04T11:13:06.792522+00:00"
@@ -11998,5 +11946,57 @@
   "80c0924176c2d33dd06569d91ab1e530af91f816caeac510c8cf598fa2898e84": {
     "title": "[Benchmark] DFlash2 vs MTP comparison. 5090RTX, Qwen 3.8 27B, Dynamic v3 GGUF, llama.cpp. Token generation, latency and available context.",
     "seen_at": "2026-08-21T12:19:54.495045+00:00"
+  },
+  "f2121870a325ff4945c089d37ff1e35131715dd1e6a98e34aa5f3a7d62ee8f78": {
+    "title": "生成ＡＩ活用した企業支援、条件満たせば「非弁行為」に当たらず…法務省が事業者向け指針公表 - 読売新聞",
+    "seen_at": "2026-08-21T15:20:29.883958+00:00"
+  },
+  "2156d1581b8dd9a064c1ee55fe9b94d062664127a429509f6de99156698b47a0": {
+    "title": "音楽生成AIを巡る攻防、アーティストの反発とレコード会社のジレンマ - 東京報道新聞",
+    "seen_at": "2026-08-21T15:20:29.883969+00:00"
+  },
+  "a14790b4db5a3a278e51709b6d428ecb40686e01b78ab66790dbd93e53d9bb74": {
+    "title": "AIに銘柄を選ばせてはいけない――生成AIを「推奨者」ではなく「調査員」として使う方法｜日本個別株デューデリジェンスセンター - note",
+    "seen_at": "2026-08-21T15:20:29.883975+00:00"
+  },
+  "b7bb879605521d8a3e67381ca1f63a9fc3ea6667ae421426e7beefdcc7de2506": {
+    "title": "【9月｜開催】《事例で解説》生成AIで営業データの組織活用はどう変わるのか？（9/11） - ニコニコニュース",
+    "seen_at": "2026-08-21T15:20:29.883980+00:00"
+  },
+  "da22d368d4e760bab1c201d31b122cff950b51536bb4afedcc25adaee42fe098": {
+    "title": "ChatGPTがMac上でiMessagesを直接読み書きできるようになった - Korben",
+    "seen_at": "2026-08-21T15:20:31.118055+00:00"
+  },
+  "6dfd73d9da7885941bc0be8584c106d623ae48318ae155f05cc124b31fc2f92c": {
+    "title": "ChatGPTがMac上のiMessageを制御 Appleのプライバシー戦略に新たな火種 - Yellow.com",
+    "seen_at": "2026-08-21T15:20:31.118062+00:00"
+  },
+  "f6ca87784733de0d3ae337a77fef0aac2fd164fbedad9a9338e7f309f24d4b7b": {
+    "title": "バイナンス、3億人超のユーザーにAIエージェント取引の新オプションを提供 - Yellow.com",
+    "seen_at": "2026-08-21T15:20:32.238863+00:00"
+  },
+  "298d2ddeec0a7cadf0910d26b85f56660f60bf379f2f09af9485835c9148fb9e": {
+    "title": "NVIDIA AVO got 100% on ARC-AGI-3. It completed all 183 levels across all 25 public environments, figuring out what to do with no instructions, explicit rules, or stated goals.",
+    "seen_at": "2026-08-21T15:20:34.980986+00:00"
+  },
+  "00636f41254f20d5a37e431f06d440562073bb3b0ccd7a0dc35d0c3c9a85ef12": {
+    "title": "Qwen 3.8 27b is strong even at Q3_xxs",
+    "seen_at": "2026-08-21T15:20:34.980991+00:00"
+  },
+  "231631720928ae890209bc8055d7976989fa4aed9b3f944588c1da5fdafea8e9": {
+    "title": "DeepSeek Harness v0.1.1 released",
+    "seen_at": "2026-08-21T15:20:34.980994+00:00"
+  },
+  "b058b5773ee9aac6460fa5b9a83478a12d00373f4b5aa49fceb27fda41d14444": {
+    "title": "Buying a V100/older NVIDIA GPU? Run this to check for older memory issues",
+    "seen_at": "2026-08-21T15:20:34.980997+00:00"
+  },
+  "09e0ad4049c7c38af7ed03adabcedf362a62e11aef1662d8a5b08b09e93a41d0": {
+    "title": "MagicQuant Qwen3.8 27B GGUFs with Unsloth v3 & Imatrix",
+    "seen_at": "2026-08-21T15:20:34.981002+00:00"
+  },
+  "dd3da87a0db22959749f3d51d03715d9f47efa7f82204c783176199d5da7f110": {
+    "title": "deepseek-v4-flash on single DGX",
+    "seen_at": "2026-08-21T15:20:34.981006+00:00"
   }
 }
