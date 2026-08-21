@@ -1,52 +1,4 @@
 {
-  "211cb95849a9c821a22a35503e0faab7b52918a804300abe2d4e48d6ea59135a": {
-    "title": "古河電、生成ＡＩ需要で光ファイバーケーブルの生産能力を増強 総投資額１０００億円 - 株探",
-    "seen_at": "2026-08-04T11:13:06.792522+00:00"
-  },
-  "0844bf019d9009f2afc0bae75fdf03aa5f618083135221bbb98098b694637ecc": {
-    "title": "エブリー上場、吉田社長「データ基盤で生成AIより最適なレシピを提案」 - 日本経済新聞",
-    "seen_at": "2026-08-04T11:13:06.792528+00:00"
-  },
-  "970add8f2da83ba77ffd15e04155545801e72cd40d6c21f924552391b68c55c9": {
-    "title": "ニュース 生成AIと数理最適化技術で、生産ラインの構成を自動立案する技術を開発 - 株式会社インプレス",
-    "seen_at": "2026-08-04T11:13:06.792533+00:00"
-  },
-  "fba0215115a884835a6497633c1a26411192c31e9d5d77f72a71356825369442": {
-    "title": "『ライザのアトリエ』原作のAIチャットRPG『RyzaChat:AI』事前登録開始！生成AIは使用せずアセットはトリダモノ氏監修で人力作成、音声もアプリ専用収録素材を活用 - インサイド",
-    "seen_at": "2026-08-04T11:13:06.792539+00:00"
-  },
-  "6f472e5d4251743b10fd82ad9881df5ca1a5891503c7bc689006784ac027e19a": {
-    "title": "生成AIと数理最適化技術で、生産ラインの構成を自動立案する技術を開発 - 産経ニュース",
-    "seen_at": "2026-08-04T11:13:06.792542+00:00"
-  },
-  "9c2c5d9ff8168f75360e3243ff97c10bc9229128ff67ddf559bd9d81e7a05e8e": {
-    "title": "【Claude Fable 5】AIコーディングベンチマークで首位に浮上、成功率64%でライバルを圧倒 - BigGo ファイナンス",
-    "seen_at": "2026-08-04T11:13:07.287112+00:00"
-  },
-  "4f21faad4d8210da631d4a7298d22d5026e5deb0b014e4d1ae155e9d227931a3": {
-    "title": "ChatGPTへの恋愛相談、日本は英語圏の3倍。オープンデータの調査 - Business Insider Japan",
-    "seen_at": "2026-08-04T11:13:07.739200+00:00"
-  },
-  "97e1f6be5bc8d81df239dd31cc33d003905e8490dd246e5524ccfc0cdf69ea5c": {
-    "title": "「アップルは間違えている」 OpenAIが開発者引き抜き訴訟に反論 - Impress Watch",
-    "seen_at": "2026-08-04T11:13:07.739205+00:00"
-  },
-  "2d4d6821682a50071fd150f23a9666823ea26b1e2116b2eca9fa67c4d25ebbc2": {
-    "title": "OpenAIの次世代モデル「Astra」が数学の未解決問題10件を解決（PC Watch） - Yahoo!ニュース",
-    "seen_at": "2026-08-04T11:13:07.739209+00:00"
-  },
-  "09976668233ecb1ecc08b8040304e41e0c704d61c20b6ac3f6aebdea7b1257cf": {
-    "title": "OpenAI、アップル訴訟に反論 弁護士の誤送信メールも公開（アスキー） - Yahoo!ニュース",
-    "seen_at": "2026-08-04T11:13:07.739212+00:00"
-  },
-  "9736c9a3e07a198d9c84c4f869e5c15a270f40cfecbb1960f42377b9a3dd63e5": {
-    "title": "ElasticとOpenAIの連携強化、非構造化データを活用したAIエージェントの新時代 - voix.jp",
-    "seen_at": "2026-08-04T11:13:07.739216+00:00"
-  },
-  "45b0a9dea3dad3c31c9e09e73883a6e9e95773e09b75e12fedb84339f62853e6": {
-    "title": "スライドなどをチャットから生成可能に - gihyo.jp",
-    "seen_at": "2026-08-04T11:13:08.262801+00:00"
-  },
   "c52926b3335f6e4f1c0b0683e9265c0142d11045583ebb81ff1ab993b4356367": {
     "title": "Claude Codeは「同僚」になれるか。書籍著者2人がFindyイベントで語ったこと - shiritomo",
     "seen_at": "2026-08-04T11:13:08.794646+00:00"
@@ -11998,5 +11950,53 @@
   "dd3da87a0db22959749f3d51d03715d9f47efa7f82204c783176199d5da7f110": {
     "title": "deepseek-v4-flash on single DGX",
     "seen_at": "2026-08-21T15:20:34.981006+00:00"
+  },
+  "0257352ec926c8f9090b217f4e3e2129686f7ee6c62e2f7f2b86491509db86d2": {
+    "title": "CMC OpenAIは、ASEAN法フォーラム2026において、同社の法務AIプラットフォームを発表した。 - Vietnam.vn",
+    "seen_at": "2026-08-21T18:18:07.069824+00:00"
+  },
+  "bbbb8f4545f9b3e5e2cfd244502a1efd4caf7a2e26ef479f078ca2819cff0f7c": {
+    "title": "新しい広告チャネル「ChatGPT広告」の運用支援体制を構築 - ニコニコニュース",
+    "seen_at": "2026-08-21T18:18:07.069833+00:00"
+  },
+  "06af4af55a68ad68271461455b8abbf43127ece3d064da00e666858c1f12924b": {
+    "title": "Gemini「Gem」廃止へ - jetstream.blog",
+    "seen_at": "2026-08-21T18:18:07.663308+00:00"
+  },
+  "a958a2bbf110fe2297c1828c7298a3591b76211377ea223054006cd86441f2b8": {
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた - au Webポータル",
+    "seen_at": "2026-08-21T18:18:08.349969+00:00"
+  },
+  "04f86fc4aecdec2ea1f1472a3ec08d9bdd680ce84ca7d652d9257ee0459fdcda": {
+    "title": "Wayfinder: 1セッションに収まらない巨大プロジェクトを計画するClaude Codeスキル - Pasquale Pillitteri",
+    "seen_at": "2026-08-21T18:18:08.349975+00:00"
+  },
+  "d408c34d94cf8789decabae942200ac0ff016ada7d7ed1242724087852d3523c": {
+    "title": "FireRedAudio & FireRedTTS3 by FireRedTeam - Huggingface",
+    "seen_at": "2026-08-21T18:18:10.557436+00:00"
+  },
+  "d9f923ca83a35fee25898088e79cda941756961b4f1bdcce02ec8eddd038d1b4": {
+    "title": "I benchmarked Ox Alpha on SWE-bench Verified Mini (50 tasks): 96% resolved. Now I’m skeptical of myself.",
+    "seen_at": "2026-08-21T18:18:10.557440+00:00"
+  },
+  "96de43003887d2835c70e9e16fd6b8a1fb2edcdcfbf453083113e81784a23e0d": {
+    "title": "Qwen 3.8 vs 3.6 27b low reasoning loops way less now",
+    "seen_at": "2026-08-21T18:18:10.557445+00:00"
+  },
+  "6144c062871a00106bab17a7cea434532735b5c614ecd26811c9228f7187e47d": {
+    "title": "Llama.cpp DSpark PC Tree Fork (up to 3%-29.5% faster!)",
+    "seen_at": "2026-08-21T18:18:10.557448+00:00"
+  },
+  "dfbf4ac2127b7c480402329f6cbe4e55faa45c41a624bf6ddbb3a73f28bab940": {
+    "title": "What’s the best local AI harness for coding + general use?",
+    "seen_at": "2026-08-21T18:18:10.557451+00:00"
+  },
+  "6aadff81c044db212e0a9eb13aea841830e92f412a4e10b3863469c459cf78ea": {
+    "title": "model: add dots3-note by ngxson · Pull Request #27060 · ggml-org/llama.cpp",
+    "seen_at": "2026-08-21T18:18:10.557454+00:00"
+  },
+  "20373b8052de0d5d1b00945e74ff0a2ee26295b1105e5bccf506c9ed9dbf83f4": {
+    "title": "Ultrafast Qwen3-TTS at 34 ms Time-to-First-Audio, Handling 10 Requests Per Second [OSS]",
+    "seen_at": "2026-08-21T18:18:10.557457+00:00"
   }
 }
