@@ -1,88 +1,4 @@
 {
-  "9bc96a6bcf2ca33259ae873d316f0698bb60a1c17b6d67079e17d94ff296b8c5": {
-    "title": "AIエージェント専用の求人媒体AVACAREER、シードラウンドで5000万円の資金調達を完了 - PR TIMES",
-    "seen_at": "2026-08-04T05:36:07.694978+00:00"
-  },
-  "877797981ed082fe91284475b1489fd36b0c3d539fc029a85392efafd4a217ee": {
-    "title": "AIエージェント「実行フェーズ」で選ばれる会社、静かに消える会社。導入支援関連の厳選20銘柄 - note",
-    "seen_at": "2026-08-04T05:36:07.694980+00:00"
-  },
-  "a4af0a9802b5be247ee21a44fba7361d2f3fa74ec58aee3e8f4f3badba094fa0": {
-    "title": "can someone create a website where people share specific hardware specs with specific llama cpp flags so we see what works?",
-    "seen_at": "2026-08-04T05:36:08.869966+00:00"
-  },
-  "4573b27725aa53c0214abb6ccbef692c6a184b97f843b0b45381e4aae41ed9d4": {
-    "title": "Special Architecture in AFM3 20B: Instruction Following Pruning",
-    "seen_at": "2026-08-04T05:36:08.869970+00:00"
-  },
-  "c6cd3f0f9f2b848d0f7eef758629ac9389d336b1c1fe4ea7c2a292ae33f07ffb": {
-    "title": "Has anyone been working on a solid setup for DSV4F on x2+ R9700s?",
-    "seen_at": "2026-08-04T05:36:08.869972+00:00"
-  },
-  "60d1d53b951d0e8130510748c1d4ae7b8e150866737a39af26d47035fdc63f68": {
-    "title": "生成AIと数理最適化技術で、生産ラインの構成を自動立案する技術を開発 - PR TIMES",
-    "seen_at": "2026-08-04T08:12:38.467091+00:00"
-  },
-  "168c3d3b9a9bd67767ac8ef7fe08fab94e39904e19cbfa57f7167d72d4a7ee54": {
-    "title": "古河電、生成ＡＩ需要で光ファイバーケーブルの生産能力を増強 総投資額１０００億円 - 株探",
-    "seen_at": "2026-08-04T08:12:38.467099+00:00"
-  },
-  "2c9d2a4e0a306d63ff750884426a0a8a91d40f9574556b8bd99db5155c4f1ee6": {
-    "title": "大塚商会、JAPAN AIと資本提携 中堅・中小の生成AI活用を支援 業種特化型テンプレートも開発 - 電波新聞デジタル",
-    "seen_at": "2026-08-04T08:12:38.467103+00:00"
-  },
-  "482f3ebb24be03f81d442e60dc9433360cb9d85ef9ddfbaab7650b5be9fa29fc": {
-    "title": "金融大手など510社、生成AIの共通指針改訂 想定外動作への対策示す - 日本経済新聞",
-    "seen_at": "2026-08-04T08:12:38.467108+00:00"
-  },
-  "f4e6263493b2d57372832de9731b3b1d958eb54c7ff3ec3d9b1c94e001213ea5": {
-    "title": "【生成AI×創業300余年】老舗船元企業が生成AIを社員教育に活用！デザイン未経験社員の作品を正式ユニフォームに採用 - 日本農業新聞",
-    "seen_at": "2026-08-04T08:12:38.467112+00:00"
-  },
-  "0aef307087a481d6b4bc777f416f61aceec6ebba0c900264462f3379e3a95a55": {
-    "title": "生成AI・AIエージェントプラットフォームを提供するAllganize、「第一回 AI・人工知能EXPO NEO」に出展。東京国際フォーラムにて8月5日～6日開催 - PR TIMES",
-    "seen_at": "2026-08-04T08:12:38.467115+00:00"
-  },
-  "b940794572924a90dbdfedc03bcfe576618cb624c12bd653a62aa4f452552383": {
-    "title": "RGS、生成AIの業務利用による情報漏えいの対策ソリューション「SecureGo」を発表 - クラウド Watch",
-    "seen_at": "2026-08-04T08:12:38.467119+00:00"
-  },
-  "eff11893371abb8324ac0127b60a19ccc165fed6184449e5eaaf637b05ee1a6b": {
-    "title": "GUGA、「生成AIパスポート試験」団体受験の申し込み方法をリニューアル - こどもとIT",
-    "seen_at": "2026-08-04T08:12:38.467122+00:00"
-  },
-  "fa8539b6bf1d1ab14b97caba453981b09377e925e31e6e1884f0e9101b41f6a0": {
-    "title": "Polimill、愛知県小牧市と生成AIを活用した行政運営の高度化に向け包括連携協定を締結 - PR TIMES",
-    "seen_at": "2026-08-04T08:12:38.467125+00:00"
-  },
-  "3fb57a8434051771812e9a688fbde6319a7d357d470d496cd20e30de9c461d4f": {
-    "title": "太陽ホールディングス、研究開発のナレッジDXに生成AI活用ナレッジマネジメントシステム「STiV（スティーブ）」を導入 - PR TIMES",
-    "seen_at": "2026-08-04T08:12:38.467131+00:00"
-  },
-  "d73f07aaba36f017e99bf158070aea692cf5b5ce7820b4604552e5cd5c267648": {
-    "title": "【生成AI時代の人材評価に関する実態調査】約8割が「書類だけで実力や信頼を見極めるのは難しくなった」と回答。企業・フリーランス双方が「実績・評価の可視化」を求める結果に - 時事ドットコム",
-    "seen_at": "2026-08-04T08:12:38.467141+00:00"
-  },
-  "c3708d7f09b1b88fa56c65a2e84d6876aafd877112892c00b4dd3fc236b0acf3": {
-    "title": "丸紅I-DIGIO、LLMによるデータ分析基盤「MAIDOA AI ASSIST」を9月1日より提供 - MarkeZine（マーケジン）",
-    "seen_at": "2026-08-04T08:12:38.467148+00:00"
-  },
-  "772137961caabb8ed6d13596edbf09d20f0c368d587d75ad4bcbe9bf62dab6a8": {
-    "title": "ビットゴーCEO、生成AI「クロード」に100ビットコイン奪取の挑戦状 - Iolite（アイオライト）",
-    "seen_at": "2026-08-04T08:12:38.467150+00:00"
-  },
-  "31c347868ff87d2f07f5a6a2c3744d59c39e7f4dc54fb74b14893ca46749c481": {
-    "title": "OpenAIの次世代モデル「Astra」が数学の未解決問題10件を解決 - PC Watch",
-    "seen_at": "2026-08-04T08:12:39.413811+00:00"
-  },
-  "f67c381c3b2cd3c32a4b72c20d77d8dc0f1edcdd113e1287ea8d041bfc6eb166": {
-    "title": "OpenAI、アップル訴訟に反論 弁護士の誤送信メールも公開 - ASCII.jp",
-    "seen_at": "2026-08-04T08:12:39.413818+00:00"
-  },
-  "6218dcc6235c00222d6b1e0528ebf937e3c269116ade03e7cefcacd33d101cf1": {
-    "title": "Oracle、Google Geminiを業務アプリへ統合｜マルチモデルAI戦略を強化 - innovaTopia",
-    "seen_at": "2026-08-04T08:12:39.970136+00:00"
-  },
   "d7fb2da4d136d59d35335b5dc927215fe8745e01e9e49a136a61d0accb19963f": {
     "title": "ホンダ、ID統制基盤「Saviynt」を導入--AIエージェント管理も視野に - ZDNET Japan",
     "seen_at": "2026-08-04T08:12:40.464170+00:00"
@@ -11998,5 +11914,89 @@
   "5c1892a01f1b2b42017ae5e3a6d85520304e083b20e76a6e4181a7962ebb5b1f": {
     "title": "Useful > Fast",
     "seen_at": "2026-08-21T09:23:48.019498+00:00"
+  },
+  "ab191312cbbbeae68a5b0efdd379a5d453b19270ccc5b61bf03e4c78f33b0593": {
+    "title": "世代を超えて 新しい学びの場に 生成AIを学ぶクラブ始動｜ニュース - UMKテレビ宮崎",
+    "seen_at": "2026-08-21T12:19:50.359641+00:00"
+  },
+  "54511f68477ac13cc1b0b4b3218e32caa97a2ae0f1e013d071d25d9fc3536377": {
+    "title": "生成ＡＩ活用した企業支援、条件満たせば「非弁行為」に当たらず…法務省が事業者向け指針公表（読売新聞オンライン） - Yahoo!ニュース",
+    "seen_at": "2026-08-21T12:19:50.359651+00:00"
+  },
+  "4d0fce2460aaf3ad565f325ddf0a588cbcc4dfad45e795cdae6ab9f271738e28": {
+    "title": "一次調査データで生成AIに引用されることを狙うBtoB企業向けGEO支援サービス 「リサーチコンテンツ for GEO」を提供開始 - PR TIMES",
+    "seen_at": "2026-08-21T12:19:50.359661+00:00"
+  },
+  "f83754b767250106aab1f39d4de2d0a26ed0d3844f170ee28d88d5e440113b3b": {
+    "title": "【生成AI】ChatGPT Workで学ぶ画像制作・業務活用・著作権の基本 無料セミナー「AIエージェント時代の画像生成実践講座」（全2回） - PR TIMES",
+    "seen_at": "2026-08-21T12:19:50.359667+00:00"
+  },
+  "1d2a1b10e5bf6a9dc467f1f4f77a1262e7e072ab8a6527493f4e8cf7b6bf1135": {
+    "title": "生成AIサービスで「非弁行為」の線引き明示 リーガルテック巡り法務省が新たな指針 - 産経ニュース",
+    "seen_at": "2026-08-21T12:19:50.359677+00:00"
+  },
+  "ce80626653481c4872f4f305bf5bce65636890fdd99bfab181c2629b7757405c": {
+    "title": "Music IP Holdings、生成AI音楽制作向け特許ライセンスを発表。UdioとGRAIが初採用|プレイリスト＆カルチャーメディア - DIGLE MAGAZINE",
+    "seen_at": "2026-08-21T12:19:50.359682+00:00"
+  },
+  "89f0c9c4dc406819d4e5076fd94b4ee6982057e7b31a69638e41947a419244b6": {
+    "title": "生成AIで不登校生徒の学びを支援できるか？ ベネッセが「伴走支援」を検証 - ｄメニューニュース",
+    "seen_at": "2026-08-21T12:19:50.359686+00:00"
+  },
+  "8ddfaf18166834a762ad61f5893115412ec3e5e095c52cb5f4f987491e230a93": {
+    "title": "Claudeの「透かし」導入、なぜ批判？ AI利用開示は当然の責務だ - CNET Japan",
+    "seen_at": "2026-08-21T12:19:50.876908+00:00"
+  },
+  "5941ab2229ee8232e87a4064915de16332a229c952d9e04dda051de7d14ff379": {
+    "title": "Claude Academyが公開、Claudeを学ぶ無料コース26本 ゼロからAPIまで - Pasquale Pillitteri",
+    "seen_at": "2026-08-21T12:19:50.876914+00:00"
+  },
+  "e1fbf4fb82ade71cef67e32d4093772e3d491e7fd8253efb90edb0f80f8f8af5": {
+    "title": "ChatGPTの新バージョンが18歳未満のユーザー向けにリリースされました。 - Vietnam.vn",
+    "seen_at": "2026-08-21T12:19:51.359228+00:00"
+  },
+  "ae7fe403c0e03413540aa2a369d7b77a9525ee249e6b0535a93a3ede28aa9513": {
+    "title": "ChatGPTがMacのiMessageを読み書き〜設定前に確認したい点 - iPhone Mania - iPhone Mania",
+    "seen_at": "2026-08-21T12:19:51.359235+00:00"
+  },
+  "b1b9d59da2b1d5206f4b6d0008bebd3644b71fee541bbe4d96ff4a50908393fe": {
+    "title": "ChatGPTやGeminiの回答から詐欺サイトへ、「AIを信じすぎる」リスクに注意 - Infoseek",
+    "seen_at": "2026-08-21T12:19:51.359239+00:00"
+  },
+  "9abc7a4977fcf51aeccabe030d3961e3af92a619b4481d848bdabf1a9305ae3a": {
+    "title": "経営者向けAI「LoreOS」、社内の仕事を任せられる「AIエージェント」機能を追加 - PR TIMES",
+    "seen_at": "2026-08-21T12:19:52.671895+00:00"
+  },
+  "b25921fccce30ff85e8ebeeb8c21d3b3a4075e5fc8f9c10110b524be0673f04c": {
+    "title": "NTTドコモビジネスとエクサウィザーズ、重要データを安全に活用できる「クローズドAIエージェント」開発 - AIsmiley",
+    "seen_at": "2026-08-21T12:19:52.671903+00:00"
+  },
+  "92e64b4c4545d504202f7f6653f395a241e865bc6ba0e822a9a2aa956a903252": {
+    "title": "DeepSeek-V4-Flash-Vision-Exp",
+    "seen_at": "2026-08-21T12:19:54.495023+00:00"
+  },
+  "464d2d00cb904878937c910ab1dcf07f22a9de3c5ceaed00c18f78c98d3ec735": {
+    "title": "Fastest NVFP4 quant of Qwen3.8 27B out there",
+    "seen_at": "2026-08-21T12:19:54.495028+00:00"
+  },
+  "1cd03a38472155ca13a735c937ea4caa6226d0301f2b4bae882cba484a479f4e": {
+    "title": "When 9 of top 12 models are just exactly one.",
+    "seen_at": "2026-08-21T12:19:54.495031+00:00"
+  },
+  "c806da9abb0234570cc1fd12db0ae19b803ecb7f1926dcf1037afd38603abdd5": {
+    "title": "Ornith-1.5-35B-A3B-NInfer - 250 tok/s, 5-8k prefill, 5090",
+    "seen_at": "2026-08-21T12:19:54.495034+00:00"
+  },
+  "6de3fd43c3054d56055168346c46012cec9cea8f49cecebbd973f22c49da9e58": {
+    "title": "I got fed up with locked-down autocomplete, so I forked Continue and stripped it down to just tab-completion. Any model, no subscription and no remote telemetry",
+    "seen_at": "2026-08-21T12:19:54.495039+00:00"
+  },
+  "34b98ca74ad1cc690d6d16122f4da522b5b20fd18c71165ebb702182ee1b98b5": {
+    "title": "Does PCIe matter much for inference?",
+    "seen_at": "2026-08-21T12:19:54.495042+00:00"
+  },
+  "80c0924176c2d33dd06569d91ab1e530af91f816caeac510c8cf598fa2898e84": {
+    "title": "[Benchmark] DFlash2 vs MTP comparison. 5090RTX, Qwen 3.8 27B, Dynamic v3 GGUF, llama.cpp. Token generation, latency and available context.",
+    "seen_at": "2026-08-21T12:19:54.495045+00:00"
   }
 }
