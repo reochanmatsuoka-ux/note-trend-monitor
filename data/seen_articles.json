@@ -1,32 +1,4 @@
 {
-  "925318699ddd37b835c0d06efe76b236f5c7f6bf6e3f6fad228ca6bb9f53ff05": {
-    "title": "ChatGPTへの恋愛相談、日本は英語圏の3倍。オープンデータの調査（BUSINESS INSIDER JAPAN） - Yahoo!ニュース",
-    "seen_at": "2026-08-05T01:17:01.624998+00:00"
-  },
-  "df6b93a74d91b127f89423f7f227309b5b518aee1412ab4a3d0a326ea771496b": {
-    "title": "正念場のソフトバンクG株、決算焦点はAI戦略進度－OpenAI傾斜に懸念 - Bloomberg.com",
-    "seen_at": "2026-08-05T01:17:01.625003+00:00"
-  },
-  "d1d394c918c34d11df618e4a8a1ba57e49140f924c7d92c55b0786067094ddf1": {
-    "title": "AI議事録「Rimo」はOpenAI、Anthropic時代にどう勝ち筋を描くか──元Google・相川氏が説く現代のプロダクト戦略 - CodeZine",
-    "seen_at": "2026-08-05T01:17:01.625006+00:00"
-  },
-  "ef1464c41e26169301419d1b1a5b31d65f8c0de2b8f29bfbb1d49ab7f17a6533": {
-    "title": "OpenAIのAIモデル、第三者のサイバー試験で境界を突破（Bloomberg） - Yahoo!ニュース",
-    "seen_at": "2026-08-05T01:17:01.625010+00:00"
-  },
-  "c68e72cc0c469060fdbfd29eb7f481777495d808ec35b35d5b4919e1efe08c96": {
-    "title": "OpenAI、Appleの提訴に全面反論――「営業秘密は持っていないし、欲しくもない」 - ITmedia",
-    "seen_at": "2026-08-05T01:17:01.625014+00:00"
-  },
-  "1a34e8887080dfa207f4b0f2c32929dfd105edb764ccb2591e9d5c1e265b4c18": {
-    "title": "正念場のソフトバンクG株、決算焦点はAI戦略進度－OpenAI傾斜に懸念(Bloomberg) - Yahoo!ファイナンス",
-    "seen_at": "2026-08-05T01:17:01.625019+00:00"
-  },
-  "5c1ae2a4ddf2959f434cf51dacf15042dcc6fd864d441d7c393e5c5e56637bae": {
-    "title": "ダリオ氏がAIバブル崩壊を警告：「株式の含み益は現金にあらず」、SpaceXやOpenAIのIPOラッシュは危険信号 - BigGo ファイナンス",
-    "seen_at": "2026-08-05T01:17:01.625025+00:00"
-  },
   "12f97a672fbce5fb5896b64cbea4da885045d87e4642558a51fd56da5260bd66": {
     "title": "「アジア系の姓を混同していた」——Appleの弁護士ミスをOpenAIが証拠付きで暴露 - shiritomo",
     "seen_at": "2026-08-05T01:17:01.625029+00:00"
@@ -11998,5 +11970,33 @@
   "85ae833dcd8cc4a2609bc08fd002d327fb504cf4bb829eb9029f016f7bab537c": {
     "title": "New/Old benchmark that provides a lot of answers for local LLM",
     "seen_at": "2026-08-22T15:08:57.801090+00:00"
+  },
+  "a4d298272f78c0223eae1ac47aca99e851244eacda8cdf4ce5139997ee963d57": {
+    "title": "OpenAIが最高評価、AI大手5社は制御不能なモデルの停止手順をほぼ公開せず - Межа. Новини України.",
+    "seen_at": "2026-08-22T18:10:42.119688+00:00"
+  },
+  "529c5b828ae38fc6ea8e31eb42be5ce73dc64aa62820a8c0e49879b10b1dda9c": {
+    "title": "How to remove trendy speech from llms?",
+    "seen_at": "2026-08-22T18:11:19.822625+00:00"
+  },
+  "de6e4dfbc2a4f870d2feb4c12d8896ebb32a2e77290d9276e02126de6ade6e8a": {
+    "title": "Fixed the MTP head on Ornith1.5 35B A3B. +3% TPS -33% wall clock",
+    "seen_at": "2026-08-22T18:11:19.822631+00:00"
+  },
+  "bba1981dee80da2add86b82a977ab4cfc10459f9f6354ee2f018e227e959e7f7": {
+    "title": "Your own GGUF",
+    "seen_at": "2026-08-22T18:11:19.822645+00:00"
+  },
+  "e653ab963eae058500f3395465a1de51bcf50a72298b25ea4bbfb4586c6579d4": {
+    "title": "Does anyone actually respect benchmarks?",
+    "seen_at": "2026-08-22T18:11:19.822648+00:00"
+  },
+  "cbf581813796b4741fb06974e0de824c310ea50befb5e524b74581eef7725ab3": {
+    "title": "Tesla P40 - use F16 KV instead of Q8",
+    "seen_at": "2026-08-22T18:11:19.822652+00:00"
+  },
+  "0594119257b56cf4a5e1027fe0c99a0e28e67c0f47d4816fc5d88f2cbd4bede7": {
+    "title": "Multi Gpu Hardware advice",
+    "seen_at": "2026-08-22T18:11:19.822655+00:00"
   }
 }
