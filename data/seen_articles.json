@@ -1,52 +1,4 @@
 {
-  "12e866e0a25e7f410854c2255a6d6ea1753d51a847aed38adb591674ef7830d6": {
-    "title": "Teradata、AWS MarketplaceでAIエージェント「Data Analyst Agent」の提供を開始し分析革新を実現 - voix.jp",
-    "seen_at": "2026-08-04T11:13:08.794665+00:00"
-  },
-  "07aa23e58996aacba523f6e99871a06adcdebe062541bf979b74a35f0a155c66": {
-    "title": "Time to finally migrate from LM Studio -> llama.cpp, your experience?",
-    "seen_at": "2026-08-04T11:13:17.549833+00:00"
-  },
-  "2d154b7e04787f046a6b534fdada57ab82ad4183402baa8d4ab93e129bb18eb1": {
-    "title": "Probably the best way to run DS4 flash on a mac right now (192gb+ vram)",
-    "seen_at": "2026-08-04T11:13:17.549837+00:00"
-  },
-  "f68b790861edde02c90ab9b0062bbc3def09c94c70ef0c5797a202cd89a503f2": {
-    "title": "Optimised DSv4-Flash for 2x GH200: 10,000 tok/s PP, >300 tok/s TG on SGLang",
-    "seen_at": "2026-08-04T11:13:17.549840+00:00"
-  },
-  "bdf7bba0b75b1dbddb11aadacbf2f32d0f6c795517d8d0c7401b4cb17e53ac2b": {
-    "title": "New DSv4 Flash Doom Loop in Q8? Llama.cpp Vulkan",
-    "seen_at": "2026-08-04T11:13:17.549843+00:00"
-  },
-  "ed2ff3e22f73f1bb840a6bfd3d4a0d957522848637259d74fb5315dbe4a3f373": {
-    "title": "DeepSeek v4 Flash 0731 4bit ~50tps prefill, ~1tps decode on M5 Air 32gb",
-    "seen_at": "2026-08-04T11:13:17.549846+00:00"
-  },
-  "afb2326263f2829a0818fbd671ab1cc241fa1ee613e4f5d90bafcbdc16b269b2": {
-    "title": "「アップルは間違えている」 OpenAIが開発者引き抜き訴訟に反論（Impress Watch） - Yahoo!ニュース",
-    "seen_at": "2026-08-04T13:31:01.049167+00:00"
-  },
-  "f534e5de8e65210cdb549f189b0c56744642fcada446f8f200ca7d47b8bca87e": {
-    "title": "「ChatGPTで漫画」からAIアニメへ！月収50万を目指すためのAIと人間の“勝てる棲み分け” - みんかぶ（マガジン）",
-    "seen_at": "2026-08-04T13:31:01.049173+00:00"
-  },
-  "ceebc7c7f59cb647291e2c85d19c7eba0a675e780760da46ff8c9d178573a732": {
-    "title": "OpenAIの高級インフルエンサートリップに批判殺到 - マイナビニュース",
-    "seen_at": "2026-08-04T13:31:01.049178+00:00"
-  },
-  "5e0e91879d133ff0bba9a9d2fc07337b98de9cb84e311f8faf27d8572ead3470": {
-    "title": "OpenAIがAppleの訴訟に公式反論。「Appleは間違っている」と直球 - gori.me",
-    "seen_at": "2026-08-04T13:31:01.049181+00:00"
-  },
-  "666dcd3cfa1b026a721677f86cf7c19c3b1151fde9c0a9d527987f5be23aa272": {
-    "title": "Hyundai Futurenet、韓国マイクロソフトと提携しリテールAIエージェントを共同開発 - BigGo ファイナンス",
-    "seen_at": "2026-08-04T13:31:02.048373+00:00"
-  },
-  "04284e8749e72464157e2b424cce45c16198e68fe56b60ac71957a07e0b46f9b": {
-    "title": "Llama.cpp PR 8% speed boost",
-    "seen_at": "2026-08-04T13:31:04.500816+00:00"
-  },
   "ea96d04953fc40ea19aabe0f4487b8e9c8716d3760f0a54b02c03b845f943593": {
     "title": "SK hynix, In Collaboration With SanDisk, Unveils The New High Bandwidth Flash (HBF) Standard, Helping To Resolve AI Inference Bottlenecks, Targeting Up To 3TB/s Bandwidth",
     "seen_at": "2026-08-04T13:31:04.500824+00:00"
@@ -11998,5 +11950,53 @@
   "1a1ea787e7f2b61381ec9f97d5182d7c8a1c9f84fc8f42ae711c2ba0676982d2": {
     "title": "What’s the best general chat “harness” in Aug 2016?",
     "seen_at": "2026-08-21T21:11:58.947701+00:00"
+  },
+  "9faebf0c1fe952c97eb0f7b4f5fe188d762e9713c8e1c82a6fd3f7d73fd61ed3": {
+    "title": "韓国・Z世代の7割が「生成AIに本音を相談」…家族・恋人抜き相談相手2位、76％が「AIの助言で実際に行動」（KOREA WAVE） - Yahoo!ニュース",
+    "seen_at": "2026-08-22T00:28:08.956578+00:00"
+  },
+  "c475f303d86150e3f54ab848e4ba0afdf36a231f6673fd710b14f447ab8d169f": {
+    "title": "韓国・Z世代の7割が「生成AIに本音を相談」…家族・恋人抜き相談相手2位、76％が「AIの助言で実際に行動」 - AFPBB News",
+    "seen_at": "2026-08-22T00:28:08.956586+00:00"
+  },
+  "13b311b95d99bdd152ccf26aba8a742f3f7c82324f5e1605f9cac42468d2b2e7": {
+    "title": "生成AIのシェアはどうなった？ 2026年 - london3.jp",
+    "seen_at": "2026-08-22T00:28:08.956591+00:00"
+  },
+  "07b70133f749885e662f0c583dfb0a6b25e091f31367dcba5adb858aa2ff1cd7": {
+    "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に（ITmedia NEWS） - Yahoo!ニュース",
+    "seen_at": "2026-08-22T00:28:09.498771+00:00"
+  },
+  "b3d8ad016e996567f7452573daf840759ee72864ec708db66cc2612cc0aa60f2": {
+    "title": "OpenAI、企業のAI支出で反撃 成長率がAnthropicを逆転 - 株式会社エクサウィザーズ",
+    "seen_at": "2026-08-22T00:28:10.075707+00:00"
+  },
+  "ca65f25871a1b05f52a620c79a68d13ed52c62feab96d5840e5cbc47e065a500": {
+    "title": "AI投資の費用対効果、どう測る？ OpenAIが示した4指標：AIニュースピックアップ - ITmedia",
+    "seen_at": "2026-08-22T00:28:10.075712+00:00"
+  },
+  "2c60d9485764af2b2eccf003cd1abc8c67a206b86d9d9400858d5e09d60a74a9": {
+    "title": "米企業のAI支出、OpenAIがAnthropicに急接近 - BigGo ファイナンス",
+    "seen_at": "2026-08-22T00:28:10.075716+00:00"
+  },
+  "c88eb1b3e0efec06dd7ec1dd3b7007fa546b343502405588db6fd3c3028ea9e3": {
+    "title": "ダン・シッパー：OpenAIの「暴走AI」事件は解決可能なエンジニアリング問題であり、終末シナリオではない - BigGo ファイナンス",
+    "seen_at": "2026-08-22T00:28:10.075720+00:00"
+  },
+  "36e95fb15844828ab1861925c35955adf925b8f532041d7132aeb9a658e41d1b": {
+    "title": "I tried to do agenic coding with Qwen 3.8 27B 3bit quant on a macbook air m2 24gb. It took 63 hours, but amazingly, the flight simulator worked.",
+    "seen_at": "2026-08-22T00:28:14.773333+00:00"
+  },
+  "4ca8aafd8597e15257aaf59b7d41451ca9a87f1b21fd2ec0e7f01e8e67d0cb02": {
+    "title": "Strix Halo (8060S / gfx1151), Qwen-3.8-27B @ Q8 and Q6 UD v3, up to 256K ctx, llama.cpp, DFlash2, vision, real workloads quality and steady performances, optimized recipes, ...",
+    "seen_at": "2026-08-22T00:28:14.773339+00:00"
+  },
+  "1f8fe8b78c823a9913088fef9ce46e355d6f1566025a1758e74afc936342e6ad": {
+    "title": "I feel like I finally graduated.",
+    "seen_at": "2026-08-22T00:28:14.773343+00:00"
+  },
+  "917a62e6add00f551fad09ad3fdf1c06749551690194394db83cfa1a814e2228": {
+    "title": "I'm really hoping we're in 2026's 2-month-gap between QwQ and Qwen3 right now",
+    "seen_at": "2026-08-22T00:28:14.773346+00:00"
   }
 }
