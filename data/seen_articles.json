@@ -1,52 +1,4 @@
 {
-  "ba75c718489a452c8d575fecd4a6deedde38e86b67312ae0435c4167f89f76e3": {
-    "title": "Cursor releases their Mixture-of-Kittens megakernel for training MoE models - Claims to nearly double TFLOP/s",
-    "seen_at": "2026-08-04T19:15:43.938643+00:00"
-  },
-  "4e6525197add7226c4905804f1daa91b2fedd604e29755ab2ab14cad50afd5f7": {
-    "title": "Deepseek V4 flash 0731 ranks #21 on Agent Arena",
-    "seen_at": "2026-08-04T19:15:43.938646+00:00"
-  },
-  "0480a7a34351b08cb91e13e66b1f67050c201b529aeb28fadcf14766657dfdf7": {
-    "title": "DeepSeek v4 Flash vs. Qwen3.6-27B, 3.5-122B, and Gemma 4 31B Benchmark",
-    "seen_at": "2026-08-04T19:15:43.938650+00:00"
-  },
-  "df33e0f41b030ce6acc5806f2d21d97a0f556cca94de059effef45bc7b0cdd1f": {
-    "title": "年収800万円以上の6割弱がAIで自己分析 - 日経BP",
-    "seen_at": "2026-08-04T22:02:39.213724+00:00"
-  },
-  "f3851e950661933e760bfa18057475fd91018c7ef6ffbd54916c07a2ea69346e": {
-    "title": "生成AI需要拡大を背景に、半導体関連の積極投資が進む 東北・2026年度設備投資計画 - 河北新報オンライン",
-    "seen_at": "2026-08-04T22:02:39.213732+00:00"
-  },
-  "a6d39daef66ec16ba2bb45e2faebf832fdb16e558000617bd401fbb8959c82ab": {
-    "title": "近大病院と中外製薬、治験参加者組み入れに電子カルテとAI技術を使う抽出方法の研究開始 - デジタルクロス",
-    "seen_at": "2026-08-04T22:02:39.213736+00:00"
-  },
-  "c75de7d18cb55bc0e57504c4f29753298b4b6b75c15ef2b27278690662672f9e": {
-    "title": "Copilot・ChatGPT・Gemini？ガートナー流「AIアシスタント」選定の“4つの基準”とは（ビジネス＋IT） - Yahoo!ニュース",
-    "seen_at": "2026-08-04T22:02:40.344011+00:00"
-  },
-  "6bf781f2e0f5206764faeac8b9aee82c54feb947123142c68bd5cc34f67aee25": {
-    "title": "OpenAI、Appleの提訴に全面反論「雑で攻撃的で、妙に個人的な訴訟」 メールやiMessageも公開 - CNET Japan",
-    "seen_at": "2026-08-04T22:02:40.344017+00:00"
-  },
-  "9f69ac577c51a5897c5fdc1347944f88f21052ea3664575fe61ebd7bc1fc2495": {
-    "title": "アップル、さらに多くの元従業員によるOpenAIへの企業秘密漏洩の可能性を主張 - テクノエッジ TechnoEdge",
-    "seen_at": "2026-08-04T22:02:40.344020+00:00"
-  },
-  "d34631feca2042e22508166813026bb4f2b67fe70b7da426606fe7b38efa7a5d": {
-    "title": "OpenAIのAIモデル、第三者のサイバー試験で境界を突破(Bloomberg) - Yahoo!ファイナンス",
-    "seen_at": "2026-08-04T22:02:40.344024+00:00"
-  },
-  "c8d81bedbcbfe494f30d82c5ecd745d2066077c1e6b54ad17e38c54287471e33": {
-    "title": "OpenAI、米国人労働者への差別疑惑で米司法省と和解、320万ドル支払いへ - BigGo ファイナンス",
-    "seen_at": "2026-08-04T22:02:40.344027+00:00"
-  },
-  "81b37434d57400847dbbc5ddebb2cbef95653a49eb68075cc3e52d02d0c6c288": {
-    "title": "OpenAIがビザ差別の申し立てで320万ドルの和解に合意 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "seen_at": "2026-08-04T22:02:40.344030+00:00"
-  },
   "dc78799fe57e6c225c654e0e150197d4ae2e37f6d28e61a1f57b79edad1bac0a": {
     "title": "トークン予算を超過せずにAIエージェントを使う方法 - japan.zdnet.com",
     "seen_at": "2026-08-04T22:02:41.558495+00:00"
@@ -11998,5 +11950,53 @@
   "bb69f61ed78f0ed033a26c519a000bb9808ca086d326966904b00fdef62a1551": {
     "title": "Sharp template to NInfer: -42% output tokens, same speed",
     "seen_at": "2026-08-22T06:17:37.539933+00:00"
+  },
+  "6d4c3d720b2cdb0cd426adef6dd5426d2e92e373ad76b6ff08b1636f2f12db6f": {
+    "title": "新興市場見通し：値動き重視で低位株買い、ジャクソンホール会議で生成AI株は見送り - ｄメニューニュース",
+    "seen_at": "2026-08-22T09:15:24.485155+00:00"
+  },
+  "bd4a7f7b5ed7592b564f7d4d770afb043847d4725117f70382012519947e8bba": {
+    "title": "OpenAIがMac用『メッセージ』連携プラグイン公開、アップルの「プライバシー」ブランドに揺さぶり - Forbes JAPAN",
+    "seen_at": "2026-08-22T09:15:25.634967+00:00"
+  },
+  "25c8c721ed64d8f4d4bdd4061555045da6d33002ed4a60ab9f3d310d07305891": {
+    "title": "ChatGPTがMacの「メッセージ」に対応、フルディスクアクセス付与で広がるデータ範囲 - 財経新聞",
+    "seen_at": "2026-08-22T09:15:25.634974+00:00"
+  },
+  "e7b2ff2bf329d7f0173bb55f667dcbcb432df9b7ee03548df1ebdc8495a38776": {
+    "title": "ChatGPTは、iMessageの閲覧、作成、送信を代行できるようになりました。 - Vietnam.vn",
+    "seen_at": "2026-08-22T09:15:25.634977+00:00"
+  },
+  "204231dd862a0b2c169324b3b7821757510962bd0ce7101ed2f32cfa4c784279": {
+    "title": "加藤綾菜、ChatGPTの指摘で甲状腺の病気発覚「1か月で10キロくらい痩せて」 - モデルプレス",
+    "seen_at": "2026-08-22T09:15:25.634981+00:00"
+  },
+  "edeb7ef26422896dd35a8e18c49454f3b8549a8a9dd281fe4f34fce897bef2fb": {
+    "title": "セールスフォース、AIエージェント基盤を拡張 主要クラウドへ対象拡大 - BigGo ファイナンス",
+    "seen_at": "2026-08-22T09:15:26.663073+00:00"
+  },
+  "1dd7490c227bd4d002373f4e9634b3bd64296003cdd5018db4c25fc1e93d2616": {
+    "title": "GoogleのAIエージェント「Antigravity」が別デバイスからのリモートコントロールに対応 - GIGAZINE",
+    "seen_at": "2026-08-22T09:15:26.663079+00:00"
+  },
+  "fb32a8f9bbf9c0b6b960221de375a3bff2fdb049e159cb2fc4086bb9f8d20cf8": {
+    "title": "Llama.cpp version 0.2.0 is out!",
+    "seen_at": "2026-08-22T09:15:36.480259+00:00"
+  },
+  "45e482a827900045647f409b518a2ab8e8d503e49016b5a7ea63990e7736b074": {
+    "title": "Freetokens project is impressive",
+    "seen_at": "2026-08-22T09:15:36.480265+00:00"
+  },
+  "511c0d777c17b286953ffd2470336850f1b515a631b00a7964bce9feabbf0dfc": {
+    "title": "AntLing released a dspark draft model for Ling-3.0-flash",
+    "seen_at": "2026-08-22T09:15:36.480270+00:00"
+  },
+  "67aea4d0c51b002657641b19b29d740991b1a37ac1b5cfab9c273d4c8bd55c25": {
+    "title": "Need support for llama.cpp with multi GPU",
+    "seen_at": "2026-08-22T09:15:36.480273+00:00"
+  },
+  "c39d26351859efc5cdeaae4d42f6bb53c07b09d7ebd4dcab02ff74c13d65190d": {
+    "title": "GLM-5.2 local inference: ubatch size made a much bigger difference than I expected",
+    "seen_at": "2026-08-22T09:15:36.480276+00:00"
   }
 }
