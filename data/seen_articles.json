@@ -1,28 +1,4 @@
 {
-  "8f1b0f7eb27b3c5ec2ff30207c619524f442071a983174202e6f818e5dbaf033": {
-    "title": "JAPAN AI、大塚商会と資本業務提携 中堅・中小企業の生成AI導入へ - projectdesign.jp",
-    "seen_at": "2026-08-05T01:17:00.577400+00:00"
-  },
-  "71f3ae62276761f04df79e8a97acdb2ebae7b060180906a701617668333d7a8c": {
-    "title": "「生成AI市場規模、シェア、動向、2033年までの世界予測」市場調査レポートの出版・販売開始のご案内 - ドリームニュース",
-    "seen_at": "2026-08-05T01:17:00.577404+00:00"
-  },
-  "64adeb5d25d63044ab9f48db630d2cc21ec4a32e6e9f18a81ba9f4d4968278ae": {
-    "title": "IAB調査、米パブリッシャーの51%がAI/LLMライセンス契約を締結 - media-innovation.jp",
-    "seen_at": "2026-08-05T01:17:00.577407+00:00"
-  },
-  "f225ebc09b29fea065d0d4623f50e0721c95770d2d15852b963c93f6eb9f8383": {
-    "title": "WEST.重岡大毅“航”、”完全犯罪の方法”を生成AIに尋ねる 『5秒で完全犯罪を生成する方法』人物相関図＆新場面写真解禁 - sankei.com",
-    "seen_at": "2026-08-05T01:17:00.577413+00:00"
-  },
-  "a8ba33156c9995e3cd09cd71d90e52a07a190a804140d6321859a4419b758f70": {
-    "title": "公式情報を自動更新、生成 AI が整理する観光庁系の補助金一覧「観光補助金ボード」を公開 - PR TIMES",
-    "seen_at": "2026-08-05T01:17:00.577417+00:00"
-  },
-  "99d1cf9c46d3e58ad09d475be09885ce6d2006633e2fecd847620e6942cc9047": {
-    "title": "Copilot・ChatGPT・Gemini？ガートナー流「AIアシスタント」選定の“4つの基準”とは - ビジネス+IT",
-    "seen_at": "2026-08-05T01:17:01.624992+00:00"
-  },
   "925318699ddd37b835c0d06efe76b236f5c7f6bf6e3f6fad228ca6bb9f53ff05": {
     "title": "ChatGPTへの恋愛相談、日本は英語圏の3倍。オープンデータの調査（BUSINESS INSIDER JAPAN） - Yahoo!ニュース",
     "seen_at": "2026-08-05T01:17:01.624998+00:00"
@@ -11998,5 +11974,29 @@
   "0d882b51674036007b6b0913aeaa622a33e1f0c593c85af95e9d77e49414cdaf": {
     "title": "Anyone else tried out KV cache blending?",
     "seen_at": "2026-08-22T12:13:28.393748+00:00"
+  },
+  "7cdd71bc2916406e1fea129ddaa56c379bde9986dc50e4f544c5b005a6c0a268": {
+    "title": "暗号通貨の次の10億ユーザーはAIエージェントであり、彼らはステーブルコインで支払っています - CoinDesk",
+    "seen_at": "2026-08-22T15:08:56.778457+00:00"
+  },
+  "de994d19ed959f99a926d05ea58f0d618df487db68599a72d74aa3103650606e": {
+    "title": "This is a great sub, regardless of what complaints people have about it.",
+    "seen_at": "2026-08-22T15:08:57.801071+00:00"
+  },
+  "a1f3aeb5761a2eef26ddfbdaa9b921222e9aafd85c221fe2cf4249778c4f13ec": {
+    "title": "Qwen 3.5 4B IQ2_XS: +16.67% Reasoning Performance From Tensor-Level Allocation",
+    "seen_at": "2026-08-22T15:08:57.801079+00:00"
+  },
+  "25330fa97046c9bac00136c47e9c39836d722695fc7f2e450e29b2ec66fc6be6": {
+    "title": "Helm chart for Qwen 3.8 for B70 users",
+    "seen_at": "2026-08-22T15:08:57.801083+00:00"
+  },
+  "d5444401b98853ec182928f0ed8152f6193e13d5880204ffc9abf4fd26f7f6ae": {
+    "title": "MCP vs. RAG for world knowledge?",
+    "seen_at": "2026-08-22T15:08:57.801086+00:00"
+  },
+  "85ae833dcd8cc4a2609bc08fd002d327fb504cf4bb829eb9029f016f7bab537c": {
+    "title": "New/Old benchmark that provides a lot of answers for local LLM",
+    "seen_at": "2026-08-22T15:08:57.801090+00:00"
   }
 }
