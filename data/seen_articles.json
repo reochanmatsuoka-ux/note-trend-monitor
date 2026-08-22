@@ -1,48 +1,4 @@
 {
-  "a3d32ea74ae4c886da51d5839ba2def0cca3b21c721fcb21bea02a21176bbdca": {
-    "title": "Gemma 4 on 500MB",
-    "seen_at": "2026-08-04T16:44:43.523333+00:00"
-  },
-  "be599cf9e86c46309f99cbb1304142fa4ecbe014685bc988351370795374f122": {
-    "title": "DeepSeek V4 Flash 0731 (Q4) now reaches 1,328 tok/s prefill and ~29 tok/s decode on one RTX PRO 6000",
-    "seen_at": "2026-08-04T16:44:43.523337+00:00"
-  },
-  "884e89e11add0b7c136b61a857a850b3b2ce21c78875dc0345e9630b5a40f323": {
-    "title": "I built a DwarfStar-inspired Vulkan/Metal inference engine for Qwen3.6-35B-A3B on 16 GB machines",
-    "seen_at": "2026-08-04T16:44:43.523340+00:00"
-  },
-  "58693bb1153024542a6eb334dc50b488be203a6b479219a497595b55a77a18b8": {
-    "title": "Decrease the power limit of your 5090 to at least 480W - the performance penalty for inference is negligible.",
-    "seen_at": "2026-08-04T16:44:43.523343+00:00"
-  },
-  "aefff09adb562eb76bd4b115bc1f980d5da1d300957242ab189cdad41540a7d0": {
-    "title": "あつぎ未来共創フェローによる生成AIの講演会を開催 - city.atsugi.kanagawa.jp",
-    "seen_at": "2026-08-04T19:15:06.304027+00:00"
-  },
-  "bf7db5a32a81115aab3c54d48cf388b7ba94c837a94bfeb05b61d21b0da79cc9": {
-    "title": "No more SLM open-source??",
-    "seen_at": "2026-08-04T19:15:43.938613+00:00"
-  },
-  "b18ce03996af175e48bb99a6b99198bd92e5ee0e757e000923f351d22afcb922": {
-    "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
-    "seen_at": "2026-08-04T19:15:43.938620+00:00"
-  },
-  "8fc022b1bcbc7237d8ee2bc267a4faa390a6f6ddf99d2993aac88d820f073c21": {
-    "title": "Has anyone tried Mach-1 Additive? 95% of performance of Qwen 3.6 35B while being 10x smaller",
-    "seen_at": "2026-08-04T19:15:43.938623+00:00"
-  },
-  "fef3ccc18ac062c3409c4424f6787c41d7bcd94402c26b3e3c2e31f934c0a72e": {
-    "title": "LFM2.5-2.6B is out",
-    "seen_at": "2026-08-04T19:15:43.938629+00:00"
-  },
-  "7ffdd0b8ae0b4af3885800dd3a701fa21409f3c2fa65539c2e5302eb273f2ab8": {
-    "title": "A llama.cpp PR caches “hot” MoE experts on the GPU — 33 → 56 tok/s reported with 8GB VRAM",
-    "seen_at": "2026-08-04T19:15:43.938632+00:00"
-  },
-  "7f59b9ae3df9e0cb735ee78d9ef65bc5fc7e8b228505dfab6921c1c708fd7d0e": {
-    "title": "Introducing Shieldstral. | Mistral AI",
-    "seen_at": "2026-08-04T19:15:43.938636+00:00"
-  },
   "ba75c718489a452c8d575fecd4a6deedde38e86b67312ae0435c4167f89f76e3": {
     "title": "Cursor releases their Mixture-of-Kittens megakernel for training MoE models - Claims to nearly double TFLOP/s",
     "seen_at": "2026-08-04T19:15:43.938643+00:00"
@@ -11998,5 +11954,49 @@
   "09a32e63ec820c4a32c2258dbc358ed01634f9c8cd26bc354aa15f5dec9305c2": {
     "title": "How to give a local LLM/agent access to a \"real\" web browser",
     "seen_at": "2026-08-22T03:31:32.491900+00:00"
+  },
+  "b8fc88b628922c51dd5827ffc6a1beeb08b0cf76eaf7b248588073dedef27da4": {
+    "title": "運送経営パートナー「ロジックス」、生成AIの活用により、点検・整備費のデータ入力工数を70%削減 - LOGI-BIZ online",
+    "seen_at": "2026-08-22T06:17:33.118002+00:00"
+  },
+  "8d4c1ea83b11d61a683522292f40f86f0f6c78f96665da68c8dd400f0a1e8bab": {
+    "title": "新興市場見通し：値動き重視で低位株買い、ジャクソンホール会議で生成AI株は見送り(フィスコ) - Yahoo!ファイナンス",
+    "seen_at": "2026-08-22T06:17:33.118012+00:00"
+  },
+  "80f7045154b018fce6542e2384456e08f7e19e8fda4b0d4edb3957c7650348a3": {
+    "title": "タイ政府が500万人に有料AIを無料提供――1年間の利用から生成AIがどの分野でどう役立つかを探る #エキスパートトピ - Yahoo!ニュース",
+    "seen_at": "2026-08-22T06:17:33.118016+00:00"
+  },
+  "d54216d7a8fc4310254647d8cb4c8ab79130dab71f0b0579ba4dfb6f25cf7700": {
+    "title": "OpenAIがMac用『メッセージ』連携プラグイン公開、アップルの「プライバシー」ブランドに揺さぶり - Yahoo!ニュース",
+    "seen_at": "2026-08-22T06:17:34.443391+00:00"
+  },
+  "762e15914c80d86cc11daed7d7fbd8a29c75f3b1f1f5d6a1044f830a612b1ce4": {
+    "title": "ChatGPTがMacの「メッセージ」に対応、フルディスクアクセス付与で広がるデータ範囲 - 財経新聞",
+    "seen_at": "2026-08-22T06:17:34.443399+00:00"
+  },
+  "c4209c789f7d75e826b2b3dd01fe493f8fe0113c353900a6b4113e2636f0c2e7": {
+    "title": "ChatGPTは、ユーザーに代わってiMessageメッセージを読み書きすることができます。 - Vietnam.vn",
+    "seen_at": "2026-08-22T06:17:34.443403+00:00"
+  },
+  "cc2e5b069f5fbb8891bb174cb21d7b7b87df0cea2233ae1a964bd00edaf8ec5c": {
+    "title": "Salesforce「Headless 360」を拡張、AIエージェントが各機能を動的に呼び出し - ビジネス+IT",
+    "seen_at": "2026-08-22T06:17:35.470771+00:00"
+  },
+  "b017af24b3ba6c60672aaeadcbf4ac30908013b279780e75dfd2e7ed50c68369": {
+    "title": "This is why I run locally.",
+    "seen_at": "2026-08-22T06:17:37.539919+00:00"
+  },
+  "e5e7fc22027c2728cf8425d32047e8af5caca9a6465e910d7c1d07407c2e4fed": {
+    "title": "Bro wtf, Qwen Lab cooked with Qwen 3.8 27B, it's so fucking good",
+    "seen_at": "2026-08-22T06:17:37.539926+00:00"
+  },
+  "f6639b55ee032c524eeb7f3add80ff2b11eff1dfee794b55b6a40b969b31c2a5": {
+    "title": "Anyone looking into the Nvida Thor IGX?",
+    "seen_at": "2026-08-22T06:17:37.539929+00:00"
+  },
+  "bb69f61ed78f0ed033a26c519a000bb9808ca086d326966904b00fdef62a1551": {
+    "title": "Sharp template to NInfer: -42% output tokens, same speed",
+    "seen_at": "2026-08-22T06:17:37.539933+00:00"
   }
 }
