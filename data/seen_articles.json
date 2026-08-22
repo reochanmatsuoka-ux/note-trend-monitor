@@ -1,44 +1,4 @@
 {
-  "12f97a672fbce5fb5896b64cbea4da885045d87e4642558a51fd56da5260bd66": {
-    "title": "「アジア系の姓を混同していた」——Appleの弁護士ミスをOpenAIが証拠付きで暴露 - shiritomo",
-    "seen_at": "2026-08-05T01:17:01.625029+00:00"
-  },
-  "0418e8b6cc17b7666a99b73b43c5a06eb1de040dda887688b86addfbced878fa": {
-    "title": "資料を渡すだけでクイズや表計算を自動生成！Gemini Notebook強化版がPro全員に展開完了 - PC Watch",
-    "seen_at": "2026-08-05T01:17:02.157279+00:00"
-  },
-  "4a2823a8b814d28968afd558a6f8d27da68a17cd061c1cb9f606fdd5ef203351": {
-    "title": "AICX協会、「AIエージェント・ストラテジスト資格 公式ケース演習講座」を法人向けに初開催｜9月28日（月）にオンライン開催 - PR TIMES",
-    "seen_at": "2026-08-05T01:17:02.713968+00:00"
-  },
-  "aecb80796f776cd05ff1be0005e290865f323b4832f09d4536d2755b20938cad": {
-    "title": "AIエージェントとは？ 基本から導入の利点まで徹底解説 - WIRED.jp",
-    "seen_at": "2026-08-05T01:17:02.713977+00:00"
-  },
-  "c2f4d47c5949c0bbfc8dd0916f8754ba800077da28403652c0b2e904a32e6794": {
-    "title": "AIエージェントに「身元」と「ウォレット」を提供 - Cloudflare",
-    "seen_at": "2026-08-05T01:17:02.713981+00:00"
-  },
-  "ef3bdcb2c13e886cc9ad73488931ceb090a4c41246532a5e0afaaa64dcc6f29b": {
-    "title": "迫る「AIがAIからモノを買う」時代 MUFGやLINEヤフー、博報堂が布石 - 日経クロステック",
-    "seen_at": "2026-08-05T01:17:02.713984+00:00"
-  },
-  "48391c2e4a61c0ac4e6cb8988aaeda09abe01908250b7b4bdd2f015ed1927631": {
-    "title": "米クラウドフレア、AIエージェント向け専用ウォレット機能を発表(CoinPost) - Yahoo!ファイナンス",
-    "seen_at": "2026-08-05T01:17:02.713988+00:00"
-  },
-  "8210f22125170dc489dac87c50ed4f41908b76fd4cd5b73c7fd16d7a4c396f69": {
-    "title": "製造現場向け「AIエージェント活用」の研究開発・実証を開始 - PR TIMES",
-    "seen_at": "2026-08-05T01:17:02.713992+00:00"
-  },
-  "fae2839e2756753a61145da3ab0c9bcc52e04163772126f504403fc377d0751f": {
-    "title": "株式会社FinT、広告代理店として自社運用する「AIエージェントOS」を企業に導入する新サービス「ジリツAI」を提供開始 - PR TIMES",
-    "seen_at": "2026-08-05T01:17:02.713995+00:00"
-  },
-  "e9e547c1df9588f81aaf4a30329339e8de5d058005e1ab124be31799e1ef4801": {
-    "title": "マークビジョン、ブランド侵害を分析するAIエージェント「Brand Intelligence Agent」知財・情報フェア2026にて公開 - PR TIMES",
-    "seen_at": "2026-08-05T01:17:02.713998+00:00"
-  },
   "68b8152f180645e992994f5c26a620a340030e522e05560c37f360263b6da761": {
     "title": "株式会社kozokaAI、ベル・データ株式会社と共同ウェビナーを開催 「受注入力はAIに任せる時代へ ～ただのOCRじゃない！ 手書きにも強く、あらゆる業種に対応する受注AIエージェント～」 - PR TIMES",
     "seen_at": "2026-08-05T01:17:02.714001+00:00"
@@ -11998,5 +11958,45 @@
   "0594119257b56cf4a5e1027fe0c99a0e28e67c0f47d4816fc5d88f2cbd4bede7": {
     "title": "Multi Gpu Hardware advice",
     "seen_at": "2026-08-22T18:11:19.822655+00:00"
+  },
+  "81cfb90be5dd0af8e7ab049f40298ed77b2f33c09d852941cd3306e6a833226f": {
+    "title": "中学生2万7000人を30カ月追跡：生成AIを深く使うほど閉じ込み試験の成績が悪化、認知的アンローディングが学習能力を奪う - BigGo ファイナンス",
+    "seen_at": "2026-08-22T21:09:58.993342+00:00"
+  },
+  "8e6abcd786cecf8e139ec9f4d6ba9426e519ef60fdde60554e6eff2673cd180d": {
+    "title": "New 100B Liquid AI model coming soon",
+    "seen_at": "2026-08-22T21:10:06.882441+00:00"
+  },
+  "347e97fdb801230821a52f21171f73ebc5ca4b5f6e9f3424ee98d9c280ba0607": {
+    "title": "GLM and I created a llama.cpp fork optimized for AMD GFX906 (Mi50, Mi60, Radeon VII, GCN HIP) - Machine Learning, LLMs, & AI",
+    "seen_at": "2026-08-22T21:10:06.882448+00:00"
+  },
+  "fb3bf928aa45ec5c610952cc32207c76e6fcfe0ca394a670303f5663fd52646d": {
+    "title": "Single RTX 5090: Qwen3.8-27B NVFP4 at a real 262K context in vLLM — 77 tok/s short-context, 64.7 tok/s at 128K",
+    "seen_at": "2026-08-22T21:10:06.882451+00:00"
+  },
+  "faa7fad96053757f0ac968028c58dfc6a1f1aad6286786a4237d98db66170cb8": {
+    "title": "I forked Ninfer 3090 and converted it to run on the CMP170HX - doubled my Qwen3.6-35B from llama.cpp",
+    "seen_at": "2026-08-22T21:10:06.882454+00:00"
+  },
+  "6c12be2e07a8fb16c5251ae4566ad8cc6b391e9732ae3c639c79aebfa40a7d3f": {
+    "title": "I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.",
+    "seen_at": "2026-08-22T21:10:06.882457+00:00"
+  },
+  "734ea0a1ca83d10cead8bb235f03bcc1c9d43886a3c363eeaffc3bb7aad927e2": {
+    "title": "Watching that wattage, in your terminal.",
+    "seen_at": "2026-08-22T21:10:06.882459+00:00"
+  },
+  "e979618ba0beb21ab71978f11ac9bd045a3bc782409279182eb96f089a29c058": {
+    "title": "Create tts voice from actual animal sound recording",
+    "seen_at": "2026-08-22T21:10:06.882461+00:00"
+  },
+  "bff164c15db426508c89b232954c388c8f39f0eee9ba2554690867cc09e31d00": {
+    "title": "Current best model for narrative, chat, prompt creation (so basically everything except agentic coding)? - 5090",
+    "seen_at": "2026-08-22T21:10:06.882465+00:00"
+  },
+  "99dce1da132815106540e0d1dd74e65a60d94abb3f2de25799a976d87fa0bde4": {
+    "title": "GLM 5.3 thinking is kinda hilarious",
+    "seen_at": "2026-08-22T21:10:06.882467+00:00"
   }
 }
