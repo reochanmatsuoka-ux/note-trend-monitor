@@ -1,64 +1,4 @@
 {
-  "ea96d04953fc40ea19aabe0f4487b8e9c8716d3760f0a54b02c03b845f943593": {
-    "title": "SK hynix, In Collaboration With SanDisk, Unveils The New High Bandwidth Flash (HBF) Standard, Helping To Resolve AI Inference Bottlenecks, Targeting Up To 3TB/s Bandwidth",
-    "seen_at": "2026-08-04T13:31:04.500824+00:00"
-  },
-  "8ee2146ec0235413013a4df9b3241e57da8193f3434b8189200810a04f662c1b": {
-    "title": "DeepSeek V4 Flash 0731GGUFs with updated template (supports reasoning levels)",
-    "seen_at": "2026-08-04T13:31:04.500828+00:00"
-  },
-  "5595cdb8ff398f0b5547644bcfd52b278de7629e213a7d93865c1d322a93306f": {
-    "title": "Why are Chinese models better* at Frontend than the western top labs?",
-    "seen_at": "2026-08-04T13:31:04.500830+00:00"
-  },
-  "68bdbd1d0fe5768679d28a5217a3b048e9655cf8ddd4c0ea4027bda8ee312bc3": {
-    "title": "SNS・生成AI時代に議員が学ぶべき情報リスク - go2senkyo.com",
-    "seen_at": "2026-08-04T16:44:39.864071+00:00"
-  },
-  "b2517040580743b362de9725dde7b466f94866806d0e4ba3de13153dc0fd48f9": {
-    "title": "AIで少女の画像を裸に加工したとして逮捕された男性（32）を釈放 警視庁 - KSBニュース",
-    "seen_at": "2026-08-04T16:44:39.864081+00:00"
-  },
-  "9c7545aa481f70e7e6eb8e0a98f44c349c0fb516fd96bffc7d8c83b05c42bf1d": {
-    "title": "最新Claude「Fable 5」でAI巧者との格差広がる インサイト発見の新作法 - 日経クロストレンド",
-    "seen_at": "2026-08-04T16:44:40.369010+00:00"
-  },
-  "214f8e64a6f2868340a3c852112da846e68d9275a13f11aa6d66b4b2eb190f3e": {
-    "title": "【Amazonセール】ChatGPT連携など多機能ワイヤレスマウス「Cheerdots2」がお買い得 - GAME Watch",
-    "seen_at": "2026-08-04T16:44:40.972354+00:00"
-  },
-  "2214a089e5153b28df212d700e7e37a4d78a5d809cfda61448eb9da333943001": {
-    "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応 - publickey1.jp",
-    "seen_at": "2026-08-04T16:44:40.972361+00:00"
-  },
-  "c22d514d2cd05d3e2102a10140950e12457f86c4fd52930c0f95d869c74e5f70": {
-    "title": "美容クリニックや人材業界特化のSEO/LLMO対策、ChatGPT広告などを学ぶ6日間～ipeの「WEB集客最大化ウェビナー」開催決定（2026年8月後半開催） - rbbtoday.com",
-    "seen_at": "2026-08-04T16:44:40.972365+00:00"
-  },
-  "82f6447f851685ec19f54357c060d10fd770ed19a3534e5a5f96960bffeb5020": {
-    "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
-    "seen_at": "2026-08-04T16:44:42.716580+00:00"
-  },
-  "daa957cfda629046ba8052508b642eea147269978273753f9cc405dc1b5be065": {
-    "title": "inclusionAI/Ling-3.0-flash · Hugging Face",
-    "seen_at": "2026-08-04T16:44:43.523314+00:00"
-  },
-  "7f2b70d07c5c9855f47b0e49521ab4a7d69960851641d3c0900eabc6f6c1f92c": {
-    "title": "inclusionAI/Ling-3.0-flash weights are up on Hugging Face — MIT, BF16 plus an official FP8",
-    "seen_at": "2026-08-04T16:44:43.523318+00:00"
-  },
-  "2e38813ce0717a437b69560086c28e3c65be983d0a6212b06a57e7196fb94362": {
-    "title": "[Deepseek-V4-Flash-0731] Full 1M context on a single RTX5090 + DDR5 Desktop Setup with VLLM CPU/Ram Offloading, ~800 tps pp & 15+ tps decode [Agentic Coding]",
-    "seen_at": "2026-08-04T16:44:43.523323+00:00"
-  },
-  "4d834a36fac0e0ac4303e826cbe7b6e6bae967ac2880fb18fb7a00dd2c6b443f": {
-    "title": "Deepseek V4 Flash 2-bit quant is the first model I can run locally that achieves 100% in this SQL benchmark",
-    "seen_at": "2026-08-04T16:44:43.523326+00:00"
-  },
-  "b4ea455dd3a0f5604a37acda730433f93619c705a7b873b07c6afbc1514652d3": {
-    "title": "Design systems from code alone - Without external images, Ling-3.0-flash generated webpages across Bauhaus, Bohemian, acid design, and more—using CSS gradients, SVG paths, typography, and layout to preserve each visual language.",
-    "seen_at": "2026-08-04T16:44:43.523330+00:00"
-  },
   "a3d32ea74ae4c886da51d5839ba2def0cca3b21c721fcb21bea02a21176bbdca": {
     "title": "Gemma 4 on 500MB",
     "seen_at": "2026-08-04T16:44:43.523333+00:00"
@@ -11998,5 +11938,65 @@
   "917a62e6add00f551fad09ad3fdf1c06749551690194394db83cfa1a814e2228": {
     "title": "I'm really hoping we're in 2026's 2-month-gap between QwQ and Qwen3 right now",
     "seen_at": "2026-08-22T00:28:14.773346+00:00"
+  },
+  "c864a7479f44b602a195d5642fbd252db4d8c2a291259dc655e6e095f513b976": {
+    "title": "生成AIの反論で3割超が判断覆す トロッコ問題で判明した危険性 - Forbes JAPAN",
+    "seen_at": "2026-08-22T03:31:09.051777+00:00"
+  },
+  "5ac03cf2c2c38473e32fed629f86cb02e63a6ec139df4893ec09f9b7aa7982b1": {
+    "title": "大学生の生成AI継続利用率が84.5%に急増 Gemini急伸、1年は雑談・4年は就活と活用広がる〜産能大調べ - 教育家庭新聞社",
+    "seen_at": "2026-08-22T03:31:09.051785+00:00"
+  },
+  "38adafc4c244f8117b139d812b9e34980e22bb7593f8fe1c9b84bfb07cf9e757": {
+    "title": "OKI、生成AI活用した次世代コンタクトセンターシステム - 電波タイムズ",
+    "seen_at": "2026-08-22T03:31:09.051790+00:00"
+  },
+  "bf72cf2ca4a53377c72fc4ad19d908483a0c209afc8b5c735f340a9e05c5bfa0": {
+    "title": "「小遣い浮かせたかった」 “生成AI”で「駐禁除外標章」を精巧に偽造！ 一見じゃ本物と見分けつかない!? 駐車料金ケチった男を書類送検 - ｄメニューニュース",
+    "seen_at": "2026-08-22T03:31:09.051796+00:00"
+  },
+  "c201c86ce98216febb20f34f0186e07b2b26c4aaad45903a433e1dd4c1bb0cb1": {
+    "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に - ITmedia",
+    "seen_at": "2026-08-22T03:31:09.696509+00:00"
+  },
+  "8fa7fdb8605d444a73d1211aea45772124911085062c1281c503d33020807e5e": {
+    "title": "Claude Opus 5がARC-AGI-3で満点、NVIDIAが示した「ハーネス」設計の重要性 - XenoSpectrum",
+    "seen_at": "2026-08-22T03:31:09.696516+00:00"
+  },
+  "d69c90ab7db0c0996d0442aa51d302b97e7b6eeed6300ceffaeff0246dd89431": {
+    "title": "ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念 - PC Watch",
+    "seen_at": "2026-08-22T03:31:10.219102+00:00"
+  },
+  "712433b7079efd7e4542ee199cd0b33789c4a888290b5390ebc4adce5d8aafd1": {
+    "title": "Hakuhodo DY ONE、AI広告運用でChatGPT広告への対応を開始 - 株式会社マイナビ",
+    "seen_at": "2026-08-22T03:31:10.219110+00:00"
+  },
+  "9ddba18a7448fa5dea009a81cefbc9c9f1e5ae7c01d45c3bfe72d825f21ea5f9": {
+    "title": "OpenAI、「GPT-5.6 Sol」の開発者向け価格を2割超引き下げ 競争に対応 - BigGo ファイナンス",
+    "seen_at": "2026-08-22T03:31:10.219114+00:00"
+  },
+  "c8da13b5f48a4d9d042370ec98ca485859c7ce92c56d0fa9dbf00aa88cdcf8a5": {
+    "title": "ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念 - 千葉テレビ放送",
+    "seen_at": "2026-08-22T03:31:10.219118+00:00"
+  },
+  "2b9a121f065cd37e3a083dd293d649b92ae110d2199320be110d6b6ed5b452a0": {
+    "title": "AIエージェントは「環境」で伸びる？ グーグルらが学習環境基盤EnvHarnessを公開 - ビジネス+IT",
+    "seen_at": "2026-08-22T03:31:11.435405+00:00"
+  },
+  "5aa5520522ed94b835ed1a4e6d2851517f508ab298ffb6dc1a86daa815442979": {
+    "title": "みのるん氏が語る！AIエージェント構築の最新動向とキャリア戦略【デブサミ2026福岡 注目セッション】|DeveloperZine - CodeZine",
+    "seen_at": "2026-08-22T03:31:11.435412+00:00"
+  },
+  "f96792a6c8dad1169114721492a00fb6dee9d27c5a46b270eed3fdf486862b2f": {
+    "title": "16 GB VRAM purgatory discussion thread",
+    "seen_at": "2026-08-22T03:31:32.491870+00:00"
+  },
+  "74a9c2d94e90a2b01907d796b4bf84a88a13bb2e09a7bb68c1fb8a5370c8300d": {
+    "title": "Qwen 3.8 27b - PI AGENT vs OPENCODE - another smaple",
+    "seen_at": "2026-08-22T03:31:32.491895+00:00"
+  },
+  "09a32e63ec820c4a32c2258dbc358ed01634f9c8cd26bc354aa15f5dec9305c2": {
+    "title": "How to give a local LLM/agent access to a \"real\" web browser",
+    "seen_at": "2026-08-22T03:31:32.491900+00:00"
   }
 }
