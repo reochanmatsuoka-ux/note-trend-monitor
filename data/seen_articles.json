@@ -1,48 +1,4 @@
 {
-  "68b8152f180645e992994f5c26a620a340030e522e05560c37f360263b6da761": {
-    "title": "株式会社kozokaAI、ベル・データ株式会社と共同ウェビナーを開催 「受注入力はAIに任せる時代へ ～ただのOCRじゃない！ 手書きにも強く、あらゆる業種に対応する受注AIエージェント～」 - PR TIMES",
-    "seen_at": "2026-08-05T01:17:02.714001+00:00"
-  },
-  "80c3aa61b830e23bc0ec00f79db0e347ce1c607575472542a36d65f135c336e1": {
-    "title": "Cloudflareが「AIエージェント専用の財布」を解禁 支出上限つきで自動決済が可能に - shiritomo",
-    "seen_at": "2026-08-05T01:17:02.714003+00:00"
-  },
-  "3171bf5d6443099ebf71c239d37e40444bfa201b7f088888c3d954418080a652": {
-    "title": "White House AI Guidelines Exempt U.S. Open Models From Government Review",
-    "seen_at": "2026-08-05T01:17:20.569949+00:00"
-  },
-  "e729c9af34f70e65a9d218b3bea00549e8983daeded6ab294db5d9a5d01a3748": {
-    "title": "Maple-Preview: 20B-A1B ternary-weight reasoning open-weight LLM",
-    "seen_at": "2026-08-05T01:17:20.569957+00:00"
-  },
-  "cc9e3ee06da3250e02e3f6540fc28081b7cec0fc2d6dd072bb960ce0d0e3fe59": {
-    "title": "DeepSeek-v4-Flash-Mini 54GB GGUF running at ~20.5 t/s",
-    "seen_at": "2026-08-05T01:17:20.569960+00:00"
-  },
-  "f11fabb038b84d3cb85e24a3ae86fee2e1e8fbc117391107f18983b565b94cea": {
-    "title": "DeepSeek-V4-Flash on SM89 4x48gb 4090s with DSpark",
-    "seen_at": "2026-08-05T01:17:20.569963+00:00"
-  },
-  "3502fe924c45fa40c6d6595844174680e7b32d483b6233696e8e948efc9e545f": {
-    "title": "生成AI活用時代、教師は何を評価するのか 成果物から学びのプロセスへ - 朝日新聞",
-    "seen_at": "2026-08-07T02:14:07.734245+00:00"
-  },
-  "1816f1ba2f9965868f64d5ed78f0b83a54d90b235778fc087263ee3525f6628d": {
-    "title": "Web担当者Forum、「生成AI×マーケティング」をテーマにした無料セミナーを8月27日にオンライン開催 - INTERNET Watch",
-    "seen_at": "2026-08-07T02:14:07.734255+00:00"
-  },
-  "7e4fdc346b10725a07ccc38de9313158d13b1efcba64d498e17c82c3270b7dc3": {
-    "title": "『キャプテン翼』×動画生成AI「PixVerse」 ライセンス管理システム「Kagami Gate（特許出願中）」 第一弾PoC検証結果公表に関するお知らせ - Digital PR Platform",
-    "seen_at": "2026-08-07T02:14:07.734260+00:00"
-  },
-  "b02556cd4fce65a6cc20d762a12474814047389a6b3b7466d841d43a3cb3c871": {
-    "title": "企業向けスライド生成AI「ChatSense」、Notebook上でのスライド生成のPPTX出力をリリース - PR TIMES",
-    "seen_at": "2026-08-07T02:14:07.734264+00:00"
-  },
-  "2d1d41d73b6e901236514644962b42f5554e7819a209137462e8651b0eff6d52": {
-    "title": "“応用情報が消える”って本当？ 「生成AIパスポート」って何？ IT資格の今を読む：＠IT人気記事まとめ読みeBook（6） - ITmedia",
-    "seen_at": "2026-08-07T02:14:07.734267+00:00"
-  },
   "a69e1dd686554406314208e8809e37dba1cf47e28026619d44ebe592889221fa": {
     "title": "【新刊】生成AI・AIエージェント時代の店舗DXを\"物語\"で学べる実践書がAmazonで販売開始！日本の小売の9割を支える実店舗の未来を描く - ドリームニュース",
     "seen_at": "2026-08-07T02:14:07.734270+00:00"
@@ -11998,5 +11954,49 @@
   "99dce1da132815106540e0d1dd74e65a60d94abb3f2de25799a976d87fa0bde4": {
     "title": "GLM 5.3 thinking is kinda hilarious",
     "seen_at": "2026-08-22T21:10:06.882467+00:00"
+  },
+  "99fe8afa71046f03da3d69b2ef4547a369d2fbf59de410fd65025215116934cd": {
+    "title": "OpenAIが最新モデルに対する強化学習を2週間中断／LLMCが約332億パラメーターの「LLM-jp-4 33B」を公開：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER - ITmedia",
+    "seen_at": "2026-08-23T00:30:40.989994+00:00"
+  },
+  "160e37612407bb0eebd46fae0bd9c59d59f26bf0f10feb19bcc1846e0645cec0": {
+    "title": "ソブリンAIにおけるNVIDIAの92％シェア分析と各国の独自LLM基盤整備に向けた選択肢：『ビジネス2.0』の視点 - オルタナティブ・ブログ",
+    "seen_at": "2026-08-23T00:30:40.990002+00:00"
+  },
+  "3609f78c78a5b90ba1b360bdd029813bfd1605283f8debc053e32c0574fb08a3": {
+    "title": "ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言 - GIGAZINE",
+    "seen_at": "2026-08-23T00:30:42.102866+00:00"
+  },
+  "d8b0ad93362ce3966e23f814f5c7cfb410ca7e5f8f4e7da148c528aecd3a1edb": {
+    "title": "肺塞栓症で倒れた牧師がChatGPTの医療助言を問題視しOpenAIを提訴 (2026年8月23日掲載) - ライブドアニュース",
+    "seen_at": "2026-08-23T00:30:42.102871+00:00"
+  },
+  "410e02e38c7a23dbd23aff9447f414c4b7ba403f973085f1f3eb12ba3a663b44": {
+    "title": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ 入力20％出力33％安く、11月21日まで（ITmedia NEWS） - Yahoo!ニュース",
+    "seen_at": "2026-08-23T00:30:42.102875+00:00"
+  },
+  "af29345eabe3b75d7694f20356f521180127089e3d800c3225ba7a2fb56b4ea2": {
+    "title": "OpenAIのQ3成長が加速、Anthropicとの差を測る四つの分母 - XenoSpectrum",
+    "seen_at": "2026-08-23T00:30:42.102880+00:00"
+  },
+  "014f270eac75d8a394de798c1a93907f2ada8271df5d0a017e385274ab9e1f16": {
+    "title": "Claude Codeが直したのは機能ではなく信頼性｜スマホ起動は3月から - innovaTopia",
+    "seen_at": "2026-08-23T00:30:43.067039+00:00"
+  },
+  "e8e9416c366269c59fe98c92d7ca70afdac56cd60dd478ac3642af7296445a46": {
+    "title": "3 experiments running dsv4-flash-0731 q4+ quants on 128GB RAM + ~60 GB VRAM (with a quite bad pcie infra) with an acceptable tgs and relatively acceptable pp speed",
+    "seen_at": "2026-08-23T00:30:45.593297+00:00"
+  },
+  "bffcff9f27d2180740f6dd240df415bf72d031a836b0dd3419f2899efbbd6ac4": {
+    "title": "Best harness for long autonomous tasks",
+    "seen_at": "2026-08-23T00:30:45.593302+00:00"
+  },
+  "5c9cef01ebc3846cc77cf7d896a887597731bd7125953224b40f4aa2040c183d": {
+    "title": "Best tiiiny model for session compression?",
+    "seen_at": "2026-08-23T00:30:45.593305+00:00"
+  },
+  "33c6a59461278c9aa32870b20a3644a5001c2bbd4419c26ef860a45aeab2a129": {
+    "title": "What if Chain-of-Thought wasn’t lossy? Exploring reversible logic (Toffoli/Fredkin-style) for edge LLMs",
+    "seen_at": "2026-08-23T00:30:45.593308+00:00"
   }
 }
