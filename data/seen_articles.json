@@ -1,36 +1,4 @@
 {
-  "bfaf6143fc1c155d8a59391f5b3c4bb694a4d77186a512e2dd991925f64c380e": {
-    "title": "Google、AIブラウザ「Disco」発表 「Gemini 3」がタブ上でユーザーのためのオリジナルWebアプリを自動生成 - ITmedia",
-    "seen_at": "2026-08-07T02:14:09.226748+00:00"
-  },
-  "7a0f8cef9810f775f2502b88e5983e3f8473f1cc7962b638bd21ec20162ce88c": {
-    "title": "リコージャパン、「大阪府行政AIエージェントコンソーシアム」に参画 | リコーグループ 企業・IR - Ricoh",
-    "seen_at": "2026-08-07T02:14:09.743746+00:00"
-  },
-  "b44c9ad1cc42b1ab6f8ecb2512541ae63f6cbc2259f1a79ad4bcfea0d0e6c2a5": {
-    "title": "ナレッジワーク、AIエンジニア油井 誠（@myui）が入社。「セールスAIエージェントOS」「営業領域の業界特化LLM」の開発とAI研究開発をリード - PR TIMES",
-    "seen_at": "2026-08-07T02:14:09.743752+00:00"
-  },
-  "b5dbc070d84a6d0082a96d879cb59038eb90540fce05199a6d2e66089802a169": {
-    "title": "NTTデータ経営研究所とアラヤ、人間の心理・行動を再現する「AIパネル」の共同研究を開始 - nttdata-strategy.com",
-    "seen_at": "2026-08-07T02:14:09.743756+00:00"
-  },
-  "bb239a3af2284e2106d11fe91a4e7b7c7e9fb89003e493f2590c04ba2bfebac8": {
-    "title": "AIエージェントが研究 文科省が“レシピ”整備 - 日刊工業新聞",
-    "seen_at": "2026-08-07T02:14:09.743758+00:00"
-  },
-  "cb46860c02ef4823c55fe52f4bece2a325811e5b023611e8e1ba46da48b9dccf": {
-    "title": "信頼は「測定されるもの」──Grafana Labsが検証したAIエージェント実用化までの6つの疑い (1/4)|DeveloperZine - CodeZine",
-    "seen_at": "2026-08-07T02:14:09.743762+00:00"
-  },
-  "8714af6c429469a8e087f59509e2875de725e98f0e8636e3d81cc7ce2c78f2ee": {
-    "title": "メタマスク、AIエージェント向けウォレット先行公開(CoinPost) - Yahoo!ファイナンス",
-    "seen_at": "2026-08-07T02:14:09.743766+00:00"
-  },
-  "940b83e91beed54dd9d4df66f7c7221f7456289eb59343181d847b61badd7edf": {
-    "title": "「Claude Code体験セミナー」東京で無料開催｜TeamSparta：時事ドットコム - jiji.com",
-    "seen_at": "2026-08-07T02:14:09.743768+00:00"
-  },
   "67822e96b993d67a5875671e4cd0b2b2ad06fd3777c71da876fe9e55e59b65ef": {
     "title": "米マイクロン：メモリのシステム価値比率が50%に迫る、AIエージェント需要は「プレシーズン」段階 - BigGo ファイナンス",
     "seen_at": "2026-08-07T02:14:09.743774+00:00"
@@ -11998,5 +11966,37 @@
   "eb0e5cff35d362bb3f31a8d810cc121e69846e0d91f67c9abad3820debe85a9e": {
     "title": "Thinking about replacing my 16GB 5060ti with an RX 7900 XT.",
     "seen_at": "2026-08-23T15:09:57.515697+00:00"
+  },
+  "9a7d84aad3381f28df6c9f023186fe2ca698e82dc6338b76e44024b7e36628c3": {
+    "title": "「生成AIはどこまで言葉を理解している？」「外国語の学習はまだ必要？」――「ゆる言語学ラジオ」✕認知言語学者の議論で見えた、AI時代の\"言語学\"の役割～サムソナイト・ブラックレーベル銀座店で開催～ - Yahoo!ニュース",
+    "seen_at": "2026-08-23T18:11:10.712526+00:00"
+  },
+  "5ddd2265c4ed2eda7022bb7b324498e149b91944f5f04166d06738e6b65b9b72": {
+    "title": "生成AIの書籍利用は合法か、海賊版データと市場競争が判断を左右 - Межа. Новини України.",
+    "seen_at": "2026-08-23T18:11:10.712534+00:00"
+  },
+  "c932fab6fd4b5114ebc1fbb55293ef3347006a348562bbc8adbae9e8e969db91": {
+    "title": "New qwen3.8:27b on a 39k line C to single-file HTML / three.js port",
+    "seen_at": "2026-08-23T18:12:40.931535+00:00"
+  },
+  "f243bded78db3f8487d36783b81e76b1f06fca16b556e298dfd2cf2a96310ae9": {
+    "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+    "seen_at": "2026-08-23T18:12:40.931547+00:00"
+  },
+  "5db3c09f0a2690e43dfb3d0e01d611d0643ea5ddcc030803f9806cd82bb3abe6": {
+    "title": "Has anyone tried agent-lightning?",
+    "seen_at": "2026-08-23T18:12:40.931550+00:00"
+  },
+  "a04e2c111b6a1c06d3e7ddec48da22e73023b8f6257f812ce5317d4a0500a3ee": {
+    "title": "Benchmark results: what is the best and fastest engine to run Qwen3.8-27B on macOS",
+    "seen_at": "2026-08-23T18:12:40.931554+00:00"
+  },
+  "9ac5f9866b3ea9336fa2bd7e71c5397e7f76464a12f171427f0c254dbfe6212e": {
+    "title": "Ling Tiny, King of Speed",
+    "seen_at": "2026-08-23T18:12:40.931557+00:00"
+  },
+  "4887b1045cede0a8ff553bc0105d5c7a56ba34c13e24434b1b7a230db428daf3": {
+    "title": "Crowd-funding new open-weight models?",
+    "seen_at": "2026-08-23T18:12:40.931561+00:00"
   }
 }
