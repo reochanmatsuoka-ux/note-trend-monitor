@@ -1,48 +1,4 @@
 {
-  "0a669d4164fba3aed587de69fe71ee7ede44d4c7a8d42d29c1a7a54b3747f35f": {
-    "title": "ワークマン、実は画像生成AIを導入していた 間に合わない商品撮影を代替 アプリ通知開封も1.5倍 - Infoseek",
-    "seen_at": "2026-08-07T02:14:07.734313+00:00"
-  },
-  "a0d7f339bf971380c58127a864f4735ebd26f211d0429d65555860780a3c8e59": {
-    "title": "Anthropic、独自のAIチップ設計チーム構築のための人材を募集中 - GameBusiness.jp",
-    "seen_at": "2026-08-07T02:14:08.224529+00:00"
-  },
-  "1c617eeecb3eed1e07e24cc90170da1784d698d5106e9e144e5618d3be9f709e": {
-    "title": "ココナラ、ChatGPTに続きClaudeとも連携。AIからプロに依頼が可能に - DXマガジン",
-    "seen_at": "2026-08-07T02:14:08.224535+00:00"
-  },
-  "bc5c01de208fc8923b37e388288674c84126b4b5e3d68aaa7efd72f08349fb80": {
-    "title": "無料版「ChatGPT」で無限の会話が可能に、新モデル「GPT‑5.6 Luna」も開放 - CNET Japan",
-    "seen_at": "2026-08-07T02:14:08.691272+00:00"
-  },
-  "9d1daa61d9ed33f87ff79558582003c2bd1a6655d8e40d172996c12893988d40": {
-    "title": "アドビが「ChatGPT」向けプラグインを提供する意味--専門性で差別化図る - ZDNET Japan",
-    "seen_at": "2026-08-07T02:14:08.691278+00:00"
-  },
-  "df84ac5bfd6d717de6834dc853f47ea5b677eab66f7f6d651a26fc7414d89888": {
-    "title": "ChatGPTの無料ユーザーもGPT-5.6 Lunaを使用可能に、使用量無制限 - au Webポータル",
-    "seen_at": "2026-08-07T02:14:08.691282+00:00"
-  },
-  "fb6546d5c48bb2da688f1e02cf40c0942eaf8c6010f8f44adbc4f31059f7da68": {
-    "title": "ChatGPT、FreeおよびGoプランのテキストチャット制限を撤廃。「GPT-5.6 Luna」を標準モデルに採用 - au Webポータル",
-    "seen_at": "2026-08-07T02:14:08.691284+00:00"
-  },
-  "b8506e638e0330b2b28eae0cd5be6618ff3d7ead3ba78e3cb145dfba45b859ef": {
-    "title": "アドビ、「ChatGPT」内で制作が完結するプラグインを発表--「リサイズして」で自動適用 - ZDNET Japan",
-    "seen_at": "2026-08-07T02:14:08.691287+00:00"
-  },
-  "0f8180207e35f314bacacdf31c504826cd2ebfb5ddc76a2afab89de2ff90677c": {
-    "title": "無料版「ChatGPT」にも「GPT-5.6 Luna」が開放、テキストチャットは無制限へ（窓の杜） - Yahoo!ニュース",
-    "seen_at": "2026-08-07T02:14:08.691291+00:00"
-  },
-  "373e2a86f8fd4de54e13b0e9ff4ff8585d46bc241c361a3da5b7b028f12da917": {
-    "title": "OpenAIの新端末はドーナツ型、300ドル超で2027年投入へ - Bloomberg.com",
-    "seen_at": "2026-08-07T02:14:08.691294+00:00"
-  },
-  "0b292e64c146ea2b9f6d7728483dc31dc639736ceed21d7e1725067c8d6e4f03": {
-    "title": "ChatGPT、FreeおよびGoプランのテキストチャット制限を撤廃。「GPT-5.6 Luna」を標準モデルに採用 - テクノエッジ TechnoEdge",
-    "seen_at": "2026-08-07T02:14:08.691297+00:00"
-  },
   "2f25c226d9424f3f41e76957fc90f2742e087091d2ba249f945310e40cfd82d0": {
     "title": "「ChatGPT」のデフォルトモデル、PlusとProは「Sol」に、無料版は「Luna」でテキストチャット無制限に - ITmedia",
     "seen_at": "2026-08-07T02:14:08.691300+00:00"
@@ -11998,5 +11954,49 @@
   "6d7077e9843790bedffbc049890d59af7de877ac8791b7d0021738e95d428cef": {
     "title": "Qwen 3.8 27B is a game changer.",
     "seen_at": "2026-08-23T06:18:55.691340+00:00"
+  },
+  "528a8f70fc1246b6bc9de88c8257e08ef21999eb4c83b78667820f4394b60f58": {
+    "title": "【3778さくらインターネット】生成AIとガバメントクラウドの真価！赤字からの急回復と次回決算で見極める勝負所｜さささ - note",
+    "seen_at": "2026-08-23T09:15:22.087779+00:00"
+  },
+  "0f128a7bc98aefe6ecf172f361459c4e597eb0e5fe61b899096777988f3cde02": {
+    "title": "ESP32-S3を7枚つないで4億パラメーターのLLMを自作、1語に9秒で動く - FabScene",
+    "seen_at": "2026-08-23T09:15:22.087785+00:00"
+  },
+  "c12e4aa642a5a2275b2b2bd6741ae9fa9bc9a0b63ed8a1347dee7c4cacf48786": {
+    "title": "Amazon BedrockがOpenAIモデル向けクロスリージョン推論を拡張 - CodeZine",
+    "seen_at": "2026-08-23T09:15:22.889908+00:00"
+  },
+  "2a0dd24fa0d1e79119bc39f261128dae6a060abc8f9426a628ffbcad2a98405b": {
+    "title": "Nvidia Poolside deal to compete with Chinese Open Weights",
+    "seen_at": "2026-08-23T09:15:40.026985+00:00"
+  },
+  "48359c5c47550b31d3f62590dd9448b8e6a7f904f7bb48531b29acc17af1ad5f": {
+    "title": "DeepSeek Harness is Insanely Good",
+    "seen_at": "2026-08-23T09:15:40.026989+00:00"
+  },
+  "4fb50ea0a322ed926f1fec7037e1841383b9983e9df571a4c454b3164df61a79": {
+    "title": "I hosted Kimi K3 (2.8T parameters) using 8 B300s. 92 tok/s, $190 per million tokens",
+    "seen_at": "2026-08-23T09:15:40.026992+00:00"
+  },
+  "41543a5cbd8f035951ed6ee166ef78f74470b390e0784bd7d205559ed496af62": {
+    "title": "i finally switched from windows to linux and got a 30-50% boost in speed.",
+    "seen_at": "2026-08-23T09:15:40.026994+00:00"
+  },
+  "d4c748b351e20f816e7f9c4ee3d414d12c6a0f3f176a91fe085e24d390c453ba": {
+    "title": "Best harness for Qwen 3.8 27b ?",
+    "seen_at": "2026-08-23T09:15:40.026997+00:00"
+  },
+  "333e2da43b34e96faad2058b3af08f6f69bd633a7942ff14462fe50d2b5bad11": {
+    "title": "Agent Quest now tells you when Claude Code or Codex needs you visually and with sound",
+    "seen_at": "2026-08-23T09:15:40.026999+00:00"
+  },
+  "c48e4c0554903644a9f91417b44300a1300224a3491f6ff6bc49f47a6dc2d85d": {
+    "title": "AMD Users: Have you tried the llamma.cpp AMD-Ecosystem branch? Up to 2x PP Speed",
+    "seen_at": "2026-08-23T09:15:40.027002+00:00"
+  },
+  "803131075a7cdc1ea5417d175fc0a383b5398a35764a2a57222a7f3f90b32f50": {
+    "title": "Unsloth Q1-Q2 Qwen3.8-27B with MTP since the unsloth ones don't ship with for the lowest quants",
+    "seen_at": "2026-08-23T09:15:40.027004+00:00"
   }
 }
