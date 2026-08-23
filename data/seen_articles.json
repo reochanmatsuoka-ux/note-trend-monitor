@@ -1,12 +1,4 @@
 {
-  "f9c3abf06903577545ec5511150dadc059fd6c318d8117b640b492f96422911f": {
-    "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を北海道新冠町で実施 - ICT教育ニュース",
-    "seen_at": "2026-08-07T02:14:07.734308+00:00"
-  },
-  "96b81cd83bf5a6c03c931f3a4ff55c2338603a72106c7c13c1ce4cfcdfcb8976": {
-    "title": "クレステックの生成AIチャットボット「ManuAI bot」、三菱自動車のWeb取扱説明書に導入・一般公開開始 - サンスポ",
-    "seen_at": "2026-08-07T02:14:07.734310+00:00"
-  },
   "0a669d4164fba3aed587de69fe71ee7ede44d4c7a8d42d29c1a7a54b3747f35f": {
     "title": "ワークマン、実は画像生成AIを導入していた 間に合わない商品撮影を代替 アプリ通知開封も1.5倍 - Infoseek",
     "seen_at": "2026-08-07T02:14:07.734313+00:00"
@@ -11998,5 +11990,13 @@
   "3dd361cfcf6ee6c6a7c19f904201a7b024c1fba87582b9586f9a0bdf4ba7ba08": {
     "title": "Would it be possible to distill DeepSeek V4 Flash 0731 onto Nemotron 3.5 Lightning?",
     "seen_at": "2026-08-23T03:39:21.822732+00:00"
+  },
+  "d68f8327782e65f3d8a701cb4918da935dc0cad54b4f3886430420c22d0f9346": {
+    "title": "ChatGPTなどが引用する「情報源」を大量投入か イスラエル政府関連サイト、1週間強で100本超を公開 - Ledge.ai",
+    "seen_at": "2026-08-23T06:18:53.867401+00:00"
+  },
+  "6d7077e9843790bedffbc049890d59af7de877ac8791b7d0021738e95d428cef": {
+    "title": "Qwen 3.8 27B is a game changer.",
+    "seen_at": "2026-08-23T06:18:55.691340+00:00"
   }
 }
