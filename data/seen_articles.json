@@ -1,36 +1,4 @@
 {
-  "5eb87e20ea95ccba07bdd4bbfcfa22c956d20bdd662dd215f52b15d9dc00b72d": {
-    "title": "生成ＡＩ、被災地照らす - ヨコハマ経済新聞",
-    "seen_at": "2026-08-08T04:01:16.079890+00:00"
-  },
-  "6e7b6d1c41354681a6adcac2278e2bb24afada0431e1abbabcdc955b0f66252a": {
-    "title": "「VIVANT」で生成AIが使われたのはこのシーンだ!〜TBSドラマ初の本格利用〜【調査情報デジタル】 - Yahoo!ニュース",
-    "seen_at": "2026-08-08T04:01:16.079893+00:00"
-  },
-  "4fe818f32538f8a209063c3f5cc3d2451d8a672d351c6f25a572643ac390f0c9": {
-    "title": "生成ＡＩ、被災地照らす - 高松経済新聞",
-    "seen_at": "2026-08-08T04:01:16.079897+00:00"
-  },
-  "c75d2d0bb13c7e4f4080ed2c1f3fca714466dc302977b79837e6cb00b4e88a7e": {
-    "title": "生成ＡＩ、被災地照らす - 水戸経済新聞",
-    "seen_at": "2026-08-08T04:01:16.079900+00:00"
-  },
-  "66f121214106c14d353a364b3a964f7b30753ac1ee457e1b079ae65077f46155": {
-    "title": "生成ＡＩ、被災地照らす - 佐賀経済新聞",
-    "seen_at": "2026-08-08T04:01:16.079904+00:00"
-  },
-  "db50882e0d8d9017ce10ce08c7ecc3146e69fd4033157fcafbfb559f805c3aa1": {
-    "title": "生成ＡＩ、被災地照らす - 豊田経済新聞",
-    "seen_at": "2026-08-08T04:01:16.079906+00:00"
-  },
-  "a4120cc52fb1263d7f0665ca2b1b07a970d0f5bdc266e041f11aa6fb3fad43d1": {
-    "title": "生成ＡＩ、被災地照らす - 高田馬場経済新聞",
-    "seen_at": "2026-08-08T04:01:16.079910+00:00"
-  },
-  "6f2656d89f3555da574150257b24618e54632b6274c3219788497bdb9809c5b2": {
-    "title": "生成ＡＩ、被災地照らす - 伊豆下田経済新聞",
-    "seen_at": "2026-08-08T04:01:16.079913+00:00"
-  },
   "9f98c689ba5d809520299320db579a454c362ae8c1bf0c1b661d6dd9db6e2187": {
     "title": "生成ＡＩ、被災地照らす - 日向経済新聞",
     "seen_at": "2026-08-08T04:01:16.079917+00:00"
@@ -11998,5 +11966,37 @@
   "9248a0b03e557ca69fef9d2579994fafffdba89999b86171201659d1d07b66cd": {
     "title": "[Benchmark] llama.cpp batch/ubatch impacts on PP and TG",
     "seen_at": "2026-08-24T15:26:26.171279+00:00"
+  },
+  "e42c139fb7c879343d8e9555823a1656bae2a87335d78aa4e385dfc4861bcc5b": {
+    "title": "Best Local Vision Language Models - August 2026",
+    "seen_at": "2026-08-24T18:20:18.439228+00:00"
+  },
+  "43cbfabedab191fe1cc910ba108f61722bd067715ab09910fc56064d1f4a57db": {
+    "title": "Apple M5 Server",
+    "seen_at": "2026-08-24T18:20:18.439235+00:00"
+  },
+  "b2f7915e934b10210a6589ed9fcf458fc09d506f14d571c61cde67e5a7d426f6": {
+    "title": "Qwen 3.8 27B in 9th position on code arena. Gemma 4 31B is 80th.",
+    "seen_at": "2026-08-24T18:20:18.439239+00:00"
+  },
+  "8202ef28ac29760607b54e5c3659205b4ef04a730b2b9ba758540664a8408456": {
+    "title": "This is what Qwen 3.8 27b is capable of",
+    "seen_at": "2026-08-24T18:20:18.439247+00:00"
+  },
+  "238489a3793195f4c62795f84ff1799dd892b042dffdb2be68f02fc511bb51cc": {
+    "title": "Bart: A vintage llm",
+    "seen_at": "2026-08-24T18:20:18.439251+00:00"
+  },
+  "14a4e7629bf5ec331d611ff69ad038df76438f08eaed84a48046fcd6e4acad49": {
+    "title": "Do not blindly delete your older models, some are still precious",
+    "seen_at": "2026-08-24T18:20:18.439255+00:00"
+  },
+  "307d9d2a8cb6e0a2641f5200c57fd61b94f0001aa5720a93046ff051cf1ee714": {
+    "title": "One LLM wrote a trading feature. Another reviewed it. Both missed a future-data bug",
+    "seen_at": "2026-08-24T18:20:18.439258+00:00"
+  },
+  "1ecf239bc533c15de8873a5af3b2030d66b8486ede195f5154ae738f3927e632": {
+    "title": "How would you test Qwen3.8-27B inside a coding agent?",
+    "seen_at": "2026-08-24T18:20:18.439263+00:00"
   }
 }
