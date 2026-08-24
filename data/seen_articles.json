@@ -1,72 +1,4 @@
 {
-  "7c041ae1314ea5740df6938fc719129256c40a0bcc91cf6ba83e2de0ac587cec": {
-    "title": "生成ＡＩ、被災地照らす - TOKAIネットワーククラブ（TNC）",
-    "seen_at": "2026-08-08T00:39:41.317155+00:00"
-  },
-  "c9e943d7c97ba72d01ef65173c7bc51e9a43b3e716bfb844100cbf200cb05b4d": {
-    "title": "「VIVANT」で生成AIが使われたのはこのシーンだ！～TBSドラマ初の本格利用～【調査情報デジタル】 - au Webポータル",
-    "seen_at": "2026-08-08T00:39:41.317160+00:00"
-  },
-  "59252a33f63cff04122e0cf6630deeddd3f8db62280d4504f2d8f6311a78bd84": {
-    "title": "生成AI悪用の児童性暴力を厳罰化＝ブラジル、世界に先駆け新法成立＝ディープフェイクを重罪化 - brasilnippou.com",
-    "seen_at": "2026-08-08T00:39:41.317163+00:00"
-  },
-  "79433c2055619e5510ef85bed6096bf08e3ab77645a4220d68d79d8eadaa59fb": {
-    "title": "Anthropic、「Fable 5」の生物学の制限を緩和 誤検知によるフォールバックを約85％削減 - ITmedia",
-    "seen_at": "2026-08-08T00:39:41.927556+00:00"
-  },
-  "4ea2f439f743dd1eae488a8bdfcf101e6e8c8ec70ae827a080bd76a9aee9d133": {
-    "title": "Claude Codeの独立セッションが相互通信、並列開発をつなぐ新機能の仕組みと制約 - XenoSpectrum",
-    "seen_at": "2026-08-08T00:39:41.927562+00:00"
-  },
-  "fe33c4fae15ff706a33ee1e07f550209a05cde8cc5cc252820ec0de564a3b4ea": {
-    "title": "AIがサイバー攻撃――OpenAIやClaudeで相次ぐ事態、波及リスクは：1週間を凝縮！ 今週の製造業ニュース - monoist.itmedia.co.jp",
-    "seen_at": "2026-08-08T00:39:42.406334+00:00"
-  },
-  "9c18e629432605a3d8f01bfa9baca8313a0ef3097007407f1b725f87bcae5b19": {
-    "title": "OpenAI、次期モデル「Astra」の一部開発を停止 「Critical」級サイバー能力の可能性否定できず - ITmedia",
-    "seen_at": "2026-08-08T00:39:42.406340+00:00"
-  },
-  "1283b93de8d2ef6390cd68fff9319f5313929c96ff688d76a94d61a9ab1dd793": {
-    "title": "Kimi K3、サンドボックス脱走で見えた「AIの門限」問題——OpenAI・Anthropic・Metaに続く4件目 - shiritomo",
-    "seen_at": "2026-08-08T00:39:42.406346+00:00"
-  },
-  "55cd7db7c59771c34bf6c3ec8e6b970b872940a4a9af04ed7b84db55d40b1b17": {
-    "title": "「トグルひとつでAIエージェント対応」 CloudflareがWebMCPとCloudflare OSを発表 - shiritomo",
-    "seen_at": "2026-08-08T00:39:43.468596+00:00"
-  },
-  "1427796db7c757a4c458685fc086dea8b8da88c74f9c14a42b121cd14141413b": {
-    "title": "本物と偽物を混ぜた演奏も。エリック・サティ様式の自動生成アプリ「無限サティ機関」をClaude Codeで作って公開した（CloseBox） - テクノエッジ TechnoEdge",
-    "seen_at": "2026-08-08T00:39:43.468602+00:00"
-  },
-  "0497b950d7dc25f532263366684fe7799da2b1e2a2137b03cca0593dc7e1cc1c": {
-    "title": "Qwen 3.6 27B flags/settings in llama.cpp",
-    "seen_at": "2026-08-08T00:39:44.866509+00:00"
-  },
-  "1af00b9ba239d73f294eeb68b142cb5a49c339196985811787ababea23f16398": {
-    "title": "Serving Deepseek v4 Flash 0731 on 2x DGX Spark — 5-7 GB OS headroom, what would you do to lower VRAM usage and increase OS available RAM?",
-    "seen_at": "2026-08-08T00:39:44.866514+00:00"
-  },
-  "44ae29dd1a1d7a563636fec7e1e1ff5b064568a73ab32cba347c69ed947ce9fb": {
-    "title": "Which model would be best for Delphi development?",
-    "seen_at": "2026-08-08T00:39:44.866517+00:00"
-  },
-  "bd6aa4604ede0b043e71f6fe9b8af0abfb6398cbd8db2e2276995eb3e7f8f131": {
-    "title": "Why no good external multi gpu solutions?",
-    "seen_at": "2026-08-08T00:39:44.866522+00:00"
-  },
-  "feca0bbec37710f38027f0de5a92c5c3e42127627618c80ce73b7fbfba9c6a33": {
-    "title": "生成ＡＩ、被災地照らす - 盛岡経済新聞",
-    "seen_at": "2026-08-08T04:01:16.079875+00:00"
-  },
-  "9d8ca004e9aa73eeaf8b2a1521342d1f940c80e2cf42a1d0385a09d34505f797": {
-    "title": "画像・写真：生成ＡＩ、被災地照らす ：時事ドットコム - 時事ドットコム",
-    "seen_at": "2026-08-08T04:01:16.079882+00:00"
-  },
-  "d4068a425d4cf7a1615efaea0f27bc0baf11c1d805441e5e914ac16782d23b6c": {
-    "title": "＜生成AI活用実態調査＞プロンプト設計力が生徒の学びを深める一方、学力格差や業務負担増も浮き彫りに〜アルサーガパートナーズ調べ｜KKS Web:教育家庭新聞ニュース｜教育家庭新聞社 - 教育家庭新聞社",
-    "seen_at": "2026-08-08T04:01:16.079886+00:00"
-  },
   "5eb87e20ea95ccba07bdd4bbfcfa22c956d20bdd662dd215f52b15d9dc00b72d": {
     "title": "生成ＡＩ、被災地照らす - ヨコハマ経済新聞",
     "seen_at": "2026-08-08T04:01:16.079890+00:00"
@@ -11998,5 +11930,73 @@
   "fe250742ed1b6268aac8810d938d64ff7bfa06dc0598ef471179d7947b3954e7": {
     "title": "Who would buy HuggingFace",
     "seen_at": "2026-08-24T12:20:20.131427+00:00"
+  },
+  "823df022e0649a1a1f4b79dd6a7f6e6871fa0d707a996b1f792632ecede1653a": {
+    "title": "#6 鬼塚vs生成AI⁉秀才生徒と担任変更をかけたクラス投票勃発 - TVer",
+    "seen_at": "2026-08-24T15:26:23.182020+00:00"
+  },
+  "202d87fae9b0eaad88cf6a6c683c296984598b42f9d1710959828428bb94eb1a": {
+    "title": "【資産3億円を築いた“投資の極意”】IPOは最大70社の証券口座で応募／オープンAIなど米国の注目IPOに申し込むには？／生成AIは「周年銘柄」分析などに活用／株主優待を効率的にゲットする裏技 - 東洋経済オンライン",
+    "seen_at": "2026-08-24T15:26:23.182028+00:00"
+  },
+  "dd41cd149e9c6c4dab0b159f35be0cba51b1ff2b23c44319a1f824c36180b999": {
+    "title": "上海：新たに1件の生成AIサービスの届出が完了 - PANews",
+    "seen_at": "2026-08-24T15:26:23.182032+00:00"
+  },
+  "15e7840ccabedd29e3ede498864aa5b72511432c8565dc9c5e8e4357b28161ed": {
+    "title": "AI週間観察：Codexの成長率がClaude Codeを逆転、DeepSeekはビジョンモデルを静かに公開 - BigGo ファイナンス",
+    "seen_at": "2026-08-24T15:26:23.677820+00:00"
+  },
+  "beb5b3542026531bf46c126587952516c1877a15d8eedbfb05b6f0b963a5b078": {
+    "title": "OpenAI、1四半期で123億ドルの赤字、一方Anthropicは黒字化 - Moomoo",
+    "seen_at": "2026-08-24T15:26:24.133165+00:00"
+  },
+  "e5cb0b32b0e6a8fdbd81660893e2ca1b8d820e38d9594f58c35665c58056dd60": {
+    "title": "ChatGPT na MaciMessageメッセージを読んだり送信したりできます - Jablíčkář.cz",
+    "seen_at": "2026-08-24T15:26:24.133173+00:00"
+  },
+  "51b1dedf0a488fce12d90dad2d76400e1525c390b9990cbc561f9ca5c03ce9d2": {
+    "title": "AIエージェント「Gemini Spark」を日本のProユーザー向けに順次提供開始 - EnterpriseZine",
+    "seen_at": "2026-08-24T15:26:24.674096+00:00"
+  },
+  "d7f2c80973d3844697ab00f7c3215b9db92e1df6a3166a8aeeb41bb4dc9e3120": {
+    "title": "AIエージェント向け「法人カード」登場 対応企業を探し、自動で購買 - 日経クロストレンド",
+    "seen_at": "2026-08-24T15:26:25.214567+00:00"
+  },
+  "7697f2cdce8d8dffe499859e1d2cb12a9922051f4b9c553d151b9b0d608de1f5": {
+    "title": "I irradiated LLMs and found that they die really quickly",
+    "seen_at": "2026-08-24T15:26:26.171252+00:00"
+  },
+  "ecb79eacc2420a9b14ea212fc2b967b67d64497418f0dba9781b1b3d56f302b8": {
+    "title": "[Paper] ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning",
+    "seen_at": "2026-08-24T15:26:26.171257+00:00"
+  },
+  "3b911aa8d19a4782212a6550fe5d2dc46567d18c2a8eb1e522d3e8cce03788e1": {
+    "title": "TielCoder's 22 GB 4-bit quant matches Opus4.6 medium on recent real life coding issues, surpassing KAT-Coder and Nail as strongest and fastest MoE picks.",
+    "seen_at": "2026-08-24T15:26:26.171260+00:00"
+  },
+  "e9ea9aa8fa41e368bc188bd68e4166702059e16161a9415b1069b3128eab745f": {
+    "title": "llama.cpp docs now have a new home ❤️",
+    "seen_at": "2026-08-24T15:26:26.171263+00:00"
+  },
+  "3b97724663452874f7eefc8bbd926ed51d2b85b4a1fc8a60924e6a91eb831754": {
+    "title": "iPhone Local TTS EPUB Reading - Audiobookify",
+    "seen_at": "2026-08-24T15:26:26.171265+00:00"
+  },
+  "be4897b27eca80b9974c33fb77e4da9864454ccf119499ca1f2a299ec7a54c5a": {
+    "title": "Real local agentic coding on a 12GB VRAM budget.",
+    "seen_at": "2026-08-24T15:26:26.171270+00:00"
+  },
+  "8321e360c0f56c304be792f5c276645e14883ef4f6f2f7b36c20df2f9bd55595": {
+    "title": "What's the best local model you've found for 8 GB of VRAM?",
+    "seen_at": "2026-08-24T15:26:26.171273+00:00"
+  },
+  "5f349f0f5c6e51cb321bcf029a1c18dd90beca6af7fc7f5b894e7dc02848c553": {
+    "title": "[Benchmark] Optimal DFlash2 quants for speed and context size, 5090 RTX, llama.cpp, Qwen 3.8 27B Dynamic3 Unsloth. Comparison with MTP",
+    "seen_at": "2026-08-24T15:26:26.171276+00:00"
+  },
+  "9248a0b03e557ca69fef9d2579994fafffdba89999b86171201659d1d07b66cd": {
+    "title": "[Benchmark] llama.cpp batch/ubatch impacts on PP and TG",
+    "seen_at": "2026-08-24T15:26:26.171279+00:00"
   }
 }
