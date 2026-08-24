@@ -1,72 +1,4 @@
 {
-  "97f8aaaa3467d036eb02c7a3148043010dcd33220acda819870dcb9a62b1a236": {
-    "title": "障害者の就労支援、生成AIで新展開。ePARAとサイコムが動画制作講座を実施 - Koubo",
-    "seen_at": "2026-08-07T18:35:30.586676+00:00"
-  },
-  "6544c6ae6d53e6141eec85da16b7fc2ce8713f8d0552b78ffcbc23062ccd0f5b": {
-    "title": "AIエージェント導入を支援する「Lumina」の公式サイトをリニューアル - 時事ドットコム",
-    "seen_at": "2026-08-07T18:35:32.813786+00:00"
-  },
-  "34b1dc90a254f1aca331ffbcc2e181b85ee83238d8511ab2e4535cabb809212e": {
-    "title": "トランプ氏、議会はAI業界を「廃業に追い込む」規制を狙うと批判、不正AIエージェントのハッキングで緊急停止スイッチ法案に拍車 - finance.biggo.jp",
-    "seen_at": "2026-08-07T18:35:32.813795+00:00"
-  },
-  "b52329e22e572d2f992cbc767d120d396c8df3b8cbce97a3513a8709a2eb0e87": {
-    "title": "llama.cpp PR reports up to 169% faster quantized-KV decode at 118K context on Intel Battlemage from one SYCL kernel switch",
-    "seen_at": "2026-08-07T18:35:33.935845+00:00"
-  },
-  "7905be88130228f2a5113f2b2bba43c8b3af0b0979e54430899b43ea608c9c27": {
-    "title": "Got job as Director of AI and Systems development self-taught",
-    "seen_at": "2026-08-07T18:35:33.935850+00:00"
-  },
-  "e7d86963a8d6e4b5511b134b9bc74807a7a70e7c888745f887a3b7dc704ad1cc": {
-    "title": "parakeet.wgsl – Fast, accurate ASR in the browser, via raw WebGPU & SIMD WASM",
-    "seen_at": "2026-08-07T18:35:33.935854+00:00"
-  },
-  "4dd00c213d47fcf6c07f4645681241163176fb55c88e624857df7f5c7a8a49c9": {
-    "title": "Am I just hallucinating",
-    "seen_at": "2026-08-07T18:35:33.935857+00:00"
-  },
-  "d75993d7026eba88c3cc183b77c8bb0db81613b3bda25930e0617099bbc05605": {
-    "title": "A visualization of LLM API costs to ask for local resources",
-    "seen_at": "2026-08-07T18:35:33.935860+00:00"
-  },
-  "e856470e0aeee1819254530d60b9228c47f93259fa709104c038d60a982ca87f": {
-    "title": "海外展開のための生成AI活用ツール集 プロンプト作成支援機能をリリース - nikkinonline.com",
-    "seen_at": "2026-08-07T21:25:43.776264+00:00"
-  },
-  "59b52867a9ab0581c19e2aab635fec7fc981fb6170b2b9f65ae82904b07910be": {
-    "title": "無償で最新の生成AIモデルを検証「WonderAgent」AI導入支援キャンペーンを開始 - rbbtoday.com",
-    "seen_at": "2026-08-07T21:25:43.776276+00:00"
-  },
-  "4f4ec3ef232c2176a6344ae7e92218f7364d3ddd0d516ef1038503570e580b20": {
-    "title": "OpenAI、次世代AI「アストラ」の開発停止 サイバー攻撃能力を懸念 - 日本経済新聞",
-    "seen_at": "2026-08-07T21:25:45.005498+00:00"
-  },
-  "0eb01873fbd71da5c33ae6fb751385b6c478d67b0771211e6eebf09aa75c13a1": {
-    "title": "AIエージェント同士が秘密の掲示板を作成し脆弱性を共有、OpenAIの最先端モデルが引き起こしたもう一つの“事件” 【生成AI事件簿】消しても2日で復活、AIエージェントの秘密掲示板が示した自律協調型攻撃という現実 - JBpress",
-    "seen_at": "2026-08-07T21:25:45.005504+00:00"
-  },
-  "4dd0d62e82226aeed0bf07d9df0a86b0f6b284cd0898e8938889f327e9d7596b": {
-    "title": "OpenAIの新モデル「Astra」、未解決の数学難問10題を2000ドル未満で解明 - BigGo ファイナンス",
-    "seen_at": "2026-08-07T21:25:45.005509+00:00"
-  },
-  "0e9523ac2f42cbe368ea782b86c8d536082b0cd600cdd49c80997c8e76ffe379": {
-    "title": "OpenAIが次世代モデルの開発を止めた日。「Critical」閾値が初めて現実になった - XenoSpectrum",
-    "seen_at": "2026-08-07T21:25:45.005514+00:00"
-  },
-  "838cec8d689db67b679876388ec9f6bd57213b1689d5adf20ce3dbf64599e1a0": {
-    "title": "DeepSeek V4 Flash 0731 - ARC-AGI Results",
-    "seen_at": "2026-08-07T21:26:03.719961+00:00"
-  },
-  "b3f4610078818ab04e526583660f19ee6bd319874aa7abdac732cc3ae01701d7": {
-    "title": "How to even compare quants from various sources?",
-    "seen_at": "2026-08-07T21:26:03.719967+00:00"
-  },
-  "b87832f7225c84a87181ed0d09ec9d7dcc17ab54c9687d145cdbc97961c75027": {
-    "title": "スタンフォード大などの研究チーム、ゲノム生成AI「Evo」で16種の新種ウイルスを創出 - ビジネス+IT",
-    "seen_at": "2026-08-08T00:39:41.317146+00:00"
-  },
   "7c041ae1314ea5740df6938fc719129256c40a0bcc91cf6ba83e2de0ac587cec": {
     "title": "生成ＡＩ、被災地照らす - TOKAIネットワーククラブ（TNC）",
     "seen_at": "2026-08-08T00:39:41.317155+00:00"
@@ -11998,5 +11930,73 @@
   "a3124a00c25c8d2fccd1b13a4ddf30e4c37cc426fc410ed47d40a93fa4d3c1bc": {
     "title": "What are all the things qwen 3.8 27B is NOT good for?",
     "seen_at": "2026-08-24T09:33:32.146620+00:00"
+  },
+  "5fbd1699f094eea0b3b57532b8f4851ae61894956108c464b1d1402c1e47cf64": {
+    "title": "生成AIが「新ウイルス」を設計 米スタンフォード大、増殖を確認 対策訴えも - Science Portal",
+    "seen_at": "2026-08-24T12:20:16.558694+00:00"
+  },
+  "0482351e05bbf82e97aea75bdf58db7bdeb243177f80ab9dfdb110f946e80007": {
+    "title": "アリババ、音楽生成AI市場に参入 - 音楽業界総合情報サイト",
+    "seen_at": "2026-08-24T12:20:16.558710+00:00"
+  },
+  "ff7dad4b97e3b7af9c93ec22cf0ac22e1e2f4171058577633efda4adb3e9a6da": {
+    "title": "生成AIでアパレルの仕事を楽しく学ぶ ワールド恒例の「こども参観日」 - WWDJAPAN",
+    "seen_at": "2026-08-24T12:20:16.558746+00:00"
+  },
+  "7fd20989c5bca9a5bd9a64be0dbad2d84de379d6e47864b92d45754206c0264e": {
+    "title": "Gemini Enterpriseで実現する AIエージェント ガバナンス戦略 実装講座 - ビジネス+IT",
+    "seen_at": "2026-08-24T12:20:16.558752+00:00"
+  },
+  "0f766e40d18b2f12b6669229658b3eb9b7eb2b7173c3e0a32473862fc4780ab0": {
+    "title": "生成AIエージェントの「最後は人が確認」をどう設計する？人間レビュー・停止基準の実務ガイドを無料公開 - PR TIMES",
+    "seen_at": "2026-08-24T12:20:16.558755+00:00"
+  },
+  "62234490b6adce50c416700062e1ed087b7d61722f433f197c6c458b7a40a71a": {
+    "title": "生成AIを活用し“100本の大量発信”に挑戦。新十津川町が生成AIを活用した移住PRと職員研修を実施 - PR TIMES",
+    "seen_at": "2026-08-24T12:20:16.558762+00:00"
+  },
+  "3e0c6aa97f90365234c625b3fb2b87734738509be33e381d1f9905ffabf71996": {
+    "title": "ChatGPTでアップルの「メッセージ」代筆が可能に でも本当に使いたいと思いますか？ - 千葉テレビ放送株式会社",
+    "seen_at": "2026-08-24T12:20:17.615101+00:00"
+  },
+  "6867692157e345bccf04d6ef4f61288cef3f054f741c9bbe67f3ffd7d323bf29": {
+    "title": "ChatGPT引用数の減少を受け、CitizensがRedditの株価評価を維持 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-08-24T12:20:17.615106+00:00"
+  },
+  "3400040cab1b775d9f738c9095d8f8c0906c75a0d4ccd07257f4fe958db6dbe0": {
+    "title": "OpenAIとGoogleは、中国からの圧力によりAI利用料を引き下げた。 - Vietnam.vn",
+    "seen_at": "2026-08-24T12:20:17.615109+00:00"
+  },
+  "bae4630b44976bec8098a2b030bd3fc350ea50639fe0137debbefd1c548fca73": {
+    "title": "OpenAI、カリフォルニア州に将来の脅威に対処するためのアルゴリズム規制を強化するよう求める - VOI.ID",
+    "seen_at": "2026-08-24T12:20:17.615112+00:00"
+  },
+  "db24d538fb44b0f3f31c3b82367e46e6d58aecee316e5505bf1c5cf460666bbd": {
+    "title": "バーチャレクス、コンタクトセンター向け次世代AIエージェント「CC-ExpAI」の独自技術2件が特許査定 - PR TIMES",
+    "seen_at": "2026-08-24T12:20:18.717431+00:00"
+  },
+  "f9a43f8ac8647344039c7d9d24380a3ba7af1642c6ee6034d2349e2fad69d3cd": {
+    "title": "Top 10 most liked models on Qwen's HuggingFace page",
+    "seen_at": "2026-08-24T12:20:20.131405+00:00"
+  },
+  "73172c82380eb29ea9e4e45bb2987e7b5b246589dd75350c50465a71f5badba5": {
+    "title": "At a certain point, speed >> smartness",
+    "seen_at": "2026-08-24T12:20:20.131412+00:00"
+  },
+  "c9bcdbe507f43380f0befe3ce6843beb39b8f6a85b39ba85867df7cfad4765dd": {
+    "title": "GPU Poor - Don't overlook Laguna XS 2.1",
+    "seen_at": "2026-08-24T12:20:20.131416+00:00"
+  },
+  "0830bf5802813631b41f33cb6ce1d52810eb077c967d3b79aedea2a1ef4cf57f": {
+    "title": "Agnes-AI/Agnes-2.5-Pro-Alpha • HuggingFace",
+    "seen_at": "2026-08-24T12:20:20.131420+00:00"
+  },
+  "be3dc318d9817e1d2203bc397f313ca4079b54e704e07ddcdd4f338e80af4e34": {
+    "title": "4xR9700, 2xMi210 or 4x4080S 32G",
+    "seen_at": "2026-08-24T12:20:20.131424+00:00"
+  },
+  "fe250742ed1b6268aac8810d938d64ff7bfa06dc0598ef471179d7947b3954e7": {
+    "title": "Who would buy HuggingFace",
+    "seen_at": "2026-08-24T12:20:20.131427+00:00"
   }
 }
