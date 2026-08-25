@@ -1,128 +1,4 @@
 {
-  "501ded8cc3a2aa6ff000eebc308181760b68919838064d6bfcce0a93ba606824": {
-    "title": "Grokの画像生成AIが「Imagine Image 2.0」にアップデートされたので使ってみた、実写風もイラスト風も対応し文字も描写可能 - GIGAZINE",
-    "seen_at": "2026-08-10T04:20:04.831653+00:00"
-  },
-  "64ee1697cff8b097745d66b3443b0108ed231779c724c31e3c65d42f8269dbd0": {
-    "title": "病院向け生成AIサービス「OPTiM AI ホスピタル」、病歴要約を自動生成する新機能を提供開始 - zakⅡ",
-    "seen_at": "2026-08-10T04:20:04.831655+00:00"
-  },
-  "c761e049241db4659d897c5234940f1c86e79d856545176fcd3afda47fac1f5f": {
-    "title": "北朝鮮系ハッカー集団Kimsuky、生成AIでサイバー攻撃の自動化を狙う - Межа. Новини України.",
-    "seen_at": "2026-08-10T04:20:04.831658+00:00"
-  },
-  "befb1baf8f8971bc1bcb4aa477139f5f4ecc42ead9d87901b1d4d9cdb09065a2": {
-    "title": "何が創作で何が偽造？芸能人やアニメの作風まで再現してしまう生成AIが曖昧にする「本物」と「偽物」の境界 - ｄメニューニュース",
-    "seen_at": "2026-08-10T04:20:04.831660+00:00"
-  },
-  "026737da826be51b0ab1c6313cdfe7c44c379aa03828d005d22f3e12612fb5dc": {
-    "title": "博報堂「グローバル・メディア・テック調査2026」東京圏はテレビの信頼度が突出、生成AI利用意向は80.7%に - コマースピック",
-    "seen_at": "2026-08-10T04:20:04.831663+00:00"
-  },
-  "fdba78cc234fb01d26a45cf02910d4b6225dbe74c8150a993f7e02b7c140b26e": {
-    "title": "病院向け生成AIサービス「OPTiM AI ホスピタル」、病歴要約を自動生成する新機能を提供開始 ～J-OSLER(日本内科学会)※1の病歴要約様式に対応※2、医療文書作成を効率化～ - 千葉テレビ放送",
-    "seen_at": "2026-08-10T04:20:04.831665+00:00"
-  },
-  "1615bc85a7cac4368780030280e34dde78ac9e27eef0428ebc381f3263dad9ef": {
-    "title": "キャシー・ウッド氏「オープンソース生成AIでOpenAI・Anthropicが潤う」 - BeInCrypto",
-    "seen_at": "2026-08-10T04:20:04.831668+00:00"
-  },
-  "0ff92b03fb2e92530dfe4a5253559930d51e89efdf65edddd247ab616a9fb479": {
-    "title": "個人がESP32だけでLLMを動かす推論エンジンを公開、使うSRAMは81KB - FabScene",
-    "seen_at": "2026-08-10T04:20:04.831672+00:00"
-  },
-  "38dc13785fe7d9b0b26cf190e555fb5023c9f2caa05738b33ca341181737d4f1": {
-    "title": "セーフィー、水中ポンプ監視アプリが「ＮＥＴＩＳ」登録、生成ＡＩで２４時間無人監視 - kabu-ir.com",
-    "seen_at": "2026-08-10T04:20:04.831674+00:00"
-  },
-  "d09a251ab2acd1d5ad4cf800ea9aced27be694432012420fbe67da79955e54da": {
-    "title": "生成AI人事労務実践研究会〈HR AI Lab〉推進協議会── 9社連合が贈る、人事労務 × AIの実践知 ──「奇跡のセミナー」シリーズ始動！HR × AI SEMINAR 2026 - Excite エキサイト",
-    "seen_at": "2026-08-10T04:20:04.831677+00:00"
-  },
-  "48dc4041e58384f439cee9f97467157b9993fcdfe3d8d957d76901ccdc16894c": {
-    "title": "ライトアップ、Kimi K3対応のローカルLLM導入支援を開始 - ニュースメディアVOIX",
-    "seen_at": "2026-08-10T04:20:04.831679+00:00"
-  },
-  "8c2a79f386cc30951ef73923b290fbc957b28d859fc4f7bd41f47af79fccb849": {
-    "title": "動画生成AI「MiniMax H3」の開発チームが「画像生成・編集モデル」「動画アップスケールモデル」「低ステップ版MiniMax H3」を準備中であることを明言 - GIGAZINE",
-    "seen_at": "2026-08-10T04:20:04.831682+00:00"
-  },
-  "02cf24a4a900e2eefd86bfcf718f18afd49dd58167bf3e9a4f22c7edcd179d25": {
-    "title": "Anthropic、AIコーディング支援「Claude Code」の自動モードをデフォルトに 人間の逐次承認を廃止 - BigGo ファイナンス",
-    "seen_at": "2026-08-10T04:20:05.273203+00:00"
-  },
-  "19d4b0a026d75e2f4916ad86f002b258c824c5b9b6eca30fd0a5aec0a741026b": {
-    "title": "Claude CodeでGPT-5.6を使ったら凍結！Codexが宣言通り上限をリセットする事態に（PC Watch） - Yahoo!ニュース",
-    "seen_at": "2026-08-10T04:20:05.273209+00:00"
-  },
-  "90cb4ec84c276cc9c44c21fe2aa426f72d6ecc9a80f2b746feb14b7db8e7249e": {
-    "title": "Claude Fable 5、生物学関連の制限を大幅緩和　研究者向けアクセスは提供時期未定 - 財経新聞",
-    "seen_at": "2026-08-10T04:20:05.273213+00:00"
-  },
-  "1168f50596110416c7de07908c48866485938d0e37fa63ff355606b9bc0232a0": {
-    "title": "Claude Code偽装ページでMac狙う攻撃、暗号資産ウォレット窃取の恐れ - 디지털투데이",
-    "seen_at": "2026-08-10T04:20:05.273217+00:00"
-  },
-  "e095250d30992bd62408983fdb85e9f8f7b7a7c8eed4bbe82504063f4a55fec0": {
-    "title": "テリロジーHD---IGLOOOがChatGPT広告の運用支援とAIOを活用した次世代グローバルマーケティングを展開(フィスコ) - Yahoo!ファイナンス",
-    "seen_at": "2026-08-10T04:20:05.750747+00:00"
-  },
-  "4fc8720b944f65a2514f67a188b7cd8a0aa73726ee50b7d7c2a2219c3a5ac664": {
-    "title": "OpenAIの「ドーナツ型」AIスピーカー、詳細がリークか 約5万円で2027年発売 - CNET Japan",
-    "seen_at": "2026-08-10T04:20:05.750752+00:00"
-  },
-  "8c64767f22d4774a9ac76993b26e3c232f921f1da2a1bd110bebffc21c39531f": {
-    "title": "OpenAI、AI制御不能の全容を再現：エージェントが2カ月潜伏し「ハッカー集団」結成、内部掲示板からHugging Faceへ侵入 - BigGo ファイナンス",
-    "seen_at": "2026-08-10T04:20:05.750759+00:00"
-  },
-  "3303a0674dc7355d967fa3b3594d6d5aeff74e1cec7b978f5c7f3abe635206a5": {
-    "title": "AdobeがChatGPTと提携、ソフトウェア業界で「AI同盟」による生き残り模索 - BigGo ファイナンス",
-    "seen_at": "2026-08-10T04:20:05.750762+00:00"
-  },
-  "0de6f796165995bf70ab67ec514895c5313cb97966639743e358aa7dc3ceffa0": {
-    "title": "OpenAI会長が「1年も経てば、AIトークンという言葉を意識する必要すらなくなる」と断言した理由（海外） - Yahoo!ニュース",
-    "seen_at": "2026-08-10T04:20:05.750764+00:00"
-  },
-  "ba560be24af358d8f073c6aed0f292591bfbe395ccc92cd879d205e9059e2468": {
-    "title": "【大好評セミナー】今日から使える！ChatGPT×事務自動化セミナー〜明日からのデスクワークが激変する実践講座〜 - PR TIMES",
-    "seen_at": "2026-08-10T04:20:05.750770+00:00"
-  },
-  "3e70d7d22955daf3534d9a17e42201a347851a4223106ca3c0c912403adc66fe": {
-    "title": "アドビ、「ChatGPT向けアドビプラグイン」をリリース - ICT教育ニュース",
-    "seen_at": "2026-08-10T04:20:05.750774+00:00"
-  },
-  "bd9fc65f153091b68e58125366ec25cdc239f23325ce42e849d35d67d159ee8e": {
-    "title": "OpenAIがChatGPTを更新！無料版は「GPT-5.6 Luna」へ進化しPlus・Pro向けには「GPT-5.6 Sol」を強化 - DXマガジン",
-    "seen_at": "2026-08-10T04:20:05.750777+00:00"
-  },
-  "8449e31e36ba850dee00971402b782fadd93ec1136a2364bf433e8db2d5f5747": {
-    "title": "「動画切って」「PDFにして」が一発。ChatGPT向けAdobeプラグインが、全部盛りに進化 - Gizmodo",
-    "seen_at": "2026-08-10T04:20:05.750781+00:00"
-  },
-  "82d4d07b05ef2e4f64752d852f4f40bb8951d918905eac9b4bb0ce200862a4be": {
-    "title": "米国議会で一番よく使われているAIは？ - Gizmodo",
-    "seen_at": "2026-08-10T04:20:05.750787+00:00"
-  },
-  "a64ed8e7501575d9bdc29e613630b751ab07e914e624c6ada69cc0dfed347a25": {
-    "title": "ChatGPT、音声対話モデル「GPT-Live」導入 発話を聞きながら応答し自然な会話に - 디지털투데이",
-    "seen_at": "2026-08-10T04:20:05.750791+00:00"
-  },
-  "9135cd1c6801962c105dde04eafb273ffad1f50ea82d121815cab92ea1b988d5": {
-    "title": "OpenAIの「ドーナツ型」AIスピーカー、詳細がリークか 約5万円で2027年発売 - UQライフ",
-    "seen_at": "2026-08-10T04:20:05.750794+00:00"
-  },
-  "e9cb210596c8ab2e5c83080f4c0141d4a8b28737b6ff42141993566e10b4b07b": {
-    "title": "困る。Gemini「Gem」廃止の可能性 - jetstream.blog",
-    "seen_at": "2026-08-10T04:20:06.202507+00:00"
-  },
-  "abea00f22919fc74b052742fa14483a8ffa1814c8d8ded663a9c7131e20af064": {
-    "title": "法人向け気象情報「ウェザーニュース for business」にAIエージェントを搭載 Weathernews Inc. - 株式会社ウェザーニューズ",
-    "seen_at": "2026-08-10T04:20:06.693887+00:00"
-  },
-  "62b0ca6cd77f8b9c96aa8e4f3cce46c3101d26a43af4fb16e9687bb06ae23913": {
-    "title": "Claude Codeで「コマンド実行のたびに人間に判断を求める」という動作を改善するオートモードがデフォルトで有効化される予定 - GIGAZINE",
-    "seen_at": "2026-08-10T04:20:06.693892+00:00"
-  },
   "db7bda27c1dfb04e6b20c08fcee650a256acca6e159b782ac5c7e01c534cfdab": {
     "title": "山形銀行、法人向けAIエージェントプラットフォーム 「neoAI Chat」を本格導入 - PR TIMES",
     "seen_at": "2026-08-10T04:20:06.693895+00:00"
@@ -11998,5 +11874,129 @@
   "0d42437f7b859571a8b9167437decbea32c3b3799c08a76fc297c6c50874e751": {
     "title": "tencent/WeMM-Embedding 9B/4B/2B",
     "seen_at": "2026-08-25T12:20:50.189393+00:00"
+  },
+  "dc3f07355368354a8172a1fb7edd81f418ad3c64162a4114c390b17a463675fe": {
+    "title": "令和8年版 情報通信白書｜生成AIの業務利用状況 - soumu.go.jp",
+    "seen_at": "2026-08-25T15:31:00.980947+00:00"
+  },
+  "e0b89b3d2fb6b9b32c83644faf848f3163d7da9db459a637ec10405d63fd6e99": {
+    "title": "国産LLMにはどんなものがある？主要モデルの比較と企業の選び方【2026年版】 - 株式会社エクサウィザーズ",
+    "seen_at": "2026-08-25T15:31:00.980955+00:00"
+  },
+  "d31d2d8c488d077023969fdb59810bcfbb28dffc2c98fa9f131156ceb55a0db6": {
+    "title": "生成AIは何を学んでいる？ 政府が情報公開求める基本原則を公表（朝日新聞） - Yahoo!ニュース",
+    "seen_at": "2026-08-25T15:31:00.980961+00:00"
+  },
+  "1b993c908fafd7c147f4a03e0cc350fd2e99a24b1b76ec4fd89001fec96d1263": {
+    "title": "（2） 生成AIサービスを利用しない理由 - soumu.go.jp",
+    "seen_at": "2026-08-25T15:31:00.980966+00:00"
+  },
+  "9a9ee79413337b63f7a22c38cb40d9bb313b05f5d5ce8502d88e186150a4c5e3": {
+    "title": "SaaS比較サイト「BOXIL」、生成AI検索における自社サービスの露出状況を可視化する「AIOダッシュボード」をリリース - 時事ドットコム",
+    "seen_at": "2026-08-25T15:31:00.980976+00:00"
+  },
+  "79e415671216c91fa5d19cd775a321ebfc4d96568a4235942b96344e45e5d6b7": {
+    "title": "アイアクト、川崎重工への「Cogmo Enterprise 生成AI」導入成果を発表 - RBB TODAY",
+    "seen_at": "2026-08-25T15:31:00.980979+00:00"
+  },
+  "329d05c163e5d7e88fdb25b582bbe53fc42866c2bae1313883330b5ce07e5ff1": {
+    "title": "OpenAIが推論特化チップ「Jalapeño」を開発、大量の生成AI処理の高速化を目指す - Межа. Новини України.",
+    "seen_at": "2026-08-25T15:31:00.980982+00:00"
+  },
+  "2bf9d80875dac97bc844f83338c02e8b4f5b237a812189668508627ad4f3ec6c": {
+    "title": "社会・産業インフラ業界のための生成AI-RAGソリューション「GENBA-Navi AI」を提供開始 - Excite エキサイト",
+    "seen_at": "2026-08-25T15:31:00.980987+00:00"
+  },
+  "dd18f449ffcde7bda32f54f2bdb821af361dd4a1c071a42491baa7c7a2329074": {
+    "title": "Anthropicの最上位AIモデル「Claude Fable 5」は企業需要が伸びず苦戦、AI企業のビジネスモデルが覆される可能性も - GIGAZINE",
+    "seen_at": "2026-08-25T15:31:01.688172+00:00"
+  },
+  "7721286df9af465632f087e257be0f50a0ef62a65f52b3ee98155661990f605c": {
+    "title": "AnthropicのClaude Fable 5、企業需要が伸び悩み安価モデルが優勢に (2026年8月25日掲載) - ライブドアニュース",
+    "seen_at": "2026-08-25T15:31:01.688180+00:00"
+  },
+  "976b3a9cd1089c8ec9fc96ef2015797910d66be5501effbf7b3afddb200d0844": {
+    "title": "【ChatGPT/Gemini/Claudeほか】主要なLLMの違いは？性能・料金・日本語で比較する選び方と使い分け【2026年版】 - 株式会社エクサウィザーズ",
+    "seen_at": "2026-08-25T15:31:02.407470+00:00"
+  },
+  "405a1e8f948c3b82d2052e0a41d7d95c9e1f7b85ed1c4221d6af88ad139b7a53": {
+    "title": "OpenAIが独自AIチップ「Jalapeño」の初期性能データを公開 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-08-25T15:31:02.407476+00:00"
+  },
+  "3cc8f5d2bc4943fe0153715de64b6c603848a3faa03c1b8bdfc915889be0d77b": {
+    "title": "ChatGPT、欧州での広告導入を開始 - FashionNetwork France",
+    "seen_at": "2026-08-25T15:31:02.407480+00:00"
+  },
+  "f85dabfc24d81906ebb698fe462ff4851bc4f804c5d0520f8b14c4de3e31268c": {
+    "title": "【分析】OpenAIの「1兆ドル評価」は妥当か、AI導入の遅れと安全管理が問う成長シナリオ - 財経新聞",
+    "seen_at": "2026-08-25T15:31:02.407483+00:00"
+  },
+  "902a430359eb5e59e4b23c799c76f33bf5ce086ecebd42e421d66f12b39a4bf0": {
+    "title": "OpenAIが8月26日に2つの提供終了、Assistants APIとChatGPT版o3が対象 - 財経新聞",
+    "seen_at": "2026-08-25T15:31:02.407486+00:00"
+  },
+  "96792bd00bb5abc492f0a974b5144369c88ca4af83ace94d3aaf7230df327c86": {
+    "title": "OpenAI、ChatGPT WorkでAIエージェントを一般のオフィス業務へ広げる - Межа. Новини України.",
+    "seen_at": "2026-08-25T15:31:02.407490+00:00"
+  },
+  "3a67250fefe3bb01448bb5d78a00eba1a3552a6e6177d9a83a84e5621deb1410": {
+    "title": "Gemini Skills Extension to Replace Gems: App Teardown - jetstream.blog",
+    "seen_at": "2026-08-25T15:31:03.149472+00:00"
+  },
+  "78d679b96a47b46e3a48729c797201b28f3e5b4feefeef1649b59cb14c68d817": {
+    "title": "WixとGeminiが連携｜AIとの会話からWebサイト作成・更新・運営まで可能に - innovaTopia",
+    "seen_at": "2026-08-25T15:31:03.149480+00:00"
+  },
+  "c8eaba8b51224c5350681763d1b8435b11d3b9862a1ba8c1ef26afa6092433ea": {
+    "title": "AIエージェント活用を阻む“予算の壁” セールスフォースらの新機能は打開策になり得るか？（ITmedia エンタープライズ） - Yahoo!ニュース",
+    "seen_at": "2026-08-25T15:31:03.733372+00:00"
+  },
+  "8fb1afb69e1e16bc9767b1792ecbd566911b68b77829b8aa5993b82cbcd4d0d7": {
+    "title": "AIエージェントの性能を決める「ハーネス」とは何か、NVIDIAの実例が示す重要性 - BigGo ファイナンス",
+    "seen_at": "2026-08-25T15:31:03.733378+00:00"
+  },
+  "29694d810b139ad0406798eb73665b4d5bfdccdcf59aa7d3591d80717631ea54": {
+    "title": "フォーティエンスコンサルティング、AI業務改革の早期具体化を支援する「AIエージェント3ステップ」を提供開始 - Excite エキサイト",
+    "seen_at": "2026-08-25T15:31:03.733385+00:00"
+  },
+  "452016d40b0a32fbbb27c7fa5ce2188022e3fbdec9d64d8661e52897815a42ac": {
+    "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
+    "seen_at": "2026-08-25T15:32:04.896037+00:00"
+  },
+  "5f1a07195f8e4e016d7a7dcc0a53605e740793112e2d9ecb5a84bc9bf4416731": {
+    "title": "Qwen 3.8 Flash Next day 0 support from unsloth",
+    "seen_at": "2026-08-25T15:32:04.896042+00:00"
+  },
+  "b600e6ce0eafbb24fffcf1eeb0549ac14463b4740951bad294f00867b3c62e20": {
+    "title": "Apple releases M5 ultra at 1.2TB/s bandwith",
+    "seen_at": "2026-08-25T15:32:04.896045+00:00"
+  },
+  "b8cd3ab1f271789b25784d5611aec382290913fa45de83a66deb8c85812a89c3": {
+    "title": "me to the model I spent all weekend fine-tuning",
+    "seen_at": "2026-08-25T15:32:04.896050+00:00"
+  },
+  "e585702871e8736f26d1cd6b394d3900607e26fd4db9583e488970ad5b331ce0": {
+    "title": "Intel Arc Pro B60 Dual 48G spotted",
+    "seen_at": "2026-08-25T15:32:04.896052+00:00"
+  },
+  "81996d00b8bc8370aa8e365989625aec529f1bc4de0a8313e9486096d7f6f97e": {
+    "title": "ibm-granite/granite-4.2-30b · Hugging Face",
+    "seen_at": "2026-08-25T15:32:04.896056+00:00"
+  },
+  "c4d634379eb7d135f4e396178a89285a98960e746430fe05e8a8d7b1c7e4187b": {
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "seen_at": "2026-08-25T15:32:04.896060+00:00"
+  },
+  "3292f02fbc11189696db86734abe060e6a2e61131e85b48372d6be9cf908eaf5": {
+    "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
+    "seen_at": "2026-08-25T15:32:04.896064+00:00"
+  },
+  "ffc85786561c77a24ab852e4d69936d8d5e225e3b490093bf4069c3fa353c1be": {
+    "title": "12 abliterated Gemma 4 12B variants, one base, 165 GPU hours - Abliterlitics",
+    "seen_at": "2026-08-25T15:32:04.896067+00:00"
+  },
+  "177fb8179c1558d33ad6ee1aa5775e39dc693e429b8d85002eb9ba6cc795c1c5": {
+    "title": "Qwen 4 architecture: What do we know?",
+    "seen_at": "2026-08-25T15:32:04.896069+00:00"
   }
 }
