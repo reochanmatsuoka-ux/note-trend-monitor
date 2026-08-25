@@ -1,12 +1,4 @@
 {
-  "75bcf4699f4ed95cc80108ed8630f6e7283f42885c9db3f7ff440cffdce1391f": {
-    "title": "Two flags took the official Ling-3.0-flash INT4 from 20.8 to 38.7 tok/s on one DGX Spark",
-    "seen_at": "2026-08-09T18:20:24.196413+00:00"
-  },
-  "9b9ed222db781039b2aa286361ee011a6a8232068353651ae46a65d30ef0225a": {
-    "title": "DeepSeek v4 Flash 0731 locally on CPU",
-    "seen_at": "2026-08-09T18:20:24.196417+00:00"
-  },
   "44c9be61f0e3a855fc28de8dbfc82cf02c2969d095d7ed5c6131c9bf4ba7a5e8": {
     "title": "Open Model: Google Weather Next 2",
     "seen_at": "2026-08-09T18:20:24.196421+00:00"
@@ -11998,5 +11990,13 @@
   "864b3d694a725f5952918f5d5eef76eb834a01b8480c023a6429da8af2c3cb96": {
     "title": "Spent a day seeing how far extreme MoE models can be pushed on a 4070 Ti + 32GB RAM. Kimi K3, DeepSeek V4 Flash, and Qwen3.5-122B results + research paper🔧",
     "seen_at": "2026-08-25T06:22:20.403477+00:00"
+  },
+  "94665c9e0e99901cc2a17e9a7d689779160fd31bbe50dfb4d05d1ebe889b20bd": {
+    "title": "FIXED 7900 xtx + headless Linux crashes (Low RAM OOM) amdgpu.runpm=0",
+    "seen_at": "2026-08-25T09:23:06.353820+00:00"
+  },
+  "5721175f5ac8da9c450769cd1af20dbb5044ed38a096031b6a2a1b7a5479d648": {
+    "title": "How many of you are using Kiwix/offline Wikipedia for training?",
+    "seen_at": "2026-08-25T09:23:06.353825+00:00"
   }
 }
