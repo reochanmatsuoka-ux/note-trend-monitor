@@ -1,160 +1,4 @@
 {
-  "68e984d47d6fe59f213ba99728a64f5c67d433c30ef4f944899ad4bfc8acde4b": {
-    "title": "Introducing Muse Glimmer: an open-weight model optimized for always-on local agent workflows",
-    "seen_at": "2026-08-10T12:38:13.238614+00:00"
-  },
-  "52634435f798e24f6681dca65ad2bdc39342cc05eb7a118c365b713354e489f1": {
-    "title": "unsloth/Muse-Glimmer-30B-GGUF · Hugging Face",
-    "seen_at": "2026-08-10T12:38:13.238619+00:00"
-  },
-  "e230c9bef2471da737cf5c52021408cff3046152d18cb8631c548803d861b6b6": {
-    "title": "1M context with 17 GB model in 24 GB VRAM: \"for the first time I was able to load a context of almost 1M tokens and extract 7 needles from various parts of the text\"",
-    "seen_at": "2026-08-10T12:38:13.238622+00:00"
-  },
-  "ec090c4bba63c4a5cfe017f490819eeefd0b1965899a96e5cd81c27451c99a70": {
-    "title": "Comparing how Cline, Kilo, and Qwen Code handle long-task context/state (and why context loops keep happening)",
-    "seen_at": "2026-08-10T12:38:13.238625+00:00"
-  },
-  "6dd761b4f7bbb8bae52c07b9b85d7a064fdd949205c3cf0f3f6414b867a3f042": {
-    "title": "Native Long Video Understanding Models locally?",
-    "seen_at": "2026-08-10T12:38:13.238630+00:00"
-  },
-  "dfd87e687071f1248838c0c6807288da6cc1b132fb06a98973038a9b4cd99b33": {
-    "title": "Mature/better alternatives to pi-web?",
-    "seen_at": "2026-08-10T12:38:13.238635+00:00"
-  },
-  "8ff723a064fc5a4665634d62dd1a2e54f1271b82a1a8d39dcb1f5b7dc238fbaa": {
-    "title": "Michael Saylor：ChatGPTで1年で150億ドルを荒稼ぎする方法？ - PANews",
-    "seen_at": "2026-08-10T15:46:09.623815+00:00"
-  },
-  "9ba7be4ef1a1f4fbedea53c5bfdae9b318da53b5a0a5bee82bc32f2e88cf8eca": {
-    "title": "きょうの5本 NEC、AIエージェント「17人」で新部署 - 日本経済新聞",
-    "seen_at": "2026-08-10T15:46:10.746809+00:00"
-  },
-  "b4c0bfda42fcfc7c702f661a329246fde7642cd9d6c5e4e8ac4d4abffbdf9ed9": {
-    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-    "seen_at": "2026-08-10T15:46:16.518936+00:00"
-  },
-  "302a982784b1aaad29f7d32c1be36f3b1af6eb1bd1e01cdaa81ffe3e49b52f85": {
-    "title": "Because It's Not Fun Enough: why languages fail",
-    "seen_at": "2026-08-10T15:46:16.518942+00:00"
-  },
-  "37e8b15263fab169abeaf13c366eeb6af5c304788dc4ed062defcf388ca2194c": {
-    "title": "Best Local LLMs - August 2026",
-    "seen_at": "2026-08-10T15:46:17.379020+00:00"
-  },
-  "c96205d38789cb824318431bf068129ec53a51f1a0a65fd1dd9c41df66369490": {
-    "title": "Mark Zuckerberg on releases",
-    "seen_at": "2026-08-10T15:46:17.379025+00:00"
-  },
-  "09b537c1e5135f702a9a585cb4c0e0ead8efb21987bd75d9089b93e2c1a00fff": {
-    "title": "Muse Glimmer ACTUALLY fits on a single RTX 3090",
-    "seen_at": "2026-08-10T15:46:17.379031+00:00"
-  },
-  "c7473257f2233823a6bbca7a4d26c9529abe7246557ad4a0b2840d315de6f181": {
-    "title": "Glimmer seems pretty censored?",
-    "seen_at": "2026-08-10T15:46:17.379034+00:00"
-  },
-  "4fe5be15fc9f9e18abdc5a1094f2fa057fa8554cc64bce218053954955ced76a": {
-    "title": "model: Muse Glimmer Support by pcuenca · Pull Request #26841 · ggml-org/llama.cpp",
-    "seen_at": "2026-08-10T15:46:17.379037+00:00"
-  },
-  "db73cd681c5d59e297293baa79ffcbbe31356345c21b3244aa82c592f83b5962": {
-    "title": "Motif-Technologies/Motif-3 official realese",
-    "seen_at": "2026-08-10T15:46:17.379041+00:00"
-  },
-  "9491af20ebb9e522207090e021ecda4da7e9e713fa62b76b50805f88ba92dd85": {
-    "title": "Early signs that Muse-Glimmer-30B might quantize *very* well? Share your experiences.",
-    "seen_at": "2026-08-10T15:46:17.379044+00:00"
-  },
-  "0b7bf5c78980231c43d9d7079e7d18b457a63d9b23b5f4d3d04544bf6f7d0ba4": {
-    "title": "Gemma 4 Good Hackathon results are near as well",
-    "seen_at": "2026-08-10T15:46:17.379047+00:00"
-  },
-  "26b6b741900fb4b63d8b8c3044221e1335b7f1f2218857333c63e8564701e00a": {
-    "title": "Ante 0.2: a ~15MB coding agent that manages llama.cpp for you — point it at a GGUF and the whole agent loop runs offline",
-    "seen_at": "2026-08-10T15:46:17.379049+00:00"
-  },
-  "2442e85f24be62e2ac25b9da0dcdd39e15a7970035ac47cfabf99450ff3934d9": {
-    "title": "法人向け生成AI「ChatSense」、Notionページを学習可能に - AERA DIGITAL",
-    "seen_at": "2026-08-10T18:38:43.733791+00:00"
-  },
-  "f58780a1a52a12941a36e39744041fa52415cc944a264eb4d0f2d6cb495151ff": {
-    "title": "OpenAIの謎の新モデル「モナリザ」がブラインドテストに登場、画像のリアリティが大幅向上し「プラスチック感」払拭 - BigGo ファイナンス",
-    "seen_at": "2026-08-10T18:38:44.906914+00:00"
-  },
-  "d6728bfe1c29b7bcf0a7c8f1ca3c6da0ebcffc7eda6911d910d7cb53b2a81b94": {
-    "title": "AIが週休3日を約束する一方、シリコンバレーのエンジニアが週90時間超の過酷な労働実態を暴露 - BigGo ファイナンス",
-    "seen_at": "2026-08-10T18:38:44.906920+00:00"
-  },
-  "3c2d92d9362399736b2c7f9c389f6a0b02d753164afb64f86697d36fa71a40f8": {
-    "title": "経営と組織をつなぐAI時代の人事のあり方～Claude Code全社導入を経て、KDDIアジャイル開発センター株式会社が実践する組織づくりの設計図～｜9/4(金)・9/10(木)開催 - Excite エキサイト",
-    "seen_at": "2026-08-10T18:38:46.046650+00:00"
-  },
-  "77d4093e357af471db7750fc5a7da9c1e7c57c523d3492f2e48572f3236ad401": {
-    "title": "Exploiting System Management Mode with a very long interrupt",
-    "seen_at": "2026-08-10T18:38:46.646337+00:00"
-  },
-  "84b7601c35c3015fa1c62a31a5c58dc4279cc025aa2998e83f7963306ab77572": {
-    "title": "inclusionAI/Ling-3.0-tiny · 8B A1.3B MoE· Hugging Face",
-    "seen_at": "2026-08-10T18:38:47.503317+00:00"
-  },
-  "ed156752d862ffdfe5f9c8fe96486a3f38d92aad4393403981deeef519bf5082": {
-    "title": "DeepSeek V4 Flash 0731 is the ‘killer app’ that is going to sell A LOT of DGX Sparks",
-    "seen_at": "2026-08-10T18:38:47.503323+00:00"
-  },
-  "52096ff2bc105475bcebc7d72c82ce6ee38bf39498e5bfa497b2f6f7e2446a91": {
-    "title": "DiffusionGemma Technical Report",
-    "seen_at": "2026-08-10T18:38:47.503327+00:00"
-  },
-  "d2ce7097aae5f8499a02fc7d85f47d5b7c00327adaf59f459a8706e7431f5005": {
-    "title": "Meta wants to create a personal super intelligence for free that runs on your Maschine. Meanwhile at anthropic: How can we get our (fake) image back of the \"Humanity\" Lab? ReleaseFreeOpenSourceModels Now let's just double the price on all our users, and tax our plan with 50% Fable weekly usages",
-    "seen_at": "2026-08-10T18:38:47.503330+00:00"
-  },
-  "4e8209cff423388e6d1f158143f6276fefd59cf66e59d9c367f4342b233489df": {
-    "title": "Needle 2: 14MB agentic LLM for phones, wearables, smart home and robots.",
-    "seen_at": "2026-08-10T18:38:47.503334+00:00"
-  },
-  "a530e88e65c7a68686f93e4ad7b5cc66084c15f0c98741f54f48a0264cf9bad2": {
-    "title": "Glimmer: 233.4 tps on 5090 with Dflash",
-    "seen_at": "2026-08-10T18:38:47.503337+00:00"
-  },
-  "4d0aff670c11cec5f2f6ffd9fa9150100cbeab059b4ca34b6e220bd4e469abb9": {
-    "title": "I compared GGUF quants of Qwen3.6 27B to NVFP4, AWQ, AutoRound, and FP8",
-    "seen_at": "2026-08-10T18:38:47.503341+00:00"
-  },
-  "fa6b1c5e09c268d5bf43ad0b85fc53aadc94ecc3cbdbed5989fe9716377d5f7a": {
-    "title": "Best current ERP base model that are smart and uncensored?",
-    "seen_at": "2026-08-10T18:38:47.503345+00:00"
-  },
-  "2b7fad02df66a2aa9b55b1a24609fbe1c388bce5b58191a914fad098034856cb": {
-    "title": "生成AIが思考力に及ぼす影響 - 毎日新聞",
-    "seen_at": "2026-08-10T21:29:22.217284+00:00"
-  },
-  "4c639159ed98e34db2095d1cda8e18d8145506500eb1664c61c4ae4f8a0e1a97": {
-    "title": "Anthropicの最新AIがリーマン予想の「41%の壁」を突破。ただし、証明への道はまだ遠い - XenoSpectrum",
-    "seen_at": "2026-08-10T21:29:22.825865+00:00"
-  },
-  "2fac32a945ce1bdf598b3ddbd510d6b74eba831e539ab5457fc59974072340ce": {
-    "title": "AIの26年末10大予想は ChatGPT「国内時価総額1位ソフトバンクG」 - 日本経済新聞",
-    "seen_at": "2026-08-10T21:29:23.655002+00:00"
-  },
-  "643cb4a838dab91628b38ea200a8de80eb9c5d865ff7b8804fb5107a2b305a88": {
-    "title": "【漫画】「やりすぎなくていい」 頑張りすぎて落ち込む妻を救った夫の“一言”に「生きてるChatGPT！」【作者取材】（オトナンサー） - Yahoo!ニュース",
-    "seen_at": "2026-08-10T21:29:23.655010+00:00"
-  },
-  "3e1cdba0b7a2549668754fc8608ae36dd0869b9cf89f8357b49df6cb29410579": {
-    "title": "【AIバイブコーディング最前線】Claude Codeは成功、Codexは挫折、Geminiは9時間格闘——3人のジャーナリストが体験した明暗 - BigGo ファイナンス",
-    "seen_at": "2026-08-10T21:29:25.105084+00:00"
-  },
-  "261b7df20dcd3335bba9770db9dc37c8a8df26559721652dfe9a43af63ae6820": {
-    "title": "Please Share Your Experience About Muse Glimmer",
-    "seen_at": "2026-08-10T21:29:26.206516+00:00"
-  },
-  "e4046857dab19e2ac9ffd4d1d84f852ac7e0b3f001f33ac27e9f38cdae2bc8f7": {
-    "title": "I made a web-design benchmark for local models (Muse Glimmer 30B vs Qwen 3.6 27b vs Deepseek V4 Flash 0731)",
-    "seen_at": "2026-08-10T21:29:26.206520+00:00"
-  },
   "25c83c522ac5b60d81e45b55b763fd9568b0d72af36f450240fa6cab270d903d": {
     "title": "Muse Spark 1.2 Open Source before Llama 4 Behemoth!!?",
     "seen_at": "2026-08-10T21:29:26.206523+00:00"
@@ -11998,5 +11842,161 @@
   "b15f4c6217b90dbc1e7dbb1d3fab54f57b710a9b264552af5c1a44036af31ef1": {
     "title": "Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model",
     "seen_at": "2026-08-26T03:43:17.761094+00:00"
+  },
+  "038d3cf45bcd3e73ecd55625a17ecb9c435ba872e5688b8272fb4e6153d0fc76": {
+    "title": "生成AI基盤「Private AI Platform on PRIMERGY」で「tsuzumi 2」を活用可能に - 株式会社インプレス",
+    "seen_at": "2026-08-26T06:24:20.382489+00:00"
+  },
+  "5e03cae1609300b82dc8542473916a90538ec2b6ffa979fa885aa0ec8256578e": {
+    "title": "エフサステクノロジーズとNTT西日本 オンプレ生成AIで「tsuzumi 2」利用へ 純国産LLM、9月から提供 - 電波新聞デジタル",
+    "seen_at": "2026-08-26T06:24:20.382499+00:00"
+  },
+  "2146a4b95f9f4b1bf623bf715f23b2a9805ac8ddb89d1a01f0b6e21c34bde9d0": {
+    "title": "生成AI導入率44.0％、1年でほぼ倍増｜企業の活用は文書業務が中心 - amusement-japan.co.jp",
+    "seen_at": "2026-08-26T06:24:20.382505+00:00"
+  },
+  "648e4dcdbbd90c3c90f8fb76b312e9a87d50d1db2532e72ed665b66e40f28e9d": {
+    "title": "アップル新型Mac、ローカルAI界隈で話題になったワケ（アスキー） - Yahoo!ニュース",
+    "seen_at": "2026-08-26T06:24:20.382508+00:00"
+  },
+  "37d5e2689dd39a8d952b89213a487082baa147521193efd28e3f602506bab422": {
+    "title": "ゼロクリック・生成AI時代へ。GLAM、一次情報を軸にメディア戦略を強化 - PR TIMES",
+    "seen_at": "2026-08-26T06:24:20.382511+00:00"
+  },
+  "807039fa16b74207fb99b283894a2f9d9930322d216a4e30a7639a207b6d6628": {
+    "title": "生成AI「Safe AI Gateway」、画像・図表も活用できるマルチモーダルRAGを搭載 - 時事ドットコム",
+    "seen_at": "2026-08-26T06:24:20.382517+00:00"
+  },
+  "61d2726f96518e64f6ee0c9a7b331be54aee0bd7974e3cfabd5128c051d0c5dd": {
+    "title": "東大松尾・岩澤研究室、無料の「大規模言語モデル講座2」受講者を募集中 - 窓の杜",
+    "seen_at": "2026-08-26T06:24:20.382523+00:00"
+  },
+  "4971db682c9ee78a6faa4c17c68fcad26b0c92406f0164f4593e2b3d28b0c9f5": {
+    "title": "生成AI時代、管理職は「何を教え、何を評価するのか」 - ニコニコニュース",
+    "seen_at": "2026-08-26T06:24:20.382526+00:00"
+  },
+  "eca2c62fe8cee325c81ad4dcce8e538052cadb658caa746ff31d3e0d99e624be": {
+    "title": "lmessage、「2026年版 マーケティング・集客 生成AIカオスマップ」に掲載 - ニコニコニュース",
+    "seen_at": "2026-08-26T06:24:20.382533+00:00"
+  },
+  "bbc1e54fb62d30fdcafa1cf76d34c75a5c52a665d9314761b8ab6ac37e410496": {
+    "title": "生成AI「Safe AI Gateway」、画像・図表も活用できるマルチモーダルRAGを搭載 - Excite エキサイト",
+    "seen_at": "2026-08-26T06:24:20.382536+00:00"
+  },
+  "2686113758bf2575c36d0904a2f73cb5265c522be88aeaed006ffbed4ca54add": {
+    "title": "AIエージェントの実力左右する「ハーネス」 LLM単体では測れない理由 - 디지털투데이",
+    "seen_at": "2026-08-26T06:24:20.382558+00:00"
+  },
+  "10336abf75a57b31f2b7d25021cdbe9aa3d7168ee5ecc13e6b2587e9158daff8": {
+    "title": "Anthropic、AI市場は30兆ドル超と予測 - SpaceX想定を上回る規模に - マイナビニュース",
+    "seen_at": "2026-08-26T06:24:20.885804+00:00"
+  },
+  "6bb01e6462af2e0346581298dd001dced931bd3e140a84b0c79ebf8a10d853ec": {
+    "title": "Claudeのメモリがチャットとcoworkで共通化。もう説明し直さなくていい - ゴリミー",
+    "seen_at": "2026-08-26T06:24:20.885809+00:00"
+  },
+  "33e0016652f63fa906a631870c6db5ef5dc4365b8284de980073ff579c2ed161": {
+    "title": "ChatGPT Work、ログイン必要なサイトも操作可能に 「パスワードは一切見ない」 - ITmedia",
+    "seen_at": "2026-08-26T06:24:21.522911+00:00"
+  },
+  "dfeb0e953535cada27835058b14cc7e744f05a4b9fa6575612c950306c9810c3": {
+    "title": "ソフトバンクＧ－続伸 ＯｐｅｎＡＩ関連の資金調達で最大200億ドルの起債検討と伝わる(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "seen_at": "2026-08-26T06:24:21.522917+00:00"
+  },
+  "e90965657ad5f029a7a70e7176850f8a5be2426689b78f5a75b418acc741c2ae": {
+    "title": "マネックス証券、主要証券会社初「ChatGPTプラグイン」対応サービス提供開始。自然な会話で資産を確認 - AIsmiley",
+    "seen_at": "2026-08-26T06:24:21.522920+00:00"
+  },
+  "21026b9f23f894c0ec72102dd9ad69a683ba0993f4f812d4990e54f5e2b33a80": {
+    "title": "「日本オンライン詐欺対策アライアンス(JASA)」本日設立。Google、トレンドマイクロ、Meta、OpenAI Japan、TikTok Japan、マッチ・グループ等の主要企業や業界団体が結集 | 一般社団法人トラスト＆セーフティ協会のプレスリリース - PR TIMES",
+    "seen_at": "2026-08-26T06:24:21.522923+00:00"
+  },
+  "6449d5309b8b82e09430ebe6b03d7e84255fb6cacd389b63e7604ebf9ac84e1d": {
+    "title": "【ラシン調査レポート Vol.2】企業のAI活用実態調査 ChatGPTが48.7％で最多、一方で26.2％が「AIツールを利用していない」 - PR TIMES",
+    "seen_at": "2026-08-26T06:24:21.522931+00:00"
+  },
+  "5b851795b38112f267dd4b281308bda4e85920714f3fbf754b08664e2c295daa": {
+    "title": "ソフトバンクG、OpenAI関連の資金調達で最大200億ドルの起債検討 - Bloomberg",
+    "seen_at": "2026-08-26T06:24:21.522937+00:00"
+  },
+  "622494f27e791cb73008a030f9f769932d6c14ea459f89f1950cc349ca37c3cf": {
+    "title": "ソフトバンクG、OpenAI投資の借り換えで最大200億ドルの社債発行を検討 - BigGo ファイナンス",
+    "seen_at": "2026-08-26T06:24:21.522941+00:00"
+  },
+  "e912b8116007b0a7cf2b0a74a3f5f327a0df99bbbe80ee12383281401a31783b": {
+    "title": "ソフトバンク、OpenAIローン借り換えに最大200億ドルの社債発行を検討 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-08-26T06:24:21.522944+00:00"
+  },
+  "b3f7e5a30cbc2b508861eca9d80c36496aeb7510dafe110a3d8fb033de5d08cc": {
+    "title": "OpenAIがカスタム推論チップ「Jalapeño」のベンチマーク結果を公開、高スループットと低レイテンシを単一アーキテクチャで両立 - GIGAZINE",
+    "seen_at": "2026-08-26T06:24:21.522955+00:00"
+  },
+  "e063cd1fbcaf0f966f5a2c935235d3b105bc91e38f0c00e73195684b6f4b5147": {
+    "title": "OpenAI自社AIチップ年内投入 性能でNVIDIA上回る - CHOSUNBIZ - Chosunbiz",
+    "seen_at": "2026-08-26T06:24:21.522958+00:00"
+  },
+  "f7d9e8fa7b234dff341c80d2f09ecb9b4113fa131a64b3f44a95167cb404ac01": {
+    "title": "Ask Pixel連動？Gemini「デバイスのヘルプ」展開 - jetstream.blog",
+    "seen_at": "2026-08-26T06:24:22.104031+00:00"
+  },
+  "f3282ac5b9bb25fe4f52440941dfaad495324e33cb67ffb33cad8c728863271c": {
+    "title": "Google Cloud、金融・法務向け「Gemini Enterprise」をプレビュー提供 - 디지털투데이",
+    "seen_at": "2026-08-26T06:24:22.104037+00:00"
+  },
+  "3be122dd6e5149ba88943b88f0bc6517ba70d26f08a6eba4d1bbc3edaaf094e0": {
+    "title": "AIエージェントは「人間を超えるリスク」Box決算が映す企業AI導入の現況 - ストレイナー",
+    "seen_at": "2026-08-26T06:24:22.664991+00:00"
+  },
+  "301834669c12c8dc788158c414c96affbc53d0a9b6429296c5a693453e72bdcf": {
+    "title": "Slackのようなチャットツール上でAIエージェントと一緒に仕事をする／2026年8月26日／耳で学ぶAI、ロボシンク - グロービス学び放題",
+    "seen_at": "2026-08-26T06:24:22.664998+00:00"
+  },
+  "b5a4aedfb9885fb2709106273ae7fd71ef751d9a9d49a3df4412eb3cdbea8047": {
+    "title": "ナレッジ運用をAIエージェントが自動支援、自己解決率向上を実現する「Knowledge Doctor」を提供開始 - PR TIMES",
+    "seen_at": "2026-08-26T06:24:22.665002+00:00"
+  },
+  "9cbc91021b7b15f8a5fa5ecd5c65830423cb8757d066abc898cab95c7ff4227a": {
+    "title": "【2DAYS・8時間】1名から参加できるClaude Code超実践コースを提供開始 - PR TIMES",
+    "seen_at": "2026-08-26T06:24:22.665008+00:00"
+  },
+  "418f629b074077fe70eaf6b25125658dc1680539b333d01570101b851a13a778": {
+    "title": "「AIエージェントを本番運用中」日本が最下位 “PoC止まり”の原因と、抜け出す方法は？ - ITmedia",
+    "seen_at": "2026-08-26T06:24:22.665010+00:00"
+  },
+  "2fa11e9ce0a6da6f9c84bd22b3411aee5103b26e84e302f74b2e1d1783995f39": {
+    "title": "「散らばる AI を、手のひらから指揮する」myagent、ベータ提供を開始。別々の PC の Codex / Claude Code を 1 画面で、無料 - valuepress",
+    "seen_at": "2026-08-26T06:24:22.665015+00:00"
+  },
+  "419b04804eb16015a3901b5faef95badb6b253e9c97ba5b311cd480208e985ce": {
+    "title": "「わが社のAI社員が15万人?」...退職もせず権限を握る「ゾンビ・エージェント」の襲来 - 매일경제",
+    "seen_at": "2026-08-26T06:24:22.665019+00:00"
+  },
+  "607297fecd851984c62608c6e6cd695bfe898f29a76f909a6d01b5d4ddd24098": {
+    "title": "SailPoint、人間・非人間・AIエージェントのアイデンティティを統合的に保護し、セキュリティの死角を排除 - ニコニコニュース",
+    "seen_at": "2026-08-26T06:24:22.665022+00:00"
+  },
+  "0cd7059033ae04ebdee2d8037bc1710bd50e195fb5092384f938622cafbb3cff": {
+    "title": "Ubase、顧客対応を自動実行するAIエージェントを商用展開 - 디지털투데이",
+    "seen_at": "2026-08-26T06:24:22.665026+00:00"
+  },
+  "89b149206c3ecc923ae62055aebba669b293fbc660169748384812366b290d4d": {
+    "title": "XOP、「AIエージェントDXPO東京'26【夏】」田中亮大の専門セミナーに申込みが殺到。約500名の事前申込にて、満員御礼 - ニコニコニュース",
+    "seen_at": "2026-08-26T06:24:22.665030+00:00"
+  },
+  "6df02e3388fb2ed529ce2855fc6993ab87aa6f9568464ff3fbdb1f98eecd3c39": {
+    "title": "【セミナー開講・第1回開催レポート＆次回予告】ピープルドット、「AIエージェント時代のデータ＆AIガバナンス」全4回セ - ニコニコニュース",
+    "seen_at": "2026-08-26T06:24:22.665034+00:00"
+  },
+  "bc8c2c6382c210ead4e9e030537c847a839918b4b25acefbfd9d2e5d54cb7ec8": {
+    "title": "Underrated Muse Glimmer",
+    "seen_at": "2026-08-26T06:24:23.925463+00:00"
+  },
+  "9fffcb25e5f8da03109fb4bd847d7eec79369e8aace0226b0fc340da8023d870": {
+    "title": "Open Source Kernel in Qwen3.6-35B-A3B for AMD MI350X: 78,498 output tok/s on 8 GPUs",
+    "seen_at": "2026-08-26T06:24:23.925468+00:00"
+  },
+  "000bd36c777a0ae3bd93c0165aed5f773d833dc27f3fb5423f917aca3055f7a8": {
+    "title": "Getting Qwen3.8-27B with decent speed on my 4080 with 16Gb card",
+    "seen_at": "2026-08-26T06:24:23.925471+00:00"
   }
 }
