@@ -1,88 +1,4 @@
 {
-  "39b270ee939d28bfe9a945817ba9f0f8155facc4ac85b3c998a0f8e3b3b837f7": {
-    "title": "Anthropicの未公開版Claudeがリーマン予想に挑戦、重要な下界を41.6%から67.2%に押し上げる快挙 - finance.biggo.jp",
-    "seen_at": "2026-08-11T06:42:01.452769+00:00"
-  },
-  "2d83cc69f2552c15d5942e735f311a85198dda840afa8a4ae7690b117ba6a664": {
-    "title": "Claude、新モデルの生成文に「見えない透かし」 コピペ後も残る仕組みを導入へ - ニコニコニュース",
-    "seen_at": "2026-08-11T06:42:01.452775+00:00"
-  },
-  "d5299ce92b809896bd453575fcb85def58488be8d539486c5ad59ddbcf7ecc4f": {
-    "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入 - ITmedia",
-    "seen_at": "2026-08-11T06:42:01.887129+00:00"
-  },
-  "153429778c201d8c06334394e4e5a3e0815a4fcaf734a509c3397094bfa68466": {
-    "title": "OpenAI、Hugging Face侵害の詳細をBlack Hatで説明 AIエージェント同士が「掲示板」を作り攻撃情報を共有 - Ledge.ai",
-    "seen_at": "2026-08-11T06:42:01.887134+00:00"
-  },
-  "b3bcd59974c2379175b92485b4f3a6b631d62255c3e571f47b6bf7028e019f27": {
-    "title": "OpenAI、70億ドルの自社株買い戻しを完了——IPO前に8,520億ドルの評価額を確定 - finance.biggo.jp",
-    "seen_at": "2026-08-11T06:42:01.887138+00:00"
-  },
-  "0e036a9d971b1417d7202249665c0269989b29e7a64b77c6f1f2abb03ba8e956": {
-    "title": "OpenAIがサイバーセキュリティAIモデルを発表。 - vietnam.vn",
-    "seen_at": "2026-08-11T06:42:01.887142+00:00"
-  },
-  "37665e9e5514cdd68611b727ab7c759382b05e2f73791f836f3d22405f00a387": {
-    "title": "OpenAIのAIモデルにおける「ハグ顔」自己侵入問題と「報酬ハッキング」現象の分析。 - vietnam.vn",
-    "seen_at": "2026-08-11T06:42:01.887147+00:00"
-  },
-  "9f52be7f112967e55d905776a6f98159f8168ca6aed91495af13c432f19b48d6": {
-    "title": "OpenAIが従業員持株を70億ドルで自社買い戻し、 IPOの具体的な上場時期はいまだ見えず - Yellow.com",
-    "seen_at": "2026-08-11T06:42:01.887151+00:00"
-  },
-  "4010e7d840e60fa47268e532aee6ffee8c4e04268065c1cb2b125cabdfaccfb7": {
-    "title": "Gemini搭載で何が変わる？ 新型「Google Home スピーカー」とGoogleアシスタントの違い（Fav-Log by ITmedia） - Yahoo!ニュース",
-    "seen_at": "2026-08-11T06:42:02.368898+00:00"
-  },
-  "3446bbcd4bbc2b2e4b620c0572afd940a71a8ff9f545b3da9c338f7c103b2c7f": {
-    "title": "Meta、ローカルAIエージェント向け30Bオープンウェイトモデル「Muse Glimmer」を発表 - gihyo.jp",
-    "seen_at": "2026-08-11T06:42:02.850668+00:00"
-  },
-  "bf4196ad86f89e7ecdb7e6fedc2e4a274dc2ed3b0a488d2c300264d7e0d8a3ac": {
-    "title": "AIエージェントの「子守り」に疲れ果てたストラテジストは、その半数を解雇して人間を雇った - Business Insider Japan",
-    "seen_at": "2026-08-11T06:42:02.850673+00:00"
-  },
-  "3cb2e2ddd04da63b7e7daa7f9980ba6009bdc081b0751264868f98e206934d43": {
-    "title": "Microsoft、AIエージェントの暴走を防ぐガイダンス「封じ込め戦略」を公開 - news.mynavi.jp",
-    "seen_at": "2026-08-11T06:42:02.850681+00:00"
-  },
-  "2e5292b72a059d4b2c2a9d3eaf2a2043e5ed24be39c7841925383bd8a66b5a3c": {
-    "title": "Claude CodeやGemini CLI、Codexに共通リスク 悪意あるGitHub Issueが後続処理に波及 - 디지털투데이",
-    "seen_at": "2026-08-11T06:42:02.850686+00:00"
-  },
-  "06fb781815c2b82b9b2d4acec35edcbcefcb6bd0431205851f4c546f3f0e7bc4": {
-    "title": "Qwen 3.8-27b coming this week",
-    "seen_at": "2026-08-11T06:42:03.739645+00:00"
-  },
-  "ed21fd7f715468455dae7b62ff9071adfad81ef11233e6d094cf6ac69ef184f4": {
-    "title": "Nvidia reportedly testing lower memory configs of Rubin Ultra as memory shortage bites back — designs tested include as little as 192 GB and step back to HBM4",
-    "seen_at": "2026-08-11T06:42:03.739654+00:00"
-  },
-  "a2e2d1da42e4be22f0c748ef8a0b1f2d996e8d3b91e93f1f766c12914e0ce185": {
-    "title": "I ran Muse Glimmer @ 1M context - All tests passed.",
-    "seen_at": "2026-08-11T06:42:03.739657+00:00"
-  },
-  "d316fb59592cd8fa04218d01a9e309a1a4e4cfa4ec68b6b18b63a76b16e11ac2": {
-    "title": "AIを「便利な議事録係」で終わらせない、NECが生成AI時代に挑んだ“最後の基盤改革” - ビジネス+IT",
-    "seen_at": "2026-08-11T09:46:52.799207+00:00"
-  },
-  "7a18f7a0bcca5e9f7449a4afd1891416c106453a5d2c4565194b75e6a65b7a8c": {
-    "title": "「生成AIユーザーは見る目がない」——VTuberサムネイルを巡る”手描き詐称”論争 - shiritomo",
-    "seen_at": "2026-08-11T09:46:52.799214+00:00"
-  },
-  "2e5594c8dcf885044d6fb3945d06226aaa0a3778d92646848d87a8afef6c9824": {
-    "title": "声もパブリシティ権の対象に 法務省検討会が生成AI時代の民事責任を整理 - 千葉テレビ放送",
-    "seen_at": "2026-08-11T09:46:52.799220+00:00"
-  },
-  "6e50f8d3c22729860fa7eec0f8cfcc0a8de22a8eb2d3e813cd506f9ba48b87d8": {
-    "title": "AnthropicのClaudeが167年未解決の数学最大の難問「リーマン予想」の証明を前進（ビジネス＋IT） - Yahoo!ニュース",
-    "seen_at": "2026-08-11T09:46:53.320306+00:00"
-  },
-  "9c3d10a553aa289672d3c580dd09403d0f90492248a993527119eb43ea13bad5": {
-    "title": "AnthropicのClaudeが、167年未解決の数学最大の難問「リーマン予想」の証明を前進 - ビジネス+IT",
-    "seen_at": "2026-08-11T09:46:53.320311+00:00"
-  },
   "2531aefa20557f6020a673637004a033347fa99323eed9cc5f384db83908168e": {
     "title": "Anthropic、Claudeに不可視の透かしを埋め込み AI生成テキストのコピペ後も追跡可能に - BigGo ファイナンス",
     "seen_at": "2026-08-11T09:46:53.320314+00:00"
@@ -11998,5 +11914,89 @@
   "9109919fbbf3e3d5ce8daea4b9e4b81ddd4d5ddb36fe7e978ff568a89787057a": {
     "title": "OpenCode with Qwen3.8-27B for Small Games or Browsing the Web With 16GB VRAM",
     "seen_at": "2026-08-26T09:28:11.855224+00:00"
+  },
+  "3610ed80e9c903e0e9babb64859d0b18116dcad344992a028277412d09b2f2a3": {
+    "title": "画像生成AIの学習GPU時間を最大63％削減、バイトダンスが新手法「DiffusionOPSD」公開 - ビジネス+IT",
+    "seen_at": "2026-08-26T12:22:46.249274+00:00"
+  },
+  "5362960c4c4e1afb857b70788b576d35ab0e75651bb0bcdcef20de651c8719a1": {
+    "title": "生成ＡＩデータセンター誘致へ連合体設立 県内市町など32機関 - 愛媛新聞",
+    "seen_at": "2026-08-26T12:22:46.249283+00:00"
+  },
+  "26364a78a986d9796ec93311d15634c567d5ff489a0b7320616fe63f0e0cc237": {
+    "title": "生成ＡＩデータセンター誘致へ連合体設立 県内市町など32機関 - 47NEWS",
+    "seen_at": "2026-08-26T12:22:46.249291+00:00"
+  },
+  "f6db95cae9eeeff00a13ca85648a71ae98e952e395cd6dce781f5a8766fd4a03": {
+    "title": "Tシャツ・スニーカーでの軽装勤務や生成AI活用など 働きやすさと業務効率化に向けた宮城県の取り組み始まる - TBS NEWS DIG",
+    "seen_at": "2026-08-26T12:22:46.249295+00:00"
+  },
+  "c3149cfaecf910c42b50622d3b3c80158cfdcbee4b8c0d0353c075f1a0ad542f": {
+    "title": "同じ誕生日の重岡大毅＆原菜乃華、“兄妹”そろって浴衣姿を披露！生成AIの誕生日プレゼントに「ハッピー！」と大爆笑 - Yahoo!ニュース",
+    "seen_at": "2026-08-26T12:22:46.249300+00:00"
+  },
+  "2300b35ab7b2972e197f8234290aabdad9fe25491b4718a00dd54871b3733b69": {
+    "title": "株式会社プエンテ、日経「生成AIサミット2026」IMPACT PITCHに選出 ― SaaS「知識の複利ループ」応援投票受付中（9/6まで） - PR TIMES",
+    "seen_at": "2026-08-26T12:22:46.249303+00:00"
+  },
+  "740ae9b7fdea49895ac8b54c538c5a872bda53e35b75ab33086311e9cd288f34": {
+    "title": "生成AIで作った資料を、ビジネスで使える品質へ。『デザポ for 生成AI』提供開始 - 時事ドットコム",
+    "seen_at": "2026-08-26T12:22:46.249306+00:00"
+  },
+  "fd5a53f55ad64b6fac7c5589d2ce52389f2da0297467cf9bce43815a8b237edd": {
+    "title": "【視察】AI博覧会Summer2026｜生成AI｜リスキリング｜ロボット本日はAI（人工知能）... - 選挙ドットコム",
+    "seen_at": "2026-08-26T12:22:46.249309+00:00"
+  },
+  "0f2e1cc5f586f38991c47eddf4ab2e1c2431c0b56e1d3b342f9846eb72d2e601": {
+    "title": "Tシャツ・スニーカーでの軽装勤務や生成AI活用など　働きやすさと業務効率化に向けた宮城県の取り組み始まる - ｄメニューニュース",
+    "seen_at": "2026-08-26T12:22:46.249313+00:00"
+  },
+  "a04e60877c45f94801d1bb6732961c81ef996f887b92af794c21ec0b5a100b5d": {
+    "title": "人類史の歩みを書き換えるストラテジーシリーズ最新作『HUMANKIND 2』発表もトレイラーに生成AI利用を疑う声―公式は“実写撮影”だと説明 - Game*Spark",
+    "seen_at": "2026-08-26T12:22:46.249315+00:00"
+  },
+  "1e8793147cdc4a582c9998dee5a581d0db5925eabcd2c552ddfedb8df21f9df2": {
+    "title": "Shopify CEOがClaude Codeの利用停止を示唆、AnthropicがAGENTS.md互換性論争についに回答 - BigGo ファイナンス",
+    "seen_at": "2026-08-26T12:22:46.881894+00:00"
+  },
+  "6f55c4be71586d65c90f857a28616df03cd1446dc33832f72809b8b1ad1fb5b4": {
+    "title": "Claudeで使用される記憶を統合。いつでもどこでも作業は引き続き実行可能に - 株式会社インプレス",
+    "seen_at": "2026-08-26T12:22:46.881899+00:00"
+  },
+  "f13183ed5953458823eb25bf9781765a52ac6561e173f73061883a2b50590ecf": {
+    "title": "OpenAI幹部流出止まらず｜データセンター統括のクリス・マローン氏も退社 - innovaTopia",
+    "seen_at": "2026-08-26T12:22:47.671568+00:00"
+  },
+  "cf5680c66a885b7334b80ebbad980297432a3158cf05871b1ec613547cf229fc": {
+    "title": "Google、金融サービスの専門向けGemini Enterpriseをローンチ - 株式会社インプレス",
+    "seen_at": "2026-08-26T12:22:48.393038+00:00"
+  },
+  "57de71a986635f8f80e01bb820bc4fc910a6dde845678a0f7455f7e010ac7090": {
+    "title": "Perplexity、AIエージェントを完全ローカル実行する「Portable Computer」発表 - BigGo ファイナンス",
+    "seen_at": "2026-08-26T12:22:49.006428+00:00"
+  },
+  "e98b86f9cdf4f9c3dd0fc4c1715ae3ffc6439b221f49813603a262310e676d16": {
+    "title": "面倒なパソコン仕事はAIエージェントに任せる。中小企業のDXを支援する「ドラボット」、福岡「第14回 解決市場」に出展 - ニコニコニュース",
+    "seen_at": "2026-08-26T12:22:49.006438+00:00"
+  },
+  "9f0a17369916fecd13a557be581a0f392205d71a5faa6258ffab21e37ae36659": {
+    "title": "従業員22名で営業利益5.2億円のチャットプラス、企業のAI導入を支援する「AXソリューション」を提供開始 - STRAIGHT PRESS",
+    "seen_at": "2026-08-26T12:22:49.006441+00:00"
+  },
+  "a9c204e117f936d5f4d5e879a9726b3fb029404b94ccd3ed34eda760e5bd211b": {
+    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+    "seen_at": "2026-08-26T12:22:49.551528+00:00"
+  },
+  "08bafbe5018682efe5102b0a7b293e02e3af31279f0d20625f924b8ff489b3ba": {
+    "title": "Z.AI confirms Ox Alpha is a GLM model, plans to release its weights",
+    "seen_at": "2026-08-26T12:22:50.684514+00:00"
+  },
+  "e56b1111c7114bcf1214d9af889880e55bd83d64054e364d853a745436072f6d": {
+    "title": "Confirmed: Z.AI Made Ox Alpha Stealth Model That Rivals DeepSeek",
+    "seen_at": "2026-08-26T12:22:50.684519+00:00"
+  },
+  "11ac90aa9800440585f5f4a4dc2faf6ab4a439ade86ab3b781f933a2856a4806": {
+    "title": "we made Qwen 3.8 27b MLX vision quants and compared them against other popular community publishers (lm-studio, lukaskremla, mlx-community and etc)",
+    "seen_at": "2026-08-26T12:22:50.684525+00:00"
   }
 }
