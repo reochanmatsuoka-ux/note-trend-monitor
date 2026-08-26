@@ -1,84 +1,4 @@
 {
-  "357050274eed94f31d511ebf0419e555e801193e33df3aa8cc86bab3a51ac28f": {
-    "title": "Geminiの責任者が更迭？Google AI再編、Deep Mindトップハサビス氏が実務から退く - すまほん!!",
-    "seen_at": "2026-08-11T09:46:54.495308+00:00"
-  },
-  "4ad8ec30dc064aab58ba917e739fefee492f2ef6de58a079b8ef279a4be2bfbc": {
-    "title": "AIエージェントを「従業員化」する企業が急増、新たな組織図が招く自信喪失とミスの連鎖 - Forbes JAPAN",
-    "seen_at": "2026-08-11T09:46:54.985311+00:00"
-  },
-  "081d596d01ed7eaa54108349d27164cca401e0362a8263840127b9e793130a17": {
-    "title": "企業の88%がAIエージェント導入 KPMG調査、5年内に必須スキルへ - 36Kr Japan",
-    "seen_at": "2026-08-11T09:46:54.985317+00:00"
-  },
-  "8baf58dd779eab238934b69aa0c60655316ea8d5390bcdb57055d7e1f59461ba": {
-    "title": "Siemens、AIエージェントで半導体設計を自動化…「エンジニアが寝ている間に検証・修正」 - BigGo ファイナンス",
-    "seen_at": "2026-08-11T09:46:54.985319+00:00"
-  },
-  "766c297bd1be38205e9501bdf32700b447af3258329ec3a7f0fcbe2559273bcd": {
-    "title": "2026年世界AIエージェント産業調査レポート｜QYResearch - note",
-    "seen_at": "2026-08-11T09:46:54.985325+00:00"
-  },
-  "221e404af1d32f340edf628538830fef0398580753b5546328f3b3b181585904": {
-    "title": "AIエージェント経済の転換点が確立：コンピューター操作の時給が6ドルを下回り、精度は人間を超える - BigGo ファイナンス",
-    "seen_at": "2026-08-11T09:46:54.985328+00:00"
-  },
-  "2d4a8cfe8787b3a9d8f39499e5ec7fba0bb9ffc1371bf3b4287a630879db5c9d": {
-    "title": "シーメンスEDAがAIエージェント投入設計加速 - CHOSUNBIZ - Chosunbiz",
-    "seen_at": "2026-08-11T09:46:54.985332+00:00"
-  },
-  "16324d65d58ac05087c78f4e941bf95d2b92034903d24bd09bdd5f15a3a77e5f": {
-    "title": "Luth-2: New State-of-the-Art French Small Language Models",
-    "seen_at": "2026-08-11T09:46:56.147946+00:00"
-  },
-  "3ffeb8a2e3a85e40fb660f9b76893e5f10ee0c676bb0bbee8375f7854c0cd632": {
-    "title": "DeepSeek-V4-Flash acting as my Linux sysadmin",
-    "seen_at": "2026-08-11T09:46:56.147952+00:00"
-  },
-  "02daf36c0494199b392b918163ae5a3183bd38baa7198042b0e926663a99af53": {
-    "title": "Why have 8B-12B models been dropped?",
-    "seen_at": "2026-08-11T09:46:56.147955+00:00"
-  },
-  "e04274f711abfad738ca833b6ddd1ef1dfe609b75f09041a114d0831bcdebfbb": {
-    "title": "Add CI targets for ROCm 7.14 by superm1 · Pull Request #25775 · ggml-org/llama.cpp",
-    "seen_at": "2026-08-11T09:46:56.147956+00:00"
-  },
-  "240bcc56a2bbf7185f178d2b71ad788c161cf3cefd54c656dd970f89e2e7e51b": {
-    "title": "Muse Glimmer 30B + DFlash speculative decoding on vLLM: 6 patches needed, 25 → 57 tok/s. Dockerfile and numbers inside.",
-    "seen_at": "2026-08-11T09:46:56.147958+00:00"
-  },
-  "33fed6b9b27b90e78d3e08e81cdf9205e15bdefdc4956878d4b1b68ba8b4add9": {
-    "title": "AnthropicがClaude Fable 5の生物学セーフガードを更新、無害な誤検知を改善 - ビジネス+IT",
-    "seen_at": "2026-08-11T12:35:00.673876+00:00"
-  },
-  "80833786e7c6200c7e57324dde00e1b1742a29e8646ae150df9128f580c780d7": {
-    "title": "Ghostjacking｜Cloudflare実証、遮断ログがAIへの命令経路に - innovaTopia",
-    "seen_at": "2026-08-11T12:35:00.673887+00:00"
-  },
-  "a01e808d6bff600d2457f72c124fc37a3396c27977a64000aadd4676ad37555b": {
-    "title": "Tested in Coding: BF16 Muse Glimmer vs BF16 Qwen3.6 27B",
-    "seen_at": "2026-08-11T12:35:07.696398+00:00"
-  },
-  "cd5951b7a2a7dd59e6db70875ffa3b07f001be8f34c02b7f1997831a140ab644": {
-    "title": "We even got a fgn manifesto!! Meta is on a run!",
-    "seen_at": "2026-08-11T12:35:07.696404+00:00"
-  },
-  "b62d446ef6bc96f9aca6c919bfc654bf58598dc6b6b4465ae181022a7f2bd47d": {
-    "title": "Rumored 50-series Super refresh bumps everything +50% VRAM",
-    "seen_at": "2026-08-11T12:35:07.696407+00:00"
-  },
-  "390c279b987beb9cb38eab6a5f4cbb20519fbebd0ec479f4698696a5647c26fb": {
-    "title": "What can us 8 GB VRAM poors do?",
-    "seen_at": "2026-08-11T12:35:07.696411+00:00"
-  },
-  "9fd261edf546eff7be4c02067d04925a8cd9f822495f1fd634cf88198a775f84": {
-    "title": "The small open weight models are scarier in AI development",
-    "seen_at": "2026-08-11T12:35:07.696416+00:00"
-  },
-  "855b62b9e46cf702bf4f77e90124cf40ab55219700212729ee633eab15cad12b": {
-    "title": "生成AIのテキスト出力に透かしが入るなど 日刊出版ニュースまとめ 2026.08.12 - HON.jp",
-    "seen_at": "2026-08-11T15:45:34.709865+00:00"
-  },
   "6012e809f521d3fc8ad557f9e46308a88c78d68f76e7ab6d5ca5c0dd6fb60da5": {
     "title": "Anthropic、Claudeなどの生成文に電子透かしを導入 欧州AI規則に対応 - Межа. Новини України.",
     "seen_at": "2026-08-11T15:45:35.207817+00:00"
@@ -11998,5 +11918,85 @@
   "001c6160a291371b71de9a7dda3e0e774cafda64bbecc90b8b92a3d2d9392a96": {
     "title": "Gemma4 31B vs Qwen3.8 27B - why the huge difference in benchmarks?",
     "seen_at": "2026-08-26T16:08:04.293500+00:00"
+  },
+  "4047af6a6bc73fb63946aa89425910e8ddf2d5a85e8714df72a7a82267ce6d48": {
+    "title": "生成ＡＩを体験 横浜国大で夏休み教室 - タウンニュース",
+    "seen_at": "2026-08-26T19:27:38.280798+00:00"
+  },
+  "23e1ed5d425a70ecc9d10956a4ebc89cad1e0e198d5b3dcb4210066e657cc323": {
+    "title": "教師向けの Claude for Teachers と Claude for Education - Pasquale Pillitteri",
+    "seen_at": "2026-08-26T19:27:38.972651+00:00"
+  },
+  "c5634fa1f52336d010d45fc6153fc53fd50354396308acd847ecec685d05d22f": {
+    "title": "OpenAIが「教師向けChatGPT」を10万人以上の教育者に拡大 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-08-26T19:27:39.547259+00:00"
+  },
+  "ee45db5a0c315b3c21db2e2545a8f6cfd54798ea9858b6baadd18242177feb1f": {
+    "title": "ChatGPT・Geminiにも伝わるホームページ制作サービス「AIに選ばれるHP」を公開 - AERA DIGITAL",
+    "seen_at": "2026-08-26T19:27:39.547264+00:00"
+  },
+  "07d332dfd6d6f528a94d4e5001c27cae1b45ed7c544c6ade11762924e85d9132": {
+    "title": "アレックス・コルビル：老化研究分野は「ChatGPTモーメント」を引き起こす一勝を待っている - BigGo ファイナンス",
+    "seen_at": "2026-08-26T19:27:39.547267+00:00"
+  },
+  "01ce6a50a1630a8c5f6ef93e12cf26e948258e34f92a7a8deeb1fa80ee3a9306": {
+    "title": "OpenAIがChatGPTで偽シンクタンクを作りクレムリンを称賛したロシアのネットワークを遮断 - Pasquale Pillitteri",
+    "seen_at": "2026-08-26T19:27:39.547270+00:00"
+  },
+  "74377017797e100aa90c1d18cab1eecc589827a5e3399f308b6e10b8defd8085": {
+    "title": "ウォールアイのウィル・イングランドCEO、運用資産100億ドル（約1.6兆円）のファンドで従業員の75%がChatGPTを毎週使用と明かす - BigGo ファイナンス",
+    "seen_at": "2026-08-26T19:27:39.547273+00:00"
+  },
+  "720d966a3e7e8c05b52e5ddd7bc45c0906887958396241df33553f87baac8ccd": {
+    "title": "MCPの新ロードマップ公開、今後はAIエージェント対応、HTTP通信への統一、アイデンティティ、よりよいデベロッパー体験などに注力 - Publickey",
+    "seen_at": "2026-08-26T19:27:40.702328+00:00"
+  },
+  "6e0945af758c8658b032db238ae2b471a082e5d145719526bee49d2a97a0e31e": {
+    "title": "Waystar、自律型請求処理とAIエージェントを収益サイクル基盤全体に展開 - BigGo ファイナンス",
+    "seen_at": "2026-08-26T19:27:40.702334+00:00"
+  },
+  "e4313df074964f5de5b788e6593e324071df2a813cfe907af84f384b22276313": {
+    "title": "【2DAYS・8時間】1名から参加できるClaude Code超実践コースを提供開始 - Infoseek",
+    "seen_at": "2026-08-26T19:27:40.702336+00:00"
+  },
+  "a9aa5e21256b73f119342c323f9a68e8daa6ffaae942e5688008bb2e0b4e812f": {
+    "title": "NVIDIA「Groq 3 LPX」が量産開始、毎秒3,400トークンでAIエージェントの応答を高速化 - 財経新聞",
+    "seen_at": "2026-08-26T19:27:40.702339+00:00"
+  },
+  "4472fdd29af4a89fc9fd5c9886abe1088f945dbc3ed59859b0882ad142f3781a": {
+    "title": "AIエージェントを通じたCX変革を中期戦略として推進するAICX協会有識者理事に三宮健太氏が就任 - ニコニコニュース",
+    "seen_at": "2026-08-26T19:27:40.702342+00:00"
+  },
+  "3a2ea302945dd682c91fb65583fbfd8985a5f3499acbaa93379e07dea4e1c89c": {
+    "title": "Can we reconsider the megathreads?",
+    "seen_at": "2026-08-26T19:27:57.002906+00:00"
+  },
+  "e8464a6a3f91a36356231c8cb27d9d50702238fc69570e1db414b05a034ac093": {
+    "title": "Whoever the fuck predicted we would have gpt 5.5 performance in coding on consumer hardware a couple months ago now, i applaud you",
+    "seen_at": "2026-08-26T19:27:57.002911+00:00"
+  },
+  "d32ec67f50eeefbc718eb6a5544ff274aa987b708ee14e58a48b122893a17ef3": {
+    "title": "Are models with N-Gram tables going to completely change the AI race?",
+    "seen_at": "2026-08-26T19:27:57.002916+00:00"
+  },
+  "70bc180db9eaf5235da9a1799164b0170b8e8dccb96d418115ddb2a1f79c05cb": {
+    "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+    "seen_at": "2026-08-26T19:27:57.002918+00:00"
+  },
+  "7b27b952aced2d3a2860c9ab1d21ee3a3f6d2b0623e5588ff5e75b9097ee5f45": {
+    "title": "Self-hosting LLMs on budget hardware: general principles, hardware, benchmarks and frontends",
+    "seen_at": "2026-08-26T19:27:57.002923+00:00"
+  },
+  "632bd00bf3bae2100945bc5b3e49e2ac9d7cc1a7ed1311a119295d8228158a54": {
+    "title": "little tool for offline wikipedia RAG",
+    "seen_at": "2026-08-26T19:27:57.002926+00:00"
+  },
+  "66b9ee9b2bc03834ab6db9e7dd2d71e661c8a15e8d42368203f3d4239c0d6c60": {
+    "title": "Anyone else doing eGPUs (OCuLink)?",
+    "seen_at": "2026-08-26T19:27:57.002928+00:00"
+  },
+  "a4ba655a580b41043b838b4027d55cd1a2162b894727fad56605582a84b92545": {
+    "title": "What's your most reliable model, even if it's \"outdated\"?",
+    "seen_at": "2026-08-26T19:27:57.002931+00:00"
   }
 }
