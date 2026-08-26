@@ -1,36 +1,4 @@
 {
-  "2531aefa20557f6020a673637004a033347fa99323eed9cc5f384db83908168e": {
-    "title": "Anthropic、Claudeに不可視の透かしを埋め込み AI生成テキストのコピペ後も追跡可能に - BigGo ファイナンス",
-    "seen_at": "2026-08-11T09:46:53.320314+00:00"
-  },
-  "0f71c67aa38e9113dae16b62ee316be097006a81d08e806c72ebd08d5c3847b7": {
-    "title": "Anthropic、Claude生成文に不可視ウォーターマーク実装 - 디지털투데이",
-    "seen_at": "2026-08-11T09:46:53.320316+00:00"
-  },
-  "df57fcf13b1e57c4836510fd101ace020f6aa7f6ddd7d73887df0dd7a35164de": {
-    "title": "OpenAI、サイバーセキュリティ特化モデル「GPT-5.6-Cyber」を発表 - ビジネス+IT",
-    "seen_at": "2026-08-11T09:46:53.976691+00:00"
-  },
-  "3dc8d35f6679edd3e097222b09859830f81ea8038a4701a399bad70e1f16c966": {
-    "title": "ChatGPTの回答はどこで？ 「今さらに聞けない」AI時代を支える半導体の世界 - 47NEWS",
-    "seen_at": "2026-08-11T09:46:53.976695+00:00"
-  },
-  "7647530d1cbcc9d1205a3002797f6f27218b0921e17047b84c114b3b991596c0": {
-    "title": "ChatGPTの回答はどこで？ 「今さらに聞けない」AI時代を支える半導体の世界 - 週刊大阪日日新聞",
-    "seen_at": "2026-08-11T09:46:53.976698+00:00"
-  },
-  "bf773e042d37befc4156deff4223bd0e61105f38aafc5cb6d03a54f352a5e738": {
-    "title": "OpenAIがGPT-5.6-Cyberを限定アクセスで提供開始 - BeInCrypto",
-    "seen_at": "2026-08-11T09:46:53.976701+00:00"
-  },
-  "172f1dd29ecfd037fb0d1ab66df2c268fa5f8015802e50e8363f41192343967e": {
-    "title": "OpenAIが既存株70億ドル買い戻し 企業価値8520億ドル維持 IPO時期先送り - CHOSUNBIZ - Chosunbiz",
-    "seen_at": "2026-08-11T09:46:53.976708+00:00"
-  },
-  "031a72e7a1a7d09d94c03be13bf863db946f3ab7185f9510937a65db82fb7894": {
-    "title": "OpenAIがサイバー特化モデル「GPT-5.6-Cyber」を発表、 一般モデルが拒否する高度な攻撃リクエストの95％に応答 - Yellow.com",
-    "seen_at": "2026-08-11T09:46:53.976714+00:00"
-  },
   "357050274eed94f31d511ebf0419e555e801193e33df3aa8cc86bab3a51ac28f": {
     "title": "Geminiの責任者が更迭？Google AI再編、Deep Mindトップハサビス氏が実務から退く - すまほん!!",
     "seen_at": "2026-08-11T09:46:54.495308+00:00"
@@ -11998,5 +11966,37 @@
   "11ac90aa9800440585f5f4a4dc2faf6ab4a439ade86ab3b781f933a2856a4806": {
     "title": "we made Qwen 3.8 27b MLX vision quants and compared them against other popular community publishers (lm-studio, lukaskremla, mlx-community and etc)",
     "seen_at": "2026-08-26T12:22:50.684525+00:00"
+  },
+  "a5a39ecb23d58c5e2647584a3c14e357abfb722ebdda7141fb3ab9e4ec5b41e2": {
+    "title": "A curmudgeon tries a language server",
+    "seen_at": "2026-08-26T16:08:03.561755+00:00"
+  },
+  "f1a6b102b96470a38b53019ad24dc3d94d18e004d12a15ae2713a01b50e4f911": {
+    "title": "[Megathread] GLM-5.3-Flash - former ox-alpha",
+    "seen_at": "2026-08-26T16:08:04.293484+00:00"
+  },
+  "5a9a51c400cf66487539d11f10d457bd211efc04f1ac3c7c6b4b97050268f047": {
+    "title": "GLM-5.3-Flash: Frontier Intelligence, Flash Cost",
+    "seen_at": "2026-08-26T16:08:04.293489+00:00"
+  },
+  "0bba52851bcd78cde7a4131e2e74675b113a984313e67d71fd9cdc42b95be193": {
+    "title": "zai-org/GLM-5.3-Flash · Hugging Face",
+    "seen_at": "2026-08-26T16:08:04.293492+00:00"
+  },
+  "f71d82c1640d7f7e2be52840e4c0a3c72a172bf57a35f6ba584cfed5f2a17c01": {
+    "title": "A minecraft clone I fully vibecoded with Qwen3.8-27b Q4",
+    "seen_at": "2026-08-26T16:08:04.293494+00:00"
+  },
+  "cb1445e067e60e696a36a87a14f1703e80842094d2018b91ffe657dc6a567e4e": {
+    "title": "Forget the Pelican, it's Weevil-Time! / Benchmaxxing-Proof SVG and Vision Benchmark",
+    "seen_at": "2026-08-26T16:08:04.293496+00:00"
+  },
+  "34c3805523599caaaad5094b0a8b2093e04caf31141f361d1b7dde15e2a98219": {
+    "title": "HF exploring sale - impact on open models?",
+    "seen_at": "2026-08-26T16:08:04.293498+00:00"
+  },
+  "001c6160a291371b71de9a7dda3e0e774cafda64bbecc90b8b92a3d2d9392a96": {
+    "title": "Gemma4 31B vs Qwen3.8 27B - why the huge difference in benchmarks?",
+    "seen_at": "2026-08-26T16:08:04.293500+00:00"
   }
 }
