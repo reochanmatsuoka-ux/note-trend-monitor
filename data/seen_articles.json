@@ -1,48 +1,4 @@
 {
-  "0654496cd8bac5890817d9f53f14092544590bed9afe43ca16f11e69b14fb8c6": {
-    "title": "ジンベイ、「AIエージェントDXPO東京'26【夏】」へ出展 - イザ！",
-    "seen_at": "2026-08-12T04:30:40.155263+00:00"
-  },
-  "b400de80af8ee4d71a69b1f394b80a1a61323fa32493b549a88bb66c08587248": {
-    "title": "GMO-PG、UCPを採用した「独自決済ソリューション」を構築 ecbeingがPoC完了 - ECのミカタ",
-    "seen_at": "2026-08-12T04:30:40.155265+00:00"
-  },
-  "e839d7ef89c8483de837bd204c9e36c3f89b269119b854d4e8494f8407745f30": {
-    "title": "NVIDIAがAIエージェント向け高速モデル「Nemotron 3.5 Lightning」を公開、最適なAIモデルを選ぶ「NeMo Switchyard」も登場 - GIGAZINE",
-    "seen_at": "2026-08-12T04:30:40.155268+00:00"
-  },
-  "fff0563e7671942ff6180312d823d621550bbc7c1de9392d9a998749dac8e6d9": {
-    "title": "SpaceXAIが24時間働くAIエージェント「Grok Bot」をリリース、Windows・macOS・Linux・iOSに対応しエージェント1体ごとに専用クラウドPCを操作 - GIGAZINE",
-    "seen_at": "2026-08-12T04:30:40.155271+00:00"
-  },
-  "819991415069701a319ab8d433b95af7faceca5befc88054418555eb1e9f5e2d": {
-    "title": "株式会社DENCYU、対話型データ活用AIエージェント「DataBuddy」を「第5回 バックオフィスDXPO東京’26【夏】」に出展 - ニコニコニュース",
-    "seen_at": "2026-08-12T04:30:40.155275+00:00"
-  },
-  "1587cecb57d19a5c4d550cad358277427a9472da5e25bffa5de9e8c462a322ee": {
-    "title": "【宮崎AIギルウド】新メンバー加入記念｜佐々木義和氏登壇、「Amazon（EC）運用×Claude Code活用セミナー」を8月25日に無料開催！ - Excite エキサイト",
-    "seen_at": "2026-08-12T04:30:40.155277+00:00"
-  },
-  "bad41506c05a65ab7e6481258fbc398aa3a1901e79500db9af71b4af0a4299a3": {
-    "title": "NVIDIAやCiscoなど約120組織、AIエージェント事故の報告枠組み「SAFE」整備へ - 디지털투데이",
-    "seen_at": "2026-08-12T04:30:40.155280+00:00"
-  },
-  "a3103fdc49f1094b8905548abf5c86c62a49f27a03f58b75e7502b283238dd14": {
-    "title": "Meta、AIエージェント「MUSE Glimmer」公開 個人向け超知能構想も打ち出し - 디지털투데이",
-    "seen_at": "2026-08-12T04:30:40.155283+00:00"
-  },
-  "ab8702880b99faf3c1eaae91e0fecbda9d8e85c52b2e6e1e19eb730634bba1d3": {
-    "title": "ジンベイ、「AIエージェントDXPO東京'26【夏】」へ出展 - Excite エキサイト",
-    "seen_at": "2026-08-12T04:30:40.155286+00:00"
-  },
-  "badf856ac0a5ecb3ffc67dbbf243e3fa18bcd9a460073255252db98963618118": {
-    "title": "非エンジニアのための「Codexセミナー」をSTUDY HACKERと共催（連載第2弾）、8月26日オンライン・8月29日銀座で開催 - ニコニコニュース",
-    "seen_at": "2026-08-12T04:30:40.155289+00:00"
-  },
-  "f07b69665eb606e6d471d754f9c86d9d3ec0978bbbb127e2318374923959e365": {
-    "title": "New Muse-Glimmer-30B SoTA Quants - hopefully a new lineup :)",
-    "seen_at": "2026-08-12T04:30:45.519770+00:00"
-  },
   "e3fa43d2178973fa87347798ecdd5d4b2a28d918f7450b8f788def45ad610e04": {
     "title": "Meta glasses with local models",
     "seen_at": "2026-08-12T04:30:45.519778+00:00"
@@ -11998,5 +11954,49 @@
   "3751d90803e62196eba7f5ee7aaf5e6a0f80e691497ec2bf3871ecfc273e3456": {
     "title": "[feat] support dspark (Nanbeige4.2-3B) by zqlcode · Pull Request #27730 · ggml-org/llama.cpp",
     "seen_at": "2026-08-27T08:11:31.189510+00:00"
+  },
+  "1a0e1af956d98af17a11781d454cba86de641d10b244e3463ff59982428dd11b": {
+    "title": "Qwen3.8-Flash-Next better then DeepSeek V4 Pro",
+    "seen_at": "2026-08-27T13:12:42.054375+00:00"
+  },
+  "dd5d539a9bfeaa75f8ca61b13d23f1217c1d0d3c8093032dad3917725d6da958": {
+    "title": "Nvidia is buying Huggingface for $12.9 billion",
+    "seen_at": "2026-08-27T13:12:42.054383+00:00"
+  },
+  "0f3cb47824b140583643a7ba5a0b1a84f8f1cb2a40142917c4aa041c4f4fa6f2": {
+    "title": "llama : add --n-cpu-ffn option by John-194 · Pull Request #26622 · ggml-org/llama.cpp",
+    "seen_at": "2026-08-27T13:12:42.054386+00:00"
+  },
+  "1119c5931cd278fafa878edfb4f71daa32ba25e3cea8ae6eb5d569cb1e8a6e3f": {
+    "title": "What are the minimum specs required to run Qwen3.8-Flash-Next?",
+    "seen_at": "2026-08-27T13:12:42.054390+00:00"
+  },
+  "b351cafea04ced6f123f2a0e8ccb616424ba499bf40ee662270e27f5010e0820": {
+    "title": "Qwen3.8-Flash-Next: Time to Update Those Benchmarks",
+    "seen_at": "2026-08-27T13:12:42.054393+00:00"
+  },
+  "781e6a6837246708ea7d1bc635eb5887efc5d113db18cceac4c6fd0e610d03c2": {
+    "title": "Hosting model files - a prime candidate for torrents?",
+    "seen_at": "2026-08-27T13:12:42.054396+00:00"
+  },
+  "21ed18a40a6fd92a7df5e5b6de65466813f8667aa9593c298cc85df5d1118283": {
+    "title": "DeepSeek V4 0731 -> Qwen 3.8 Flash -> GLM 5.3 Flash (and back again!)",
+    "seen_at": "2026-08-27T13:12:42.054400+00:00"
+  },
+  "007526731963cd48b370e290b6f72b002ae9e2f509f813f6d7ff4a7b341d3b53": {
+    "title": "Has anybody got Qwen3.8 Flash to work on 2x DGX Sparks?",
+    "seen_at": "2026-08-27T13:12:42.054402+00:00"
+  },
+  "d90675622b8f3d91d79c9d3b8c90f884043af0c5a9f8d3c4a0fb76ead8f17b70": {
+    "title": "Why can't we make MoE routers predict experts needed in the next 5-10 tokens?",
+    "seen_at": "2026-08-27T13:12:42.054407+00:00"
+  },
+  "f43d88fece7e5a1914cf1ed16de3bd986e4f8f5d6e2a80a781e2cf62d9238e9f": {
+    "title": "OpenCode Senses: The most advanced Local Vision Plugin for OpenCode That Actually Understands Images",
+    "seen_at": "2026-08-27T13:12:42.054409+00:00"
+  },
+  "edc7108281089e98d1a869b84c1871619124ea3dd4f087e037f10616d7bdfcf3": {
+    "title": "What's this Apodex thing? (AMA prep)",
+    "seen_at": "2026-08-27T13:12:42.054412+00:00"
   }
 }
