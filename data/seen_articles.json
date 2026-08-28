@@ -1,104 +1,4 @@
 {
-  "6666132f17933a076c7b9a4a243199ff0f3e106a6072bf7d480955d4b9e95a9f": {
-    "title": "DeepSeek-V4-Pro-0813 is UP!",
-    "seen_at": "2026-08-12T15:46:17.308114+00:00"
-  },
-  "9d5be3c76fb2531e37917269074403124a0ff5b8debe1ad00b5a55347713a0ed": {
-    "title": "Qwen3.8-Max",
-    "seen_at": "2026-08-12T15:46:17.308117+00:00"
-  },
-  "a3132a52321110dfa99b5c966f5d3a7bb783bf295a9f8a5bf3a8a85535b6f206": {
-    "title": "Qwen 3.8 2.4T is out , no 27b today RIP.",
-    "seen_at": "2026-08-12T15:46:17.308121+00:00"
-  },
-  "0a06380444ed2ca49e8d16f2569633be7603e60fb5c7a2e24fb8ae7b6386d42c": {
-    "title": "LiquidAI/LFM2.5-VL-3B · Hugging Face",
-    "seen_at": "2026-08-12T15:46:17.308124+00:00"
-  },
-  "8ef11a12e71dc4f9dfa057836b0078ef26ab414a505b7dc374d29269d3bc77cd": {
-    "title": "Gemma 4 QAT handles KV cache quantization MUCH better, KLD benchmarks show",
-    "seen_at": "2026-08-12T15:46:17.308128+00:00"
-  },
-  "6d24ac70adf283bd4d4b140c3af1def17e9991c3c33a440aa9a55c584e2633e6": {
-    "title": "Idea for a deepseek-v4-flash-0731 backed automated research workflow to be leveraged via qwen3.6/3.8 27b for difficult tasks that require highly technical, not easy to find information.",
-    "seen_at": "2026-08-12T15:46:17.308131+00:00"
-  },
-  "d4ec80e51e4e1e4cebcbdc0e0ec4ef5b2e9d2d3642fec8c1c3fd956b93bc7bdb": {
-    "title": "【2027年卒 就活・採用川柳】生成AI、初任給、採用早期化……就活・採用の「今」を映す21作品が決定 - HRプロ",
-    "seen_at": "2026-08-12T18:43:19.572535+00:00"
-  },
-  "996eced9ae454763015ae0b6e2a3a9e413a5f40daa1605af69d187555d774676": {
-    "title": "毎日新聞が掲載した被災者の写真を生成ＡＩで加工か、偽画像がＳＮＳで拡散…「被災の実情が否定された気持ち」 - Yahoo!ニュース",
-    "seen_at": "2026-08-12T18:43:19.572556+00:00"
-  },
-  "831c5caba91f0aa87ab63dac4f19c8eed41f66b6ebdd7d46914e302c526277a9": {
-    "title": "LLMナレッジベース：実践ガイド — Ben Holmes（Warp）｜AI Engineer - BigGo ファイナンス",
-    "seen_at": "2026-08-12T18:43:19.572560+00:00"
-  },
-  "a2aa65925a7bfa27ee1395fb7a766ea0c28ab036d8e8b0a8f5df58f20fee1fcd": {
-    "title": "Anthropic、Claudeがリーマン予想の下限値を67.2%に更新｜証明できずに生まれた副産物 - innovaTopia",
-    "seen_at": "2026-08-12T18:43:20.101952+00:00"
-  },
-  "ae62f1e8f7048cac658d15af4bc0a84c8b109bb118a7a5a2ffd6f5239939587e": {
-    "title": "OpenAI、ChatGPT Businessに月額125ドルの「Premium」プランを追加　5時間制限を撤廃 - 財経新聞",
-    "seen_at": "2026-08-12T18:43:20.626349+00:00"
-  },
-  "ce50e0c8d6e18a65b97f41780a08e91d9ccf202735817ef00c84070e8b560d75": {
-    "title": "OpenAI、ChatGPTの利用制限を“取り消す”極秘8ドルボタンを試験導入 - Yellow.com",
-    "seen_at": "2026-08-12T18:43:20.626360+00:00"
-  },
-  "a900c7d043aaf368557705acd51b8e393318a0b677ff820ec42bf1b6dac9be1e": {
-    "title": "Chelsea Finn: Robotics Is Close To A ChatGPT Moment｜Y Combinator Startup Podcast - BigGo ファイナンス",
-    "seen_at": "2026-08-12T18:43:20.626364+00:00"
-  },
-  "9e978d8032cfe44f150601a41c9cf5fb9c594fd716b5b5c19fe8abc7134d98ba": {
-    "title": "中国招商銀行のリテールAUMが18兆人民元突破、AIエージェント「人＋Agent」モデルが本格始動 - BigGo ファイナンス",
-    "seen_at": "2026-08-12T18:43:21.845395+00:00"
-  },
-  "7d2775b67110bdfea0d4071db1f980b0fb2ee12eee9f482f3dddcf11d43b8637": {
-    "title": "Pixel 11の狙いはスマホへの没頭時間削減。Pixelは“気が利くAIエージェント”に - PC Watch",
-    "seen_at": "2026-08-12T18:43:21.845401+00:00"
-  },
-  "173ff1552c5a4440f783d64949dc5470af40ff2b42ab264d7cb4a585a6d5b469": {
-    "title": "Today is Models Day",
-    "seen_at": "2026-08-12T18:43:26.277223+00:00"
-  },
-  "60592b5ac85d8d41a5a28d9663229eab4b4b9838485ad9955c42f8c57b71cf0a": {
-    "title": "Benched a 124B on one DGX Spark for a week and published all of it — 38.7 tok/s on the fastest path he found, 2.4x DeepSeek V4 Flash on the same box",
-    "seen_at": "2026-08-12T18:43:26.277230+00:00"
-  },
-  "9eddca8e1e4a0e86ede2493865e2f0a2e192733ec6945c5d63d4fd872fb6843b": {
-    "title": "Which Qwen3.8 model size do you want the most?",
-    "seen_at": "2026-08-12T18:43:26.277233+00:00"
-  },
-  "9b9802bc70198df4f7c199192148afd198d8ec16bbaf42c11162e805127fcedd": {
-    "title": "CohereLabs/North-Micro-Vision-Instruct · Hugging Face",
-    "seen_at": "2026-08-12T18:43:26.277236+00:00"
-  },
-  "be20fde9ebc850f7ebbc54aed22e37717013ebb280cfa42b5cf08e917def6abc": {
-    "title": "GitHub - Liquid4All/cookbook: Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK",
-    "seen_at": "2026-08-12T18:43:26.277240+00:00"
-  },
-  "c777cc6c9987a0b03a7e84db15b64caa6ea2cec38f1742b1ba1dae4b058c1946": {
-    "title": "Best models 14b and smaller as of today?",
-    "seen_at": "2026-08-12T18:43:26.277243+00:00"
-  },
-  "807bb5267c2b0d67264d653675ac253f16375a8e02f5c8bbacd01cf6437c7888": {
-    "title": "TwitchがAmazonの生成AI学習利用を拒否する設定を導入、初期状態では有効に - Межа. Новини України.",
-    "seen_at": "2026-08-12T21:32:04.756905+00:00"
-  },
-  "a49ba712de4c27597512dbc38976c419d39845f6c335642b9c33a5186136c121": {
-    "title": "ビットコイン186億円流出事件で露呈、OpenAIに締め出された善意のハッカーが頼ったのが中国AIという皮肉 【生成AI事件簿】攻撃側は最新のツールを使えるのに防御側が利用できない非対称、AI安全規制の副作用とは - JBpress",
-    "seen_at": "2026-08-12T21:32:06.023631+00:00"
-  },
-  "cd3dd19e758863673a9ab9be54703d085f79e8845dd66382c11432b7c4c14677": {
-    "title": "OpenAI、ChatGPTの利用上限を即時リセットできる8ドルボタンを極秘テスト - BigGo ファイナンス",
-    "seen_at": "2026-08-12T21:32:06.023638+00:00"
-  },
-  "5f6b80a32a6578e4f71ae9c1127b5c43786a9693c22578ae38dca9e1315ba0d5": {
-    "title": "Grok 4.6が知能指数61点を記録、OpenAI「GPT-5.6 Sol」に並ぶ スペースX株も上昇 - Yellow.com",
-    "seen_at": "2026-08-12T21:32:06.023644+00:00"
-  },
   "8fad8245a228c76506cfc6ca774d724c8df96df9a00529f8b1ce67a9ebd4f78e": {
     "title": "DeepSeek V4 Flash 0731 uncensored (jailbreak pt2)",
     "seen_at": "2026-08-12T21:32:13.558220+00:00"
@@ -11998,5 +11898,105 @@
   "da1cb4f2e9194afaf6f92cdb3448e1e1b70ab5ccb5bd046544ed12a943ebb938": {
     "title": "how to setup llama.cpp and blender to make lovely 3d stuff together",
     "seen_at": "2026-08-28T14:38:40.579262+00:00"
+  },
+  "45a7ed0661deadc15fccde055e142e6eeddcc5cbae7b1fe50d1ccea197e85ab5": {
+    "title": "生成AI「従量課金化」の波、日本企業を襲うリスク…「月額定額」の終焉と「投資100万円未満」が約半数の致命的ギャップ - Infoseek",
+    "seen_at": "2026-08-28T23:43:44.197801+00:00"
+  },
+  "d68e0c30827ca8d641e6a0f1c466578e58b7a37924deff9b26fcc50d155b61ca": {
+    "title": "北海道電力・情報通信部／グループのＤＸ推進、業務変革へ生成ＡＩ利活用 – - 電気新聞ウェブサイト",
+    "seen_at": "2026-08-28T23:43:44.197807+00:00"
+  },
+  "6c1c71586cc099db54d979740989292edb480705366f6891fc338d054606c6e4": {
+    "title": "孫宇晨氏が語るClaudeとの「対立」、AIは人生の決断をどこまで担えるのか - BigGo ファイナンス",
+    "seen_at": "2026-08-28T23:43:46.046431+00:00"
+  },
+  "4184cf1989aab4cb4994e46de5876ce27309734b1cdaf84720479c094245fcb8": {
+    "title": "Salesforce、Anthropicと「Claudeforce」発表…AIエージェント市場を攻略 - BigGo ファイナンス",
+    "seen_at": "2026-08-28T23:43:46.046435+00:00"
+  },
+  "35f5149e0c6f2ad92505cf26e7852bcc570ee576c2a9185faaefe34a835700bb": {
+    "title": "OpenAI、インドでChatGPT広告を開始——「インテント優先」の賭けを試す - BigGo ファイナンス",
+    "seen_at": "2026-08-28T23:43:46.579278+00:00"
+  },
+  "6b478d8b9fc05ef712ea0aa846218af997836f18cf7f58ec47f187b018a01b20": {
+    "title": "「ChatGPT Work」の使い方--AIエージェントを始める10のヒント - Yahoo!ニュース",
+    "seen_at": "2026-08-28T23:43:46.579282+00:00"
+  },
+  "72068fc49c571271989c7650a555415d9b13f68059532a9aaccc041f72b4032b": {
+    "title": "リスクは現実のものだ。 - Vietnam.vn",
+    "seen_at": "2026-08-28T23:43:46.579284+00:00"
+  },
+  "cf674b7c8e0c8b8713a05a81ff9b4e7620cffbe4f59c54273fddb6bebe7c5949": {
+    "title": "Gemini Notebook、利用上限を「計算量ベース」に変更 5時間ごとに回復、9月2日から - マイナビニュース",
+    "seen_at": "2026-08-28T23:43:47.306044+00:00"
+  },
+  "9b01ef5ae71bc333d70a94881b4160fa01103118454ac6496c03a4657e7426db": {
+    "title": "Google が Workspace の有料 AI 機能を選ばれたアカウントに無料開放 - Pasquale Pillitteri",
+    "seen_at": "2026-08-28T23:43:47.306049+00:00"
+  },
+  "62e17c68ad2c1772b9c52175a0aabbf1e0b3881401a1b4fae68c2983a2e3424f": {
+    "title": "GoogleがGemini NotebookにExpert Intelligenceを追加 - Pasquale Pillitteri",
+    "seen_at": "2026-08-28T23:43:47.306052+00:00"
+  },
+  "cfd03fccec18b7741d1af0556e69b6de72d7894a7ae4adc04946e0bc3cbb0685": {
+    "title": "NEC、サプライチェーン業務を自律化する「NEC SCM AIエージェント」を9月に発売 - EnterpriseZine",
+    "seen_at": "2026-08-28T23:43:47.970856+00:00"
+  },
+  "9e028fcfdd2e4ea81ef88678d07bd9655c6c47cdd84da11bf7f6b887d33ce8fe": {
+    "title": "アングル：ＡＩエージェントの「暴走リスク」現実に、見直し迫られるサイバー保険 - ロイター",
+    "seen_at": "2026-08-28T23:43:47.970860+00:00"
+  },
+  "f24c926eefff5e3203ef76f58f68c76e14078e1a722835ca47d5c3c75be3f3c9": {
+    "title": "NEC、多様なサプライチェーン業務を自律実行するAIエージェントを発売へ - LOGI-BIZ online",
+    "seen_at": "2026-08-28T23:43:47.970865+00:00"
+  },
+  "07eec229d40231a8569623164b92c1f258d65cdfdb9d9b1c942a78f3c86ea74d": {
+    "title": "アパホテル宿泊者向けに旅ナカ体験の予約が可能に——JapanTicket、UPBONDのAIエージェントと連携し新たな送客モデルを検証 - 観光経済新聞",
+    "seen_at": "2026-08-28T23:43:47.970868+00:00"
+  },
+  "06cc59cfdddad407f213fb481c603ab479fa0cc68289d45d8cd01c2c1b10129b": {
+    "title": "【セミナー開催】「AI導入を阻む4つの壁」なぜ、AIエージェントはPoCで止まるのか - ニコニコニュース",
+    "seen_at": "2026-08-28T23:43:47.970871+00:00"
+  },
+  "d77cbf7bb12c29a073965a3c5726976a8a525c44e8b34e99ed80d6929136e23a": {
+    "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+    "seen_at": "2026-08-28T23:43:56.350797+00:00"
+  },
+  "2ca26eebdd7011c704b953e8ba4e6c5f66e903e55b0ccbc1c97d5d79fe44eb1b": {
+    "title": "Breeze-TTS-2 initial impressions: genuinely 'frontier' TTS",
+    "seen_at": "2026-08-28T23:43:56.350802+00:00"
+  },
+  "43a749a27f1657a14625c490e750797d7205cb73c7370309416b5cf5d4cfaf45": {
+    "title": "Today I hit 181 toks/s (aggregate) on Qwen3.8-Flash-Next on 2x DGX Sparks",
+    "seen_at": "2026-08-28T23:43:56.350805+00:00"
+  },
+  "bd9762afae2ad92b8dc786a559c1298814f7febb68d085f4a8ec3c47b040083c": {
+    "title": "[Release] SOTA GGUFs for Qwen3.8-27B: GSQ-RCO at 2.5 to 3.0 bpw",
+    "seen_at": "2026-08-28T23:43:56.350807+00:00"
+  },
+  "6579ee56bb914679762b4b23462afe562b05fe34664dbc8c504bf3de8a368e82": {
+    "title": "I audited 443 GGUF quants across 25 repos. 64 of them can't be the quant their filename claims.",
+    "seen_at": "2026-08-28T23:43:56.350809+00:00"
+  },
+  "56cc0239fc2672807c454de187153ed55c229c1623ad4344995303fea2df65eb": {
+    "title": "I benchmarked 9 open models on spotting fake sources during agentic search (DeepSeek V4, Qwen 3.8, Nemotron 3 Ultra)",
+    "seen_at": "2026-08-28T23:43:56.350811+00:00"
+  },
+  "5b5f97b3023ce401c50300320a0a2ba60dc15019e94aec83491aaf24774b403c": {
+    "title": "GLM-5.3 on HF Viewer",
+    "seen_at": "2026-08-28T23:43:56.350813+00:00"
+  },
+  "9165f2ce69e0ef41e0274025c6daba3ebcb1de15c87760345f9a5839daea8f39": {
+    "title": "Can I do anything with this?",
+    "seen_at": "2026-08-28T23:43:56.350815+00:00"
+  },
+  "85bb0aeb2f9d2db442de2b19431f0c2e2dbcba6cef42486edae0ed82fb776792": {
+    "title": "Qwen3.8-27B on a 24GB RTX PRO 4000 Blackwell: 128K real context, 785 tok/s prefill, 67 tok/s MTP3 decode",
+    "seen_at": "2026-08-28T23:43:56.350817+00:00"
+  },
+  "c17fcbd7d3795431bba7642777993453150ffe3531b6256e4a770c9475c1fd8a": {
+    "title": "GLM 5.3 Flash is fantastic at image analysis!",
+    "seen_at": "2026-08-28T23:43:56.350819+00:00"
   }
 }
