@@ -1,40 +1,4 @@
 {
-  "e03505315fcbd8f7b6be531d879be63f628b50e95742942b244495b13d4f7183": {
-    "title": "OpenAI「Codex」1500万ユーザー突破 利用制限リセット「/fastでどうぞ」 - ITmedia",
-    "seen_at": "2026-08-13T04:42:58.393475+00:00"
-  },
-  "c189b5e6f2d282b3e517cb79855ad8a8c2a4472920a8592469b5bdad56ec23d1": {
-    "title": "OpenAIがサイバーセキュリティへの取り組みを拡大。 - Vietnam.vn",
-    "seen_at": "2026-08-13T04:42:58.393480+00:00"
-  },
-  "949852d690a3ace9d6b3863f10a1737a06f870e4d808acea99f83634995ccb73": {
-    "title": "OpenAIが出資するThrive Holdings、20億ドル（約3,200億円）を調達…企業価値は120億ドル（約1.9兆円） - BigGo ファイナンス",
-    "seen_at": "2026-08-13T04:42:58.393483+00:00"
-  },
-  "6d28f299d2e549cf12ee240a3e10a61e1c7e05e9c1b41a5cd0af2df3f4dfb9aa": {
-    "title": "スペースXやOpenAIの巨額IPOが大きな影響 米国株市場を襲う流動性の懸念 - forbesjapan.com",
-    "seen_at": "2026-08-13T04:42:58.393486+00:00"
-  },
-  "5dcfdf19a58ec70bf2f56306d07457802f33b076d39924f7936bf5fc503a6848": {
-    "title": "OpenAI調査、企業の出力トークンの64%をCodexが占有 フロンティア企業は1人当たり8.3倍 - 디지털투데이",
-    "seen_at": "2026-08-13T04:42:58.393489+00:00"
-  },
-  "fe67d6c5e43566ae3a88c6a9173f170173ce94b6179184686c04502db2e3d510": {
-    "title": "Google Geminiの月間ユーザー数が10億人を突破、有料会員数は非公表 - 財経新聞",
-    "seen_at": "2026-08-13T04:42:58.834386+00:00"
-  },
-  "80f71175200dd34259b2501d363054b14b3eac8db8b7a25ae6c8e9f66e5711bf": {
-    "title": "Google AI Studio、API課金を前払い制に変更 - watch.impress.co.jp",
-    "seen_at": "2026-08-13T04:42:58.834392+00:00"
-  },
-  "d9b8891208dee1df1fd30f15cf842acc13368980fad5fff152b742e3c126b483": {
-    "title": "Geminiアプリ、月間ユーザー10億人突破 Google史上最速の成長製品に - Ledge.ai",
-    "seen_at": "2026-08-13T04:42:58.834395+00:00"
-  },
-  "6fc28bc6cbf91a9479c0cb3d83376837b3a206647fba64098b705bf2ce321cf2": {
-    "title": "Google Pixel Watch 5が登場、Geminiと話せるAI機能を強化 - GIGAZINE",
-    "seen_at": "2026-08-13T04:42:58.834398+00:00"
-  },
   "a3e33db8ec870affeda396be3843f5ce15448742086fe4e7fd06ceb5e2298f9e": {
     "title": "AIエージェント：仕組み、生成AIとの違い、エンタープライズ活用ガイド - Snowflake",
     "seen_at": "2026-08-13T04:42:59.297641+00:00"
@@ -11998,5 +11962,41 @@
   "cee3db4990af4b929361ffb6e314c53c2408506195ae49a267b73379a35ee016": {
     "title": "Qwen3.8 Flash Quants",
     "seen_at": "2026-08-29T15:48:20.283560+00:00"
+  },
+  "d52a53f7e8ad7358c8a6ba2ebc5b19a7be3e2903d89271961827e8ca78bec7a5": {
+    "title": "Anthropicの研究、AIが安全対策タスクで人間の研究者を上回る性能を発揮——コストはわずか2.7% - BigGo ファイナンス",
+    "seen_at": "2026-08-29T20:03:22.988620+00:00"
+  },
+  "e9efaa4e06f99c6b2184afed671c2e16b031d51af9d578610888efcafd38da32": {
+    "title": "OpenAIがブラジルに初のオフィスを開設。 - Vietnam.vn",
+    "seen_at": "2026-08-29T20:03:23.522071+00:00"
+  },
+  "cd0ffac2e6e820d0980b5434e2da27590e0ea53efa7c9cb9abf0b558209e5bc9": {
+    "title": "OpenAI、SpaceX傘下のCursorへのAIモデル供給を打ち切り——マスク氏の契約履行実績に不信感 - BigGo ファイナンス",
+    "seen_at": "2026-08-29T20:03:23.522077+00:00"
+  },
+  "1eb6e0347c8c6646d43300e1a7ed6fa3ac76d3e314f63f515b5e3010d2b8f50e": {
+    "title": "llama.cpp Open PRs list - CPU/RAM/Disk/Hybrid Related - Better for CPU-only & Hybrid inference",
+    "seen_at": "2026-08-29T20:04:40.822231+00:00"
+  },
+  "799753cb0396724e19910dbc4b98590d452bc861c0ec6cb00978cdb9ac07d5af": {
+    "title": "67-84 t/s DeepSeek flash v4 off 2x GX10s",
+    "seen_at": "2026-08-29T20:04:40.822235+00:00"
+  },
+  "9ad0aa4f93a73ce5c1badc96ef7e1758a4061f421ae21f6a0ca0bf9678a4edce": {
+    "title": "Qwen3.8-27B thinking xhigh Vs. thinking off - Apple M5 Max",
+    "seen_at": "2026-08-29T20:04:40.822239+00:00"
+  },
+  "562bfb7ddf58c6c676979e9ed470e73583dba1597be7ac7d0d1622fcecb4c72c": {
+    "title": "(NInfer Fork) I wanted to have a 1M context Qwen-3.8 27B, tp2, dual 5090s",
+    "seen_at": "2026-08-29T20:04:40.822242+00:00"
+  },
+  "7c5c91cbaf4d97bebbaffe4c7c7e74bd8cfceb9dd6a8a29317fc31dd09d79017": {
+    "title": "Any current Voice2Voice AI model that runs locally that’s good?",
+    "seen_at": "2026-08-29T20:04:40.822247+00:00"
+  },
+  "32d1f6908b9700721272c995df8b3d57614771597600e6cbd5cf48b06df51cfc": {
+    "title": "This finance-model benchmark card is more useful for what it discloses than for who \"wins\"",
+    "seen_at": "2026-08-29T20:04:40.822250+00:00"
   }
 }
