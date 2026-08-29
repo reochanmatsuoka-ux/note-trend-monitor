@@ -1,68 +1,4 @@
 {
-  "69b8cdafcbe2351a5eb3c85d429480df02bd87330a0246de01071e8fdab62973": {
-    "title": "How do you plan to run Qwen3.8-2.4T-A95B locally?",
-    "seen_at": "2026-08-13T00:52:24.059066+00:00"
-  },
-  "78deb691f6e81cc66fd1b54037e43952b4a1daf819925e130d1b0fa18c8c0318": {
-    "title": "山形銀行、生産性向上へ生成AI導入 規定・マニュアルを瞬時に参照 - 日本経済新聞",
-    "seen_at": "2026-08-13T04:42:57.515436+00:00"
-  },
-  "d56189b7e5797d6745c2794f9f81412870dc09b2c0f857bee43e01fc5f239558": {
-    "title": "Twitch配信やチャットがAmazonの生成AI学習対象に？拒否できる設定が追加、配信者は要チェック（Game Spark） - news.yahoo.co.jp",
-    "seen_at": "2026-08-13T04:42:57.515444+00:00"
-  },
-  "9da81fd6a8782b9eb830c6060ec6325f9b62f2346e7079497a2f72dcefeb50a7": {
-    "title": "大学生の生成AI継続利用率が84.5％に ChatGPT利用は9割超、Geminiは1年で約4倍に - KAI-YOU",
-    "seen_at": "2026-08-13T04:42:57.515448+00:00"
-  },
-  "60e72a7a96c50ac77c6be11d73590abe1b939726fa0ad727cda8d6d6d00c8490": {
-    "title": "ダイレクトクラウド クラウドストレージ×生成AIが解決 用途で最適なAIモデルを使い分ける - 週刊BCN＋",
-    "seen_at": "2026-08-13T04:42:57.515452+00:00"
-  },
-  "680645a66860d5fd9e05a7daece1c3a0a1d9285cf42076bd4b24a4cdf0bfed17": {
-    "title": "【コンテンツビジネス研究所調べ】学生メディア・コンテンツ利用調査2026 -生成AI編- - 沖縄タイムス社",
-    "seen_at": "2026-08-13T04:42:57.515455+00:00"
-  },
-  "129b181d054338b577ff9d23d6a4178bfe5b846a312fc2457549fd5bf9c89420": {
-    "title": "大企業向け生成AI「ChatSense」、PDF描画機能をリリース予定 - PR TIMES",
-    "seen_at": "2026-08-13T04:42:57.515458+00:00"
-  },
-  "f916ab38c78dcd0987e7c6a2285b28c0a71fb734323e1d2f81a52ae7f0ffad69": {
-    "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修（中級編）を海道当別町で実施 - ICT教育ニュース",
-    "seen_at": "2026-08-13T04:42:57.515462+00:00"
-  },
-  "6eb99acf8faf94cc3f435d645fc8878c0b77441b76d1ec62b1a28d35efd5e37c": {
-    "title": "【大企業マーケ責任者の約3割が生成AIを「脅威」と認識/85.6％が投資対効果の説明に「プレッシャー」】「AI時代の『マーケター生存戦略』と、突きつけられる成果の罠」を無料公開！ - 時事ドットコム",
-    "seen_at": "2026-08-13T04:42:57.515466+00:00"
-  },
-  "9f226344bbafb254d0ca6dd17a5e8cf79047be5a7b71a8694d8529d8ee80a1d3": {
-    "title": "【2026年8月版】生成AI主要8サービス料金早見表 ── ChatGPT、Gemini新モデル公開や次世代音声技術の登場が相次ぐ - news.yahoo.co.jp",
-    "seen_at": "2026-08-13T04:42:57.515469+00:00"
-  },
-  "c324ddd2312054bce98ba92ec0a8d24ae89951208b04fcd8f75bb4f17ffce8ee": {
-    "title": "生成AI時代に「読書感想文」は必要か？7割超の親が「必要」と答えるワケ【保護者調査】 - PR TIMES",
-    "seen_at": "2026-08-13T04:42:57.515472+00:00"
-  },
-  "32b42112e9ac1952fe64afb13b71866c360e2d8e8f30c26ae6b3535502281edb": {
-    "title": "DeltaX、塾選びサービス「塾選」で「生成AI時代の読書感想文」についての調査結果を発表 - 日本経済新聞",
-    "seen_at": "2026-08-13T04:42:57.515475+00:00"
-  },
-  "e382b4d02c6fa7cea9c872e1d738b375f79750aaea9ab0ef0301026c0b401a9b": {
-    "title": "売上48%増のSea、決算で語られた「LLM的」な与信モデルと「SNSの売り場化」 - ストレイナー",
-    "seen_at": "2026-08-13T04:42:57.515480+00:00"
-  },
-  "e936068430bc895ce6f55ec7d45e93d3d1f8e9c404a1be28b99a2f06b08b0d27": {
-    "title": "Twitchが、配信コンテンツを「Amazonの生成AIモデルに学習させる」設定を追加して波紋広がる。デフォルトでは「オン」 - AUTOMATON",
-    "seen_at": "2026-08-13T04:42:57.515483+00:00"
-  },
-  "382d4c9f40f825f57069743f2e4f251ccea58c4cdfc07dfe1a1f012d36dd94a5": {
-    "title": "河北新報社 ビズラボ 河北経済研究所 - kahoku.news",
-    "seen_at": "2026-08-13T04:42:57.515486+00:00"
-  },
-  "fa4f0d9a9d9cf07c89d7ddaee92d96c1c46982fb2496f57484613c27b65fc156": {
-    "title": "Twitch、チャンネルコンテンツのAmazon生成AI学習を「拒否できる」設定を追加。デフォルトでは学習OKに - 電ファミニコゲーマー",
-    "seen_at": "2026-08-13T04:42:57.515490+00:00"
-  },
   "4ed5e513e632d3013c20c81fbb2eb74fcb06a127ee3cf830627a5dd9ddc80f1f": {
     "title": "レポートオーシャン株式会社プレスリリース : アナリティクス分野における生成AI市場、2035年45億942万米ドルへ成長｜CAGR26.96％、分析業務AI自動化が市場拡大を加速 - Excite エキサイト",
     "seen_at": "2026-08-13T04:42:57.515493+00:00"
@@ -11998,5 +11934,69 @@
   "66563888b4bd1879e8898e4e19607b5beea771bca6737ef3877431b7d8699417": {
     "title": "Is this a good deal?",
     "seen_at": "2026-08-29T04:27:12.438746+00:00"
+  },
+  "f49beb5a28b7c02d0eac5afa6250a5631be331198cb86722baa584476493e23f": {
+    "title": "生成ＡＩ作品の禁止相次ぐ 岡山市の公募事業、線引きに困難さも - 山陽新聞",
+    "seen_at": "2026-08-29T11:50:17.221099+00:00"
+  },
+  "c4eadf16770444376b9ae99b6560f1b1ef998f557e87f59b3ee30e50d0483c9d": {
+    "title": "自宅PCで巨大AIが高速動作？ ノートPCで350億、プロ向けGPU1枚で7530億パラメータのAIモデルを非公式量子化なしで動かす無償ツール「FreeToken」など生成AI技術5つを解説（生成AIウィークリー） - テクノエッジ TechnoEdge",
+    "seen_at": "2026-08-29T11:50:17.221107+00:00"
+  },
+  "d2e4f88eb2edfaf25eaff2aeb4f250dfd6ddf7b7ae6422196eba06b572d00b39": {
+    "title": "Anthropic社が、科学実験を自律的に実施できるAIツールを発表した。 - Vietnam.vn",
+    "seen_at": "2026-08-29T11:50:17.918938+00:00"
+  },
+  "763c5da869a4673b13f4d7ac28a5bd1bbbb67c20e38ead03d192b1ec34132dbd": {
+    "title": "サム・アルトマンは、OpenAIのロゴが刻印された特注のスイス製腕時計を7本注文した。 - Vietnam.vn",
+    "seen_at": "2026-08-29T11:50:18.726839+00:00"
+  },
+  "fad28d7332b1f42d51e745cb15718680d3847a218e9d62f8ac825c23222f3d6b": {
+    "title": "サム・アルトマン氏とイーロン氏の対立でカーソルAIが600億ドル契約失う - BeInCrypto",
+    "seen_at": "2026-08-29T11:50:18.726844+00:00"
+  },
+  "fe9588422fded43f194ac564918ad7cebe674062e58560ed933dcd82727d90f2": {
+    "title": "OpenAIがCursorとの提携・モデル提供の終了を通達、「SpaceXがOpenAIの利用規約に従って技術を使うという確信が持てないため」 - GIGAZINE",
+    "seen_at": "2026-08-29T11:50:18.726849+00:00"
+  },
+  "e4cfd77dee044637965cbbf3f6aeabc58ad40caf8caba6e99c618347c5ff245e": {
+    "title": "OpenAI と Cursor、決裂までの3年｜ ひとりLT #022 - YouTube",
+    "seen_at": "2026-08-29T11:50:18.726852+00:00"
+  },
+  "c8945cc19809c6b5832c58915e796400fcf8837c9483e8444e3dfca6ebf25585": {
+    "title": "Googleの従業員が次世代AIモデル「Gemini Flash」のテストを行っている。 - Vietnam.vn",
+    "seen_at": "2026-08-29T11:50:19.316411+00:00"
+  },
+  "edae48199b15eb359a2d190dd8a7c6408263991e443bb4296e453d0328f6f600": {
+    "title": "京都商工会議所主催「AIエージェントの活用でAIを『部下』にする！」を10月26日（月）京都で開催｜ノーコードソリューションズ - PR TIMES",
+    "seen_at": "2026-08-29T11:50:19.909496+00:00"
+  },
+  "1d5b1577b173fd7ca9b2b77e4edbb8af366681c3326e4b3f990c1e8dc47366d6": {
+    "title": "NECが「SCM AIエージェント」を9月発売！複数システムを横断し需要予測や調達交渉を自律化 - DXマガジン",
+    "seen_at": "2026-08-29T11:50:19.909502+00:00"
+  },
+  "aae09fbbaa791c8b24109f031ed73870f17c00bd86fa8cc60321663abe898471": {
+    "title": "Terminal Bench 4.0 just dropped, GLM-5.3 is at the same level as Fable 5, accounting for margin of error",
+    "seen_at": "2026-08-29T11:50:22.242154+00:00"
+  },
+  "ea2fc12e2010aa6b2ce20e6115bcf2fa332f629e3c1be4cae193c403af47dc56": {
+    "title": "I always wonder how much more speed and/or context they'd be getting..",
+    "seen_at": "2026-08-29T11:50:22.242160+00:00"
+  },
+  "5b435773d9caf6f285cd4aa8d8cf3c160cf6c15a13c67b74cdbf340ffdbe14d5": {
+    "title": "Different Qwen thinking levels",
+    "seen_at": "2026-08-29T11:50:22.242164+00:00"
+  },
+  "a75c577b00d65d3813c22265fa8b0ad96cddf5c0e5a5d1dcee45d9876f094010": {
+    "title": "If your t/s is low enough, you can see speculative decoding with your own eyes",
+    "seen_at": "2026-08-29T11:50:22.242169+00:00"
+  },
+  "4dd07c18847b9cdf10bfcba623ac27459d6fd67bc5266036f2f6099758749fad": {
+    "title": "Qwen3.8-Next streaming - 150tps prefill, 3.6 tps decode on M5 Air",
+    "seen_at": "2026-08-29T11:50:22.242173+00:00"
+  },
+  "47ef6ecadd285ce469fc53ce2ad74257399c9befc5c98cf5b4139045ae01fb0e": {
+    "title": "dgx sparks and new models my tests and results",
+    "seen_at": "2026-08-29T11:50:22.242176+00:00"
   }
 }
