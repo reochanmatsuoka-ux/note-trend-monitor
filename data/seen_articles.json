@@ -1,56 +1,4 @@
 {
-  "4ed5e513e632d3013c20c81fbb2eb74fcb06a127ee3cf830627a5dd9ddc80f1f": {
-    "title": "レポートオーシャン株式会社プレスリリース : アナリティクス分野における生成AI市場、2035年45億942万米ドルへ成長｜CAGR26.96％、分析業務AI自動化が市場拡大を加速 - Excite エキサイト",
-    "seen_at": "2026-08-13T04:42:57.515493+00:00"
-  },
-  "9ce2be667f93029b1c612bdf780d749ddfcbe0a837dff45e9c4d458b425b1ead": {
-    "title": "創業1951年「ボンとらや」が生成AIで新商品開発PoC(実証実験)参加、AI提案から新フレーバー候補を選定 - Excite エキサイト",
-    "seen_at": "2026-08-13T04:42:57.515496+00:00"
-  },
-  "80beb24a9b3cb9d05df8be70290faa56c9d3303e814f2296bde54d6c50d0777b": {
-    "title": "創業1951年「ボンとらや」が生成AIで新商品開発PoC(実証実験)参加、AI提案から新フレーバー候補を選定 - ニコニコニュース",
-    "seen_at": "2026-08-13T04:42:57.515499+00:00"
-  },
-  "8f5054c6a408b29c6768a06c97bdbeae6d2d92127ada14a203dc8f86dbe55296": {
-    "title": "2.4兆パラメーターの中華AI「Qwen3.8」がオープンモデルとして無償公開される、OpenAIやAnthropicの最先端モデルに匹敵する性能 - GIGAZINE",
-    "seen_at": "2026-08-13T04:42:57.951441+00:00"
-  },
-  "ecfb23523db1c9f9fef22a702fca3bf386ebe1c981831ad43d41d7aaf64ddc2e": {
-    "title": "『ConoHa VPS byGMO』、国内クラウド事業者で初めてAnthropic「Claude」のコネクタを提供開始【GMOインターネット】 - Excite エキサイト",
-    "seen_at": "2026-08-13T04:42:57.951447+00:00"
-  },
-  "12354c9c3d7a0d84585d4b3a21ff79e4a7f8b1c846230fb0778f64b9fe4c8b63": {
-    "title": "『ConoHa VPS byGMO』、国内クラウド事業者で初めてAnthropic「Claude」のコネクタを提供開始【GMOインターネット】 - 時事ドットコム",
-    "seen_at": "2026-08-13T04:42:57.951450+00:00"
-  },
-  "c4d9be8716360ffb92d973f394da4658fef7d99e9ee330c51ad9b33322de48e0": {
-    "title": "AnthropicがClaudeに隠し透かしを導入、AI利用の検出をめぐり議論 - Межа. Новини України.",
-    "seen_at": "2026-08-13T04:42:57.951453+00:00"
-  },
-  "a2f080afd3014f8be4fb380ae64177b58c10eb0d1ea3e449f967bc408ab8eead": {
-    "title": "AIが数学の未解決問題「リーマン予想」で新発見 当初苦戦も「諦めないで」との励まし受け Anthropic「AIも自身を過小評価か」 - ITmedia",
-    "seen_at": "2026-08-13T04:42:57.951456+00:00"
-  },
-  "ca71ba35e012123435ac71418f542695bd3d67673dd90be2feac7bfce0cedb7d": {
-    "title": "人間が作り出した透かしAIコンテンツ。 - Vietnam.vn",
-    "seen_at": "2026-08-13T04:42:57.951459+00:00"
-  },
-  "6ac04d9edba1378014a2da11465dfb7b47840bb1164bd63c0a9928044f8e968f": {
-    "title": "Pacific Meta CEOの岩崎がClaude公式アンバサダーに就任 - iza.ne.jp",
-    "seen_at": "2026-08-13T04:42:57.951462+00:00"
-  },
-  "8995072c77906f548d7ec197199d37e34c23a32e9270617a68c28a313d7cbbc1": {
-    "title": "米アンソロピック、Claude生成コンテンツに機械可読の透かし導入 - 財経新聞",
-    "seen_at": "2026-08-13T04:42:57.951465+00:00"
-  },
-  "ebe6bdeb0f5d07a0cfadca837968281709ecbcc72a03cff2324c04d8fc4d2d93": {
-    "title": "DeepSeek、「V4 Pro」正式版0813公開 価格据え置き、Claude Fable 5比で大幅低価格 - 디지털투데이",
-    "seen_at": "2026-08-13T04:42:57.951468+00:00"
-  },
-  "2433382d7213db7b8320c91eb58eb3813d14d62f177c7da0807969f2b92818e9": {
-    "title": "OpenAIが明かす、ユーザーはChatGPTを「こう使っている」：IT調査ピックアップ - ITmedia",
-    "seen_at": "2026-08-13T04:42:58.393470+00:00"
-  },
   "e03505315fcbd8f7b6be531d879be63f628b50e95742942b244495b13d4f7183": {
     "title": "OpenAI「Codex」1500万ユーザー突破 利用制限リセット「/fastでどうぞ」 - ITmedia",
     "seen_at": "2026-08-13T04:42:58.393475+00:00"
@@ -11998,5 +11946,57 @@
   "47ef6ecadd285ce469fc53ce2ad74257399c9befc5c98cf5b4139045ae01fb0e": {
     "title": "dgx sparks and new models my tests and results",
     "seen_at": "2026-08-29T11:50:22.242176+00:00"
+  },
+  "76b6e7d2c7d29915a16845468f8e66e19cd164a0963e9b903884b0a0b74c41a1": {
+    "title": "🚨【速報】OpenAI、SpaceX買収後にCursorとの提携を終了すると発表。OpenAIモデルへの直接アクセスは11月12日で終了予定。 Cursor側によると、OpenAIが担っているのはユーザー・トラフィックの約5%のみで、両社は依然として協議を続けている。 - Moomoo",
+    "seen_at": "2026-08-29T15:48:14.099750+00:00"
+  },
+  "83b6ccb424c6b37ed562a1ce09e0941a8d63973f12d642a92dd2bdac7b1a1ab1": {
+    "title": "FPTはOpenAIと提携し、グローバル企業のAI変革を加速させる。 - Vietnam.vn",
+    "seen_at": "2026-08-29T15:48:14.099757+00:00"
+  },
+  "4d5e68c88f42b24f192861741ee2e6fdd06be65617a1d9a7d8a0a4765942b58d": {
+    "title": "Qwen 3.8 27B at 50 tok/s with 100k Context on a 16GB GPU! (beellama.cpp)",
+    "seen_at": "2026-08-29T15:48:20.283525+00:00"
+  },
+  "c584ce22ba815b07432ba2acb7899e148d7093a36c0138a285b59931011338c6": {
+    "title": "Tencent compressed Hy4-preview from 1.5TB to about 200GB GGUF and kept about 98% performance.",
+    "seen_at": "2026-08-29T15:48:20.283530+00:00"
+  },
+  "8073a2b9a1ab8d2efd51a4f487206c4c3be57aad0a293da15c1ab2648413733c": {
+    "title": "How important is it for Chinese LLMs to reach the Opus 4.8 level?",
+    "seen_at": "2026-08-29T15:48:20.283534+00:00"
+  },
+  "133c4143eea6c61f228e5b90e5c0e6e5db4f406182c1cec341f34c3c42b5337b": {
+    "title": "Exo labs claiming 4.8 tb/s memory bandwidth through m5u Mac Studio clustering",
+    "seen_at": "2026-08-29T15:48:20.283539+00:00"
+  },
+  "aa77668c51f05509c9bd49cfd75ae62db5f62ce8396e383c8acc9671c7d46203": {
+    "title": "Someone tested various Models on the Political Compass test...",
+    "seen_at": "2026-08-29T15:48:20.283543+00:00"
+  },
+  "bf16caa9ec4a551b66635dec0f50ae59e15e52f4a13c57a7375a7f84d14a8bd9": {
+    "title": "An official 1-bit quant for Hy4??? 👀",
+    "seen_at": "2026-08-29T15:48:20.283545+00:00"
+  },
+  "0155b8a1ed93c2634baf36bf5e8b08682f570dc22ab14ad97bfb51e9a275c718": {
+    "title": "Did anyone else notice the Ornith 1.5 35B GGUFs got a \"silent\" update?",
+    "seen_at": "2026-08-29T15:48:20.283548+00:00"
+  },
+  "cac368e4a0c1cb4562477f086e49c685e2bb248d7ff2ab4f93c86861a9471a9a": {
+    "title": "Were designing a tiny autonomous research agent",
+    "seen_at": "2026-08-29T15:48:20.283551+00:00"
+  },
+  "c730fe5acd600609c331e55cd7be0775b5850cb871e01aaae013492f87a349bb": {
+    "title": "Is it possible to run it with a combined memory setup: 16 GB VRAM + 64 GB RAM + SSD for offloading n-grams?",
+    "seen_at": "2026-08-29T15:48:20.283554+00:00"
+  },
+  "e44644a65f68a54348dc72267d078c199b82f25e5905f9832a9dcafb64d94dd9": {
+    "title": "Running Qwen3.8-Flash-Next (125B MoE + 51B n-gram table) on 2×RTX 3090 + 96GB DDR5. Optimised Llama.cpp and vLLM with experts offload to RAM and n-gram offload to NVME (proven and being optimised)",
+    "seen_at": "2026-08-29T15:48:20.283557+00:00"
+  },
+  "cee3db4990af4b929361ffb6e314c53c2408506195ae49a267b73379a35ee016": {
+    "title": "Qwen3.8 Flash Quants",
+    "seen_at": "2026-08-29T15:48:20.283560+00:00"
   }
 }
