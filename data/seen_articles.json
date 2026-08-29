@@ -1,48 +1,4 @@
 {
-  "a3e33db8ec870affeda396be3843f5ce15448742086fe4e7fd06ceb5e2298f9e": {
-    "title": "AIエージェント：仕組み、生成AIとの違い、エンタープライズ活用ガイド - Snowflake",
-    "seen_at": "2026-08-13T04:42:59.297641+00:00"
-  },
-  "73ad6c68f6b5c62982f8d404b4c1595b974033d7a4659ef38db4321f1e69cf19": {
-    "title": "AIエージェント向けセキュリティのZenity、シリーズCで1.25億ドル調達 - BRIDGE（ブリッジ）",
-    "seen_at": "2026-08-13T04:42:59.297646+00:00"
-  },
-  "83e78dd62162e95805b3c161f2b3fc19cdcdb65a4f7fa234814eba97bed36114": {
-    "title": "AIエージェント向けプラグイン標準「Agent Plugins 1.0.0」公開 - CodeZine",
-    "seen_at": "2026-08-13T04:42:59.297651+00:00"
-  },
-  "ef72542bb8657dfe930e98bedd87f2b86baf8147973d71239ebc81a39ca68174": {
-    "title": "顧客理解AIエージェント「チャネルトーク」を提供するチャネルコーポレーションが「PartnerSuccess パスポート」を導入し紹介パートナー募集をDX化 - PR TIMES",
-    "seen_at": "2026-08-13T04:42:59.297656+00:00"
-  },
-  "59623f52337bbbc0d4b29d44a5efd6877ce1b7fd53fbe5e41defaf6bee59730f": {
-    "title": "韓国ネイバー、20年蓄積の不動産データをAIで統合…「AIエージェント」へ進化 - AFPBB News",
-    "seen_at": "2026-08-13T04:42:59.297659+00:00"
-  },
-  "fc336852b38c83c68b1a4dbcda48ffb7abcd57c24aaa62193e2c4beb768714f3": {
-    "title": "リミニストリート、AIエージェントのガバナンス、セキュリティ、相互運用性を包括的にサービスとして提供するRimini Govern(TM) for AIを発表 - Excite エキサイト",
-    "seen_at": "2026-08-13T04:42:59.297662+00:00"
-  },
-  "8055096f704e9b1aed33bc27fc968f549b99aa17a423c11211f38623466fa52a": {
-    "title": "AWSがポリシー言語ドッグウッド公開 AIエージェントの連続行動を統制 - CHOSUNBIZ - Chosunbiz",
-    "seen_at": "2026-08-13T04:42:59.297665+00:00"
-  },
-  "60cd064095dff15d1e03d079cfeb12145a62c98f365e8b9f6868c461dba71514": {
-    "title": "neoAIがビジネスパーソン向けの新たなコーディングAIエージェント「neoAI Work」を発表 - ニュースメディアVOIX",
-    "seen_at": "2026-08-13T04:42:59.297669+00:00"
-  },
-  "5d6a98d3461287f4edc8fb39465dd1d89c38d43808c9422d71bab42f89b49552": {
-    "title": "リミニストリートが提供するAIエージェントのための新しいガバナンスソリューション、Rimini Govern™ for AIの全貌 - ニュースメディアVOIX",
-    "seen_at": "2026-08-13T04:42:59.297672+00:00"
-  },
-  "8399f4132e4af32b7de8300e4c355ba9758a6779de1310a2ee3fb57e2b87f8e9": {
-    "title": "Nvidia doubles RTX PRO 6000 Blackwell's MSRP to a staggering $16,000 — 96GB card started pre-orders below $8,000 last year",
-    "seen_at": "2026-08-13T04:43:00.886437+00:00"
-  },
-  "45e61b4f562b652e79c282714cc610d3c0280e8b314c92881143d54cd0672f28": {
-    "title": "If we take the average jump gen to gen (50%) from 2009 to 2025, on 2030 we should have a GPU that is 3x times faster than a 5090. Do you think that will happen? Or on the worst case..",
-    "seen_at": "2026-08-13T04:43:00.886443+00:00"
-  },
   "b6c07b29dc33db3785de1dec762ab6e190002a0358b9197b6315b4700dd934ea": {
     "title": "Qwen 3.8Max 2.4t Open Weight NO vision?!?",
     "seen_at": "2026-08-13T04:43:00.886446+00:00"
@@ -11998,5 +11954,49 @@
   "32d1f6908b9700721272c995df8b3d57614771597600e6cbd5cf48b06df51cfc": {
     "title": "This finance-model benchmark card is more useful for what it discloses than for who \"wins\"",
     "seen_at": "2026-08-29T20:04:40.822250+00:00"
+  },
+  "9dd7e7587011ca4aa8a56dbe6b8e743b80a8e2e34c547f34054e192d1d412541": {
+    "title": "大リーグで注目される貧窮球団の「知恵」 生成AIの使用には制限も [AIの時代] - 朝日新聞",
+    "seen_at": "2026-08-29T22:51:09.201157+00:00"
+  },
+  "0a1978ba2bc0d72725fbeaafb8861f8bed8085d67cf9ccc7ed4545c90bfc508f": {
+    "title": "Google、最新動画生成AIモデル「Gemini Omni 1.1 Flash」発表 - jetstream.blog",
+    "seen_at": "2026-08-29T22:51:09.201164+00:00"
+  },
+  "a66b1709fdd81f3df096a9cba04b0c6dc254fa8ed4cd2009edb5b4bf3e72f316": {
+    "title": "CursorからGPTは消えない｜OpenAIが示した3つの移行経路 - innovaTopia",
+    "seen_at": "2026-08-29T22:51:10.226292+00:00"
+  },
+  "20ea8d213c95194192cb86f89a49dfb577240fc6b97a5a937eaf01af74d86586": {
+    "title": "Gemini Nano 4が7機種に登場、Googleがハードルを引き上げる - Pasquale Pillitteri",
+    "seen_at": "2026-08-29T22:51:10.719902+00:00"
+  },
+  "b1fa24d21fed4705516660f6b1d655a0ad8567c08ebdd1f46878bc189564ba3f": {
+    "title": "8つ！2026年8月版「Gemini Drops」 - jetstream.blog",
+    "seen_at": "2026-08-29T22:51:10.719908+00:00"
+  },
+  "ccd21c57f4959c40d1e6c3acf65148d1d292d464e3972095ea36de5f80b3aab7": {
+    "title": "Claude Codeを使い倒すために、Claude Codeを使わない——開発者が辿り着いた逆説 - shiritomo",
+    "seen_at": "2026-08-29T22:51:11.238024+00:00"
+  },
+  "7b2e96e53a18bdc981bd1a5748b846ce3449837c28656eadeb678e6b5ebfca05": {
+    "title": "マースクのドミトリー・ブイキン氏：AIエージェントの難しい部分はエージェントそのものではなく、その周囲にある10万件の修正だ - BigGo ファイナンス",
+    "seen_at": "2026-08-29T22:51:11.238030+00:00"
+  },
+  "540935587867b085a66995dd4d826632b009f71e2a8d9e05b00d02a126d8ada2": {
+    "title": "Creative destruction",
+    "seen_at": "2026-08-29T22:51:16.409628+00:00"
+  },
+  "3b7e79fcdc9fd70b1d579a66d20ffe7184c69f4be00334af2b2c7a1c62f6cbf9": {
+    "title": "Tenstorrent Qwen3.7-27b Benchmarks",
+    "seen_at": "2026-08-29T22:51:16.409634+00:00"
+  },
+  "4858c276c4b3cf24d7945c9ad7fdf9c0a40191b8b1dbb8d5bb408c49e8567689": {
+    "title": "Any reason to use Qwen 3.8 Next UD IQ1_S over Qwen 3.8 27B UD Q4?",
+    "seen_at": "2026-08-29T22:51:16.409640+00:00"
+  },
+  "823cde8aff15f13c90fe7020a6453b9c860691336145a74124a867552ad6d0d0": {
+    "title": "Qwen3.8-Flash-Next protip tensor-read-lazy on requires load-mode mmap",
+    "seen_at": "2026-08-29T22:51:16.409642+00:00"
   }
 }
