@@ -1,88 +1,4 @@
 {
-  "8d192d7f40c8070c166a427ade0f15c62a6a3dc12d9f2e6b495a8b12ba042219": {
-    "title": "AIエージェントが変える企業コンピューティングとAIの経済性：AMDに聞く - Forbes JAPAN",
-    "seen_at": "2026-08-13T07:06:22.669176+00:00"
-  },
-  "784b7f7e28c6fddc2ec7b11ad1fbd960fe1c89ce6abb213715a4b1c680c8990a": {
-    "title": "中国ディープシーク、AIエージェント開発へ新チーム−求人開始 - topics.smt.docomo.ne.jp",
-    "seen_at": "2026-08-13T07:06:22.669180+00:00"
-  },
-  "8d797d4d0ee5fe8225cb84892e491a26116dfeeba58889c3a99ba011bbc9c8c4": {
-    "title": "AIエージェントで構築した「自律型ハッキングツール」がアジアの政府機関を攻撃、中国による台湾政府への攻撃か - GIGAZINE",
-    "seen_at": "2026-08-13T07:06:22.669183+00:00"
-  },
-  "56d998ef4f988d8f0e483171689c39f59b3b3cca38de99ee00825da3eb166ae4": {
-    "title": "GalaxiaMoneytreeがAAIFとAI決済連携拡大 - CHOSUNBIZ - Chosunbiz",
-    "seen_at": "2026-08-13T07:06:22.669191+00:00"
-  },
-  "026d10dcd28450c73d5351cb195c143faf5a5bf3682267ca537166cb93eb552d": {
-    "title": "I asked DeepSeek-V4-Flash to work with Muse-Glimmer for Vision ability in PI agent and it produced this",
-    "seen_at": "2026-08-13T07:06:31.979183+00:00"
-  },
-  "6f3225b1223c15cb45205005aa69ed4905af2e57ae7da413731b1154acd7ff78": {
-    "title": "Interesting uses for Muse Glimmer 30B?",
-    "seen_at": "2026-08-13T07:06:31.979190+00:00"
-  },
-  "5156f89f163db9cae8aaecbef4a3c70663ab35a8d88f3f323828b32114f79d06": {
-    "title": "The countdown to Qwen3.8-27B starts now!",
-    "seen_at": "2026-08-13T09:52:31.688449+00:00"
-  },
-  "4a449ade3fb528fca918fc6150d2ac09748b1923680fd902a631d1e265c9bf17": {
-    "title": "Minimax Music 3 open weight release soon?",
-    "seen_at": "2026-08-13T09:52:31.688458+00:00"
-  },
-  "84913737ca60e76c458714b58ef20636c59be3f64ee35991d7e20913199e386c": {
-    "title": "The White House is going to expand its AI policy: open models may soon be added to an updated AI framework",
-    "seen_at": "2026-08-13T09:52:31.688461+00:00"
-  },
-  "e1a18fae4fc32fd91e5b9fbb6f85fabf42a885c44f2ed846c96285d412dcd2b4": {
-    "title": "How do you code with LLMs?",
-    "seen_at": "2026-08-13T09:52:31.688465+00:00"
-  },
-  "caad7823f27cf4df0e35c52ac5582a16407cf79cc5649555e8be875b13dab3d3": {
-    "title": "Local LLM open-source model options (5060TI 16GB)",
-    "seen_at": "2026-08-13T09:52:31.688471+00:00"
-  },
-  "3d1ec58e57f74c1f268ed37f72fda3a900f5d3e4fdfc4f35d1e231f8227a68a2": {
-    "title": "政府、生成AIの知財保護ルール策定へ 省庁横断で高性能モデル対策 - 日本経済新聞",
-    "seen_at": "2026-08-13T12:38:47.614013+00:00"
-  },
-  "8cf8ad3b574afbaf91ea6bc7c4477aa6aaffaceac9c2aebc6d758698fa548a98": {
-    "title": "現場チャットを「情報ハブ」に 生成AIで過去のトークをナレッジ化する「directアシスタント」：第8回 国際 建設・測量展 - ITmedia",
-    "seen_at": "2026-08-13T12:38:47.614021+00:00"
-  },
-  "c8d5e75de4b74865e374c0a1a2d18a2e479541ecb71e85fc09f8462ee1f09e77": {
-    "title": "8/13(木)レコレール・アップデーツ【生成AIの次は行動するAIへ。行政がAI エージェントを使うと、生活はどう変わるのか】 - JFN Pods",
-    "seen_at": "2026-08-13T12:38:47.614025+00:00"
-  },
-  "cdcc60ccf14c957b0a487de131d5acb17075204b4401542b0370ce69a5ea55dc": {
-    "title": "AIスマートグラス・生成AI犯罪を追跡するフォレンジックソリューション登場 - BigGo ファイナンス",
-    "seen_at": "2026-08-13T12:38:47.614029+00:00"
-  },
-  "40bbc0401cd963f219a96c946377da2c358450ab1387b95e786c393c3daa34ff": {
-    "title": "生成AIミニ講和を開く平岩篤史さん - すみだ経済新聞",
-    "seen_at": "2026-08-13T12:38:47.614032+00:00"
-  },
-  "4f70e3d586d8ea380cc442919e8168e4e9ca9c948aac576cba641d1ae89a43ed": {
-    "title": "生成AIで解決！Excelを覚えなくてもOKセミナー（上級編） - PR TIMES",
-    "seen_at": "2026-08-13T12:38:47.614036+00:00"
-  },
-  "e5f8a792c47e0d4660f87a603709b62f8d10520a9b16af1fe9ac638164447ff3": {
-    "title": "映像全編を生成AIで制作したテレビCMが地上波で初放送、新たな制作フローを確立 - 東京報道新聞",
-    "seen_at": "2026-08-13T12:38:47.614039+00:00"
-  },
-  "7ceb345830d6cd9fc3563ddc928e93d33fb2234e912009044cc0e67bd9d3695f": {
-    "title": "Amazon S3侵害から「わずか8分」――LLMによる自動化で“AWS管理者権限”を奪取 - ITmedia",
-    "seen_at": "2026-08-13T12:38:47.614043+00:00"
-  },
-  "5dd5f64155814c1fa404c50343d602165ae4e1671f1be18316a7bcc3290d6c87": {
-    "title": "生成AIで解決！Excelを覚えなくてもOKセミナー（上級編） - 写真・画像(1/1) - 西日本新聞me",
-    "seen_at": "2026-08-13T12:38:47.614045+00:00"
-  },
-  "5c56ca0bc23f9551fdfa7422d370bed46170f26aa6da5a889034d036016aace3": {
-    "title": "生成AIエージェントを安全に業務実装する権限・監査設計ガイドを公開 - イザ！",
-    "seen_at": "2026-08-13T12:38:47.614049+00:00"
-  },
   "5b3f2bc2ce48e20273757bf753ef1b94768f7c364b4dec4ffeb0aec42350faf9": {
     "title": "「AIを使う前に自分の頭で考えて」 学校での生成AI活用、東京都教委の有識者会議で依存対策を求める声 - ｄメニューニュース",
     "seen_at": "2026-08-13T12:38:47.614052+00:00"
@@ -11998,5 +11914,89 @@
   "cdf411cd1d7a985ba63edc0d3a964dc9d1d10a933e65972725e9ce8bbbf5dfdd": {
     "title": "Nemotron-3.5-Lightning at 11.77 GiB, a 16 GB option for a model that didn't have one",
     "seen_at": "2026-08-30T01:55:20.888864+00:00"
+  },
+  "91c0be560e00df0945ac70f584f7523ca5acf5e5764e0b825ca38632018fc512": {
+    "title": "バイトダンスなど新手法「DiffusionOPSD」、画像生成AIの学習GPU時間を最大63％減 20条件中19条件で最高スコア - Ledge.ai",
+    "seen_at": "2026-08-30T08:35:08.622718+00:00"
+  },
+  "3b5c5b761203a37015dfae80f98704afa1cb8e218b759812b2c290daae08706b": {
+    "title": "Anthropic「MHS」公開｜画面しかない実験装置をAIにつなぐ - innovaTopia",
+    "seen_at": "2026-08-30T08:35:09.334903+00:00"
+  },
+  "c8604d1738775e1926c4167a611984ccad8d25d03965a03d6cfa9f09a1fae280": {
+    "title": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力 - Ledge.ai",
+    "seen_at": "2026-08-30T08:35:09.806407+00:00"
+  },
+  "44a2ab7bd203b74d85b4cdfbd65030561f95aab098f04d593a30c97b84bf0efe": {
+    "title": "AIエージェントは「文明」をつくるのか：OpenAI内部で生まれた協調と自己組織化｜Trans-N - note",
+    "seen_at": "2026-08-30T08:35:09.806412+00:00"
+  },
+  "2680276de925d8697102c884166fe42cf377f46b2e7ef9ad7870fa9f24436d04": {
+    "title": "エヌビディアに挑むOpenAIの推論チップ「ハラペーニョ」、初のベンチマークで示された実力と限界 - Yahoo!ニュース",
+    "seen_at": "2026-08-30T08:35:09.806416+00:00"
+  },
+  "d72593c3cffb7079ff1451d2b80e545b236c207f0acbe496e532fed854885f5e": {
+    "title": "$MYNEWS (5275.MY)$ ChatGPT により生成 - Moomoo",
+    "seen_at": "2026-08-30T08:35:09.806419+00:00"
+  },
+  "28173d4daeb8411b933cbade9a740e6995a888fa9688f66d4e99bfbfc468cca2": {
+    "title": "OpenAIの実験で判明！ChatGPT×「疑う力」の掛け算でスコアが跳ね上がる驚きの学習効果 - DXマガジン",
+    "seen_at": "2026-08-30T08:35:09.806422+00:00"
+  },
+  "25fd3c78349cea21632f364cfbaf639d3281ef6f2669ab2edba5c0d4506b8bbf": {
+    "title": "「中立的なインフラだと信じていた」——OpenAIがCursorへのモデル提供を止めた理由 - shiritomo",
+    "seen_at": "2026-08-30T08:35:09.806425+00:00"
+  },
+  "30b8951b4c72b3ea126614c62352520ab032ea51a576a3ee91d5d39faf9c46cf": {
+    "title": "水曜どうでしょう「やらせではなくて…」　ChatGPTが質問！ - ｄメニューニュース",
+    "seen_at": "2026-08-30T08:35:09.806428+00:00"
+  },
+  "9b8e05652976eb215eff20e74beeee182977d276c0a86a3a56cfe6b3bb517474": {
+    "title": "OpenAI、半年で営業損失216億ドル それでも「136兆円」の評価額が動かない理由 - XenoSpectrum",
+    "seen_at": "2026-08-30T08:35:09.806431+00:00"
+  },
+  "a3698c9508c477fd435b45f1ce39fe69540eccaa4cf6850823dadbfe474af29e": {
+    "title": "あなたのAI顧問株式会社 代表・黒山結音、SHIFT AI 3周年記念「AIエージェントカンファレンス」に登壇 - PR TIMES",
+    "seen_at": "2026-08-30T08:35:10.858109+00:00"
+  },
+  "5c9c369d667e76366ab9419dcd0940931cadeec569f255335cd4d54f1290f6cb": {
+    "title": "スクショ管理や予定の自動登録も！LINEヤフーが日常をサポートする「AIエージェント新機能8種」を公開 - DXマガジン",
+    "seen_at": "2026-08-30T08:35:10.858116+00:00"
+  },
+  "e9e347294eef8f699a4d74a3aee162848e1b2269c168753db6667a99c6ede018": {
+    "title": "複数システムを横断して業務を自動化！NECが需要予測から調達交渉まで担う「SCM AIエージェント」を9月発売 - DXマガジン",
+    "seen_at": "2026-08-30T08:35:10.858119+00:00"
+  },
+  "7f7f5bae2c4f0d8e86438fa5fff0ecd576141fc12eb424bfb581149cbedf1f60": {
+    "title": "KTがソウル大学、KAISTと人工知能(AI)エージェントの推論能力と巨大言語モデル(LLM)の処理効率を高める技術を共同研究した。 KTは研究結果を自社のAIモデルとプラットフォームに適用するための.. - 매일경제",
+    "seen_at": "2026-08-30T08:35:10.858121+00:00"
+  },
+  "f84c9b03e4ceb43a6c128b78a45da8c6de8a5ef09c469bd9d5b3081f426e3e7f": {
+    "title": "It's official! 192GB Framework",
+    "seen_at": "2026-08-30T08:35:21.025119+00:00"
+  },
+  "4c3a0857a53df1868f6d2a6da32bd8293ca6be3a4b31f04a7de7d226a13e6e57": {
+    "title": "an unscientific qwen 3.8 flash next and glm 5.3 flash comparison",
+    "seen_at": "2026-08-30T08:35:21.025123+00:00"
+  },
+  "de14371dd8f26cc7557ed7075756f46353989cca667439c49316fe9aa8360a3a": {
+    "title": "Qwen3.8-Flash-Next optimised for Macs",
+    "seen_at": "2026-08-30T08:35:21.025126+00:00"
+  },
+  "4e46f992f36a48888b8b77a59dcfa461a9fe2fab98f4f5dca2890beb665adb1e": {
+    "title": "Ran Qwen3.8-Flash-Next (79 GB, 2-bit) at 350K ctx for 3.5 hours on a 128 GB M5 Max — speed vs context depth, 100 turns, one graph",
+    "seen_at": "2026-08-30T08:35:21.025129+00:00"
+  },
+  "52a29516a266cf70e1d9d05890d313ba8375e9067928fd14ab376900d1288fcf": {
+    "title": "Qwen3.8-Flash-Next NVFP4 Day-3 support for 4xV100",
+    "seen_at": "2026-08-30T08:35:21.025131+00:00"
+  },
+  "f9f4841e089a6e9e9d1cb7841b8590a12684ccd19383d6024a97b2d66c3c3770": {
+    "title": "FlashMLA sm_120 kernel build with 2-3x performance increase from SPDA",
+    "seen_at": "2026-08-30T08:35:21.025134+00:00"
+  },
+  "9a7912b7ae44e4a75a659feb6b06e065c762e18ed9ba1aa422e2ce62fb379792": {
+    "title": "Qwen3.8-Flash-Next at 170K context on a single 96 GB card. ~110 tok/s.",
+    "seen_at": "2026-08-30T08:35:21.025137+00:00"
   }
 }
