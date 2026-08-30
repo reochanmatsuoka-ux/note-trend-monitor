@@ -1,76 +1,4 @@
 {
-  "474293aea7b1a5d42626640134dbd3fc88cb1eecc245575b1dfeb5d3cc1920da": {
-    "title": "The Qwen team is going live!",
-    "seen_at": "2026-08-13T12:38:51.052932+00:00"
-  },
-  "8d207fda6186a2e0a247ba782d731d707cfa516e6c815ef47958049a052d8200": {
-    "title": "While waiting for the release of Qwen3.8-27B, let's try to guess what will happen",
-    "seen_at": "2026-08-13T12:38:51.052936+00:00"
-  },
-  "01f0a45b33c6bbfb78d204d23414215a6e451143cc34c26afb887901f5cf140a": {
-    "title": "ggml-cpu/ops: vectorize flash-attention V-cache F16 to F32 conversion by jinzihao · Pull Request #26947 · ggml-org/llama.cpp",
-    "seen_at": "2026-08-13T12:38:51.052940+00:00"
-  },
-  "5306c07beb16806a5e3e6715d2a0ae499cb75931f65d31cfb7526fca435570a5": {
-    "title": "Stolen LLM Reasoning: How come OpenAI, Anthrophic, Google have the same vulnerabilities?",
-    "seen_at": "2026-08-13T12:38:51.052946+00:00"
-  },
-  "f7d3fdb9b6f465a8a94e35333510347a7915b2ac3da1a12b7546b744f189271c": {
-    "title": "DeepSeek-V4-Pro-0813 released on api",
-    "seen_at": "2026-08-13T12:38:51.052949+00:00"
-  },
-  "1045a1b05f2087102d7f38b5a307cb5564d3b443aac9462bd12f7798b58e6325": {
-    "title": "「先生、AIを使っていますか？」にどう答えるべき？ - 日経メディカル",
-    "seen_at": "2026-08-13T15:45:36.822988+00:00"
-  },
-  "0f35d2696b9ae8661a5305e811a8d7d5d5932fdf466667218bbe1adb1374bb5b": {
-    "title": "生成AIハッキング術が発行へ、MCP活用した合法実践ガイド - Koubo",
-    "seen_at": "2026-08-13T15:45:36.822994+00:00"
-  },
-  "947f2c01233d155c105a23e8b2bf11060054ba167e0e3903878a4cdbf33e5caf": {
-    "title": "ChatGPT対Gemini、勉強で本当に使えるのはどっち？現役学生が徹底比較レビュー（ライフハッカー・ジャパン） - Yahoo!ニュース",
-    "seen_at": "2026-08-13T15:45:38.043514+00:00"
-  },
-  "9d0a5e6df515ac1ff7a678c6cacdd0544c0dea8856537f4c4823e026bb02d339": {
-    "title": "IBM、OpenAIの最上位パートナーに加入…数千人規模の専任組織を発足 - finance.biggo.jp",
-    "seen_at": "2026-08-13T15:45:38.043518+00:00"
-  },
-  "78efdfea1caeb3da4e093355ad94b232864bac2dc88ec6a95021b26aff16b0ac": {
-    "title": "IBM、株価25％急落から1カ月でOpenAI「GPT-5.6」に賭ける - Yellow.com",
-    "seen_at": "2026-08-13T15:45:38.043525+00:00"
-  },
-  "080c4eccfcc6a8d5d477ee2f863619753bffeed8a7482f99ca9f0bfe05c291cd": {
-    "title": "中国発AIエージェント「Manus」Metaによる約3000億円の買収破談、中国当局の差し止め（ビジネス＋IT） - Yahoo!ニュース",
-    "seen_at": "2026-08-13T15:45:39.204488+00:00"
-  },
-  "e445b4b41bc690edf917dc22b9728aa44317dbbefb48ac511d42e2cc59a1809c": {
-    "title": "継続学習：AIエージェントが使用ごとに向上する仕組み | Arjun Karanam（Trajectory）｜Sequoia Capital - finance.biggo.jp",
-    "seen_at": "2026-08-13T15:45:39.204498+00:00"
-  },
-  "fa84222dd3ed55a16f311eb39fa6c683376a3859b234cf7af64290b2db027d49": {
-    "title": "DeepSeekがV4 Proを正式発表、AIエージェント強化と事業拡大を加速 - Межа. Новини України.",
-    "seen_at": "2026-08-13T15:45:39.204500+00:00"
-  },
-  "653e4c6d9da01ffdcec8fc46644c5c278f88db8d4a3948389502913469b00e60": {
-    "title": "Choosing an AI model: one prompt, 11 models, different results",
-    "seen_at": "2026-08-13T15:45:50.925452+00:00"
-  },
-  "0ef76c76923ce5f3593299646d6a567ef7433893196676bf21c4be41f6be0efc": {
-    "title": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
-    "seen_at": "2026-08-13T15:45:51.603341+00:00"
-  },
-  "0cf33d4bc508e4e6929100f6171b6e02e5ee6e31722c7eac55c1d7ecd4e83d71": {
-    "title": "Deepseek Harness is Up!",
-    "seen_at": "2026-08-13T15:45:51.603346+00:00"
-  },
-  "dfb6dbbb60aea773c34812fe4ff2888c3c34b1919e49c322db42b8276818344a": {
-    "title": "unsloth/DeepSeek-V4-Pro-0813-GGUF · Hugging Face",
-    "seen_at": "2026-08-13T15:45:51.603351+00:00"
-  },
-  "8575da3083d06f9f6a1a279b4527f7bc5c8c53212d72419d58f807ebf6c56a29": {
-    "title": "Deepseek new pricing",
-    "seen_at": "2026-08-13T15:45:51.603355+00:00"
-  },
   "840277026b41848a2ac5863d0bfdf561d75c4def39c75c709cd887fc3f8075f9": {
     "title": "SenseNova-Vision: a 7B open model that does segmentation, depth, detection, OCR, and 3D reconstruction with no task-specific heads",
     "seen_at": "2026-08-13T15:45:51.603358+00:00"
@@ -11998,5 +11926,77 @@
   "6aa4b36142010ef8064a9b9a9493ed14c9c40f5f7bf4d45a2f7336da18f3e717": {
     "title": "Don't Sleep on EXL3 Quants",
     "seen_at": "2026-08-30T14:01:51.056285+00:00"
+  },
+  "e29ba61aebfb8ba1346555a63ef3505ac2b96c0de4307fbed48ff0dfe74f5543": {
+    "title": "金融機関の生成ＡＩ実証、36案件を選定 - nna.jp",
+    "seen_at": "2026-08-30T18:12:46.259679+00:00"
+  },
+  "ecd08dba5ba93e6a1dfc5965aef1e8ab60d5a55275347cf9452c4f0528547a80": {
+    "title": "テオ氏：OpenAIのCursor契約打ち切りはマスク氏対策ではなく、Astra保護が目的 - BigGo ファイナンス",
+    "seen_at": "2026-08-30T18:12:47.627687+00:00"
+  },
+  "ec4e7a577f68de322091aea343db311c3d600ee54d7e17d945e351c3fd77a950": {
+    "title": "タラ・セシャン氏：OpenAIは「2〜3カ月先のモデル」に向けてプロダクトを構築する——未来予測ではない - BigGo ファイナンス",
+    "seen_at": "2026-08-30T18:12:47.627693+00:00"
+  },
+  "389d5b3ddeb73bc53aa5938584a83b085147abf81a1ff234a38f1bb74ae03594": {
+    "title": "OpenAIがChatGPTからDALL-Eを終了、全ユーザー向け無料の新画像ツールへ移行 - Martin Cid Magazine",
+    "seen_at": "2026-08-30T18:12:47.627696+00:00"
+  },
+  "9fcca27adff51d6fc8702858a43252caa2db56f1acc0a9356c5c0e717204b379": {
+    "title": "OpenAI、SpaceX買収後、カーソルへのAIモデルへのアクセスを停止 - VOI.ID",
+    "seen_at": "2026-08-30T18:12:47.627700+00:00"
+  },
+  "4858821db7d4327f3aab95dc3df71b148a597d79b9b8e9ebf514bf8ad7247f88": {
+    "title": "CrowdStrike、AIエージェントがサイバー脅威を変容させる中、トークンベースのFlexモデルを発表 - BigGo ファイナンス",
+    "seen_at": "2026-08-30T18:12:48.845735+00:00"
+  },
+  "c70a1f6135f34e7db0c05a5db0ff3b18249a88849747a89018ab6b93e55b5b9e": {
+    "title": "LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」 - Impress Watch",
+    "seen_at": "2026-08-30T18:12:48.845741+00:00"
+  },
+  "b66b7165c3445f872fdf1d4e572d55b4cf46f452824ddd30b1657262cfd7c5ee": {
+    "title": "AIエージェントが人間にとって理解しやすいシンプルなチャート仕様記述から表現力豊かで見栄えの良いグラフを確実に生成できる可視化中間言語「Flint」、50種類のチャートタイプをサポートしVega-Lite・ECharts・Chart.jsなどでレンダリング可能＆MCPサーバーあり - GIGAZINE",
+    "seen_at": "2026-08-30T18:12:48.845743+00:00"
+  },
+  "be134d1013ba13ed0855760019d972c214216cbfb1579be6bc10e3a9cfcc05ca": {
+    "title": "パワハラ・セクハラの社内調査を支援するAIエージェント、9月1日提供開始 - Excite エキサイト",
+    "seen_at": "2026-08-30T18:12:48.845747+00:00"
+  },
+  "54fdc3c106bf7ea2fcfb21190e9b6936c36832431ce910e55a9ac9e2a0580286": {
+    "title": "Unpopular opinion Qwen 3.8 is hard to understand",
+    "seen_at": "2026-08-30T18:12:50.488817+00:00"
+  },
+  "7609a29763765c93c7d34b6f555704167f0004f56bbb93fef1a83350a0339f5c": {
+    "title": "Uncensored Multi-Model Releases, LongCat-Flash-Lite-Sparse with MTPs and LSAs, Qwen3.8-27B with MTPs, Qwen3.5-122B-A10B with MTPs, Qwen3-Coder-Next and Laguna-S2.1 with Vision, All Available in GGUF Format! Bonus: Links to my llama.cpp Fork for LongCat-Flash-Lite Support and J-Wash Enhanced Fork!",
+    "seen_at": "2026-08-30T18:12:50.488822+00:00"
+  },
+  "360e6ccfcec098c1c1a9a45f6ebe1a6be8ce2ab5ccdc05bba11425c561008ffe": {
+    "title": "Qwen3.8-Flash-Next turns 4xR9700 into a local AI powerhouse! 120 t/s TG and 12k t/s PP single request with optimized vLLM",
+    "seen_at": "2026-08-30T18:12:50.488827+00:00"
+  },
+  "75e90135dfc408153d4f44ac8fd3d56fa688615585377c765105659f132f7dee": {
+    "title": "Oh so that's where my PCIe lanes went...",
+    "seen_at": "2026-08-30T18:12:50.488830+00:00"
+  },
+  "a1c85fcdc0a2b6e72d5acd3d02da3a3ec5897563a7b3b178c4587e9371b4725d": {
+    "title": "Qwen3.8-Flash-Next NVFP4 2xDGX Spark config: 50t/s decode, 2,900t/s prefill",
+    "seen_at": "2026-08-30T18:12:50.488833+00:00"
+  },
+  "9f44d46b4c5a13fa3a2d0fcb24a0cbe23a95a9c283d62c0ba7344da82cf12981": {
+    "title": "Got MiniMax H3 video generation running in TensorSharp",
+    "seen_at": "2026-08-30T18:12:50.488835+00:00"
+  },
+  "2a672d5e3e58413ad4524f815919f01cf042839b35b1fd5ce3aced6ff668406f": {
+    "title": "Qwen 3.8 Flash Next locally on simple mobile phone at 3.5 tok/s",
+    "seen_at": "2026-08-30T18:12:50.488837+00:00"
+  },
+  "6bbf1c15ff6b15b490d4045c074bb85a38897bbbc2c055c29fe2b8dd2ae1f2e7": {
+    "title": "Best settings for harness work with llama.cpp + qwen 3.8",
+    "seen_at": "2026-08-30T18:12:50.488840+00:00"
+  },
+  "085cd61782ac6dbca0dc8fce2b3df5e15ba19b4861e4e5e2fa8ee3b341104be4": {
+    "title": "Qwen Flash Q4_K_M on 4080 + 64GB DDR5 at ~8tk/s 98304 CTX.",
+    "seen_at": "2026-08-30T18:12:50.488844+00:00"
   }
 }
