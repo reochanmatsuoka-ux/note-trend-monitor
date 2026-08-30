@@ -1,72 +1,4 @@
 {
-  "b6c07b29dc33db3785de1dec762ab6e190002a0358b9197b6315b4700dd934ea": {
-    "title": "Qwen 3.8Max 2.4t Open Weight NO vision?!?",
-    "seen_at": "2026-08-13T04:43:00.886446+00:00"
-  },
-  "a528ddd429ca4703551c5d3af0222b42965b99e0488ad1b570ff04e3ae41ca14": {
-    "title": "Twitch配信やチャットがAmazonの生成AI学習対象に？拒否できる設定が追加、配信者は要チェック - Game*Spark",
-    "seen_at": "2026-08-13T07:06:20.677802+00:00"
-  },
-  "bcab2c60c742c09d615294ff712563494b758bbdd01ef7cbd59deb9e5b11895f": {
-    "title": "中国ゲーム業界で生成AI活用が主流に 没入型会話や開発効率化で先行 - BigGo ファイナンス",
-    "seen_at": "2026-08-13T07:06:20.677809+00:00"
-  },
-  "d3ffb61bb2b803ebee9d64572e4ae29da2a83b04b137667858445446858bebf6": {
-    "title": "【コンテンツビジネス研究所調べ】学生メディア・コンテンツ利用調査2026 -生成AI編- - サンスポ",
-    "seen_at": "2026-08-13T07:06:20.677814+00:00"
-  },
-  "2986264b9af7644a15215750b85c5fca2048a17b9e21628ff707868e6c60c63b": {
-    "title": "生成AI利用補助は月1万円、フルリモート80%超──製造業DXを支えるエンジニア採用ページを公開 - Excite エキサイト",
-    "seen_at": "2026-08-13T07:06:20.677824+00:00"
-  },
-  "3995656d6dff5ffb3368901b45646a6df2d7e4b2cfd7ead9ee0e698b7df062c7": {
-    "title": "生成AI利用補助は月1万円、フルリモート80%超──製造業DXを支えるエンジニア採用ページを公開 - ニコニコニュース",
-    "seen_at": "2026-08-13T07:06:20.677827+00:00"
-  },
-  "1665ea2406761d07867c491126e1fbfe5eebdd230b9737f3165078232dcd7a09": {
-    "title": "【大企業マーケ責任者の約3割が生成AIを「脅威」と認識/85.6％が投資対効果の説明に「プレッシャー」】「AI時代の - ニコニコニュース",
-    "seen_at": "2026-08-13T07:06:20.677831+00:00"
-  },
-  "5483dc714a3333feeb3391523681d274f4498225a0bbe7fe8cb33db7e34ffcba": {
-    "title": "Anthropic、Claudeに不可視ウォーターマーク導入 利用者の間で波紋 - 디지털투데이",
-    "seen_at": "2026-08-13T07:06:21.160211+00:00"
-  },
-  "fd5d97ddf094b3955024be0dd797ba2ec8e65bbb478aff5027fa6c4ccaa435ad": {
-    "title": "ClaudeにAI透かしが追加されることで職場や学校でAIを使用していることがバレてしまうかもとユーザーが不満げ - GIGAZINE",
-    "seen_at": "2026-08-13T07:06:21.160217+00:00"
-  },
-  "d34380984eae451c9d77ca14b3b5d99f380a0321234aa0962f3386ac92930f1f": {
-    "title": "OpenAI「Codex」1500万ユーザー突破 利用制限リセット「/fastでどうぞ」（ITmedia NEWS） - Yahoo!ニュース",
-    "seen_at": "2026-08-13T07:06:21.608997+00:00"
-  },
-  "fa4dd6f6c0aeeaee32489d73fe88c6f1a76fbab53e0291abf222e9d7a0baf4bb": {
-    "title": "アドビ、70種超のクリエイティブツールをChatGPTから使えるプラグインを公開 - 株式会社マイナビ",
-    "seen_at": "2026-08-13T07:06:21.609003+00:00"
-  },
-  "6a1cd440d5a1f08a2c60cdece4954cf39a2178961f2559a9ec09d18c0246da0c": {
-    "title": "ChatGPT・Gemini・Claudeで「選ばれる企業」へ、成果報酬型のAI検索最適化サービスを提供開始｜Infoseekニュース - Infoseek",
-    "seen_at": "2026-08-13T07:06:21.609014+00:00"
-  },
-  "c743a9c258dafedb2ac919cd463764e5c84993ba0278eb7b0b5a9c08638b8a8e": {
-    "title": "OpenAI企業AIが実行段階へ移行 フロンティア格差8.3倍 - CHOSUNBIZ - Chosunbiz",
-    "seen_at": "2026-08-13T07:06:21.609022+00:00"
-  },
-  "75494697e2c922723e131b59a505246f18f4ee43fae4e01079a61b1f9cee87bb": {
-    "title": "OpenAI、ChatGPT Plusで「8ドルで利用枠を即時回復」試験 - 디지털투데이",
-    "seen_at": "2026-08-13T07:06:21.609030+00:00"
-  },
-  "a5fd22f7d11a74d8d28604390845b5094709828e6e954edd835f6ffab08ec1ee": {
-    "title": "Google AI Studio、API課金を前払い制に変更（Impress Watch） - Yahoo!ニュース",
-    "seen_at": "2026-08-13T07:06:22.143945+00:00"
-  },
-  "3a7d09b9f4d5cff9718e4fcb21151e8b12c5d9e4452d4b4916a97acb23ec0c1e": {
-    "title": "中国ディープシーク、AIエージェント開発へ新チーム－求人開始 - Bloomberg.com",
-    "seen_at": "2026-08-13T07:06:22.669163+00:00"
-  },
-  "4a0c51aee2a0f3ed233529e088d6844e1335f788896c4458234a3840dbc60504": {
-    "title": "freee、税理士業務を一気通貫支援するAIエージェントを8月28日のイベントで公開 - cloud.watch.impress.co.jp",
-    "seen_at": "2026-08-13T07:06:22.669171+00:00"
-  },
   "8d192d7f40c8070c166a427ade0f15c62a6a3dc12d9f2e6b495a8b12ba042219": {
     "title": "AIエージェントが変える企業コンピューティングとAIの経済性：AMDに聞く - Forbes JAPAN",
     "seen_at": "2026-08-13T07:06:22.669176+00:00"
@@ -11998,5 +11930,73 @@
   "823cde8aff15f13c90fe7020a6453b9c860691336145a74124a867552ad6d0d0": {
     "title": "Qwen3.8-Flash-Next protip tensor-read-lazy on requires load-mode mmap",
     "seen_at": "2026-08-29T22:51:16.409642+00:00"
+  },
+  "fca7e409c39c76208d27eba5507f953218cfdb24f0e0486ceb4e4c2914122de2": {
+    "title": "地域の未来、新潟日報生成ＡＩと共に考え…新潟市でワークショップ最終回 デジタルノマド誘致などアイデア続々 - 新潟日報",
+    "seen_at": "2026-08-30T01:55:15.205800+00:00"
+  },
+  "8637de3a1d105de52bd24eefda0aaedbbe0c7c9d29698d30b64e063091691a65": {
+    "title": "同じように生成AIを使っているのに成果は3倍違う…｢AIを使って結果を出す人｣が持っているスキルの正体 - Yahoo!ニュース",
+    "seen_at": "2026-08-30T01:55:15.205807+00:00"
+  },
+  "e5d9679456a021e885845fdc5c65f8c9ce29d8b1ce0ff1ad608f0361cdb4bb51": {
+    "title": "生成AIの波が押し寄せる小説公募 文化部・三宅令 - 産経ニュース",
+    "seen_at": "2026-08-30T01:55:15.205811+00:00"
+  },
+  "f1ee2102676f3ae222d92aefac045def128cfd8dbdf91d90a31fd45262079666": {
+    "title": "「生成AI活用ガイドラインを策定しました」～生成AIを安心・安全に、議員活動の力にするために～ - 選挙ドットコム",
+    "seen_at": "2026-08-30T01:55:15.205815+00:00"
+  },
+  "277397ad75e7e6339f2c994e8c10fd4a7ae370d4a17adcdecdaef41cf5df14ca": {
+    "title": "防衛省サイバーコンテスト満点の専門家が登壇！自社の生成AI利用をその場で棚卸しする総点検会を10月28日(水)開催 - PR TIMES",
+    "seen_at": "2026-08-30T01:55:15.205817+00:00"
+  },
+  "c3ec4cdfdb09a068682b28726066bddc57b3f92695eb3d4de7b558abee25404e": {
+    "title": "生成AIこれからの使い所 使ってみたから使いこなすへ＠港区産業振興センター - london3.jp",
+    "seen_at": "2026-08-30T01:55:15.205820+00:00"
+  },
+  "fad832a17b66a82481f2b1198605d1ddb07fd3be1cc29673391ed661b3b8c63f": {
+    "title": "「脱メインフレーム、約7割が失敗」の衝撃――“生成AIを使うだけ”ではむしろ泥沼化も：富士通に続き日立も撤退表明（1/2 ページ） - ITmedia",
+    "seen_at": "2026-08-30T01:55:15.205822+00:00"
+  },
+  "f2820f66792934ff1ebcf39b0f6a2afd0e78cac0066dcaebb4f6e2b6c15c21cb": {
+    "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由 - ITmedia",
+    "seen_at": "2026-08-30T01:55:16.458238+00:00"
+  },
+  "4b971fdb66ae4fdf8c5223fdbc694cb45268d832a6cbfeb944a9673237fa7181": {
+    "title": "「AI暴走」論への異論 OpenAI侵入事件で問われるべき組織的責任 #エキスパートトピ（八田真行） - エキスパート - Yahoo!ニュース",
+    "seen_at": "2026-08-30T01:55:16.458242+00:00"
+  },
+  "06e569ed304bc1143b6266f28ed2b89a8d9c0238475a98339b2ec3642c2b258a": {
+    "title": "Z.aiが320Bのモデル「GLM-5.3-Flash」を発表／OpenAIの自社チップ「ハラペーニョ」の性能が明らかに（ITmedia PC USER） - Yahoo!ニュース",
+    "seen_at": "2026-08-30T01:55:16.458245+00:00"
+  },
+  "2a670c27f27b98730a12f826a62921cceeca37552be85f5f8e370bf7d1e68ef8": {
+    "title": "なぜ炎上？グウィネス・パルトロウとOpenAI CEOの夕食会 - フロントロウ",
+    "seen_at": "2026-08-30T01:55:16.458248+00:00"
+  },
+  "412b22f9dad04e9422721f911da322350d411befdc793598d4dcda0caca195e0": {
+    "title": "OpenAIがCursor提供停止 マスク反発 - CHOSUNBIZ - Chosunbiz",
+    "seen_at": "2026-08-30T01:55:16.458252+00:00"
+  },
+  "b3b2c8564d1ab06b937ea32b528a0389f01b2178219001e0a300050a635db518": {
+    "title": "OpenAI、Cursorへのモデル供給終了意向を発表：個人APIキーで埋まらない機能も - XenoSpectrum",
+    "seen_at": "2026-08-30T01:55:16.458254+00:00"
+  },
+  "880842ab41caaa035f322d106c8338d65ae18947a278c375c779de4ef1f48eab": {
+    "title": "「AIエージェント」でネット通販激変 “アマゾン飛ばし”がビジネスモデルを揺るがす（1/3 ページ） - ITmedia",
+    "seen_at": "2026-08-30T01:55:17.585265+00:00"
+  },
+  "ed71be4df21a3d7d61b8b13f89b3c54cddc7ec236bc3ebe91f16a1108fdcc57f": {
+    "title": "Agentic CommerceのStripe、DBSと提携しアジアでAIエージェント決済とクロスボーダー金融を共同開発 - AT PARTNERS",
+    "seen_at": "2026-08-30T01:55:17.585271+00:00"
+  },
+  "e99f5f362482318af23f702fc026f5228643fa221a0c3817450bc89ca73aa36f": {
+    "title": "Humaneval benchmark for Deepseek V4 Flash 0731 vs GLM5.3 Flash on 2x DGX Spark setup",
+    "seen_at": "2026-08-30T01:55:20.888860+00:00"
+  },
+  "cdf411cd1d7a985ba63edc0d3a964dc9d1d10a933e65972725e9ce8bbbf5dfdd": {
+    "title": "Nemotron-3.5-Lightning at 11.77 GiB, a 16 GB option for a model that didn't have one",
+    "seen_at": "2026-08-30T01:55:20.888864+00:00"
   }
 }
