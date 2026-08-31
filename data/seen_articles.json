@@ -1,128 +1,4 @@
 {
-  "0a4dfc43accb7b7caf7ddf82e821b2d16bded2dc218c4978a97a72bef8d91c3c": {
-    "title": "Qwen3.8-27B Released!",
-    "seen_at": "2026-08-14T15:39:06.243307+00:00"
-  },
-  "d994610a79d106f822bce3af16064f702f8fefae329a53ef07aba7f7b7e0b8f2": {
-    "title": "*Cries in 18GB unified memory*",
-    "seen_at": "2026-08-14T15:39:06.243309+00:00"
-  },
-  "6d20841d20f8fef1eafecf607bcfa6d6994bdd1da4a03a720f3840ae4a3b6a78": {
-    "title": "Return of the local King! Qwen3.8-27B performance chart",
-    "seen_at": "2026-08-14T15:39:06.243311+00:00"
-  },
-  "3c7e4de043e575b7b47fa8ea114333f8c7883a6db63542823c81796cbb6a3383": {
-    "title": "qwen3.8-27b holy mother of god",
-    "seen_at": "2026-08-14T15:39:06.243314+00:00"
-  },
-  "cff2858e99c698ea4bdbaa364c725d83ee87f03f376217ba47b4b48873a7e1d8": {
-    "title": "Qwen 3.8 27B Released! Please Share Your Experience",
-    "seen_at": "2026-08-14T15:39:06.243317+00:00"
-  },
-  "4c9bd87ad67b3500cc93351261ec41e497c019ed41f295cb4657d641ebbe8b44": {
-    "title": "fantastic: latest llama.cpp server webui can now run commands for tools into rootless sandboxed containers",
-    "seen_at": "2026-08-14T15:39:06.243318+00:00"
-  },
-  "ba153f81819ece13acab1ef62ff55eae15f0d47b814186e502980d16eae557ae": {
-    "title": "Qwen 3.8 27B is out : open weights, best local dense model yet",
-    "seen_at": "2026-08-14T15:39:06.243320+00:00"
-  },
-  "b34b88ba983235904ba0c042c09daaaaa5d63e13949ab8472a2bac676c879138": {
-    "title": "ChatGPTの「コンピューター履歴」機能がMacの操作履歴を追跡、プライバシー懸念が浮上 - BigGo ファイナンス",
-    "seen_at": "2026-08-14T18:37:21.157715+00:00"
-  },
-  "8f468d2c1926b3e07359d58b4b75bc7ac2e86899429e8926a0283da14f5d3e3d": {
-    "title": "OpenAIの収益ランレートが400億ドルを突破、1年足らずで倍増 - BigGo ファイナンス",
-    "seen_at": "2026-08-14T18:37:21.157722+00:00"
-  },
-  "c56d8227afe692efd07e516cde34e614139a8b5d69976d6d30c3118f58a217a8": {
-    "title": "ピエルルカ・ドーロ氏：1メガバイト未満のブラインドスクリプトが最先端AIエージェントに匹敵、あるいは凌駕する - BigGo ファイナンス",
-    "seen_at": "2026-08-14T18:37:22.230547+00:00"
-  },
-  "3e3fd7d4caf76108707dd93319cd463ed5bfc1e78d68eee423bc8c382b4420f0": {
-    "title": "Qwen3.8-27B is identical to Qwen3.6-27B!",
-    "seen_at": "2026-08-14T18:37:25.212184+00:00"
-  },
-  "69db546cb584207985d330effe6f12e2214fcfd5ecaf2f2a3a77f44918992ec6": {
-    "title": "Alright, We got Qwen3.8-27B. Now it's community's turn to make it more better & faster",
-    "seen_at": "2026-08-14T18:37:25.212191+00:00"
-  },
-  "9963373e92d3c035875cfbedace97be0da5527936c001b52ef52541ce874c411": {
-    "title": "Qwen3.8 Benchmarks Converted to Charts",
-    "seen_at": "2026-08-14T18:37:25.212197+00:00"
-  },
-  "4184dc55d03acf9c38870fd984e6b99e16df958e5455452d46a3ac3d38e70d56": {
-    "title": "Poll results 6 months later: When will we have Opus level with 30b model? Optimists win!",
-    "seen_at": "2026-08-14T18:37:25.212200+00:00"
-  },
-  "0499e829b24f823fc2f07a8a85d9766ef2b9bf6df7540d381ede7a3c76c53bd4": {
-    "title": "NInfer day0 support for Qwen3.8 27b: ~200 tok/s generation, with tons of engine improvments",
-    "seen_at": "2026-08-14T18:37:25.212203+00:00"
-  },
-  "552e580080e3fe1cac4ccd4664ae551eca4bd3537f866e601b9844dbeeaa5bf4": {
-    "title": "qwen 3.8 27b - Generate an animate SVG of a One Piece ship in a OCEAN (think 7 min)",
-    "seen_at": "2026-08-14T18:37:25.212206+00:00"
-  },
-  "a36823f703e9b393064a20b34980941c738df088355892cf96b40bc95aded699": {
-    "title": "Qwen 3.8 FP8 (xhigh) Lava lamp prompt result!",
-    "seen_at": "2026-08-14T18:37:25.212209+00:00"
-  },
-  "fddf28f215e3bb35acb1c1a3b06fb5842cd2e8e5047084f9feeeae45cd034f90": {
-    "title": "Asked Qwen3.8-27B to draw a pelican, it proceeded to draw an entire animation in svg!",
-    "seen_at": "2026-08-14T18:37:25.212211+00:00"
-  },
-  "568e4dc9340aa06399192467d5f5cdaee9b96ea3896a46e5f7e39efe90551446": {
-    "title": "Qwen 3.8 27B - Aquarium Burst Sample Test",
-    "seen_at": "2026-08-14T18:37:25.212214+00:00"
-  },
-  "805d793212c502cd10af970a026280d25e0b798fb1ca06ecb48a18a75c783929": {
-    "title": "Open labs are finally embracing the power of continued post training",
-    "seen_at": "2026-08-14T18:37:25.212216+00:00"
-  },
-  "1cc65f885956be3f744685dc8c282b59f0c6418c74e30a7adadc678e35a4edcb": {
-    "title": "Why don't we have p2p similar to torrents for AI model transfers",
-    "seen_at": "2026-08-14T18:37:25.212219+00:00"
-  },
-  "38e4ff934a7a56bbc3edd60ad9542c17871b54bee033a461eec8e2b4442871a1": {
-    "title": "Muse Glimmer was frontier In the model class around 30b models for four days.",
-    "seen_at": "2026-08-14T21:13:42.513688+00:00"
-  },
-  "18428a07abbf9aa2015139e470b3febfbbaafb6f819953ead47c83b09cd8a3dd": {
-    "title": "Why my post was deleted ?",
-    "seen_at": "2026-08-14T21:13:42.513696+00:00"
-  },
-  "3dfb7b9f8ea6218a1dfa8733c856d71dfbc2c72eae0f7fae86a0ef7085bbb208": {
-    "title": "Stop shitting on 9B models",
-    "seen_at": "2026-08-14T21:13:42.513700+00:00"
-  },
-  "104f42f245c3b747a6d1cf5afd00aa8ab99b7b9aa4e36d74be679fcb5ec9ced6": {
-    "title": "The difference between \"medium\" and \"xhigh\" reasoning effort for Qwen3.8-27B is actually insane.",
-    "seen_at": "2026-08-14T21:13:42.513711+00:00"
-  },
-  "7f5d21cf535039a670f54fbe21e2dde975aceaedf114db663c03ed155e61e27e": {
-    "title": "Local uncensored Opus 4.6 at home - Qwen3.8 27B heretic",
-    "seen_at": "2026-08-14T21:13:42.513714+00:00"
-  },
-  "9344f053baaa01c5928e72ccb6306653c7f793e68ca387cd486f1cbc4d1b2913": {
-    "title": "Fixed/improved Jinja chat template for Qwen 3.8",
-    "seen_at": "2026-08-14T21:13:42.513718+00:00"
-  },
-  "1e75796cf10bbd6a0c68463cee88f4654b19bbde839d9da98bec5299c8a82342": {
-    "title": "A 150M param recurrent model scores 29.5% on ARC-AGI-1 at $0.0007 per task",
-    "seen_at": "2026-08-14T21:13:42.513721+00:00"
-  },
-  "a22bca554404a496879a04d0469da84b08670f07a894be7929d93420e9c6a016": {
-    "title": "ローカルLLM「Qwen3.8-27B」ウェイト公開 一部「Opus 4.6 Max」超えか ライセンスは商用可のApache 2.0（ITmedia NEWS） - Yahoo!ニュース",
-    "seen_at": "2026-08-15T00:29:06.315153+00:00"
-  },
-  "6eb43137a66a0fb697f53a61e0a535b0e082494fb4c549a9f7c1b014ec122af3": {
-    "title": "「ググる」は死語になる？何でも生成AIに聞く時代に私たちは“調べる力”を失うのか - 東京報道新聞",
-    "seen_at": "2026-08-15T00:29:06.315162+00:00"
-  },
-  "e467a0e03e3a6c405715334c981d8892eceea601783ab72b1da4c15a06494b56": {
-    "title": "Anthropic、未公開Claudeが「リーマン予想」に挑戦 証明は失敗も関連問題で41.6％→67.2％、「自分を信じて」と人間が励ます - Ledge.ai",
-    "seen_at": "2026-08-15T00:29:06.882751+00:00"
-  },
   "4a5b5323a0070bdf1df45996a01f25ced303306c69d12f0ec3526454bea34492": {
     "title": "Claudeの文章透かしは何を証明できるのか Anthropic自身が明かした検出の境界 - XenoSpectrum",
     "seen_at": "2026-08-15T00:29:06.882773+00:00"
@@ -11998,5 +11874,129 @@
   "90862fb463c93470125ed0cdbc4216c068a6c937f61110d95f22f55985d7c633": {
     "title": "Qwen3.8-Flash-Next on a 96GB Mac Studio (here's my memory math, tell me where it's wrong)",
     "seen_at": "2026-08-31T08:58:17.034376+00:00"
+  },
+  "223dbf26bba02ac3a9d758e95b5bf4a6aa8f1f486ac199fae3750684c6968a97": {
+    "title": "「AIの世界で認知されてますか?」— 生成AI検索時代のブランド可視化ツール「AIがいうてた」提供開始、実際に使って評価いただけるフィードバックモニター企業を先着20社限定で募集 | COOD株式会社のプレスリリース - PR TIMES",
+    "seen_at": "2026-08-31T16:38:07.337237+00:00"
+  },
+  "eeca22e2896a019b47f3fe33bcddd7d4ba983afee0a0ec451670bc68898ba31f": {
+    "title": "横須賀市とNTT東日本、生成AIが災害対策の意思決定をどう支援できるか検証を開始 - EnterpriseZine",
+    "seen_at": "2026-08-31T16:38:07.337244+00:00"
+  },
+  "d3081bbaff1fce0084f3e07347c4a9b454ffd1d82056e5cd52eec68480cdd6d6": {
+    "title": "【マルチAI対応】法人特化型 生成AI「LINNE AI（リンネAI）」がGemini・Claudeを追加搭載！3大生成AIを追加料金なしで使い分け可能に！ - PR TIMES",
+    "seen_at": "2026-08-31T16:38:07.337248+00:00"
+  },
+  "d0bc0ad204d3b8100ffa992f8be0a43a39de9ef313119ced3fae991ebdff2398": {
+    "title": "「乗り換えは？」人型ロボットが駅で回答 大阪メトロが梅田駅で生成AI「Gemini」活用したロボット実証実験 人手不足の解消へ - FNNプライムオンライン",
+    "seen_at": "2026-08-31T16:38:07.337252+00:00"
+  },
+  "48118edfcd9a6a7a57ac6bffbc1d74b626faf4a4f18d8a2ccb0018aa201b6f7f": {
+    "title": "中国生成AIドラマの申し子、「方桃子」の光と影 - Record China",
+    "seen_at": "2026-08-31T16:38:07.337255+00:00"
+  },
+  "6771474224833174a7246d5791a52bf83f416c85d850df078b2ad61d2278a8da": {
+    "title": "Anthropic、AIに「AIの安全性研究」を任せる実験　うそ、迎合などの問題行動を性能落とさず改善 - Infoseek",
+    "seen_at": "2026-08-31T16:38:08.077625+00:00"
+  },
+  "23a81b02d3dfb4f689cad01511e76e6d72c53948dc317af56a2a5885f30e728d": {
+    "title": "Claudeの｢見えないAI透かし｣消去ツールがバズっています - Gizmodo",
+    "seen_at": "2026-08-31T16:38:08.077633+00:00"
+  },
+  "c5a6ea776d49ac59f10ff6361e1615ab0ffe2be6c39073ab344edac87488d4f5": {
+    "title": "EU、ChatGPTを厳しい規制対象に 「巨大検索エンジン」指定 [AIの時代] - 朝日新聞",
+    "seen_at": "2026-08-31T16:38:08.724959+00:00"
+  },
+  "09e9e1a7b32d335cbbab4c24c1e441f36117a960c623b3c420145fabdd92a523": {
+    "title": "OpenAIの広告事業、年間収益10億ドル突破 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-08-31T16:38:08.724964+00:00"
+  },
+  "9e1b2fb3f5861f1fba6423666ad62f2cf4f48cf7e5e427b202ba95a5bdb8f61f": {
+    "title": "EU、ChatGPTなど3サービスを規制強化対象に DSAで未成年保護を厳格化 - BigGo ファイナンス",
+    "seen_at": "2026-08-31T16:38:08.724967+00:00"
+  },
+  "c7a3fd75941273320d612a5f5f62c59d342edd9cf17d2e48fc17ac38fa7635bd": {
+    "title": "OpenAI：ChatGPT広告の年間化収益率が10億ドルに達し、世界展開は引き続き進む - Moomoo",
+    "seen_at": "2026-08-31T16:38:08.724970+00:00"
+  },
+  "074d253dcd7643cab8c19251300ce888e1829cdc2348359b7d36b74bca0a9729": {
+    "title": "OpenAIのChatGPT広告事業が年換算売上高10億ドルに到達、海外市場へ拡大 - Межа. Новини України.",
+    "seen_at": "2026-08-31T16:38:08.724973+00:00"
+  },
+  "336371a886086680290982de93e2aacd59122cc87c8eb244c65863a2878e9441": {
+    "title": "Cerebras Systems Stock Shows Massive OpenAI Backlog And European Expansion Plans - TIKR.com",
+    "seen_at": "2026-08-31T16:38:08.724976+00:00"
+  },
+  "4c77c1d3eff7ab620f03469253dbb22b1961c5dadc4369c49cca1072a0987c25": {
+    "title": "欧州委員会がChatGPTなど3サービスを最厳格なDSA規制対象に指定 - Межа. Новини України.",
+    "seen_at": "2026-08-31T16:38:08.724979+00:00"
+  },
+  "adef6a31eb4de8e9a111da541b2237879fe34f0b1cd84ab823b23ff729ab66c7": {
+    "title": "読んだ本がAIの血肉になる。Google Play ブックスがGemini Notebookと連携 - Gizmodo",
+    "seen_at": "2026-08-31T16:38:09.197603+00:00"
+  },
+  "f2ca85b78d920d05c03c40f4db33af07630c4921449fc3e490b5c9d03f085aaa": {
+    "title": "Gemini「デバイスのヘルプ」多くのAndroidデバイスに展開へ - jetstream.blog",
+    "seen_at": "2026-08-31T16:38:09.197609+00:00"
+  },
+  "eb1ad05bf0a1bf60976b14e20296fff0ff9582b40a077d632726d2d661685a49": {
+    "title": "＜特別座談会＞「地域企業共創AIエージェント実践プログラム」が目指すもの ～北海道大学・学生・地域企業・グローバルIT企業・地域IT企業の5者が共創 ｜特集 IBM Bob Part5 - アイマガジン",
+    "seen_at": "2026-08-31T16:38:09.709175+00:00"
+  },
+  "d44653f2ed6b12b7b6110c68e0d2dbe8cf99537e193d61c54aace3ccb55e7d8d": {
+    "title": "DHH氏が開発するLinux OS「Omarchy Quattro」リリース。AIエージェントとをOSと統合、スキルによりAIエージェントがOSの設定や操作、プラグイン作成まで支援 - Publickey",
+    "seen_at": "2026-08-31T16:38:09.709181+00:00"
+  },
+  "d1c89ed0555504386de76706c304854420664eb92dfd60195c23ab05a1572d91": {
+    "title": "300名が受講したAIエージェント特化型講座のMicrsoft Copilot版「AI Agent Camp for Microsoft Copilot」提供開始 - PR TIMES",
+    "seen_at": "2026-08-31T16:38:09.709184+00:00"
+  },
+  "e11ea6b1155c2545bf18181068554e6bbe5672cfe4e19d40edf0b7dc2df5e1e6": {
+    "title": "教育用AIエージェント Knowledge ID MAP（ナレッジIDマップ）正式リリース！ - Excite エキサイト",
+    "seen_at": "2026-08-31T16:38:09.709187+00:00"
+  },
+  "bb160a5081b812b1471bf2d6aa840b4a892bce5d54b156f89dd6a18e19778169": {
+    "title": "Nayutamが提言する自律型AIエージェントの新基準と安全性確保の重要性 - ニュースメディアVOIX",
+    "seen_at": "2026-08-31T16:38:09.709190+00:00"
+  },
+  "2b281d63144989bcbc03d94531f428dd231affbeb8337a1053c473bff0a54e94": {
+    "title": "What are your hopes for the new Mistral?",
+    "seen_at": "2026-08-31T16:38:18.492290+00:00"
+  },
+  "76a0e7403e7f838f0269717ab91745504578eacf4da2383cfbf68d80e53ee431": {
+    "title": "vote for the Qwen 3.8",
+    "seen_at": "2026-08-31T16:38:18.492295+00:00"
+  },
+  "87d8ed99aa0110b2e2691a484b3a6cc11958630f63dc35bbe96cdf705a4c01f1": {
+    "title": "First time running local models",
+    "seen_at": "2026-08-31T16:38:18.492298+00:00"
+  },
+  "c383457f67857f027e7d4f0cad3c13f751f0061526f08116fc5b25d28aea33a5": {
+    "title": "How bad do you think models like Qwen3.8-27B or GLM-5.3-Flash would be with H-Neurons disabled?",
+    "seen_at": "2026-08-31T16:38:18.492301+00:00"
+  },
+  "ff4c1c6851a65b0aaa4097784f61d26970b281d959184960be276c1ec8e57aac": {
+    "title": "The Chrono Trigger plot challenge - Crono awakens in his modest bedroom of 2095...",
+    "seen_at": "2026-08-31T16:38:18.492304+00:00"
+  },
+  "5f266e75535c42da10fe497a9b8f9756c1516cbc12bd95dd27f610f3cda27d34": {
+    "title": "CUDA: extend MOE fusion to specdec, earlier MOE glu fusion and topk-router fusion were restricted to 1 token by ynankani · Pull Request #27621 · ggml-org/llama.cpp",
+    "seen_at": "2026-08-31T16:38:18.492307+00:00"
+  },
+  "ece847cf5e049d9992371d724ed0bff6e90158d18c57d66d0c44151dc831aa5c": {
+    "title": "Sliding-window beats linear attention",
+    "seen_at": "2026-08-31T16:38:18.492310+00:00"
+  },
+  "f8338c0d60670fd884b7d2677424bf99ee347ccb049d508ec68b731a19b6bce9": {
+    "title": "Models to download for M5 Ultra 512GB",
+    "seen_at": "2026-08-31T16:38:18.492313+00:00"
+  },
+  "7700387d087954184390747c40ff932951785d5244ce8570b0a9cd1ea3646cbc": {
+    "title": "Does anyone have real experience with Ornith-1.5-9B for coding",
+    "seen_at": "2026-08-31T16:38:18.492315+00:00"
+  },
+  "76cce2280cab72a716e5d304558fbc409c51b799da16a4cd3fb9856d6ff6fe86": {
+    "title": "SlopTV: an infinite livestream of AI slop generated from youtube chat comments, Minimax H3 on 2x5090",
+    "seen_at": "2026-08-31T16:38:18.492318+00:00"
   }
 }
