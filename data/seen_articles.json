@@ -1,136 +1,4 @@
 {
-  "4a5b5323a0070bdf1df45996a01f25ced303306c69d12f0ec3526454bea34492": {
-    "title": "Claudeの文章透かしは何を証明できるのか Anthropic自身が明かした検出の境界 - XenoSpectrum",
-    "seen_at": "2026-08-15T00:29:06.882773+00:00"
-  },
-  "06949ef599b9f3bebf72e8553f816b96e726895935bf7f2de8f08d50a449fd61": {
-    "title": "指示なしで自ら脱獄したAI…OpenAI事件が突きつけた制御喪失の警告 - BigGo ファイナンス",
-    "seen_at": "2026-08-15T00:29:07.343591+00:00"
-  },
-  "6f26934179bddc18941965c891b88eecbbf90d4ab7beb93e7858e993e639bf8e": {
-    "title": "Google、AI生成物に表示する「透かし」をオフ可能に SynthIDとC2PA情報は維持 - ライブドアニュース",
-    "seen_at": "2026-08-15T00:29:07.794087+00:00"
-  },
-  "d014b8fa1a0004427d514940f4ebbd3d69d2428e913651fcec59f258207afdc1": {
-    "title": "Google、AI生成物に表示する「透かし」をオフ可能に SynthIDとC2PA情報は維持 - excite.co.jp",
-    "seen_at": "2026-08-15T00:29:07.794092+00:00"
-  },
-  "66c5bcb8f581324f56c86857f46de303bc0d30ba8664f2a0300b34688fc88271": {
-    "title": "Google、AI生成物に表示する「透かし」をオフ可能に SynthIDとC2PA情報は維持 - マイナビニュース",
-    "seen_at": "2026-08-15T00:29:07.794095+00:00"
-  },
-  "bbe06765b57a7b5031ef844669fd3614070496f6c9959a0b1c87d58907339746": {
-    "title": "Gemini「3.7 Flash」展開【Google AI Pro/Ultra】 - jetstream.blog",
-    "seen_at": "2026-08-15T00:29:07.794099+00:00"
-  },
-  "afcc018eece867a53de3c3f5c9e490f63ab48726e45b6d97ffbde204463ba9d3": {
-    "title": "「テキストベースなのでお手伝いできません」——Geminiが拒否モードに陥った2時間の中身 - shiritomo",
-    "seen_at": "2026-08-15T00:29:07.794102+00:00"
-  },
-  "7cfc75358e2aa43d022730a20406b076291b0365767f02d8960c8f2cad83bc02": {
-    "title": "【Google Pixelは国内シェア2位→「米国外で初」の直営店が上陸】一等地フロア丸ごと「AI体験」でiPhone対抗／Geminiの開発遅れでも「スマホに最先端AI不要」【1on1 Tech】 - TBS NEWS DIG",
-    "seen_at": "2026-08-15T00:29:07.794105+00:00"
-  },
-  "720523613aac854854cee807693e6d030fe7150fd6ef160dd459312bbd75cc82": {
-    "title": "Uber Eatsに学ぶAIエージェント本番運用術 1万都市の料理画像を自己修復（TechTargetジャパン） - Yahoo!ニュース",
-    "seen_at": "2026-08-15T00:29:08.275896+00:00"
-  },
-  "7bea131b497b21febb6c8335de73104bd08b3ccdf2b708f9988abb36c71ed6eb": {
-    "title": "なぜ「SaaSの死」でもWorkday買収？ AIエージェント時代に価値が上がる企業の条件 - ビジネス+IT",
-    "seen_at": "2026-08-15T00:29:08.275904+00:00"
-  },
-  "8c89501ddbf430cadb904dc4a4a6cf3d6da770664f0c98ee0422e410ad514a29": {
-    "title": "オメル・プリモール氏：AIエージェント向けウェブコンテキストの自社保有は約1万5000クエリでレンタルを上回る - BigGo ファイナンス",
-    "seen_at": "2026-08-15T00:29:08.275908+00:00"
-  },
-  "96e97b3fea540faa11f071ce1455fa483d429e6c955d1ffd888661cff73e432f": {
-    "title": "なぜ「SaaSの死」でもWorkday買収？ AIエージェント時代に価値が上がる企業の条件 (ビジネス＋IT) - Yahoo!ニュース",
-    "seen_at": "2026-08-15T00:29:08.275911+00:00"
-  },
-  "3018ea25c2d40bbd6f864fb2bc1fd7e88ab1fd25a2396992e81f8f29e242efab": {
-    "title": "アジアクエストが提供するGAIAでAIエージェントと業務システムの安全な接続を実現 - ニュースメディアVOIX",
-    "seen_at": "2026-08-15T00:29:08.275914+00:00"
-  },
-  "5a400d0bf35bc792de01714e572a3175e0fe61224df8dac22b62614c5442f0e9": {
-    "title": "A hunch: Qwen3.8-27B's general knowledge got pruned (good, if true)",
-    "seen_at": "2026-08-15T00:29:45.066006+00:00"
-  },
-  "f10edc3018923e85fa1a4d2bdf5e3175cd5bad49bce7e7a780a08c283b179025": {
-    "title": "Qwen3.8-27B is now up to ~3× faster on Apple Silicon with mlx-dspark",
-    "seen_at": "2026-08-15T00:29:45.066012+00:00"
-  },
-  "1acbebf46a678fa40a9b23a00194f39df77e1088c56f5c58bd772ad87311b269": {
-    "title": "RetroCraft - Qwen 3.8 27B Q8, one shot with exact performance data on dual 3090s.",
-    "seen_at": "2026-08-15T00:29:45.066016+00:00"
-  },
-  "fe52f156050954c96ba64e99ec6a3ee2b7284855a805cd762395211bea8afd0b": {
-    "title": "Qwen 3.8 - 27B is a game changer",
-    "seen_at": "2026-08-15T00:29:45.066020+00:00"
-  },
-  "ebed36ae361d6eee37be7a64a41b2ff13ce11b1e2933a35ca13e6fdc4091793b": {
-    "title": "[Megathread] Qwen 3.8 27B Release Day",
-    "seen_at": "2026-08-15T03:28:08.118084+00:00"
-  },
-  "9199600c8871389624b6dfa45ddddc8ebd7de9fc32ad67e60d8fe56ea5a1c20d": {
-    "title": "Qwen 3.8 27B - Note the new recommended sampling parameters (from the official HF page)",
-    "seen_at": "2026-08-15T03:28:08.118096+00:00"
-  },
-  "1277c539877831d6fd7843e1fa6a7cc9e9a8d084913b4db7c9d49eb13be4bd11": {
-    "title": "広島ホームテレビ放送番組審議会で生成AIとSNS時代のテレビの役割議論 「信頼性こそ強み」 - HOME広島ホームテレビ",
-    "seen_at": "2026-08-15T06:16:28.135235+00:00"
-  },
-  "39fd6f7abdda77d62b1f49c050e983054d8a54a8314c10631c53108628f0976a": {
-    "title": "動画生成AI「MiniMax-H3」のComfyUI向け軽量版が登場、少ないVRAMでも動作、スマホ完結でサクサク動く軽量AIエージェント「LFM2.5-2.6B」など生成AI技術5つを解説（生成AIウィークリー） - テクノエッジ TechnoEdge",
-    "seen_at": "2026-08-15T06:16:28.135242+00:00"
-  },
-  "f747b04cb7350942a90268b34fd33ac58917ae8748e75a2420343298dd823069": {
-    "title": "タイ知的財産局、生成AIでの音楽制作に著作権上の注意喚起 無断のAIカバーやリミックスは侵害の可能性 - タイランドハイパーリンクス",
-    "seen_at": "2026-08-15T06:16:28.135246+00:00"
-  },
-  "f7f99be1591fb880956169be342e1a72d038bbcee5ca6cfa5b8d59f21cf0e7e7": {
-    "title": "新興市場見通し：直近大商い銘柄の日替わり物色で、資金は非生成AI・非防衛関連株へ(フィスコ) - Yahoo!ファイナンス",
-    "seen_at": "2026-08-15T06:16:28.135250+00:00"
-  },
-  "acd77718241421f11e5d944f1e8bca66398785d8358d0f8abc32523d3ec05b0f": {
-    "title": "Claudeで生成した文章に「電子透かし」導入 編集しても残る（Impress Watch） - Yahoo!ニュース",
-    "seen_at": "2026-08-15T06:16:28.601360+00:00"
-  },
-  "e8f679e979a5d7fce7af0f817f083f400150ad32e0db85c470e95a7c5423b29e": {
-    "title": "AI Timesの新着ニュース 2026/08/13 - Buttondown",
-    "seen_at": "2026-08-15T06:16:28.601366+00:00"
-  },
-  "a9509d85c352e5167a882883ab655682ebb695bf6a5c3841ba5189501b81b192": {
-    "title": "AI Timesの新着ニュース 2026/08/14 - Buttondown",
-    "seen_at": "2026-08-15T06:16:28.601370+00:00"
-  },
-  "0be505506fd42cb91fe0d3e241556fdedaf588e183ef59743fa16382b928c5aa": {
-    "title": "OpenAI元COOブラッド・ライトキャップ氏が退社 安全・倫理責任者など重要人物の離職相次ぐ - Ledge.ai",
-    "seen_at": "2026-08-15T06:16:29.109208+00:00"
-  },
-  "e16ee4b6d4b804dbacff648616d32e406bc00aeeff6eaece8b72e36e227f325a": {
-    "title": "NvidiaがOpenAIデータセンター保証額を1,200億ドル未満に削減――WSJ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "seen_at": "2026-08-15T06:16:29.109214+00:00"
-  },
-  "f55545f645ec831026fb15935b4aded0c0106d57a927a995a27cf42069fbc2e4": {
-    "title": "〝約3ヶ月でー20kg〟コーヒールンバ平岡佐智男 ChatGPT伴走ダイエットで達成「ジーやん、ありがとう、心の友よ」 - Yahoo!ニュース",
-    "seen_at": "2026-08-15T06:16:29.109218+00:00"
-  },
-  "988a9ca3bb4c8eb0bc5c5b930f0b442afa9892a8dcab6908e6a0745deb103590": {
-    "title": "ChatGPTで殺害計画 米男性をOpenAI通報逮捕 - CHOSUNBIZ - Chosunbiz",
-    "seen_at": "2026-08-15T06:16:29.109221+00:00"
-  },
-  "b58077cf5ccadae4721915e219ad19d8ee38ae62334831eae7958e5f156d78dc": {
-    "title": "NVIDIAがOpenAI向け保証を半額以下に縮小、5000億ドル計画に漂う「循環融資」の影 - XenoSpectrum",
-    "seen_at": "2026-08-15T06:16:29.109224+00:00"
-  },
-  "aaf95ad91de5e9396982a410c753e3b208e0510ae121ae35202c9ab7a2d39e93": {
-    "title": "動画生成AI「MiniMax-H3」のComfyUI向け軽量版が登場、少ないVRAMでも動作、スマホ完結でサクサク動く軽量AIエージェント「LFM2.5-2.6B」など生成AI技術5つを解説（生成AIウィークリー） 1枚目の写真・画像 - テクノエッジ TechnoEdge",
-    "seen_at": "2026-08-15T06:16:30.153167+00:00"
-  },
-  "d5580a69b816bb02d9aeedb0d923754e750dcaef3f58eceebc48238e65b5554c": {
-    "title": "Quantized AI9Stars' G9v3-39A5B to GGUF and created a llama.cpp fork to support it",
-    "seen_at": "2026-08-15T06:16:33.667764+00:00"
-  },
   "0b2e664fac6368ba7af5a6c33886fdf9bf38f2fbe863ada8004382822dc2a5ee": {
     "title": "Qwen 3.8 27B on AMD - 24 t/s on Ryzen AI Max+ 395 & 51 t/s on Radeon AI PRO R9700",
     "seen_at": "2026-08-15T06:16:33.667769+00:00"
@@ -11998,5 +11866,137 @@
   "76cce2280cab72a716e5d304558fbc409c51b799da16a4cd3fb9856d6ff6fe86": {
     "title": "SlopTV: an infinite livestream of AI slop generated from youtube chat comments, Minimax H3 on 2x5090",
     "seen_at": "2026-08-31T16:38:18.492318+00:00"
+  },
+  "3515dea3397aeb3ce3e212efec8456e896e95b9762068166d6faf34017d10af6": {
+    "title": "生成AI - 日経クロステック",
+    "seen_at": "2026-08-31T22:05:29.418349+00:00"
+  },
+  "85bf460f8022370e647c4227b9f09d38c4bc318c29bc4098d291fe33338f8a09": {
+    "title": "生成ＡＩで販促ツール 来月16日作成セミナー 小牧会議所 - 中部経済新聞",
+    "seen_at": "2026-08-31T22:05:29.418357+00:00"
+  },
+  "5c9919dd6e955274c5c1b3ae1e70f150eb1f760e4eda18de347d2f88e1f44c78": {
+    "title": "生成AIで作った外部公開物の根拠確認・承認ガイドを無料公開 - RBB TODAY",
+    "seen_at": "2026-08-31T22:05:29.418360+00:00"
+  },
+  "493135be243e9c8c4218166031e64d02d0d60f7f320407f94fb10755cb571df0": {
+    "title": "TDSE、生成AIカンファレンス 「IF Con Tokyo 2026」にダイヤモンドスポンサーとして出展 - ニコニコニュース",
+    "seen_at": "2026-08-31T22:05:29.418364+00:00"
+  },
+  "e094e137013d53159e63a534e1dcc93f2b8462a8b28ab788c350eee8cef1ebf3": {
+    "title": "ソニー系24社・ワーナー系11社、Anthropicを提訴 Claude学習で「数万曲」の著作権侵害を主張 - 合同会社ロケットボーイズ",
+    "seen_at": "2026-08-31T22:05:30.178601+00:00"
+  },
+  "f9cec6dd4b3312a1fcde79abcfabf21c9ba457f2ef5599bd18dc3746a93c7272": {
+    "title": "EU、ChatGPTやRedditなど規制 クロードは対象外の理由 - BeInCrypto",
+    "seen_at": "2026-08-31T22:05:30.178607+00:00"
+  },
+  "ba10e8359f28a8c09bfe6eefef772168bb0f52bf761a81c805f9aff03a4ef6c7": {
+    "title": "OpenAI、ChatGPT広告収入が年1600億円ペース IPO備え収益拡大へ - 日本経済新聞",
+    "seen_at": "2026-08-31T22:05:30.669390+00:00"
+  },
+  "549aaed6287ac6436edc727e55e87f2fdb029d2448d14742c6e0dfbac110bc47": {
+    "title": "EU、ChatGPTを「超大規模検索エンジン」に指定。RedditやRobloxも新たに規制強化対象へ（テクノエッジ） - Yahoo!ニュース",
+    "seen_at": "2026-08-31T22:05:30.669399+00:00"
+  },
+  "cd35e8ec37e520e0c16f827f276a1a96e01a4fd03139b58d97d9a654035e1e9f": {
+    "title": "「ChatGPT Work」の仕組みに関する考察 - GIGAZINE",
+    "seen_at": "2026-08-31T22:05:30.669404+00:00"
+  },
+  "6512b5b99647def0554816de6e1632d4c8e8bab5a278fde2d13066c05c384ed5": {
+    "title": "AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ - ITmedia",
+    "seen_at": "2026-08-31T22:05:30.669409+00:00"
+  },
+  "f8b4847165da62a246bd9cf64f26d84607f1ad5931a505c92d2e14453cb2e20d": {
+    "title": "OpenAI、サイバー領域特化 AI「GPT-5.6-Cyber」を発表 ゼロデイ脆弱性研究を強化、Daybreak Red限定で提供 - 合同会社ロケットボーイズ",
+    "seen_at": "2026-08-31T22:05:30.669414+00:00"
+  },
+  "5c35faeb61e73f1c769030f9594251cf1e8ec1bf6bbea4f197d32ffb40fc86ba": {
+    "title": "アップル、OpenAI被告が回路図にアクセスしたと主張 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-08-31T22:05:30.669419+00:00"
+  },
+  "52a072bba779a92f4b4e04e30f3d7f7c9fdcbb6d345ed963a8d4febae5fdff94": {
+    "title": "ネイサンの警告：OpenAIの暴走エージェントは創造者自身をも驚かせた - BigGo ファイナンス",
+    "seen_at": "2026-08-31T22:05:30.669424+00:00"
+  },
+  "fb541d60a45afce550c20ab7ff29953f460f4f7695013336ecd2f5bf0a34a5bf": {
+    "title": "アップル、元技術者が盗用回路設計でAI訓練にOpenAI支給のノートPCを使用と主張 - BigGo ファイナンス",
+    "seen_at": "2026-08-31T22:05:30.669428+00:00"
+  },
+  "934c1413ba9849de373d9cc4b9964441a39b93f8a57de8251ba3dfa32953a6c0": {
+    "title": "米国防総省が軍用版ChatGPTとGrokを約300万人に開放 - Межа. Новини України.",
+    "seen_at": "2026-08-31T22:05:30.669432+00:00"
+  },
+  "cc6fceb78bba78bd9cbda306360414b8b4506a880f5864ff5485dc9ec30a1f8b": {
+    "title": "OpenAI、週次10億人超のChatGPT基盤で広告売上年率10億ドルを達成 - Yellow.com",
+    "seen_at": "2026-08-31T22:05:30.669437+00:00"
+  },
+  "72e42449cb38e5c8dc76b4d3d1558a37c3d31025ef7dda282d277b600adb5bb4": {
+    "title": "OpenAIがMac mini／Studioを数万台規模で調達か、AI訓練の制約がGPU外へ - XenoSpectrum",
+    "seen_at": "2026-08-31T22:05:30.669443+00:00"
+  },
+  "40bd156ede85556e074ada05bffc5b0c443f0846cfab91f7bbab14a082555b8e": {
+    "title": "日本企業が向き合う次のAI課題--「AIエージェントのインターネット」とは何か - ZDNET Japan",
+    "seen_at": "2026-08-31T22:05:31.782915+00:00"
+  },
+  "e3edee82e26f7fa1043f89d8213605ab355f73696c90eeab7dec9b64128d6d52": {
+    "title": "“オフィスカジュアル”の悩み 服選び支援AIエージェントで仕事に集中できる服装へ（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
+    "seen_at": "2026-08-31T22:05:31.782920+00:00"
+  },
+  "801518bf3d99c7fa0a97f60bdcb1c84750499280801f3f4790df9d771579fcbb": {
+    "title": "AWS Summit Japan セッションの約半数がAIエージェント、「最も強い力に」 - 日経クロステック Active",
+    "seen_at": "2026-08-31T22:05:31.782923+00:00"
+  },
+  "35c47a13a67698989ac60a7362986fd1052dc6d928de4f28aa8b5acec7c70013": {
+    "title": "増殖する「野良Skills」が新たな技術的負債になる：AIエージェントを動かす「社内標準」の作り方 - TechTargetジャパン",
+    "seen_at": "2026-08-31T22:05:31.782925+00:00"
+  },
+  "12e4104ef21e554839e677814a780589711cc888ac8aea689013877eb03b5097": {
+    "title": "OpenClaw 2.0がリリース：個人用AIエージェントを共有作業基盤へ変える - XenoSpectrum",
+    "seen_at": "2026-08-31T22:05:31.782928+00:00"
+  },
+  "9f47e0567075e2dafc5377c072a905253faa07b40e5830fa321f6b32d9e36e75": {
+    "title": "【9/1登壇】AIエージェントの本番運用｜実行基盤の作り方を解説 - ニコニコニュース",
+    "seen_at": "2026-08-31T22:05:31.782931+00:00"
+  },
+  "c451398cedf4f3f26f3e6fc6a8905a5daab64f0ae4e89b0ad5d602953f48d438": {
+    "title": "GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
+    "seen_at": "2026-08-31T22:05:32.630062+00:00"
+  },
+  "f93f5081b59f8e99c4fb4304f390d7a389446bb06dc176275b990db7ae60c1c8": {
+    "title": "Doesn't this look like NVIDIA is price fixing?",
+    "seen_at": "2026-08-31T22:05:32.630067+00:00"
+  },
+  "fe5f53c6698514e2e7012a24cf4061b439506d4d139533909f0325436ba2ec24": {
+    "title": "AVX2: Speed up large batch size prompt processing of IQ models by bartowski1182 · Pull Request #27402 · ggml-org/llama.cpp",
+    "seen_at": "2026-08-31T22:05:32.630072+00:00"
+  },
+  "38e8d80cfe78dfd58a269eb50978cbe57a77eca21e7454bd700d8c4f740fe816": {
+    "title": "Qwen3.8-Flash-Next in llama.cpp from CPU-only to 96GB VRAM: 8.5 to 109 tok/s, max context and parameters test. My findings on RTX 6000 PRO.",
+    "seen_at": "2026-08-31T22:05:32.630075+00:00"
+  },
+  "bc8445b828e868b08aba277319d5e3bc330a62d4d86962ab123a3c3d010c0be1": {
+    "title": "The state of open source LLM (08/31/2026)",
+    "seen_at": "2026-08-31T22:05:32.630078+00:00"
+  },
+  "edb373f166fa6ff5a84d431ed6997a982f2d7d66067c2f68d65c2c16e1614c28": {
+    "title": "Whats the current state of Qwen 3.8 Flash regarding inference (llama.cpp)?",
+    "seen_at": "2026-08-31T22:05:32.630080+00:00"
+  },
+  "a552490eed611e7ba6affdb259ca83a564f94fc6b8a1bb8a626be75a13a4dcac": {
+    "title": "Smol king nanbeige 4.2 now with dspark!",
+    "seen_at": "2026-08-31T22:05:32.630084+00:00"
+  },
+  "e0d00eb4862945c44757bd1edea51e3e317ce11e2a204550a261601957752470": {
+    "title": "New beellama fork 76% faster tg with kvarn KV quants",
+    "seen_at": "2026-08-31T22:05:32.630087+00:00"
+  },
+  "225a4907953376408a28305d014495cca66aa40b5cb4a0598433d50aee2f43bf": {
+    "title": "Compact Rollback MTP: a MTP version for QWEN models for those with little vRAM",
+    "seen_at": "2026-08-31T22:05:32.630091+00:00"
+  },
+  "7ee82d51b45dfcd645f36c884e14a4b39db4228ae87cd2f1a071e1d09b8252dc": {
+    "title": "Warning: llama.cpp --lazy-mode default changed to auto - large tables may stay on disk",
+    "seen_at": "2026-08-31T22:05:32.630093+00:00"
   }
 }
