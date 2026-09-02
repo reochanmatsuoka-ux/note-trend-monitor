@@ -1,52 +1,4 @@
 {
-  "a19017cd39e51f0368f480dc323312205e1527c0a4d798d0702b527928613c0f": {
-    "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル - sannichi.co.jp",
-    "seen_at": "2026-08-17T12:16:23.117648+00:00"
-  },
-  "ba0938279eda0b31f5198d3b4647c6b30f627783e5bf7be8a46a31e92d8459ff": {
-    "title": "Unpopular opinion : Qwen 3.8 27b is not an overthinker",
-    "seen_at": "2026-08-17T12:16:29.343664+00:00"
-  },
-  "3249a34dd92e5d5dfa882f40e37445fbc65ac977c0e754582e7838c5e35d8099": {
-    "title": "LLM's can't \"jump\" - a paper by Deepmind showing LLMs can't generate novel explanatory hypotheses",
-    "seen_at": "2026-08-17T12:16:29.343669+00:00"
-  },
-  "36c602e972359b7969c29ef0fa4b5eae5f01fb85fbec4569dac7b9edbab64a17": {
-    "title": "100$ worth of gpu runs qwen 3.8 27b at 7.39 t/s",
-    "seen_at": "2026-08-17T12:16:29.343672+00:00"
-  },
-  "fd10d99cb82f3bf5e60e07f05c17272fe287ba9574fa14853bb18eea021137a3": {
-    "title": "How accurate do you think this is? Qwen3.5 9B vs GPT-4o",
-    "seen_at": "2026-08-17T12:16:29.343675+00:00"
-  },
-  "c4a6db5a8c9fffbb5a01b1ba6aba0430f64a24a5eed4787dae949946af457706": {
-    "title": "Side by side SVG comparison: Qwen3.8-27B vs Muse Glimmer 30B vs Gemma 4 26B A4B & Gemini 3.7 Flash as control.",
-    "seen_at": "2026-08-17T12:16:29.343677+00:00"
-  },
-  "92e4f4d1bed766d276936f528a880d6048fab1fbaf490ceda3e054fd91e2a394": {
-    "title": "Muse Glimmer 30B with 512k context",
-    "seen_at": "2026-08-17T12:16:29.343681+00:00"
-  },
-  "a501325cca72ec012c0d5174b06438dc3652b1aba4381c0b1b7e92ab16b0d863": {
-    "title": "生成ＡＩで自然界にない人工ウイルス作製、天然ウイルスのゲノム配列を大量学習…医療応用やバイオテロの恐れも - Yahoo!ニュース",
-    "seen_at": "2026-08-17T15:13:31.320881+00:00"
-  },
-  "7ba087f909270b096a71bbd1534874f304d6ff39c2713a196ecb8e07c249de18": {
-    "title": "生成AIで駐禁除外標章を偽造疑い 男性を書類送検 大阪府警 - 毎日新聞",
-    "seen_at": "2026-08-17T15:13:31.320887+00:00"
-  },
-  "d695950340600573125a868507e6709fe59fc1a4d77b9abbdb42c7e94d1e1e84": {
-    "title": "生成ＡＩで標章偽造疑い、大阪 駐車代節約、男性書類送検 | | 全国のニュース - 佐賀新聞",
-    "seen_at": "2026-08-17T15:13:31.320890+00:00"
-  },
-  "8644f7d7cebbafde3385dfd21bf8ef10a715a1affbec95eef30aeb181f728736": {
-    "title": "河内長野市にて、生成AIの実践的活用に向けた職員研修を実施｜Infoseekニュース - Infoseek",
-    "seen_at": "2026-08-17T15:13:31.320893+00:00"
-  },
-  "e01107c8af5b54a9063810ced2694d5a91932c005c5e3a491424570ff3c24b8e": {
-    "title": "河内長野市にて、生成AIの実践的活用に向けた職員研修を実施 - RBB TODAY",
-    "seen_at": "2026-08-17T15:13:31.320895+00:00"
-  },
   "e9aa3cbc549ac1483f0edca6de4edb0b956b16c0dc756a892eadf2a55593da8e": {
     "title": "米国市場の展望：エヌビディア、OpenAIが2030年までAIインフラを大規模導入へ インテュイティブ・マシーンズ、6億ドルの衛星契約獲得で材料 オムニアブ、リリーとの新薬開発契約で株価上昇 - Moomoo",
     "seen_at": "2026-08-17T15:13:32.374626+00:00"
@@ -11998,5 +11950,53 @@
   "360a84670a89319b69078b5a7d7d1c062dad22709463f8b4780dc190b4b4c8b3": {
     "title": "I have Qwen3.6 27B on PC-1 and Qwen3.6 35B on PC-2, So they can run parallel. Which roles should I assign to them for agent codng?",
     "seen_at": "2026-09-02T13:01:10.330942+00:00"
+  },
+  "5603004177b6eabe8421c09072adf3785f6f48dc73f2c809042bf4d7e9022ed4": {
+    "title": "ポケットサイン、全国初※の「マイナンバーカード（JPKI）×生成AI」で住民向け行政窓口サービスを提供開始（PR TIMES） - 毎日新聞",
+    "seen_at": "2026-09-02T18:10:19.829887+00:00"
+  },
+  "e596d1b09ef3b24e4b00079668755f75025c6f1cc857d05520f3a9fbf08dbbe0": {
+    "title": "トランプ政権がOpenAIを支持、記事を使ったAI学習は公正利用と主張 - Межа. Новини України.",
+    "seen_at": "2026-09-02T18:10:21.040289+00:00"
+  },
+  "5ab0ab6d6735dfa0ecd0771ed7df2fad7b2a354d08a7917690058fdbaeed4a23": {
+    "title": "「Gemini 3.8 Flash/3.8 Flash Cyber」正式発表 - jetstream.blog",
+    "seen_at": "2026-09-02T18:10:21.648933+00:00"
+  },
+  "aef4a329338d5871a3806ecc20c280bad1dcca04e3e50229555610ac6b119719": {
+    "title": "「AIに質問する」から「AIに仕事を任せる」へ--アップデイティット、創業20周年を機にAIエージェントへ事業の軸を拡大 - Infoseek",
+    "seen_at": "2026-09-02T18:10:22.258566+00:00"
+  },
+  "f8891881b680c94ace659fe9ae8fab5c13fe8db0eda34fd633b418b32ca910d9": {
+    "title": "非エンジニア組織が3日間で8つの実務アプリを開発アウトバーン、株式会社レニクスにて「Claude - ニコニコニュース",
+    "seen_at": "2026-09-02T18:10:22.258572+00:00"
+  },
+  "cba317831f78d69650587e7b67563de4cbaa4327f43e664f4b6a4475476aea74": {
+    "title": "GLM 5.3 Flash makes a black hole Minecraft mod running locally on 4x RTX PRO 6000 WS",
+    "seen_at": "2026-09-02T18:10:23.539142+00:00"
+  },
+  "2c633787a9bb4d1bf129173dbcc5fc5415e65ebaba8464875877208a56b6eeea": {
+    "title": "H3-World: Turning Language Understanding into World Control",
+    "seen_at": "2026-09-02T18:10:23.539147+00:00"
+  },
+  "5ae2d7dff6134c85835fb86123ed12beab1fae2a8f163aaafcd9fb31ec8488df": {
+    "title": "Vision support merged for DeepSeek-V4-Flash-Vision-Exp",
+    "seen_at": "2026-09-02T18:10:23.539150+00:00"
+  },
+  "5c20976ea9ecad9e3bad6064e7be984486a40587d23710c2e672172f10b4c568": {
+    "title": "Do we forget about another Qwen model for a while now ?",
+    "seen_at": "2026-09-02T18:10:23.539153+00:00"
+  },
+  "ffa5a33acb65e2aeba859eb9a5d9a241e4fdc512579454282a75e9db3e4f9814": {
+    "title": "Custom Model for Image descriptions ?",
+    "seen_at": "2026-09-02T18:10:23.539156+00:00"
+  },
+  "c6bc3d6da8fb0144e27ccf12cdab34e83fd2f052e582745ded8d8f218d3ee851": {
+    "title": "First local-LLM tuning attempt: Qwen3.8-27B true Q4_K_M at 13.2 tok/s near 50-61K context on RTX 5080 16GB",
+    "seen_at": "2026-09-02T18:10:23.539159+00:00"
+  },
+  "cd0c779cba2e6cd328aed33cca6e09209224ba13134254466798286cd8ed3de2": {
+    "title": "Quad R9700 AI Pro with vLLM-Radiance easily reaching 17,6k PP",
+    "seen_at": "2026-09-02T18:10:23.539163+00:00"
   }
 }
