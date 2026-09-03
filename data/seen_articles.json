@@ -1,196 +1,4 @@
 {
-  "8e5583bbc19caaf4c20c268bf95f404f6590acf6c57ff62f68ef3320bcc95778": {
-    "title": "OpenAIの大規模データセンターを作るべくNVIDIAがソフトバンク関連企業に2400億円を投資、2030年までに約96兆円のビジネスチャンスをもたらす計画 - GIGAZINE",
-    "seen_at": "2026-08-18T03:34:04.437262+00:00"
-  },
-  "76524f7ca105165e5b08058e71b1bce0c7fb17ec8929cec372a0dea06403eda2": {
-    "title": "【調査レポート】SEO上位サイトとAIの引用元、重複率はわずか25.0% - 時事ドットコム",
-    "seen_at": "2026-08-18T03:34:04.437265+00:00"
-  },
-  "ae23328565ca6050bd944e4a9020f2f5df47268cd3a04981dcdd5d7427f738d4": {
-    "title": "SEO上位サイトとAI引用の重複率は平均25%にとどまる――FIDが15業界450クエリで調査 - コマースピック",
-    "seen_at": "2026-08-18T03:34:04.437267+00:00"
-  },
-  "8ef127d504c9f45f4140fbe189a99bbfc405ed27099ffc95d64a4c51c6e4f420": {
-    "title": "NVIDIA、AI投資は「土地・電力」へ OpenAI関連で最大6000億ドル - 千葉テレビ放送",
-    "seen_at": "2026-08-18T03:34:04.437269+00:00"
-  },
-  "82a3efaf097884b8b410ea7f1ce3180b96673d095379f3aeb7135c7efc21ec8d": {
-    "title": "OpenAI、オハイオ州の8GW級AI拠点に参画 建設で3.5万人雇用へ - 千葉テレビ放送",
-    "seen_at": "2026-08-18T03:34:04.437271+00:00"
-  },
-  "a4178347073bb1e6dac8c30c152e0dbf23fe97e71185a81bf20b44fb5211d63e": {
-    "title": "OpenAIで幹部退任続く ブロックマン氏「異例ではない」 - 디지털투데이",
-    "seen_at": "2026-08-18T03:34:04.437273+00:00"
-  },
-  "4d9750688821f456e2e68159d22389573e88a15d720444194e1f63da2a261a2b": {
-    "title": "「Google Workspace」で「Gemini」によるデータアクセスを制限する方法 - ZDNET Japan",
-    "seen_at": "2026-08-18T03:34:04.932691+00:00"
-  },
-  "bd2c4a6ce68cefc752bccebc588c8abfb8bec03547b40a295944d88bfc93fb38": {
-    "title": "リアル会議でも「Google Meet」の［Gemini を使用したメモの作成］機能を利用可能に - 窓の杜",
-    "seen_at": "2026-08-18T03:34:04.932697+00:00"
-  },
-  "ce79ae6aa0ec3a6f3685c430d029a9a10624e8ef87ccf67a4cbffb067a616c19": {
-    "title": "【監修業務の自動化を支援】デライトチューブ、企業固有ルールや法令などのチェック支援に特化したAIエージェント開発サービスの提供を開始 - 株式会社セプテーニ・ホールディングス",
-    "seen_at": "2026-08-18T03:34:05.508572+00:00"
-  },
-  "bf4b3b3d0d30a24672fdf360c57777b3c787bd45ca82222c1f3dc5520bbfa6b2": {
-    "title": "NEC、Microsoft Marketplaceで業務自動化AIエージェント「NEC cotomi Agent」を販売開始 (2026年8月18日): プレスリリース - NEC",
-    "seen_at": "2026-08-18T03:34:05.508578+00:00"
-  },
-  "f85e9c066b312473e7f7ccea16a49af8ba025bfbb13390b40a38882cac5337e6": {
-    "title": "対話AIエージェント構築ソリューション「PKSHA Dialogue」を本格提供開始——質問応答を超え、意思決定に寄り添うPKSHA AIの新サービス - PR TIMES",
-    "seen_at": "2026-08-18T03:34:05.508581+00:00"
-  },
-  "b212ed76f5c9750a44763efb5b625c0db6c65e6c01ff0891255df21da9169a10": {
-    "title": "契約業務クラウド「Contract One」にAIエージェント機能、複数契約の横断検索や契約レビューが可能に - it.impress.co.jp",
-    "seen_at": "2026-08-18T03:34:05.508583+00:00"
-  },
-  "58db3e7ad4a92c0ba269ba16f9d6a41b4ca7b1c01ed1a908f1dca371e53d507e": {
-    "title": "中国・広東省、AIエージェント行政を加速…テンセント「WorkBuddy」公務員向けに展開 - ビジネス+IT",
-    "seen_at": "2026-08-18T03:34:05.508587+00:00"
-  },
-  "25a58ed4b05e12b4ee46281b77d911e6af6b5085ef2920437c385d296f287e3f": {
-    "title": "AIエージェントでCRM高度化、外部委託費75％削減し16セグメント配信で売上120％を達成 - AdverTimes.（アドタイ） by 宣伝会議",
-    "seen_at": "2026-08-18T03:34:05.508589+00:00"
-  },
-  "3232409d30aed7b23480758353289e42054288a866221f9a5402a326bf5dd94f": {
-    "title": "NEC、業務自動化AIエージェント - 電波タイムズ",
-    "seen_at": "2026-08-18T03:34:05.508591+00:00"
-  },
-  "bad15f8769ef4f3a60c17cc1da3b938e88aa1fb0737a98eefcf2e681a470bbc6": {
-    "title": "NEC、AIエージェント「NEC cotomi Agent」をMicrosoft Marketplaceで販売開始 - nikkei.com",
-    "seen_at": "2026-08-18T03:34:05.508595+00:00"
-  },
-  "c5f912c265ded156ffe36e2b00268f005e04dd086d8c45d8aaa058625a966924": {
-    "title": "カソク株式会社×株式会社enableX、ホテルオペレーションにおけるAIエージェント活用を本格化 - PR TIMES",
-    "seen_at": "2026-08-18T03:34:05.508597+00:00"
-  },
-  "a5dc2e31284487a4b605f5d973a1f112b763321659dc572f48db08229ad6a426": {
-    "title": "Sansanの取引管理サービス「Contract One」、Claudeを組み込んだAIエージェント機能を提供 - クラウド Watch",
-    "seen_at": "2026-08-18T03:34:05.508599+00:00"
-  },
-  "77ace72acc13980d03a97476cf62594579e7016dffb79c21f4be9f6cecbe5e96": {
-    "title": "AIエージェントの利用には安心して任せられる仕組みが不可欠？（Visa調査） - ペイメントナビ",
-    "seen_at": "2026-08-18T03:34:05.508601+00:00"
-  },
-  "93de9e99fa88286e76d70c569b8eb7a637de036d87d804725d5710989e5d1def": {
-    "title": "顧客理解のためのAIエージェント「チャネルトーク」、楽天市場・Yahoo!ショッピング・Amazon・Qoo10など国内主要ECモールとの連携を開始！「1ヶ月無料キャンペーン」を11月末まで実施 | 株式会社 Channel Corporationのプレスリリース - PR TIMES",
-    "seen_at": "2026-08-18T03:34:05.508603+00:00"
-  },
-  "6a6ae3feb37de54a05db3e74daa8cc6c88b113cce57fd492fc5c157dd566f08b": {
-    "title": "クラウドERP「ZAC」、AIエージェントとの連携を実現する「ZAC MCPサーバー」を提供開始 - PR TIMES",
-    "seen_at": "2026-08-18T03:34:05.508605+00:00"
-  },
-  "ed90cb1d350fbca6496b3bb0a86e3992b615c5e7c33454658a202cd89625da66": {
-    "title": "「Claude Cowork」で面倒な手作業から解放されよう！ PCの中のファイルを直接触るAIエージェントの活用術 - 窓の杜",
-    "seen_at": "2026-08-18T03:34:05.508608+00:00"
-  },
-  "9e0eb99de37312f3045dc56ce0eb94beedd5149668c61829d0aac1c3646b1fd5": {
-    "title": "インフォメーション・ディベロプメント、基礎知識から構築・公開までを体験し、実務で使えるスキルを習得「Difyで始めるAIエージェント実践研修」をリリース | 株式会社インフォメーション・ディベロプメントのプレスリリース - PR TIMES",
-    "seen_at": "2026-08-18T03:34:05.508609+00:00"
-  },
-  "08813d117e163689e382d88dd83b9dc9cf407447d6d2aabdc1cd6ed46e90099e": {
-    "title": "MSI「LuckyClaw」プラットフォーム発表 AIエージェント市場に参入、下期業績に追い風 - BigGo ファイナンス",
-    "seen_at": "2026-08-18T03:34:05.508613+00:00"
-  },
-  "fda4c8db7003c12260a6b82a4eb80990ba3cdd30b418ca135709304afb9bbbd7": {
-    "title": "「ソフトウェアから仕事を売る企業へ」Notion共同創業者COOが語るAIエージェント時代の製品戦略 - Business Insider Japan",
-    "seen_at": "2026-08-18T03:34:05.508615+00:00"
-  },
-  "6fd8d632b1f414255c60a526ec90eecea56ad784dbbcbd2839ab0e1568728787": {
-    "title": "大学の研究者情報・研究業績をAIエージェントから活用可能に - PR TIMES",
-    "seen_at": "2026-08-18T03:34:05.508617+00:00"
-  },
-  "20be87fb782abfe0721c398a2fbcabf50eb4dec7e8ce56d283c8d57ef7cf9d31": {
-    "title": "対話型能力診断AIエージェントを開発！ 社会実装で人とAIの共進化社会の実現を目指す - ASCII.jp",
-    "seen_at": "2026-08-18T03:34:05.508620+00:00"
-  },
-  "6a46792de4f5524f37758ec5ba257c371241a16aa1a177acc9d71864fce173f3": {
-    "title": "AIエージェントはツールではなく「即戦力人材」 検討、実行まで担う“自律型AI組織”で現場はどう変わるか - ITmedia",
-    "seen_at": "2026-08-18T03:34:05.508623+00:00"
-  },
-  "73c962f58a242b962c670826081465dd5239d0c548f24d7d8737b39a680229ab": {
-    "title": "AIエージェント＋MCPの活用で、人は確認と判断に集中できるプロジェクト管理へ転換 9月9日に無料オンラインセミナーを開催 - Excite エキサイト",
-    "seen_at": "2026-08-18T03:34:05.508625+00:00"
-  },
-  "81ab2b558a9bb4dd1f7ebba79357505e37e0d2509011f52cde185cd808a87d38": {
-    "title": "レトリバ、AIセキュリティサービスを本格展開：時事ドットコム - 時事ドットコム",
-    "seen_at": "2026-08-18T03:34:05.508631+00:00"
-  },
-  "9c9e06f94abf3f696d100ab157ce580472d3852e0cb747a2028fd03d11e152ac": {
-    "title": "MegazoneCloud、AWSと企業向けAIエージェント3種を共同開発 - 디지털투데이",
-    "seen_at": "2026-08-18T03:34:05.508633+00:00"
-  },
-  "66296cfd1d8bdc72e3ccb567543043cc68fda79f667e20703c640c54087aad5a": {
-    "title": "CDW has bumped the MSRP of the RTX Pro 6000 from $16,000 to $19,999",
-    "seen_at": "2026-08-18T03:34:09.974962+00:00"
-  },
-  "e766a14bb348706f4ca26b155af898dcab48160c3cd556b3fc6c3895ff3d6ee1": {
-    "title": "Qwen dev says not to wait for 35B-A3B",
-    "seen_at": "2026-08-18T03:34:09.974967+00:00"
-  },
-  "20c8716cc87ae2f1a41850526e260d350be9dfa610897ae80b53e28ab19edd0b": {
-    "title": "Made this game in two prompts with Q4, Qwen 3.8 is amazing",
-    "seen_at": "2026-08-18T03:34:09.974971+00:00"
-  },
-  "579ea68e9812dcb5392a6017c7a9d4aec164eccb9be0299fcd5023622fade347": {
-    "title": "就活での生成AI活用、AIに相談する就活生ほど応募を止めていた【Strobolights調べ】（Web担当者Forum） - Yahoo!ニュース",
-    "seen_at": "2026-08-18T06:20:03.597722+00:00"
-  },
-  "4aa6c07d164e778f398bd68f848088e877573718ac2bf34e3b4ccb29b8f8f75e": {
-    "title": "アナリティクス分野における生成AI市場、2035年45億945万米ドルへ急成長｜CAGR 26.96％、データ分析の高度化と企業AI活用が市場拡大を加速 - Newscast.jp",
-    "seen_at": "2026-08-18T06:20:03.597734+00:00"
-  },
-  "1c6c5f262998468fa58fc2de5383b7293c4a51125b2c1546fd0efbec4da4c40c": {
-    "title": "ストックマーク自社LLMを活用し「非構造データ」「熟練者の暗黙知」をコア資産へ変革するFDE組織を拡大 - PR TIMES",
-    "seen_at": "2026-08-18T06:20:03.597739+00:00"
-  },
-  "88dfeb011c5adda7567030e2e80ad93e08590867edbd1b585accf0acb47ff353": {
-    "title": "生成AIの購買時の信頼度はSNSを上回る。利用者の34.2％が検索回数、28.6％がサイト回遊・閲覧時間の減少を実感【日本ダイレクトマーケティング学会調査】 - 株式会社ヴァリューズ",
-    "seen_at": "2026-08-18T06:20:03.597745+00:00"
-  },
-  "5efe6ecce1ed5c0bbdca3e88fd88b051a32c109a5a0c534435f38d41b0777f93": {
-    "title": "「生成ＡＩ」愛媛の企業は期待９割も利用は４割に留まる セキュリティ面と人材不足が課題に【愛媛】 - FNNプライムオンライン",
-    "seen_at": "2026-08-18T06:20:03.597748+00:00"
-  },
-  "14c405affffc42f1baabd938831422531a08fcb4ea7feb74d2cb20b444a4f1e0": {
-    "title": "法人スライド生成AIの決定版へ。乗り換えキャンペーンを開始 - PR TIMES",
-    "seen_at": "2026-08-18T06:20:03.597752+00:00"
-  },
-  "41acdcf157ff8feb712f558900922bc14580a2517bd09b368c86599add0f21d1": {
-    "title": "コーディング向け生成AI市場は、2025年に51億米ドルと推定され、2036年までに1,127億1,000万米ドルに達すると予測されており、予測期間（2026年～2036年） - Newscast.jp",
-    "seen_at": "2026-08-18T06:20:03.597754+00:00"
-  },
-  "559b458617cbd442a2e0d878ebef26c9b9c3e62b0e8f0ae65388132baa54e9b2": {
-    "title": "著作権侵害の懸念根強いＡＩの学習データ、一定の条件で開示…生成ＡＩ事業者が守るべき基本原則案を有識者会議に提示 - 読売新聞",
-    "seen_at": "2026-08-18T06:20:03.597758+00:00"
-  },
-  "c1b134a65680c487a58610e2c614f72269c08c965d04620725d20580a5ec947b": {
-    "title": "生成AIで時間・予算が浮いた大企業マーケターの60.2％が「デジタル広告・Webコンテンツのさらなる量産」へ再投資意向【IDEATECH調査】 - 株式会社ヴァリューズ",
-    "seen_at": "2026-08-18T06:20:03.597763+00:00"
-  },
-  "f72cffd296ec972368fdc0a4e4154a374255a14955d139e5bcf23aeb09ff57fb": {
-    "title": "大韓航空、生成AI活用の整備不具合分析システム運用 – 旅行業界・航空業界 最新情報 - 航空新聞社",
-    "seen_at": "2026-08-18T06:20:03.597771+00:00"
-  },
-  "afdbf5962bf4688239caeec2eabccd788b4f071cbe67837cb77420e82cbf1acb": {
-    "title": "「10分でまるごと理解！生成AIを人材育成に取り入れて成果を上げる方法」についての資料を無料公開！｜株式会社LDcube - PR TIMES",
-    "seen_at": "2026-08-18T06:20:03.597774+00:00"
-  },
-  "c52d91e75a49dd78ea2253f285ca29f2e80ca0d9632a02c6d655a74f8459cabe": {
-    "title": "ブレインパッドと静岡鉄道、「TECH BEAT Shizuoka 2026」にて、 来場者が静岡鉄道の制服姿に変身する、「生成AIフォト体験」を共同出展 - アットプレス",
-    "seen_at": "2026-08-18T06:20:03.597778+00:00"
-  },
-  "54dab55ff865ae0a2aa6c2fa823e28a73448b13388cf0cbb4cf6a0f7286b57a5": {
-    "title": "「問い合わせを待つ」だけだった生成AIチャットボットが、自律的に営業活動を始めた - PR TIMES",
-    "seen_at": "2026-08-18T06:20:03.597786+00:00"
-  },
-  "18a8d9b48bd3c1597627541e83d2e67d7a8b57a9417bc347ed19659dbe186a55": {
-    "title": "コンサルティング事業を展開するRELATIONS、Contract Oneと生成AIとの連携で契約レビューを効率化 - 時事ドットコム",
-    "seen_at": "2026-08-18T06:20:03.597789+00:00"
-  },
   "a871abd0f83c71ea05dcc03aad4f7c49436e5f1d3eccf93c7fd0bc59229c7a23": {
     "title": "出演者の“声”と“顔”を守り、“AIを使わない”選択も。サムシングファン、「生成AIポリシー」を策定 - 時事ドットコム",
     "seen_at": "2026-08-18T06:20:03.597792+00:00"
@@ -11998,5 +11806,197 @@
   "ff7c3d5a037d0e1aa78f766a31f07049cf4599450f2e38e15099e16e99699a6c": {
     "title": "best local STT interface right now for productivity boost? (Mine is macparakeet+whisper/parakeet STT)",
     "seen_at": "2026-09-03T07:25:18.596528+00:00"
+  },
+  "b9ea5f3dc987243b5993ef7681c297dcc6163c2a600c16e4836836901dc5e9a5": {
+    "title": "RIZAP、外部生成AIサービスへの顧客情報アップロードを謝罪「当該事業者以外の第三者に閲覧された可能性、および、生成AIの学習に利用された可能性はないことを確認」（オリコン） - news.yahoo.co.jp",
+    "seen_at": "2026-09-03T13:03:13.663737+00:00"
+  },
+  "2f715ed4f70a8b7f511e84bec6b29b923bebe2ba832fc6af15e93d8c3c631846": {
+    "title": "キオクシア、生成ＡＩの波「一生に一度の大変革」 技術幹部が会見 - jp.reuters.com",
+    "seen_at": "2026-09-03T13:03:13.663748+00:00"
+  },
+  "08a36c12f07c64d79fe10f826d03d1143005a3b0f9308bdb4fc47c1aae0b2875": {
+    "title": "ニューヨーク市、中学生以下の生成AI利用を1年間原則禁止へ…公立校約60万人が対象に - ビジネス+IT",
+    "seen_at": "2026-09-03T13:03:13.663752+00:00"
+  },
+  "e3df6f54460a01d814ecde572a0680d608d15be75851e848e01883395332b0da": {
+    "title": "生成AI×実写撮影で「思ったことを形に」 DAIV N6-I9G80BK-Cで完結させた『Dive into Tomorrow』MV制作の舞台裏 - VIDEO SALON",
+    "seen_at": "2026-09-03T13:03:13.663756+00:00"
+  },
+  "07696ceeea57c044f59391eb3219d7c1ba2b9cf8d92dbe05fc04093148ff0273": {
+    "title": "ニューヨーク市、公立校で生成AI利用を1年間禁止 8年生まで約60万人が対象 - ITmedia",
+    "seen_at": "2026-09-03T13:03:13.663760+00:00"
+  },
+  "696deac88b560cd3e6fbe7720da24dcafb76baf53420dd91f6ab851827e96a99": {
+    "title": "生成AI時代のパワポ活用術・スライド資料づくりを体系的に学ぶ！ 9/25（金） 無料セミナー「AI時代のPowerPoint活用術 Vol.8」 - PR TIMES",
+    "seen_at": "2026-09-03T13:03:13.663764+00:00"
+  },
+  "72239efecc2f780342eef4c9f293f4b2e0b78e727c64fec211d2f7c8c99f99f0": {
+    "title": "キオクシア・消費電力を4割抑える新「フラッシュメモリー」公開 記憶容量は約6割向上 生成AI需要の中、生産体制強化し競争力高める狙い - TBS NEWS DIG",
+    "seen_at": "2026-09-03T13:03:13.663767+00:00"
+  },
+  "e33f6f4f25f9a1163b33cb07addac2abfd6f2c2a245aa13c7ad69628b360bc43": {
+    "title": "RIZAP、外部生成AIサービスへの顧客情報アップロードを謝罪 - オリコンニュース",
+    "seen_at": "2026-09-03T13:03:13.663770+00:00"
+  },
+  "4ce00f84a4458492460748d089d6967114c3aa61d1fa9b1b0fd8fcbc148d81bc": {
+    "title": "キオクシア、生成ＡＩの波「一生に一度の大変革」 技術幹部が会見（ロイター） - news.yahoo.co.jp",
+    "seen_at": "2026-09-03T13:03:13.663773+00:00"
+  },
+  "d6d458124dd58ba8f33d8061719b9f8893cc6b5f7aa9b2df8c82ebb1ecfe0933": {
+    "title": "『生成AIは「クラウド」から「ローカル」へ向かうのか？ 2027年のAI市場を予測』というテーマのウェビナーを開催 - 時事ドットコム",
+    "seen_at": "2026-09-03T13:03:13.663777+00:00"
+  },
+  "e9b1df2f209e2998ccf3615c3edb44c10f5fda948750dd140a3ec4244e3bd635": {
+    "title": "サムシングファンが「生成AIポリシー」策定 出演者の肖像・声の保護と「AI不使用（Non-AI）」対応を明文化 - Brand New Creativity",
+    "seen_at": "2026-09-03T13:03:13.663780+00:00"
+  },
+  "69d65a13a4d2137230c3eb4dff21c4623c8008028ed2cf9e0477353eacbf5969": {
+    "title": "京都で生成AI×3D制作を体験。Meshy×京都コンピュータ学院「Meshy Creative Hub KS」9月10日開催 - CREA WEB",
+    "seen_at": "2026-09-03T13:03:13.663783+00:00"
+  },
+  "55ff7fd0ccd16dcedc0c1dfc0f62666db05c8359e346122ed2d89a0491648867": {
+    "title": "社内の生成AI活用事例200件突破！独自の”AIいいね文化” - ニコニコニュース",
+    "seen_at": "2026-09-03T13:03:13.663787+00:00"
+  },
+  "0453d2d7889e1f4ed53dccd31a59cb150d4b3a2af34632963b5364d35bcbe1f3": {
+    "title": "相模湖MORIMORIで駐車場混雑×来場者属性×生成AIのデータ活用実証実験を開始 - ニコニコニュース",
+    "seen_at": "2026-09-03T13:03:13.663790+00:00"
+  },
+  "858dd870410c078a131c0bbb2e08e6e15b5e6822b9d397784ba0620df4242d5d": {
+    "title": "【AKARUMI】就活生の76.1%が生成AIを利用、企業・業界の情報収集にも37.2%が活用 - ニコニコニュース",
+    "seen_at": "2026-09-03T13:03:13.663793+00:00"
+  },
+  "fc7d3e8714246f1966b8d63ea0a931e4f922a347d790821c54dc628362221b1c": {
+    "title": "「街の電器店」がピンチ、戦隊「カデレンジャー」参上…魅力ＰＲへ生成ＡＩ使いキャラ作成 - au Webポータル",
+    "seen_at": "2026-09-03T13:03:13.663796+00:00"
+  },
+  "3b81cf0ecad0fbcc28299ac6c4fbbc7570dc1a8c0ced0abfaa163db3aedd5199": {
+    "title": "OpenAI、FDE採用を業界別に拡大 法務・医療・半導体へ「現場実装」強化、東京も募集 - ビジネス+IT",
+    "seen_at": "2026-09-03T13:03:18.332559+00:00"
+  },
+  "de5cc07635e91771390a523b4b5a8910ab6d3ed6ebf75df850b042dabed91268": {
+    "title": "OpenAI、FDE採用を業界別に拡大 法務・医療・半導体へ「現場実装」強化、東京も募集（ビジネス＋IT） - news.yahoo.co.jp",
+    "seen_at": "2026-09-03T13:03:18.332566+00:00"
+  },
+  "ea90c5f3a86dcb4362ca3ecaa57910630fd317918f1cc97d729299c84d8fc223": {
+    "title": "価格トラッキングから求人探しまで。ChatGPTの「Schedule」機能で作業時間が削れるかも - ライフハッカー",
+    "seen_at": "2026-09-03T13:03:18.332570+00:00"
+  },
+  "df5277d1b4304b14bfc999e7cd824334da54d164183b26317e60132d125c938d": {
+    "title": "トランプ政権「記事のAI学習は著作権侵害ではない」 OpenAIを支持する意見書、対New York Timesなどとの訴訟で - news.yahoo.co.jp",
+    "seen_at": "2026-09-03T13:03:18.332573+00:00"
+  },
+  "79dc4a022747010919abe24918c330a9a1ad07f24ebf125f47e96fa9e7bdbb3d": {
+    "title": "OpenAIは、Astra AIモデルのローンチを前にセキュリティ対策を強化した。 - Vietnam.vn",
+    "seen_at": "2026-09-03T13:03:18.332577+00:00"
+  },
+  "6b7a4cfdd5410984b9f758ad1ede9389bc7aa1f9a7377d429e47c04b60db6b1f": {
+    "title": "EUがChatGPTをVLOSE指定、通知から4カ月で追加義務 - quasa.io",
+    "seen_at": "2026-09-03T13:03:18.332579+00:00"
+  },
+  "b8ed5fbc06adbb785a7c7fc611902fe9b9d50332e9c7726e235d1c68f33b8e96": {
+    "title": "Google, Anthropic and OpenAI Just Locked In Broadcom’s Q3 Earnings Through 2028. - TIKR.com",
+    "seen_at": "2026-09-03T13:03:18.332583+00:00"
+  },
+  "9418490e761bdc4f76e9caeb53e0e8e1ed33601a75e23a6c3976c41a16136ba3": {
+    "title": "Sonos「Beam Ultra」「Ace Ultra」発表、ChatGPT連携の新基盤も　日本価格は6万9800円から - 財経新聞",
+    "seen_at": "2026-09-03T13:03:18.332586+00:00"
+  },
+  "c0a9fd37918545af1a516b4cb1560be57dc83ab46985bc26a22def57daf18c31": {
+    "title": "EightcoがOpenAI出資を含む約3億8000万ドルの保有資産を公表 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-09-03T13:03:18.332589+00:00"
+  },
+  "6f2901c4dcaa324a4296ee79edb4fbfb8183082094528961dc67d08b70e74b61": {
+    "title": "NVIDIAがハギングフェイスを買収 OpenAIハッキング受け株価動向に注目 - BeInCrypto",
+    "seen_at": "2026-09-03T13:03:18.332593+00:00"
+  },
+  "c087d6d95552ac79447a45061f86cc3cdd24f5c6906c003cb2944e4ec983eed1": {
+    "title": "学習は擁護、出力は不問——米司法省がNYT対OpenAI訴訟で示した「半分だけの味方」 - hashout.jp",
+    "seen_at": "2026-09-03T13:03:18.332596+00:00"
+  },
+  "a8a8ce2cd2e30d263e4851982e2db7bcdc98beeabb1bad6a9419a64794e28a0d": {
+    "title": "Omneky、ChatGPT広告への出稿に対応 ― Meta・Google・LinkedIn・TikTok・LINE・Redditに続く新チャネルとして追加 - ニコニコニュース",
+    "seen_at": "2026-09-03T13:03:18.332599+00:00"
+  },
+  "f5632fbde988c7995bc8f9b32dfd8889eec76334bebb1973e23b0ebc61cfd09a": {
+    "title": "OmnekyがChatGPT広告への出稿機能を追加 ― 新たなマーケティングチャネルの誕生 - ニュースメディアVOIX",
+    "seen_at": "2026-09-03T13:03:18.332602+00:00"
+  },
+  "48a5bb949d4e185eb9d09cc3fb8b53e57b7af63cccaf15c1670ab41ed403d95a": {
+    "title": "Alibaba、AIエージェントも利用できるローカル検索ツール「zg」をオープンソースとして公開 - gihyo.jp",
+    "seen_at": "2026-09-03T13:03:18.945911+00:00"
+  },
+  "e5d4063a4caa51e89a675baca48a9299566ebcf753e5e39a8ac7c3517408b545": {
+    "title": "AIエージェントがミリ秒単位で取引完了へ、緯穎会長が金融システムのボトルネック化に警鐘 - BigGo ファイナンス",
+    "seen_at": "2026-09-03T13:03:18.945917+00:00"
+  },
+  "eb0daef8e1f92f84b3935f3185eeabbee9de531ef1d9e64a0c92aea8b1e1de7f": {
+    "title": "Agentic IdentityのDescope、企業のIdPでAIエージェント権限を管理する「Cross-App Access」を提供 - AT PARTNERS",
+    "seen_at": "2026-09-03T13:03:18.945921+00:00"
+  },
+  "da977406814573fe84caaa206f1b97d5af584c43039a27b546981a49b0634326": {
+    "title": "【Claude Code】Web制作の仕事はどこまでAIに任せられる？ 9/25（金）無料セミナー「Claude Code実践講座」を開催 - PR EDGE",
+    "seen_at": "2026-09-03T13:03:18.945924+00:00"
+  },
+  "01cfa41148b9a29459b186dbada4bc411ff4c1de47bb516a88401a83d7578098": {
+    "title": "『【AI導入を阻む4つの壁】なぜ、AIエージェントはPoCで止まるのか』というテーマのウェビナーを開催 - rbbtoday.com",
+    "seen_at": "2026-09-03T13:03:18.945927+00:00"
+  },
+  "97ff41976d45a7ade53b2642eeac287b775d2fa4f64fe2944d775a23119f1219": {
+    "title": "エクスペリサス、Claude Codeを全社導入、社員作成の業務スキル700件超を社内共有 - ニコニコニュース",
+    "seen_at": "2026-09-03T13:03:18.945930+00:00"
+  },
+  "5ad0ecd166291afc9da71442b933eb473181834b7898d9b96b7e14c33f146f74": {
+    "title": "AIエージェントを安全に業務へ適用するための「AI品質維持サイクル」技術を開発 - ニコニコニュース",
+    "seen_at": "2026-09-03T13:03:18.945933+00:00"
+  },
+  "4acd72ed3ca44295e604a4e1381bf4573c6e7dfc80323cb872bed9ff898f647d": {
+    "title": "エクスペリサスが全社員にAIエージェント導入、業務スキルの共有基盤を構築 - ニュースメディアVOIX",
+    "seen_at": "2026-09-03T13:03:18.945936+00:00"
+  },
+  "affbf81d61fc85d0a544e020c05461e338b0fff684f4981a9eed2b6cc2d80bde": {
+    "title": "It's official! Nvidia to acquire Hugging Face for 12.9 billion dollars.",
+    "seen_at": "2026-09-03T13:03:21.295646+00:00"
+  },
+  "86b8acefbe0fb9ff464e0c0bb40d6e07c668357e0e7e9b7817a7a0d27128d914": {
+    "title": "Qwen-3.8-Next-Flash Ngram Hot-Swappable Knowledge Injector for llama.cpp",
+    "seen_at": "2026-09-03T13:03:21.295652+00:00"
+  },
+  "9e389343dce2d118e2c444d21ecc7537ec602a9748189e482cb626a591d4b41a": {
+    "title": "We built an open-source, model-neutral agent harness and compared it with claude managed agents - for the same model, got same accuracy, upto 75% lower cost",
+    "seen_at": "2026-09-03T13:03:21.295655+00:00"
+  },
+  "0da2e80e4e8518852de9c4f8905236f93b991fb911be117bca197401bddc8d42": {
+    "title": "Qwen3.6 35b Q2_XXS: Being GPU poor in 2026 is not so bad",
+    "seen_at": "2026-09-03T13:03:21.295658+00:00"
+  },
+  "ec58cdce0dc44ae096d1d655fc3dbb5f68234140286d2be5dc57602ed0fe0a06": {
+    "title": "How to handle naughty model",
+    "seen_at": "2026-09-03T13:03:21.295661+00:00"
+  },
+  "f6e9c049d82025bb9870c7153b07b67da5bd7ee61e128f8cc235f65e184f8d1f": {
+    "title": "Can a 4B local model actually feel like an AI assistant?",
+    "seen_at": "2026-09-03T13:03:21.295664+00:00"
+  },
+  "a0fac6497f8827f06188cb0a351d757d70e283931ba90312d2f8c7d149979422": {
+    "title": "model: add NVIDIA Nemotron-3-Puzzle-75B-A9B (NemotronHPuzzle) support by YanissAmz · Pull Request #25444 · ggml-org/llama.cpp",
+    "seen_at": "2026-09-03T13:03:21.295667+00:00"
+  },
+  "7255dadc3db3d561011502a1d0fb6adea34ffd63dad3e7b8a07cccf0123a2b37": {
+    "title": "Could the shortage be getting better?",
+    "seen_at": "2026-09-03T13:03:21.295669+00:00"
+  },
+  "b94129e34a95d0be6ba75c8ccab113a38b36a3720e1520087ef4a15b7a0e145b": {
+    "title": "Any more t/s maxxing I could do? 4060 TI 16GB, 32GB system RAM",
+    "seen_at": "2026-09-03T13:03:21.295672+00:00"
+  },
+  "93fba46e19824f0e361ded8d9be444f6e511851193d7b4900afc1838ec2a735b": {
+    "title": "I built a local web UI to finetune models on my own text and actually watch the training (works on AMD ROCm)",
+    "seen_at": "2026-09-03T13:03:21.295676+00:00"
+  },
+  "8484655d55dec99ad6e6347c678f7e706a526a7e754940a7f196976a03744577": {
+    "title": "Repodify, a fully local & opensource podcast summarizer, or BYOK if don't have GPU.",
+    "seen_at": "2026-09-03T13:03:21.295678+00:00"
   }
 }
