@@ -1,36 +1,4 @@
 {
-  "e98ea2532848285cb5c137ddb56da5cee9f38692f4b0d3639d5c6d128b53b18f": {
-    "title": "主要証券会社初、「ChatGPTプラグイン」対応の「MONEX MCP Server」提供開始のお知らせ - 時事ドットコム",
-    "seen_at": "2026-08-19T03:35:15.001340+00:00"
-  },
-  "8b9524298528f689f487c5f631ddfb4b107d08bc6953b64e2e80b379b86455d2": {
-    "title": "【分析】NVIDIA、OpenAI向けオハイオAI拠点に最大1050億ドルの条件付き保証　SEC開示で契約構造が判明 - 財経新聞",
-    "seen_at": "2026-08-19T03:35:15.001343+00:00"
-  },
-  "c37dbbcf5839061c4d2d0508c5ec7286b37dd6a7dfe96f550b32fbead004b4ed": {
-    "title": "OpenAIが青少年用ChatGPT投入安全機能強化し法的リスク抑制狙う - CHOSUNBIZ - Chosunbiz",
-    "seen_at": "2026-08-19T03:35:15.001346+00:00"
-  },
-  "3cb3fa30ae9be84bd331188de859d2dd09720d3c3d46352219a10a3f5d258f62": {
-    "title": "OpenAIが先端AI訓練停止 アストラ中断し監視強化 - CHOSUNBIZ - Chosunbiz",
-    "seen_at": "2026-08-19T03:35:15.001351+00:00"
-  },
-  "8425bd3cfe220e27bc11e6c675ac14e5f31bfe68245b613d7bcf65426e30a6b0": {
-    "title": "OpenAIがモデル開発減速 アストラ訓練中断 セキュリティ強化へ - Chosunbiz",
-    "seen_at": "2026-08-19T03:35:15.001354+00:00"
-  },
-  "750e59453d31135211630650db015a420888be227f98827c07cd4049e924fd2c": {
-    "title": "OpenAI、強化学習の訓練を2週間停止｜監視の計算コストも公表 - innovatopia.jp",
-    "seen_at": "2026-08-19T03:35:15.001359+00:00"
-  },
-  "811a54877ecc0c0931ce5c1f78914bff8b479dff47537d866482f77712824a95": {
-    "title": "OpenAI、13〜17歳向け「ChatGPT for Teens」提供 安全対策を強化 - 디지털투데이",
-    "seen_at": "2026-08-19T03:35:15.001362+00:00"
-  },
-  "910eebdd8e2a75bd58029bd7ea559b303431f1d318b2a76d59265605dc7b2f4b": {
-    "title": "Antigravity CLIとは？使い方・料金・Gemini CLIからの移行方法を解説 - AIsmiley",
-    "seen_at": "2026-08-19T03:35:15.548638+00:00"
-  },
   "e892d72d46c88cb29c775240b29de22e5d448d7b755a63300f74302975aaf3aa": {
     "title": "Gemini搭載AIエージェント「CC」オーストラリア/ニュージーランドに展開拡大 - jetstream.blog",
     "seen_at": "2026-08-19T03:35:15.548645+00:00"
@@ -11998,5 +11966,37 @@
   "dcf37de6d6d7956e38d0d7e2a4cfc70ea930a33281757bcc20d78da6064ca6bf": {
     "title": "Updated my benchmark with a new vLLM based recipe for Qwen 3.8 Flash Next : now up to 98/100 (instead of 91 previously)",
     "seen_at": "2026-09-04T19:57:16.020610+00:00"
+  },
+  "8eaae5f36c6394ab586c074bfecdb71a68e5cf42bfc8f564ae44358fd290220b": {
+    "title": "生成AIのプロフェッショナルおざけん×『令和の虎』榊 - excite.co.jp",
+    "seen_at": "2026-09-04T22:35:40.556322+00:00"
+  },
+  "332d94fd1fd09428a2de13653a21ac03e5dbe15f8307db9ec0e4f2c0ae9bc75d": {
+    "title": "「45分で5時間分」使い切った――Claude Fable 5.1、性能倍増と利用制限のギャップ - shiritomo",
+    "seen_at": "2026-09-04T22:35:41.131585+00:00"
+  },
+  "91de2b3eedebedabe176c7123e43cf8e1fe9e1ee8577ad82de908cedcef90865": {
+    "title": "アップル、AIに取り込まれた企業秘密は取り戻せないと指摘…対OpenAI訴訟で（海外） - Yahoo!ニュース",
+    "seen_at": "2026-09-04T22:35:41.743223+00:00"
+  },
+  "06f36aea57cb72e2c20c03ce90721bef6f08c52b913eb71a465ae8c6d9021431": {
+    "title": "OpenAI関連とみられるAIエージェント群、公開Wikiに1万4,591件の保存履歴 - XenoSpectrum",
+    "seen_at": "2026-09-04T22:35:41.743231+00:00"
+  },
+  "eaf0e5c460100509b61ee376d3e8a10a75fc45dd03ffca6d7adb09f070dd8021": {
+    "title": "If you had ~15k would you build a home server today or wait",
+    "seen_at": "2026-09-04T22:36:01.445796+00:00"
+  },
+  "ddebb9f241c7a2c8a412b98b0e7e06e75b4c0f2d0238d65db1edc60cf1ddb6f5": {
+    "title": "Am I the only one having these problems with downloading models from HF?",
+    "seen_at": "2026-09-04T22:36:01.445803+00:00"
+  },
+  "bc30c8f898f74c4a16bde2624922f2ccfbead74920a76bf188af0636da6d75e9": {
+    "title": "How to estimate tokens/sec for your hardware",
+    "seen_at": "2026-09-04T22:36:01.445806+00:00"
+  },
+  "cd507d7521ce1b49bdb345609d5358cf874a2bbf2e206577d0e720f2167710e3": {
+    "title": "Help me understand gguf size/ctx size",
+    "seen_at": "2026-09-04T22:36:01.445811+00:00"
   }
 }
