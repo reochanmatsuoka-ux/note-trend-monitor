@@ -1,36 +1,4 @@
 {
-  "c2741f29cf0ec432d2f66aa3f6a34a3712643cc570af64e23ac26433338962a3": {
-    "title": "OpenAI、次世代モデル開発を「減速」 安全対策を最優先に - Impress Watch",
-    "seen_at": "2026-08-19T03:35:15.001311+00:00"
-  },
-  "d4ba8d72f238691802407e0c87f58c68ffc137ff2de0da6943754526f5b50ec8": {
-    "title": "OpenAI・Anthropic・Microsoftが相次ぎ製品化した「録画でAIに教える」技術を、AIエージェント導入の意思決定に応用──業務可視化AI「メボシ」提供開始 - PR TIMES",
-    "seen_at": "2026-08-19T03:35:15.001315+00:00"
-  },
-  "b4941a7ad8f75fb1f3417d123b3fcfcc5aacc697dabf044c48a553d19df2ea77": {
-    "title": "「うちの会社にAIなんて」――謙遜する中小企業に眠る伸びしろ OpenAIがパートナー網拡充、新規3社が語る（ITmedia NEWS） - news.yahoo.co.jp",
-    "seen_at": "2026-08-19T03:35:15.001318+00:00"
-  },
-  "e67f1ec8f3e20aedbf4e3dd8d32e9341b4527879007a4b1bb63ada01dc80b9bd": {
-    "title": "PDFから変えるだけ。ChatGPTの分析力を引き出すデータの「渡し方」6選 - ライフハッカー",
-    "seen_at": "2026-08-19T03:35:15.001325+00:00"
-  },
-  "e2a2e553f07a6681a2debe097064efcd06f04a2dc07df7f4713a2a11bceb8dbd": {
-    "title": "マネックス証券、「ChatGPTプラグイン」に対応した「MONEX MCP Server」を提供開始 - 日本経済新聞",
-    "seen_at": "2026-08-19T03:35:15.001327+00:00"
-  },
-  "c4f6965ca73f5e3923a69de70ca3fe0c0787cf289201db55cae9d7f9daaed8ec": {
-    "title": "マネックス証券、ChatGPTで資産照会が可能に 主要証券で初のMCPサーバー公開 - BigGo ファイナンス",
-    "seen_at": "2026-08-19T03:35:15.001331+00:00"
-  },
-  "354b3d7cecf2807182cbcb4b98f3e1e3f3de9f1a3b4de1e0c2bea6be4883c0c6": {
-    "title": "ちょびっとラビット耳よりラピッドニュース #076：ChatGPTと運転中に壁打ちしたら、50時間の移動時間が劇的に変わった件 - ウイングアーク１ｓｔ",
-    "seen_at": "2026-08-19T03:35:15.001334+00:00"
-  },
-  "0dfb4d062bfd65e2d4b9c9c57a544bf3e0c0325bc8aa844a8f41de0e8e469d69": {
-    "title": "OpenAIの第2四半期収益成長、Anthropicに後れを取り損失拡大 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "seen_at": "2026-08-19T03:35:15.001337+00:00"
-  },
   "e98ea2532848285cb5c137ddb56da5cee9f38692f4b0d3639d5c6d128b53b18f": {
     "title": "主要証券会社初、「ChatGPTプラグイン」対応の「MONEX MCP Server」提供開始のお知らせ - 時事ドットコム",
     "seen_at": "2026-08-19T03:35:15.001340+00:00"
@@ -11998,5 +11966,37 @@
   "2bd86c1bcbd48ff75ea34f9751cbf6a8774eff0d6276d798ea40e83e98e1478b": {
     "title": "GitHub - zvec-ai/zvec-grep: Local-first search across your workspace, built for humans and AI agents.",
     "seen_at": "2026-09-04T17:51:29.702649+00:00"
+  },
+  "b6ba43c127715a5b3aabd043a9fa9d1452aabdfe7f20230edc2bfd98ed524b62": {
+    "title": "相模湖MORIMORI、駐車場データを生成AIで分析 - LOGISTICS TODAY",
+    "seen_at": "2026-09-04T19:57:07.948220+00:00"
+  },
+  "98c145f137c7fe95c3c254bb8efb1773d47f6cf86c6cd49f562b01fd728800f7": {
+    "title": "検索エンジンにも生成AIにも、そして人にも「選ばれる」コンテンツへ コンテンツマーケティング支援サービスを強化 - ニコニコニュース",
+    "seen_at": "2026-09-04T19:57:07.948228+00:00"
+  },
+  "b216f573d816f880d9eee1cccabcf47b2d3f3539039adaef7c628b1a3e0bea66": {
+    "title": "EUがChatGPTを「超大型検索エンジン」に指定、AI検索にもDSAの厳格規制 - 財経新聞",
+    "seen_at": "2026-09-04T19:57:09.472580+00:00"
+  },
+  "2549ac4109a2750fd09d7fa0f9f51d42e43c6dcb623d22c40dc5abe7fd36b502": {
+    "title": "ERP「HUE」にMCPサーバー機能、AIエージェントがERPや業務アプリを参照/操作可能に - IT Leaders",
+    "seen_at": "2026-09-04T19:57:10.686624+00:00"
+  },
+  "12eb1e43d769cae1753647597f512fb8ac9cf954afe3d828a1d586b44740bb17": {
+    "title": "Ling-3.0-flash-VL, built on Ling-3.0-flash with visual understanding and visual agent capabilities",
+    "seen_at": "2026-09-04T19:57:16.020593+00:00"
+  },
+  "34ba0e0b0c17c8a22e5378b39ab71127449d5f3524bd50ac7c965bdf26a7ce7a": {
+    "title": "I benchmarked 21 Qwen3.8 27B variants on 16GB VRAM",
+    "seen_at": "2026-09-04T19:57:16.020602+00:00"
+  },
+  "2d0446a04338f3c12c65dbcf3db18db8764e0111a68971dcfcaf94fe2b2fb29f": {
+    "title": "~22% less weight VRAM, lossless: base-3 packing for ternary GGUFs",
+    "seen_at": "2026-09-04T19:57:16.020605+00:00"
+  },
+  "dcf37de6d6d7956e38d0d7e2a4cfc70ea930a33281757bcc20d78da6064ca6bf": {
+    "title": "Updated my benchmark with a new vLLM based recipe for Qwen 3.8 Flash Next : now up to 98/100 (instead of 91 previously)",
+    "seen_at": "2026-09-04T19:57:16.020610+00:00"
   }
 }
