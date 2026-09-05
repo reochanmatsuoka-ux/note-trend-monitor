@@ -1,40 +1,4 @@
 {
-  "662463e72f45af4c1128f604d0d6762990d7669fa53f4140761a69d71939c54c": {
-    "title": "アールスリーインスティテュート、生成AIからkintoneを安全に使える「gusuku Fluxon」を2026年10月22日に正式リリース - ニコニコニュース",
-    "seen_at": "2026-08-19T09:20:02.998272+00:00"
-  },
-  "e58691fbeb8ec53beabe85737d39094f89d86f5bff9e926f94ba068562925171": {
-    "title": "Anthropic、Claudeの電子透かし導入と仕組みを公表 - AIsmiley",
-    "seen_at": "2026-08-19T09:20:03.389216+00:00"
-  },
-  "76ed80ea59e2bc2774b578a11d7173a0c24ded42398bcebf96a78eeb66ab92e9": {
-    "title": "Anthropic、「Claude Cowork」のiPhone・iPad対応を全有料プランに拡大 - digitaltoday.co.kr",
-    "seen_at": "2026-08-19T09:20:03.389222+00:00"
-  },
-  "c3f7d3f05fa078f409c3a8f78a8788f06bdf6454a671d3c4fda96a24ac72721a": {
-    "title": "Anthropicはなぜ高いまま選ばれるのか、Vercelの7月データが示すコーディング需要 - XenoSpectrum",
-    "seen_at": "2026-08-19T09:20:03.389227+00:00"
-  },
-  "3ea6d0e9abeade5e0979079b18023f0bbde46ddfed9893e42d7460e098da0e79": {
-    "title": "OpenAI、13〜17歳向け「ChatGPT for Teens」提供開始 宿題の“近道”を検知、年齢推定で保護機能を自動適用 - Ledge.ai",
-    "seen_at": "2026-08-19T09:20:03.826252+00:00"
-  },
-  "7829b58af2eec0167799de31b077391b586d4d96cd4f5cca0514aadab7b55947": {
-    "title": "オープンAIが18歳未満対象にChatGPTの対策強化へ - NHKニュース",
-    "seen_at": "2026-08-19T09:20:03.826258+00:00"
-  },
-  "669157f6d81f228148a2c5bdbb2c03132e4f4b4d88891d6f2215acc8e30a3bd3": {
-    "title": "OpenAIが未成年向けの「ティーン向け ChatGPT」を提供開始（ITmedia PC USER） - Yahoo!ニュース",
-    "seen_at": "2026-08-19T09:20:03.826261+00:00"
-  },
-  "44efea33570b209f2b7e2060a4013c319fdb8e7591a21c635b05d4526f1ce3a6": {
-    "title": "ChatGPTの反論で「道徳的判断」の3割超が覆る 高齢者が説得されやすい傾向 神戸大（ITmedia NEWS） - Yahoo!ニュース",
-    "seen_at": "2026-08-19T09:20:03.826265+00:00"
-  },
-  "9deb3e1a3358bb2dc89d0b312cbc510b64d8d26dbe744362c683f4d7b450bb1b": {
-    "title": "マネックスＧ - 日本経済新聞",
-    "seen_at": "2026-08-19T09:20:03.826268+00:00"
-  },
   "f44f6409ede0f3f497369ede2e8d149cff4092e1e71c3c5f854b5695f0b15b76": {
     "title": "OpenAIが未成年向けの「ティーン向け ChatGPT」を提供開始 - ITmedia PC USER - ITmedia",
     "seen_at": "2026-08-19T09:20:03.826271+00:00"
@@ -11998,5 +11962,41 @@
   "8368ee091947e9c6d516fb64b286b93481d0db3265b2ae580daca43dbc8f0313": {
     "title": "Any resource on using Blender with local models, and which models work best?",
     "seen_at": "2026-09-05T19:37:26.835121+00:00"
+  },
+  "28c7b579eb967c56d0642273a136ff6c87a4bfcb874d5662d63f722073e5164f": {
+    "title": "Anthropic、Claudeなどの生成文に電子透かしを導入 欧州AI規則に対応 - Межа. Новини України.",
+    "seen_at": "2026-09-05T22:24:06.868877+00:00"
+  },
+  "78ea94e697aef472d5f862ba274d6d9604e7ff0bc020ec92fdab3b35199dada7": {
+    "title": "Anthropic、Nvidiaが支援するDecart AIの買収を協議 評価額は約60億ドルか - Межа. Новини України.",
+    "seen_at": "2026-09-05T22:24:06.868884+00:00"
+  },
+  "75398f89bd77806cdc5f7bd9aea722ef965f7ff1afc70a4af4dba7e197102293": {
+    "title": "ChatGPTに「これ調べて」と頼む人が、そもそも最初に間違えていること（ダイヤモンド・オンライン） - Yahoo!ニュース",
+    "seen_at": "2026-09-05T22:24:07.667111+00:00"
+  },
+  "a4b13be9f2ffd815f3ef2e58e2b84dc887bb20539bde38de20913bdfd43c86a4": {
+    "title": "NVIDIAがAIモデル共有サイト「Hugging Face」を約2兆137億円で買収／GoogleがAIモデル「Gemini 3.8 Flash」を発表 - Yahoo!ニュース",
+    "seen_at": "2026-09-05T22:24:08.198032+00:00"
+  },
+  "4598c30598f0da51e7d8142c1664a91675ae44da9109bc7571dc371198168877": {
+    "title": "GoogleがGeminiに記憶のインポート機能を導入し他サービスからの移行を容易化 - Межа. Новини України.",
+    "seen_at": "2026-09-05T22:24:08.198038+00:00"
+  },
+  "d16badebab6c4fc53591d61d5a65ad713ea00f952c7f41162882e20a8afe5718": {
+    "title": "AIエージェントたちの「発言」 - 暴走AI、掲示板で連携 独の情報サイト乗っ取り 米オープンAI - 写真・画像(2/2) - 西日本新聞me",
+    "seen_at": "2026-09-05T22:24:08.826657+00:00"
+  },
+  "396016011e16e09fbc74ac3751f8e99bb8302485c36d79c9e24aef58b6f0f356": {
+    "title": "Your opinion on Ling 3.0 tiny on CPU?",
+    "seen_at": "2026-09-05T22:24:10.153171+00:00"
+  },
+  "fcd4bfd7053376d039898daf11eefc8cb73c0b401762bd903eb01f649e60b810": {
+    "title": "My local LLM demoscene generator can now watch its own output and rewrite it!",
+    "seen_at": "2026-09-05T22:24:10.153177+00:00"
+  },
+  "9167751cef1bbe70c475ff9959cae5e491e3763377690e90f2d1b747b1151c87": {
+    "title": "How does your favourite local model do with the slinky test?",
+    "seen_at": "2026-09-05T22:24:10.153179+00:00"
   }
 }
