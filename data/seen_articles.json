@@ -1,60 +1,4 @@
 {
-  "11912b56940b64d3b82dc0b69f15c166d5423f3757c9685c35ef2743ff1f158b": {
-    "title": "LINEヤフー、AIエージェント「Agent i」で「エキスパートAI」追加 「Yahoo!ニュース エキスパート」専門家の知見を提供 - ｄメニューニュース",
-    "seen_at": "2026-08-19T06:21:03.871519+00:00"
-  },
-  "78a452cefcefd56ec30619e03f5043a66bca4675954f097941d4b00af930b538": {
-    "title": "アイスマイリー、AIエージェント最前線カオスマップを公開！-業務・業界別から開発基盤・導入支援まで118製品を掲載 - ニコニコニュース",
-    "seen_at": "2026-08-19T06:21:03.871525+00:00"
-  },
-  "9775b2d0d8e03a17661e0f471d6b7942538c32fee51d04151d66fa32d6589f59": {
-    "title": "Qwen3.8-27B on 2x 3090 + vLLM + DFlash2: 218 tok/s single request",
-    "seen_at": "2026-08-19T06:21:07.065896+00:00"
-  },
-  "1940b0bdb42619bcdb879fbaba95e3fa3b5d6513a7238c526c0a1f5649fb28af": {
-    "title": "アドビに聞く「生成AIの安全な使い方」、著作権侵害や情報漏えい…高まる生成AI使用リスクへの対処法（Web担当者Forum） - Yahoo!ニュース",
-    "seen_at": "2026-08-19T09:20:02.998209+00:00"
-  },
-  "be3861889b29788896d655d719ba98aba0d72000ad962f87d4cbc07de8cb6966": {
-    "title": "【参加無料】実務に効く!! 中小企業のための「生成AI」活用・実践セミナー&ワークショップを9月16日に開催 - 沖縄タイムス社",
-    "seen_at": "2026-08-19T09:20:02.998221+00:00"
-  },
-  "a46da9005347ac413da3ffcc772ffc7a3cfa04d4cda88b3149ca8741b508b1ca": {
-    "title": "日本通運／物流Webアプリ「DCX」のデータ分析オプションサービスで生成AI活用の新機能提供開始 - 物流ニュースのLNEWS",
-    "seen_at": "2026-08-19T09:20:02.998225+00:00"
-  },
-  "d8ce26115f31ba43a91405290ee3d2f4c040fd7cfae5bb8cd71c301f31a0a726": {
-    "title": "国産大規模言語モデル「ディープシーク」が土木分野人材を募集 - 人民網日本語版",
-    "seen_at": "2026-08-19T09:20:02.998228+00:00"
-  },
-  "07fa3db45f3b1e8a9fcdfa25e771dddd4c4f69b222bcedef9dd83c0b191bbdc4": {
-    "title": "ウェブページが生成AIに認識・参照されやすいか示す無料ツール「AI検索最適化診断」を提供開始（Web担当者Forum） - Yahoo!ニュース",
-    "seen_at": "2026-08-19T09:20:02.998231+00:00"
-  },
-  "e8f8b93497b0ae32afff52d097222e70281e0884357cb707b2fd3db2bbb473f7": {
-    "title": "LLMC、332億パラメータの日本語LLM「LLM-jp-4 33B」を公開 - PC Watch",
-    "seen_at": "2026-08-19T09:20:02.998234+00:00"
-  },
-  "52188594b31165d643fb1cb0ac399f7a7aedfb83aa982268a6857b5150444c3b": {
-    "title": "「オープンな国産モデル」に33Bパラメータの新バージョン 国立情報学研究所 - ITmedia",
-    "seen_at": "2026-08-19T09:20:02.998241+00:00"
-  },
-  "0613a75d9544c8cc87c3009ee4ec8e965f4e9c6b01d20e8437125086e8e55721": {
-    "title": "岐阜県警 生成ＡＩを警察業務に活用へ検証 ＮＰＯ法人と協定 - NHKニュース",
-    "seen_at": "2026-08-19T09:20:02.998244+00:00"
-  },
-  "866ec0d4e914e02b5fbde520f3f7d73bada58f715f1581ff5781553ccd361d85": {
-    "title": "【生成AI×DX】「配ったのに、使われない」をどう越える？──ロッテ様・サーラグループ様の現場活用定着の軌跡を「BSIAシンポジウム2026」にて公開 - PR TIMES",
-    "seen_at": "2026-08-19T09:20:02.998246+00:00"
-  },
-  "c543614f71ce8f12c52d8041f6fa99b78a8d1c6ca8a6ffb5a982192187382552": {
-    "title": "架空の女性に成り済まし政治投稿 立憲民主党栃木県連の党員男性、生成AIで画像作成か - 産経ニュース",
-    "seen_at": "2026-08-19T09:20:02.998253+00:00"
-  },
-  "85b3d3cb05c3ae602ea1568037d3b3a990eac8c703989aeca8f9512f4c51c998": {
-    "title": "次世代AI人材発掘のため『ユメカタリ 学生 生成AIコンテスト2026』を共催 - 時事ドットコム",
-    "seen_at": "2026-08-19T09:20:02.998255+00:00"
-  },
   "9a760efc0da04f0da93a1b7e9e7759b10fd43ab63921e59cc24a80878bb68105": {
     "title": "K.S.ロジャース株式会社、川崎重工業総務本部にてAI活用ルーチンワーク自動化支援を実施 - 神戸新聞",
     "seen_at": "2026-08-19T09:20:02.998259+00:00"
@@ -11998,5 +11942,61 @@
   "1ec9266f082449e23f8e454d616167b5a24c867d20af6d27790df382aa966410": {
     "title": "Reusing old hardware for starting local ai-journey?",
     "seen_at": "2026-09-05T12:10:21.277968+00:00"
+  },
+  "c79892b40172846cde0f26f40ce0751fa92fc7448f6317f9dd4ad60e932e1694": {
+    "title": "生成AIの教育利用 各国で対応が分かれています【神戸市北区】兵庫県議会議員 大塚公彦 - 選挙ドットコム",
+    "seen_at": "2026-09-05T16:58:35.433245+00:00"
+  },
+  "37d447a6977ba6cd84725165da744d8765e40b9c12216f159ae3fb540d493c34": {
+    "title": "日本の高校生９割が生成ＡＩ利用…学習サポート目的８４・８％、「自分の代わりに宿題をしてもらう」１０・３％（読売新聞オンライン） - Yahoo!ニュース",
+    "seen_at": "2026-09-05T16:58:35.433251+00:00"
+  },
+  "5794ace967c5f1ecc6cb9dbf44469e1d86f813959d2e0267ebc18567c4246f34": {
+    "title": "大学生の9割が生成AIを利用 2年で倍増の調査結果【神戸市北区】兵庫県議会議員 大塚公彦 - 選挙ドットコム",
+    "seen_at": "2026-09-05T16:58:35.433255+00:00"
+  },
+  "a3bf9e3c1d2d00d9772d36c3ea0cb77f57d7578d2c3cd570d9b61987014297d4": {
+    "title": "OpenAIとGoogleは、ソフトウェアの脆弱性を独自に発見、検出、修正できるAIを発表した。 - Vietnam.vn",
+    "seen_at": "2026-09-05T16:58:36.855328+00:00"
+  },
+  "d3b4c9e167ecfb0678905d1bf99b550b044fa8e41bd6481f9df537121c502c9d": {
+    "title": "米国の報道機関2社が、コンテンツの無断利用を理由にOpenAIとマイクロソフトを提訴した。 - Vietnam.vn",
+    "seen_at": "2026-09-05T16:58:36.855334+00:00"
+  },
+  "1543f7e4c658a60ff0adbb670e615aa17307739fb937b9f17363d0e48b348f89": {
+    "title": "AIエージェントはマーケティングのボトルネックを解消しない。むしろ露呈させる - Forbes JAPAN",
+    "seen_at": "2026-09-05T16:58:37.994725+00:00"
+  },
+  "db9d3d2f1f3ef33fda1fb8a08ae38ffc90697a1495cf2471112c06407cef773b": {
+    "title": "The gap has closed, open source will win",
+    "seen_at": "2026-09-05T16:58:46.740809+00:00"
+  },
+  "5d3951670f095779cf445073121e35e379e08fbdb2fd93c3a56e2aad405bf61e": {
+    "title": "NInfer vs llama.cpp vs vLLM: quality + speed comparison for Qwen3.8-27B NVFP4 on RTX 5090",
+    "seen_at": "2026-09-05T16:58:46.740814+00:00"
+  },
+  "4189e02815d2a5d3f0a12b104400b3697e9dfed8022cf0674857c8883cb8ea50": {
+    "title": "Otaku — an LLM frontend",
+    "seen_at": "2026-09-05T16:58:46.740817+00:00"
+  },
+  "1515d4a1c511f0914bd1eb502628a2fadcbec1a885c68104d2d5c5b9e8116082": {
+    "title": "gfx906-llama-cpp: New PP/TG gains for MI50/MI60/Radeon VII/AMD GCN",
+    "seen_at": "2026-09-05T16:58:46.740820+00:00"
+  },
+  "42b56d0ecac1b9ecbd55d147f97ca75bbc0b2f435850cadbfbe2ec6d1a41e268": {
+    "title": "Qwen3.8 Flash Next - Templates Comparison",
+    "seen_at": "2026-09-05T16:58:46.740822+00:00"
+  },
+  "b2f7ebffaeb7d0f3efb1443ca30317ef7a65df89538790cf2cd90535bca1aaa4": {
+    "title": "People with \"non-enthusaist hardware\": how do you use it?",
+    "seen_at": "2026-09-05T16:58:46.740826+00:00"
+  },
+  "88f88d2528f17537a9a7438429494ed2fbbb1b18ff4db28a80708d6d37ae026d": {
+    "title": "Qwen3.8-Flash-Next (UD-Q4_K_XL) on a single RTX 3090 24GB + 128GB DDR4, is this config optimal?",
+    "seen_at": "2026-09-05T16:58:46.740829+00:00"
+  },
+  "f563249cc90bf5e6cd07894d2ffa64ebb2faa5e3e357e18342434f72a1b55e6f": {
+    "title": "Is there a local LLM or toolchain to edit 3d models?",
+    "seen_at": "2026-09-05T16:58:46.740831+00:00"
   }
 }
