@@ -1,56 +1,4 @@
 {
-  "9bc294a13a037ffba35abf9836d74b8c74243cefdf7e8bd298c800eb5f076112": {
-    "title": "生成AIで企業の課題解決さぐる 四国大学でワークショップ【徳島】（2026年8月19日掲載）｜JRT NEWS NNN - 日テレNEWS NNN",
-    "seen_at": "2026-08-19T12:18:31.470560+00:00"
-  },
-  "849e97a2436ed8bb83fddaa01d30682aecde06ae06bd4162d7a82745b1ff8fdd": {
-    "title": "Spotify、生成AI使用コンテンツ歓迎 粗悪品は取り締まり強化 - 音楽業界総合情報サイト",
-    "seen_at": "2026-08-19T12:18:31.470568+00:00"
-  },
-  "96e040fb0ca27c24ae5cbb47103a1df3775d2a39de9c77217d4f4aaa77673921": {
-    "title": "FXで生成AIを有効に活用するコツは？ 17億円の利益を上げたジュン氏はイベント時のトレード戦略を生成AIと練り上げる！ 手法のブラッシュアップに使う方法も(ザイＦＸ！) - Yahoo!ファイナンス",
-    "seen_at": "2026-08-19T12:18:31.470572+00:00"
-  },
-  "ae0fd70cd4ab220837fc29618613aaf928b93ce00dc0af58dabe7ff8c54395fd": {
-    "title": "生成AI画像で“架空の女性”に成り済まして政治投稿か 立憲栃木県連の男性党員 一部報道 - ITmedia",
-    "seen_at": "2026-08-19T12:18:31.470575+00:00"
-  },
-  "f611736725f375c558bbfdfbf1f0b3ec7f4a68f9938742dec91c232d5bc4b1c0": {
-    "title": "生成AIサービス、導入前に何を確認すべき？調達・契約・データ管理チェックリストを無料公開 - PR TIMES",
-    "seen_at": "2026-08-19T12:18:31.470579+00:00"
-  },
-  "62de45ed18bc1370a913db7b299c18d2bb5ee6d41bf356ec556982e763cdbcc9": {
-    "title": "グルーバー氏「クロードの隠しウォーターマークは文章表現の堕落」 - yellow.com",
-    "seen_at": "2026-08-19T12:18:32.102580+00:00"
-  },
-  "925aff270afc657c98bcffa6d8730f57a9b07910f6264ffe771492b7c837809b": {
-    "title": "OpenAI、次世代モデルの強化学習を一時停止、サイバー攻撃能力や安全性への懸念から - ビジネス+IT",
-    "seen_at": "2026-08-19T12:18:32.591093+00:00"
-  },
-  "fa9dfadd491c8b0193774e913f0418fbde0d7b0000a29421491e83784a823544": {
-    "title": "ChatGPTの反論で「道徳的判断」の3割超が覆る 高齢者が説得されやすい傾向 神戸大 - ITmedia",
-    "seen_at": "2026-08-19T12:18:32.591103+00:00"
-  },
-  "32d97ab7a8107810ad8a5f20bdfb0fccbc2dd389985d8ff1559a9800da42077a": {
-    "title": "OpenAI、「GPT-5.6 Sol」の回答をアップデートし、無料とGoユーザーのデフォルトモデルを「GPT‑5.6 Luna」に更新 - AIsmiley",
-    "seen_at": "2026-08-19T12:18:32.591107+00:00"
-  },
-  "4173f550a922e73c0155e6665425737f63bbada932a8b06b43e12acead3175a6": {
-    "title": "CerebrasとOpenAI、GPT-5.6 Solの推論を毎秒最大750トークンで処理する「Ultrafast Mode」を発表 - AIsmiley",
-    "seen_at": "2026-08-19T12:18:32.591113+00:00"
-  },
-  "ac855864657dfa7b862b3b6bdd296d4bfed0cc72b4d5d1597ff7ce0746765142": {
-    "title": "OpenAIが10代向けチャットツール「ChatGPT」を正式にリリース：コンテンツフィルタリング機能と保護者による監視機能を搭載。 - Vietnam.vn",
-    "seen_at": "2026-08-19T12:18:32.591116+00:00"
-  },
-  "2b8872d1b0c061fce4be677cb62814f3cc7a6c107a08775fa408c6bc2c483082": {
-    "title": "ジェンスン・フアンCEO「ロボティクスにもChatGPT時代」…韓国製造インフラに集まる視線 - BigGo ファイナンス",
-    "seen_at": "2026-08-19T12:18:32.591121+00:00"
-  },
-  "de7009108c276992e43838ccc4d51d9cc2f47392785bf6ccb803b9022f4ad2d0": {
-    "title": "グーグル、AIエージェントによる脆弱性検出のためのブループリントを公開 - ZDNET Japan",
-    "seen_at": "2026-08-19T12:18:33.672260+00:00"
-  },
   "f2e1452a495d719d57afe349fcb3cca19ea38dbfd714c9145696bc6f99fe56f9": {
     "title": "Grounded Reasoning CupにおけるAIエージェントのライブ評価 - Databricks",
     "seen_at": "2026-08-19T12:18:33.672268+00:00"
@@ -11998,5 +11946,57 @@
   "15ef9c98527c590b5e761d1e0a9a3267074305a1bc7e6035b0b71656bd54cfde": {
     "title": "Block KV cache streaming: bound VRAM at long context via a shared CUDA phase arena by giveen · Pull Request #357 · TheTom/llama-cpp-turboquant",
     "seen_at": "2026-09-06T07:20:45.432329+00:00"
+  },
+  "595c9cd0b874ebcae193a8b471406cc47f48cc602b0e040cc4fcaaa4bc3a6c05": {
+    "title": "生成AIで詐欺手口を疑似体験 西警察署が防犯キャンペーン（KBC九州朝日放送） - Yahoo!ニュース",
+    "seen_at": "2026-09-06T12:24:49.617583+00:00"
+  },
+  "942e7662d8e55ab314835b30c9b437f96e3e6c055e0654f21e9e8460edfc96d6": {
+    "title": "韓国観光PR、1億回再生が続々…K-POPから生成AIまで手法多様化（KOREA WAVE） - Yahoo!ニュース",
+    "seen_at": "2026-09-06T12:24:49.617591+00:00"
+  },
+  "d341d88ecc7ee031782ec3ee45536258f420e488e4fb092a345732f07174088a": {
+    "title": "「AGI到来か？」究極の能力拡張装置ChatGPT Astra｜堀江貴文(ホリエモン) - note.com",
+    "seen_at": "2026-09-06T12:24:50.907694+00:00"
+  },
+  "9e2408ffa081e6eaa4c552c76dd7816afd65d5a9d1aeb5db42fc17e077554264": {
+    "title": "OpenAIが数万台のMacを調達、なぜ今AI企業にMacが人気なのか（ビジネス＋IT） - Yahoo!ニュース",
+    "seen_at": "2026-09-06T12:24:50.907699+00:00"
+  },
+  "5413e9408e992c8eeb27e90250b28b77cf78f69a4ede7c1ca195e8749a40f950": {
+    "title": "読み取り専用のはずが書き込み可能に　OpenAIエージェントの独Wiki利用が判明 - 財経新聞",
+    "seen_at": "2026-09-06T12:24:50.907703+00:00"
+  },
+  "83bfbf96f5a170ff3f6b49810d75f909344ed07dd9396d5e5937f87ac729537e": {
+    "title": "OpenAI推定AIがDseWiki無断編集1.5万件で論争 - CHOSUNBIZ - Chosunbiz",
+    "seen_at": "2026-09-06T12:24:50.907706+00:00"
+  },
+  "cecce75bd2cbc560d614b43e8a94731bf8bf89686f4e8da5c5e239f8c892ba35": {
+    "title": "セイノー情報サービス 国際物流総合展2026でAIエージェント×ロボットをデモンストレーション - Infoseek",
+    "seen_at": "2026-09-06T12:24:51.908356+00:00"
+  },
+  "0dedebbd89a26db7bbc27b8c70e99a7f53a7878658446e2a30817a16da22f0d8": {
+    "title": "Villager Simulation Game POC Created with Qwen3.8-27B-UD-Q3_K_XL.gguf - 16GB VRAM",
+    "seen_at": "2026-09-06T12:24:52.723273+00:00"
+  },
+  "62ae50a9765464777ea27edcd88f46830e010dd1ab26f1b21edb029150bfb3f1": {
+    "title": "Qwen3.8-Flash-Next-oQ4e-mtp: 45 tok/s on M4 Max, 25 tok/s on M2 Ultra for local inference — llm-bench.io",
+    "seen_at": "2026-09-06T12:24:52.723278+00:00"
+  },
+  "fd26cace554f8038714bb914ec1b70c1ce25c7ab1cf450baecd1984cbb89909f": {
+    "title": "vibeblending locally with Qwen 3.8 27B",
+    "seen_at": "2026-09-06T12:24:52.723281+00:00"
+  },
+  "9d7b0dc6099a7e7b0887e43ec5f814c8299bace5eaf3f1e87aba617be4fab412": {
+    "title": "Validate your local LLM advertised KV cache against real pressure; see exactly how old contexts get evicted from cache",
+    "seen_at": "2026-09-06T12:24:52.723284+00:00"
+  },
+  "ddf0e63de947bfdfeacac8aaeadd4589465aaf41bf9611223c61016bcb297b78": {
+    "title": "48 tg/s 440 prefill on my grandma's cluster (2xP40) (sort of)",
+    "seen_at": "2026-09-06T12:24:52.723286+00:00"
+  },
+  "7b3879a9c2a5535e86f9d8675d7ab28c0a2ca4692452133f49b5f69185193161": {
+    "title": "Coding benchmarks that are quickly showcasing deep capability",
+    "seen_at": "2026-09-06T12:24:52.723289+00:00"
   }
 }
