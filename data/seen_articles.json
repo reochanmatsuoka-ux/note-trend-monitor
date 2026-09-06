@@ -1,100 +1,4 @@
 {
-  "e5957d18a779528af0edfaf469fc830ee6a6d53e84f51f129defa1cec4ac8829": {
-    "title": "OpenAI、10代向け「ChatGPT for Teens」を提供開始 安全対策と学習支援を強化 - Yellow.com",
-    "seen_at": "2026-08-19T15:18:39.774995+00:00"
-  },
-  "5abd833e0196535a782c56b655ae7194406c8899732b11e7fd5cd7c06dadd343": {
-    "title": "AIエージェントが切り開く小売店の未来、商品案内もシフト調整も簡単に - 日経クロステック Active",
-    "seen_at": "2026-08-19T15:18:41.094610+00:00"
-  },
-  "d3395261f617181dcaee506e52c63ad32672ff275ceb3039574af1c7bec027f0": {
-    "title": "使い込むほど成長するAIエージェント「Hermes Agent」をWindowsで実際に使ってみた、インストールからウェブ検索・ブラウザ操作まで - GIGAZINE",
-    "seen_at": "2026-08-19T15:18:41.094617+00:00"
-  },
-  "24c15914d638363017da73fec3c0699a40325e1cb7a3be1e28aacff029a4e1a9": {
-    "title": "We have Q3.8 35B at home: 3x new Ornith 1.5 released",
-    "seen_at": "2026-08-19T15:18:42.067641+00:00"
-  },
-  "b7a708f40b2f9887ab30e5671da020c676e17e56560d748b79cc5884eebc2a96": {
-    "title": "updated unsloth/Qwen3.8-27B-GGUF · Hugging Face",
-    "seen_at": "2026-08-19T15:18:42.067646+00:00"
-  },
-  "7ba2e69f3f3793cac261c89938314fe07e553fda153a43ee1291e97227833c1c": {
-    "title": "Finally found a really solid suno-like minimax music UI!!",
-    "seen_at": "2026-08-19T15:18:42.067650+00:00"
-  },
-  "4c7590ad19263c87835a138377a939fa375820ad24fc1ed541d6a8d7a79da64d": {
-    "title": "Ornith 1.5: 9B dense and 35B/397B MoEs",
-    "seen_at": "2026-08-19T15:18:42.067653+00:00"
-  },
-  "cd7100a3064d5829211f32af55431cc0cb66e4d1caa88fbb76f33ba9628ba74b": {
-    "title": "Ornith-1.5 (397B [DeepSWE 56], 35B-A3B, 9B)",
-    "seen_at": "2026-08-19T15:18:42.067656+00:00"
-  },
-  "959ec5e9502747e6fea43718b6c1a76f9b55f265b0bde441a9e6d6dc41231832": {
-    "title": "TencentARC/SCoPE · Hugging Face",
-    "seen_at": "2026-08-19T15:18:42.067661+00:00"
-  },
-  "e499d7f7b74ede94d8ca090744414ccb6a76d47d292f906ab4872be733c1e464": {
-    "title": "I transformed Pokelike.xyz into a LLM and RL benchmark!",
-    "seen_at": "2026-08-19T15:18:42.067664+00:00"
-  },
-  "ef89685814b529fdf3511cc3faa55f0b5840355988d533ad57c2e62a35492295": {
-    "title": "生成AI企画術セミナー、9月16日開催―問いの技術でAI活用を極める - koubo.jp",
-    "seen_at": "2026-08-19T18:14:55.345493+00:00"
-  },
-  "5d787da35c388129ca4693972b83c0cf8ea25b36ca8c7e1cb49c9cb5e139b326": {
-    "title": "東京書籍、教科書に連動した生成AIサービス「教科書AIワカル」がキッズデザイン賞を受賞 - rbbtoday.com",
-    "seen_at": "2026-08-19T18:14:55.345498+00:00"
-  },
-  "3a71c707848a785ede59fa5ec11e68a10cb695f71237927870f6eaaa3c582ada": {
-    "title": "【生成AI×DX】「配ったのに、使われない」をどう越える？──ロッテ様・サーラグループ様の現場活用定着の軌跡を「BSI - news.nicovideo.jp",
-    "seen_at": "2026-08-19T18:14:55.345502+00:00"
-  },
-  "7469eae045cef10019996bdaeb8cadf60cec73d639d9ae6f5e4f25f3855f42b2": {
-    "title": "ゲイツ氏創業のTerraPower、生成AIデータセンター向け原発計画を1年以内に発表へ - Межа. Новини України.",
-    "seen_at": "2026-08-19T18:14:55.345506+00:00"
-  },
-  "9ba85cf0e6a7d946b9563df59542a268d2a19821ab31d97b698c6dcd73a1d8eb": {
-    "title": "OpenAIは、13歳から17歳までのユーザーの保護を強化するChatGPT for Teensをリリースしました。 - vietnam.vn",
-    "seen_at": "2026-08-19T18:14:56.333811+00:00"
-  },
-  "ff1ded119392afcde856eb0186058aa98711d27c7d11e92cc800e3e7bda87001": {
-    "title": "Introducing Qwen3.8-27B Dynamic v3 Unsloth GGUFs",
-    "seen_at": "2026-08-19T18:14:58.321088+00:00"
-  },
-  "b1f8c3c2fc505ec74c582c4acd9a55bf39e4f5cf05c3c06c90de9ba900180af6": {
-    "title": "NVFP4 on VOLTA! Despite being built for Blackwell, I made four 2017 V100s run Qwen 3.8 NVFP4 natively and match my $6000 RTX 5090.",
-    "seen_at": "2026-08-19T18:14:58.321094+00:00"
-  },
-  "7e02acfb6a6eb8d77dffb4c298b6ef387f7259a82e64b8622a6945e391cea898": {
-    "title": "AntLing’ve open-sourced 6 Base Model checkpoints for Ling-3.0-tiny & Ling-3.0-flash, covering pre-trained, mid-trained, and WSM-merged stages.",
-    "seen_at": "2026-08-19T18:14:58.321099+00:00"
-  },
-  "14b7243b073a7478ea3e30cbf2562f43c70b87fdcb7c874cc3c8ec1aec8346da": {
-    "title": "LFM 2.5 QAD",
-    "seen_at": "2026-08-19T18:14:58.321103+00:00"
-  },
-  "ec4ef1ba8b08b0bd4309c5fd0dadc56d55364943ed79870111699fb710d305a2": {
-    "title": "ling 3.0 flash/tiny base models",
-    "seen_at": "2026-08-19T18:14:58.321107+00:00"
-  },
-  "de0ae80ef5f3ca27c79e67f97ffffe207150d15cbc6d913c8ae78fb9481d6a1e": {
-    "title": "Qwen 3.8 27B vs Gemini 3.7 Flash (High) for real coding: open-source 27B model did a much better job",
-    "seen_at": "2026-08-19T18:14:58.321110+00:00"
-  },
-  "52f21b89d53234f2e3bbbf4b70a2c367a10289539f68c9b90df0d45d74866f06": {
-    "title": "I posit QWEN team will dust off the old 397B-A17B architecture to compete with Deepseek V4 0731 Flash",
-    "seen_at": "2026-08-19T18:14:58.321113+00:00"
-  },
-  "0e430c1be82e240208d46f98e0283303edacae16ea06ef54b3a1d5043cb64cf0": {
-    "title": "生成AIで部下からの質問は減ったけれど 管理職調査で見えた新たな課題 - ITmedia",
-    "seen_at": "2026-08-19T21:13:55.292402+00:00"
-  },
-  "33c603db5743b2fb565268727e4d1650e4ee6f10ef9be3ddf7f8ae9f708295a0": {
-    "title": "「最新生成AI」が壊したハッカー「技能の壁」――低スキル人材が「傭兵」となるサイバー攻撃に企業はどう対応すべきか - que.dailyshincho.jp",
-    "seen_at": "2026-08-19T21:13:55.292409+00:00"
-  },
   "dfd4354b8f229304aed8202f85b6bfa6328f4af6db505dd45b3818dffa152c68": {
     "title": "レゾナック、管理職による各職場の分析や改善アクション検討までに生成AI技術を使うアプリを運用開始 - デジタルクロス",
     "seen_at": "2026-08-19T21:13:55.292413+00:00"
@@ -11998,5 +11902,101 @@
   "e96e5534f11716c97126eba20b867a7594e521abb1bbfaa6bf95cffe6c6affce": {
     "title": "Best model + setup for remote deployment.",
     "seen_at": "2026-09-06T19:39:30.639752+00:00"
+  },
+  "ac299802d75900383d99c211aed3fb000cb1cd3ab2abd25c07e8953025407e84": {
+    "title": "ビル・ゲイツが警鐘を鳴らす「生成AI」3つのリスク…増える仕事と減る仕事、最も影響を受けるのは誰か？（Wedge（ウェッジ）） - Yahoo!ニュース",
+    "seen_at": "2026-09-06T22:29:10.942467+00:00"
+  },
+  "40662e9fdec5bbf34645d3516cd62bcad801289db88dd79d747278b364474f3e": {
+    "title": "【からだ・こころナビ】がん患者の７％、生成ＡＩ利用 相談や情報収集で、家族も８％ - 沖縄タイムス社",
+    "seen_at": "2026-09-06T22:29:10.942475+00:00"
+  },
+  "0cfe0b707dfa6375861cf349453ba6a6a063853b7f1be170fbd4fb6c1d838c24": {
+    "title": "2027年問題で急浮上「脱SAP」という選択肢、生成AI×ERPが起こす「3つの業務変革」 - ビジネス+IT",
+    "seen_at": "2026-09-06T22:29:10.942480+00:00"
+  },
+  "65c8c390e6c726a8d6ab70462b6fb0868647903074c95505fb197d1b86db99da": {
+    "title": "生成AI時代にあえて「妄想」を 木村鋳造所が伊豆箱根鉄道をポスタージャック - アドクロ",
+    "seen_at": "2026-09-06T22:29:10.942484+00:00"
+  },
+  "d3fd2ccec9d190df3b19561b2347513e390c0d932cabc3f711328a8943a6b091": {
+    "title": "ビル・ゲイツが警鐘を鳴らす「生成AI」3つのリスク…増える仕事と減る仕事、最も影響を受けるのは誰か？ - Wedge ONLINE(ウェッジ・オンライン)",
+    "seen_at": "2026-09-06T22:29:10.942487+00:00"
+  },
+  "016c252ebe7330d02785be3e86caca50cab682cd14187378163ae95e394367e2": {
+    "title": "【からだ・こころナビ】がん患者の７％、生成ＡＩ利用 - 下野新聞社",
+    "seen_at": "2026-09-06T22:29:10.942490+00:00"
+  },
+  "2cd0f364266b3cb136b4aa9ed27d3824523a1f8242a1ac13c845790b149aea5a": {
+    "title": "【からだ・こころナビ】がん患者の７％、生成ＡＩ利用 - 中国新聞デジタル",
+    "seen_at": "2026-09-06T22:29:10.942493+00:00"
+  },
+  "570604b2e5113aeebf53c292ab39db5e78a7e09349ac0d6b634b64f7e7d431c3": {
+    "title": "OpenAIのAIエージェントが放置wikiを乗っ取り掲示板化、問われる異常行動と事故の開示基準 - JBpress",
+    "seen_at": "2026-09-06T22:29:10.942496+00:00"
+  },
+  "b136dd0082e3764925cf0c5f61c69a6b91dbc7d707d05ecd67b80795763cab26": {
+    "title": "SAP 2027年問題を変革のチャンスに変える 生成AI×ERPが実現する次世代業務改革の実践事例 - ビジネス+IT",
+    "seen_at": "2026-09-06T22:29:10.942499+00:00"
+  },
+  "9ae52dc21abddb9e795cf6de762d9c4d0dabddc292a67557eff8ec5bd7350bb1": {
+    "title": "ELYZA、「ELYZA Works」の業務AIアプリを作成する仕組みについて特許を取得 - Excite エキサイト",
+    "seen_at": "2026-09-06T22:29:10.942502+00:00"
+  },
+  "111edfaee05f22d5578c505a474284d35dd85f0eb675bb303caeeccec9c6e263": {
+    "title": "ソーシャルメディアで「AnthropicのClaudeがミレニアム賞問題を解決」との噂が拡散 - BigGo ファイナンス",
+    "seen_at": "2026-09-06T22:29:11.578852+00:00"
+  },
+  "29a4f58da3cb8cde9b49aba4a3f4893189011b3afadcc8534722c4f8f3441d23": {
+    "title": "3,700のOpenAIエージェントが独サイトを「カンニング掲示板」に、削除の4倍のペースで大量投稿（平和博） - エキスパート - Yahoo!ニュース",
+    "seen_at": "2026-09-06T22:29:12.072872+00:00"
+  },
+  "d0bc58f394636710c83128d213559c6eb166b7489c35291960c0ae8464865037": {
+    "title": "OpenAI、AIエージェントが制御不能になった際の一般向け情報提供の方法を変更すると発表 - Business Insider Japan",
+    "seen_at": "2026-09-06T22:29:12.072878+00:00"
+  },
+  "268adcecb49cbe3b27a4092369968d2f152db33a5ad1b6642bdf157d8c10727f": {
+    "title": "習慣はAIより強し？…OpenAIのアルトマンCEO「メールは自分で確認するほうが生産的に感じる」 - Business Insider Japan",
+    "seen_at": "2026-09-06T22:29:12.072883+00:00"
+  },
+  "b6263bc652c6355c22a9d25649fce0b635127e8c7a40fc398afa6e3a7725c104": {
+    "title": "OpenAI「GPT-6 Astra」公開で半導体株が急騰…韓国KOSPI 7000台定着への期待 - BigGo ファイナンス",
+    "seen_at": "2026-09-06T22:29:12.072886+00:00"
+  },
+  "580cd78fac12f0532a8c4b304297bb5f48746020ea1f74777e888acc6011a416": {
+    "title": "AIエージェントのダークサイド顕在化、システム開発で相次ぐ事故 - 日本経済新聞",
+    "seen_at": "2026-09-06T22:29:13.157125+00:00"
+  },
+  "36e26a88e3e39729cef07aae6d655f42a3cfc9a2d8cd0880b335877eae9eded5": {
+    "title": "三菱電機が空調保守AIエージェント実証、2カ月で1000人規模 属人化を解消 - 日経クロステック Active",
+    "seen_at": "2026-09-06T22:29:13.157131+00:00"
+  },
+  "3a16629170cb2c16d89d4376446d9fc70beed2fe08a9f860403f9e09bffd5cdc": {
+    "title": "東武鉄道へマーケティングAIエージェント提供（DATAFLUCT） - ペイメントナビ",
+    "seen_at": "2026-09-06T22:29:13.157136+00:00"
+  },
+  "6c29afc2cc50f7ae165ddbb4aa892ae063a560b2e2a75cec3fce3c8e43a49261": {
+    "title": "300人のCIO調査で判明、「AIエージェント基盤」の必須条件【選定チェックリスト付き】 - ビジネス+IT",
+    "seen_at": "2026-09-06T22:29:13.157139+00:00"
+  },
+  "3b875aa68db925d3ebc3e6bfbde2b0de45265c9009f3ef9eca72262773909924": {
+    "title": "コスト削減のためにAIエージェントの出力を短くすると逆にコストがかさむ事例をGitHubが公開、うまくコスト効率を向上するにはどうすればいいのか - gigazine.net",
+    "seen_at": "2026-09-06T22:29:13.157142+00:00"
+  },
+  "8557e30ccf2b58a2a4a1c3c77b1ae3225ee1ecaeb959abc18042f253e6fe0220": {
+    "title": "半導体設計にAIエージェントを活用する時代が到来、シーメンスEDAが描く人間とAIの役割分担 - マイナビニュース",
+    "seen_at": "2026-09-06T22:29:13.157145+00:00"
+  },
+  "64660de0c88557e9a5ee03bd405963ecd514ab5b2bff2c290096f842c8f49002": {
+    "title": "Gemini活用で「Siri AI」がついに実現、だがアップルが越えるべき壁は多い - 日経クロステック Active",
+    "seen_at": "2026-09-06T22:29:13.157148+00:00"
+  },
+  "9d7fa7ff7cb883fec95dd34bd9348f3548cdf7b1f7630601cb4fa78fdd296358": {
+    "title": "【2万社調査】なぜ導入はわずか19％？ AIエージェントの成否を分ける「ある戦略」 - ビジネス+IT",
+    "seen_at": "2026-09-06T22:29:13.157151+00:00"
+  },
+  "933cf7823bdcbd3ecd41f582e8e037c0b984c10a49d125248738eff3a829e5b9": {
+    "title": "DeepSeek-V4-Flash-Vision Q8 vs Qwen3.8-Flash-Next Q8",
+    "seen_at": "2026-09-06T22:29:15.261323+00:00"
   }
 }
