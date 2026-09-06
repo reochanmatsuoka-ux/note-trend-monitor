@@ -1,44 +1,4 @@
 {
-  "f2e1452a495d719d57afe349fcb3cca19ea38dbfd714c9145696bc6f99fe56f9": {
-    "title": "Grounded Reasoning CupにおけるAIエージェントのライブ評価 - Databricks",
-    "seen_at": "2026-08-19T12:18:33.672268+00:00"
-  },
-  "d7a1ae8999e9816487316cc5aa002c41746f1456d0c2de223f51b7312dd89c5e": {
-    "title": "AIエージェントのコマンド承認に潜む罠、Dockerが「安全な許可」でも任意コード実行の危険性を警告 - BigGo ファイナンス",
-    "seen_at": "2026-08-19T12:18:33.672276+00:00"
-  },
-  "2cdfef5346b85d4cbe1f6afbe3b35e7d5a4a67b8e5aedc5a13cf448388b676fc": {
-    "title": "【プロダクト開発関係者向け】AIエージェントで変わるチームコラボレーション 9/12（土）無料セミナー「プロダクト・UX・開発をつなぐ新しい仕事の進め方」開催 - PR TIMES",
-    "seen_at": "2026-08-19T12:18:33.672279+00:00"
-  },
-  "b16b627c076608085900fa5a6aa7860d3896e1424ff35664891760ce0cab2c31": {
-    "title": "ローカルAIエージェントアプリ「Bionic」がSkillsに対応しCodexやClaude Codeの使い勝手に近づく - GIGAZINE",
-    "seen_at": "2026-08-19T12:18:33.672284+00:00"
-  },
-  "8c88245f14c7871232f6c11e6be8522c0c03d9cc3301d0eea79c012d44756eff": {
-    "title": "Comfy-Org、ローカル環境対応の「Comfy MCP」を公開！AIエージェントからローカルComfyUIを直接操作可能に - CGinterest",
-    "seen_at": "2026-08-19T12:18:33.672293+00:00"
-  },
-  "c0179232fcc4fb6cc420c349c32d3dcf4ddffb4827892cb3e22d1b81f7a69ed3": {
-    "title": "Stop Anthropomorphisizing Intermediate Tokens: Qwen3.8 doesn't \"overthink\"",
-    "seen_at": "2026-08-19T12:18:38.048239+00:00"
-  },
-  "cb47225a6c6203eb41c3cf95a9ddf587cfb81de8ee5f1b70720f99e6de0c36c0": {
-    "title": "Am I doing something wrong? Qwen 3.8 27B seems useless for agentic coding",
-    "seen_at": "2026-08-19T12:18:38.048244+00:00"
-  },
-  "f24c37fb7798da880470a80005c167eed600ddc1f9effab3c9cb1f197e67ecfd": {
-    "title": "[2511.07885] Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-    "seen_at": "2026-08-19T12:18:38.048247+00:00"
-  },
-  "52bc7ba732f942d0bc8ec8a631431500e8c8840e4ad7b8afaa47f26cb94915dc": {
-    "title": "Waiting for a 122B because of world knowledge?",
-    "seen_at": "2026-08-19T12:18:38.048250+00:00"
-  },
-  "bfb42d71f54fdbd7c46a3478a5569f71e8f658f07a063b64dd7b09c3c5b967c6": {
-    "title": "[Open PR] llama : add --n-cpu-ffn option by John-194 · Pull Request #26622 · ggml-org/llama.cpp",
-    "seen_at": "2026-08-19T12:18:38.048253+00:00"
-  },
   "8f7c49c609d18fada15b28f916caea3e7e98f3add77882ca77fdefac40994bab": {
     "title": "Qwen3.8 27B without MTP?",
     "seen_at": "2026-08-19T12:18:38.048255+00:00"
@@ -11998,5 +11958,45 @@
   "7b3879a9c2a5535e86f9d8675d7ab28c0a2ca4692452133f49b5f69185193161": {
     "title": "Coding benchmarks that are quickly showcasing deep capability",
     "seen_at": "2026-09-06T12:24:52.723289+00:00"
+  },
+  "3351ff5346e6edcb918aa8d8ae453b6e0c82842140e556d596b5742f824504ee": {
+    "title": "生成AIの事業成果への貢献を実感は24％どまり マーケター1000人調査 - xtrend.nikkei.com",
+    "seen_at": "2026-09-06T17:22:51.255652+00:00"
+  },
+  "1b4b15f0b2b66b25a4636a8f7ec5f29c94153e25d0526d40f958e6ca4fac131e": {
+    "title": "OpenAIの最新AIモデル「GPT-6 Astra」、得意分野と課題が交錯―「AGI時代」発言の根拠は？ - 財経新聞",
+    "seen_at": "2026-09-06T17:22:52.611806+00:00"
+  },
+  "baf5fcbf0f02c8ae753ecb408f47b8674d1bd724c887c7df8450e5e664964142": {
+    "title": "OpenAIに所属するAIチームは、独自のコミュニケーションチャネルを構築するためにWikiを利用している。 - Vietnam.vn",
+    "seen_at": "2026-09-06T17:22:52.611813+00:00"
+  },
+  "f823233661b48330f301b451decb8c7929398c9ec10c2532a072b58d5237c249": {
+    "title": "数千ものAIエージェントがドイツのあるウェブサイトを乗っ取った。 - Vietnam.vn",
+    "seen_at": "2026-09-06T17:22:53.805787+00:00"
+  },
+  "6ec8e65aa66e6caeda9abe8136d3150b936a0c4790c2299b3bb324a24ec734a4": {
+    "title": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
+    "seen_at": "2026-09-06T17:22:57.723124+00:00"
+  },
+  "23b28e42b300f7f497dec4b7d0760fa063a7e58ad38168f5142dda55bcdf4060": {
+    "title": "Using GPT Astra to teach Qwen Next how to sculpt in 3D in Blender.",
+    "seen_at": "2026-09-06T17:22:57.723129+00:00"
+  },
+  "099d063fac54cce2a8feb516c5c1d0896205d1628c8acca1c18c1aea3856da90": {
+    "title": "[Model] Support for Spark2_5ForCausalLM implementation by KnightYao · Pull Request #27868 · ggml-org/llama.cpp",
+    "seen_at": "2026-09-06T17:22:57.723134+00:00"
+  },
+  "ccea61b96775ce8e85b7500e3506b3faf33ce99d0da3efd3ce9b6527b1d0dced": {
+    "title": "What happened to all the local model fit check tools?",
+    "seen_at": "2026-09-06T17:22:57.723138+00:00"
+  },
+  "f4c0190b0964ad2708bdbaf2f62b997eb3ec0434f243aa5265fe39c12f50d495": {
+    "title": "Custom iOS/MacOS App for AI server dashboard- Prompt included",
+    "seen_at": "2026-09-06T17:22:57.723141+00:00"
+  },
+  "e9de1ac6f883a391d14952da42a91868f4bd3a25b5313f0ba3c842804cbc5ffe": {
+    "title": "Ktransformers or llamacpp, for MoE on multigpu+ram?",
+    "seen_at": "2026-09-06T17:22:57.723144+00:00"
   }
 }
