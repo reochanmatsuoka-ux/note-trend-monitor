@@ -1,40 +1,4 @@
 {
-  "8f7c49c609d18fada15b28f916caea3e7e98f3add77882ca77fdefac40994bab": {
-    "title": "Qwen3.8 27B without MTP?",
-    "seen_at": "2026-08-19T12:18:38.048255+00:00"
-  },
-  "9b02eac52f9517613a6485228a936d4fe8a3ec9ba044e8842d867667a782c033": {
-    "title": "生成AIに参照される企業サイトとは noteが掲げる「本拠地」戦略 - 日経クロストレンド",
-    "seen_at": "2026-08-19T15:18:38.400202+00:00"
-  },
-  "33a1c61103d285f1a8e0eee8193d1fe877d5cc09151e5661c879bf7befcba47c": {
-    "title": "補助金活用テーマにセミナー、生成AIを使ったワークも 8月26日、佐賀市で開催 オンライン受講も可能（Saga Shimbun） - ｄメニューニュース",
-    "seen_at": "2026-08-19T15:18:38.400213+00:00"
-  },
-  "c32d16a1f065de59ed8b2d01fff12244a451e217ddcc91723cda97db76e1c91d": {
-    "title": "架空人物に成り済まし立民党員がXに“政治活動”を投稿 長野県内に在住、画像は生成AIで作成 - 信濃毎日新聞デジタル",
-    "seen_at": "2026-08-19T15:18:38.400218+00:00"
-  },
-  "482b7d160eba58ac2a09fac9b95ea15495122f0c1548a332a1b964fd6977f2cd": {
-    "title": "みんなのコード、「みんなで生成AIコース」が第20回キッズデザイン賞を受賞 - ニコニコニュース",
-    "seen_at": "2026-08-19T15:18:38.400221+00:00"
-  },
-  "aca94a5752277c5e17158440aa21ea7f9bfef140d483177712ee5cc41a20e398": {
-    "title": "東京書籍、教科書に連動した生成AIサービス「教科書AIワカル」がキッズデザイン賞を受賞 - ニコニコニュース",
-    "seen_at": "2026-08-19T15:18:38.400224+00:00"
-  },
-  "0409591e49adaa30185d9ecbcb78afc645e8b83d6995d8f53a1224c8f4bd3492": {
-    "title": "Claudeエージェント同士が「縄張り争い」で互いを妨害したり価格について共謀したりする事例がAnthropicの実験で発生 - GIGAZINE",
-    "seen_at": "2026-08-19T15:18:39.101119+00:00"
-  },
-  "515b6b9c80d54c09d4157e8216df30a5e196100ddd2b2a0e966317644ac7e07a": {
-    "title": "Anthropic、Claudeがタンパク質を自律設計 15標的のうち14で命中 - BigGo ファイナンス",
-    "seen_at": "2026-08-19T15:18:39.101126+00:00"
-  },
-  "e91356d01c107452c05f78942c0e396af58224d3692f88479ba47e29e6ac8829": {
-    "title": "OpenAIは、AIが恋人になりすますのを阻止し、コンテンツ規制を強化する仕組みを備えた、10代向けのチャットサービス「ChatGPT」をリリースした。 - Vietnam.vn",
-    "seen_at": "2026-08-19T15:18:39.774987+00:00"
-  },
   "e5957d18a779528af0edfaf469fc830ee6a6d53e84f51f129defa1cec4ac8829": {
     "title": "OpenAI、10代向け「ChatGPT for Teens」を提供開始 安全対策と学習支援を強化 - Yellow.com",
     "seen_at": "2026-08-19T15:18:39.774995+00:00"
@@ -11998,5 +11962,41 @@
   "e9de1ac6f883a391d14952da42a91868f4bd3a25b5313f0ba3c842804cbc5ffe": {
     "title": "Ktransformers or llamacpp, for MoE on multigpu+ram?",
     "seen_at": "2026-09-06T17:22:57.723144+00:00"
+  },
+  "c0e27532301ff95c2043a27d9e0f8f37e1db4d95b7602e28cbc278a3b5e96012": {
+    "title": "生成AIの事業成果への貢献を実感は24％どまり マーケター1000人調査 - 日経クロストレンド",
+    "seen_at": "2026-09-06T19:39:26.999567+00:00"
+  },
+  "91f3b366c0ff1e2cd334055a59ffeebc774e75b078f85046e4fb1ab6f55f5b34": {
+    "title": "OpenAIがGPT-6 Astraを発表 ゴールドマン・サックス：知能のブレークスルーこそAI強気相場の真のエンジン - BigGo ファイナンス",
+    "seen_at": "2026-09-06T19:39:28.131857+00:00"
+  },
+  "f736fb33ab7de49e587eedac9f408714d4034d4b5371119ceb3ef8853fb4e5ce": {
+    "title": "OpenAI、GPT-6 Astraの価格を10ドル・50ドルで防衛…AnthropicとIPO前の価格戦線 - BigGo ファイナンス",
+    "seen_at": "2026-09-06T19:39:28.131865+00:00"
+  },
+  "9dc2484ac59f5215ebcdc733b184adba05a4da28c2b1397899ed3a4854ac9e95": {
+    "title": "ジョルディ・ヴィッサー氏「債券市場クラッシュ懸念は罠」——暗号資産の次局面を牽引するのは人間ではなくAIエージェント - BigGo ファイナンス",
+    "seen_at": "2026-09-06T19:39:29.220003+00:00"
+  },
+  "c5b602194604cb5d80b9bbca2245d8c1f8125824efaf9432ee214bbfca225082": {
+    "title": "2x R9700, 64 GB DDR5 is an absolute beast machine with vLLM Radiance / R9V and Qwen 3.8 27b and Flash next",
+    "seen_at": "2026-09-06T19:39:30.639736+00:00"
+  },
+  "e38365d1ad511a2a2bc28080afef9a0872a3ed08cb0c8c6c2412fd9387028ddb": {
+    "title": "Expert expansion with llama.cpp",
+    "seen_at": "2026-09-06T19:39:30.639743+00:00"
+  },
+  "cd2db80907648ccde66ebddbf6028c328bf2ce8a173d62c28ddd99b8424b4254": {
+    "title": "Planning to get a cheap-ish GPU. Would appreciate some advice.",
+    "seen_at": "2026-09-06T19:39:30.639746+00:00"
+  },
+  "4cc7a6ce5edec8c30739889bd340dac06b306789c1fa2b4a27841a6afa8cd0b8": {
+    "title": "Maybe a noob question, but why aren't there safetensor quants of inclusionAI/Ling-3.0-flash-Fin?",
+    "seen_at": "2026-09-06T19:39:30.639749+00:00"
+  },
+  "e96e5534f11716c97126eba20b867a7594e521abb1bbfaa6bf95cffe6c6affce": {
+    "title": "Best model + setup for remote deployment.",
+    "seen_at": "2026-09-06T19:39:30.639752+00:00"
   }
 }
