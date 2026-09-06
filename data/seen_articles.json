@@ -1,64 +1,4 @@
 {
-  "f44f6409ede0f3f497369ede2e8d149cff4092e1e71c3c5f854b5695f0b15b76": {
-    "title": "OpenAIが未成年向けの「ティーン向け ChatGPT」を提供開始 - ITmedia PC USER - ITmedia",
-    "seen_at": "2026-08-19T09:20:03.826271+00:00"
-  },
-  "7a0d0889cc39752b0049f35addd4a71fd43ea8e4719bab6ceb0fee764d870928": {
-    "title": "子どもの家庭教師？ 学習支援を重視した設計の「ティーン向けChatGPT」登場 すぐに答えを求めても問題を自力で解くように導く - 株式会社インプレス",
-    "seen_at": "2026-08-19T09:20:03.826274+00:00"
-  },
-  "8517ee28a3fa317be2389f96934374036fdecdf5081a1dfb697ade77561e1752": {
-    "title": "リスクが大きすぎる？OpenAIが最新AI開発に「2週間の急ブレーキ」 - PC Watch",
-    "seen_at": "2026-08-19T09:20:03.826277+00:00"
-  },
-  "65c0556e3befe9de0b20a6874a16374447eb9eaa2f32a02ba349cb2b123e9c63": {
-    "title": "OpenAIの成長はAnthropicに後れを取り、安全性への懸念が最先端のトレーニング停止を促す - CoinDesk",
-    "seen_at": "2026-08-19T09:20:03.826281+00:00"
-  },
-  "c573337fe302d35b5888443d0627b2757139857844d144442fa52d700b55c78c": {
-    "title": "OpenAIが若者向けに特化したChatGPTをリリース。 - Vietnam.vn",
-    "seen_at": "2026-08-19T09:20:03.826284+00:00"
-  },
-  "4252d0986265f4320c883e3724edf53d331da7b508ca4a19b5b014784997edb6": {
-    "title": "OpenAI幹部が大規模モデル価格比較の落とし穴を暴露：tokenは標準単位にあらず、同一価格でも請求額に3割の差 - BigGo ファイナンス",
-    "seen_at": "2026-08-19T09:20:03.826287+00:00"
-  },
-  "2f07b400f1ada93d4ade37bbc86aa19722f84dcbc51f23da3e1ab3ac565c5a1a": {
-    "title": "OpenAIは高度なAIの開発を遅らせている。 - Vietnam.vn",
-    "seen_at": "2026-08-19T09:20:03.826290+00:00"
-  },
-  "723d5c1c64eaf6ffb841e512e5ea90e32a3973d8843e57f9800724270245aa94": {
-    "title": "和解はとっくに終わっていたのに、ChatGPTだけが「まだ戦える」と言い続けた——日本生命16億円提訴の中身 - shiritomo",
-    "seen_at": "2026-08-19T09:20:03.826293+00:00"
-  },
-  "981492e8eb3800c08fa96cf876d4a533315dd3f4d80f4467aaad61e89a92ca70": {
-    "title": "OpenAIの未成年保護はどこまで変わったか：ChatGPT for Teensの設計と未公表の指標 - XenoSpectrum",
-    "seen_at": "2026-08-19T09:20:03.826300+00:00"
-  },
-  "dfe2e3685870c9cb5401ebd512d580640c028016cd4252d0cfbf054199c04c09": {
-    "title": "OpenAIやPerplexityの人工知能グッズが広げる仲間意識と深まる批判 - Межа. Новини України.",
-    "seen_at": "2026-08-19T09:20:03.826304+00:00"
-  },
-  "88fb7d68064359ccb53a845d0a974df857438d1325b378656d4cd049ac0eac28": {
-    "title": "Snowflake、AIエージェントモデル選択を自動化しコストを最適化する新機能発表 - EnterpriseZine",
-    "seen_at": "2026-08-19T09:20:04.760592+00:00"
-  },
-  "5d6daba87afad682f141e802c911ac9f143fc9a6b592c65b8d7af90eaf1a2c01": {
-    "title": "【150社限定】知財AIエージェント「AI Samurai MCPサーバー」2週間無料トライアルを開始 - PR TIMES",
-    "seen_at": "2026-08-19T09:20:04.760599+00:00"
-  },
-  "4142a4238a5298590005203e029db8b1313a9dbabcd88da05b547055645ccaf2": {
-    "title": "グーグル、AIエージェントによる脆弱性検出のためのブループリントを公開 - Yahoo!ニュース",
-    "seen_at": "2026-08-19T09:20:04.760605+00:00"
-  },
-  "12939c54e219bc670aa112832f0b759d134061201c9d4beb6591ace03ef5d5ef": {
-    "title": "花王が需要予測AIエージェント開発、KATEの18カ月先までの売れ行き予想 - AdverTimes.（アドタイ） by 宣伝会議",
-    "seen_at": "2026-08-19T09:20:04.760608+00:00"
-  },
-  "856799c03f2dd8cc050dac3b7a5c1a1990358c673cded31f48f58380637bfa60": {
-    "title": "AIエージェントに「安全なコマンド」を許可しただけで任意コード実行、Dockerが解説するコマンド承認の落とし穴 - GIGAZINE",
-    "seen_at": "2026-08-19T09:20:04.760630+00:00"
-  },
   "e84c41ab76699893a37f5b8ab043892d5c6b74b4dde184ab10c33422dd23ca1e": {
     "title": "BNBチェーン、「BNBエージェント・スタジオV2」公開、AIエージェントの報酬受け取りが可能に（あたらしい経済） - Yahoo!ニュース",
     "seen_at": "2026-08-19T09:20:04.760635+00:00"
@@ -11998,5 +11938,65 @@
   "9167751cef1bbe70c475ff9959cae5e491e3763377690e90f2d1b747b1151c87": {
     "title": "How does your favourite local model do with the slinky test?",
     "seen_at": "2026-09-05T22:24:10.153179+00:00"
+  },
+  "4b7625c610bd68eaca4fbfe5125dd4ffa97028e6fe3bbb0018ec4c8213f512d5": {
+    "title": "楽天調査、Z世代の約4割が生成AIを「ほぼ毎日」利用 - ケータイ Watch",
+    "seen_at": "2026-09-06T01:29:30.338976+00:00"
+  },
+  "95564afd394670b470cdf81980de9c9fcebd539368f67eaef061116f7c65d839": {
+    "title": "中国AI勢が怒涛のリリース、Z.ai開発の「GLM-5.3-Flash」、アリババ開発の「Qwen3.8-Flash-Next」、テンセント開発の「Hy4 preview」など生成AI技術5つを解説（生成AIウィークリー） - テクノエッジ TechnoEdge",
+    "seen_at": "2026-09-06T01:29:30.338984+00:00"
+  },
+  "a2cb7f7c929c2c339030a13f082ce7b63d7334839488e93207a28a5eab00c4bd": {
+    "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明 - ITmedia",
+    "seen_at": "2026-09-06T01:29:31.595365+00:00"
+  },
+  "436efab10a3b7721b7e5aa3b59c10b6c0e5ea17a06172b6e212c5e57706955e3": {
+    "title": "OpenAI、ドイツとハギングフェイスでAI侵入――モデル監視だけでは防げない外部アクセス管理の課題 #エキスパートトピ - Yahoo!ニュース",
+    "seen_at": "2026-09-06T01:29:31.595370+00:00"
+  },
+  "24ed7c3d12679bbaab8bf3b2992641291ddec643f380d12102000a7fdac9bb64": {
+    "title": "OpenAIが人型ロボを開発へ──アルトマンCEO、「誰もが自分専用のロボットを持つべき」 - Yahoo!ニュース",
+    "seen_at": "2026-09-06T01:29:31.595376+00:00"
+  },
+  "408d82989acf666da615527be05dca2bd2bdf1252033a217677838ee0d50996f": {
+    "title": "ChatGPT、医学研究の検索から患者情報との連携まで OpenAIが医療向け機能を拡充 - DXマガジン",
+    "seen_at": "2026-09-06T01:29:31.595379+00:00"
+  },
+  "2931f7ae9a20488fe324e7974bc695bcd39e8d73f002dfda7b0812f10119ffaf": {
+    "title": "ChatGPT登場以降に公開されたウェブサイトの3分の1に「AI」の痕跡が見られることが研究で判明 - GIGAZINE",
+    "seen_at": "2026-09-06T01:29:31.595382+00:00"
+  },
+  "9409bf7777b7e12eb98d8341d8fdcd3b942794b70bb5830817a38a7bab0fdb56": {
+    "title": "シアトル・タイムズとニューズデイがOpenAIとマイクロソフトを提訴、記事のAI学習利用を問題視 - Межа. Новини України.",
+    "seen_at": "2026-09-06T01:29:31.595385+00:00"
+  },
+  "441c566e1a25dee5f721858d4fe3f5b110412b8840ff5eba6dab55eeb0242908": {
+    "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明 - Infoseek",
+    "seen_at": "2026-09-06T01:29:31.595388+00:00"
+  },
+  "db2654eb6657eefa4f91ac38177b3f0553730da32d0a065209c3ecd93283e1d7": {
+    "title": "暴走するAIエージェントは“悪”ではない。人間の期待に応えようとしているだけだ - WIRED.jp",
+    "seen_at": "2026-09-06T01:29:32.895625+00:00"
+  },
+  "465c8b3e8bf440ac6476295e85b11a462dd345dd8602d436984bbfb7c32e8ae5": {
+    "title": "Which agent harness do you use and why?",
+    "seen_at": "2026-09-06T01:29:34.377166+00:00"
+  },
+  "8d86f6c77b4042a9c990e2029c4b2b8225d8e17a7ce2242bb72c2f70c3c6f57b": {
+    "title": "Qwen 3.8 Flash Next (Max) is impressive just to talk with.",
+    "seen_at": "2026-09-06T01:29:34.377171+00:00"
+  },
+  "8e82383dfc3c823601c8922ba55592316a439e72f70b5d083408bd8e2886ba1d": {
+    "title": "My only real use case for a local AI use is document management, how much VRAM do I realistically need for a good experience?",
+    "seen_at": "2026-09-06T01:29:34.377175+00:00"
+  },
+  "3e76d997597865de30e1b9cfe4d1bcac7aa54d24c52d98c42a40b2080932555a": {
+    "title": "Bosgame Gorgon Halo coming next month, October 2026",
+    "seen_at": "2026-09-06T01:29:34.377178+00:00"
+  },
+  "833001997676a218b1a903d8cf54812771ebb2d30b3d8537dfcdc5aa0163cb97": {
+    "title": "NInfer fork: 555k context@fp4 for 5090 with YARN, reliable kv host cacheing, monitoring, jinja, opened model support",
+    "seen_at": "2026-09-06T01:29:34.377182+00:00"
   }
 }
