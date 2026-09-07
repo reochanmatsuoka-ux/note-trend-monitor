@@ -1,188 +1,4 @@
 {
-  "dfd4354b8f229304aed8202f85b6bfa6328f4af6db505dd45b3818dffa152c68": {
-    "title": "レゾナック、管理職による各職場の分析や改善アクション検討までに生成AI技術を使うアプリを運用開始 - デジタルクロス",
-    "seen_at": "2026-08-19T21:13:55.292413+00:00"
-  },
-  "ac16b87c6912f827b8b7e214c2a396256786d2aa806d241900565aaf658368d4": {
-    "title": "校務効率化へ生成ＡＩ活用 松江で教員向け研修会 - 山陰中央新報デジタル",
-    "seen_at": "2026-08-19T21:13:55.292416+00:00"
-  },
-  "f653446cffe001753d62727804505a69259e7140a1b1f42a28fb13b1b101e730": {
-    "title": "NETIS 技術革新の20年(3)生成AIが新技術を比較 進化続ける研究開発基盤 - 建通新聞",
-    "seen_at": "2026-08-19T21:13:55.292422+00:00"
-  },
-  "af7db10decf13f08548b3a2baa169b6db7dea53795ba90ad860c3ac755d6d175": {
-    "title": "サムスン：Claude Codeがチップ設計を1か月から2日に短縮、しかし回路でミスも - Pasquale Pillitteri",
-    "seen_at": "2026-08-19T21:13:55.780282+00:00"
-  },
-  "19ac00017e8246a12aedc1321ee0e6c197b310edb451897b015ce05781023814": {
-    "title": "苛立つ孫正義は完全にハシゴを外された…「OpenAI」アルトマンの「上場延期」にソフトバンクが喰らう大迷惑 - 現代ビジネス",
-    "seen_at": "2026-08-19T21:13:56.256305+00:00"
-  },
-  "9b20c762ec10d6187170b53e6043a8085607967181c4e804393939822ad17bd3": {
-    "title": "「OpenAI」の首脳陣が続々更迭…「1兆ドル」の超大型IPO前のサム・アルトマンに一体何が起こっているのか - 現代ビジネス",
-    "seen_at": "2026-08-19T21:13:56.256311+00:00"
-  },
-  "a95f25b48fd783e27fff3fb8ab397401deb2a824a6a0cba736f3da4b86056356": {
-    "title": "OpenAIがTACのアクセスを誤って停止、サイバー研究者に再認証を要請 - Межа. Новини України.",
-    "seen_at": "2026-08-19T21:13:56.256315+00:00"
-  },
-  "0c9e0bf315d0d0639044c292f425e682717798946dac21e99035b5d8d3f11b9d": {
-    "title": "Googleが検索とGeminiに学習支援AIを追加、理解を深める新機能を展開 - Межа. Новини України.",
-    "seen_at": "2026-08-19T21:13:56.808917+00:00"
-  },
-  "96f546412454cfc37fbc6491476669b58294e9c0da34006231ff030d01da3f8f": {
-    "title": "日本のAIエージェント導入は遅れているのか 足踏みの理由と「慎重」戦略：Salesforce調査で判明 - ITmedia",
-    "seen_at": "2026-08-19T21:13:57.373000+00:00"
-  },
-  "8e0ec16ac32128725b0ce6002e1809244ec5afb7152c378a863ae3fca43a7030": {
-    "title": "業務アプリやAIエージェントを自然言語で開発するための基盤、日鉄ソリューションズが販売 - デジタルクロス",
-    "seen_at": "2026-08-19T21:13:57.373006+00:00"
-  },
-  "374c2da78581b76a43c12c2346a6f40bb6f4ae08baee4fe4e36845f3ec4a4d3b": {
-    "title": "花王 ＡＩエージェントが需要計画立案を支援 - カーゴニュースオンライン",
-    "seen_at": "2026-08-19T21:13:57.373010+00:00"
-  },
-  "0adc53c9dac7764dfff1ca535cb39cc6c4f952f800e16423fe9ecd87f5709f24": {
-    "title": "AIエージェント基盤が刷新する企業経営の在り方：日立製作所が挑む「カスタマーゼロ」変革／ 礒田有哉（日立製作所・研究開発グループ） - WirelessWire",
-    "seen_at": "2026-08-19T21:13:57.373013+00:00"
-  },
-  "3e4bfd597846492255bc099c1f82150a8d6ccbef6c8355a2b2228c5fc67913c6": {
-    "title": "Skillsは簡単だから誤る AIエージェントを壊さず運用する5つの原則：「全部LLMに考えさせない」が重要 - ITmedia",
-    "seen_at": "2026-08-19T21:13:57.373016+00:00"
-  },
-  "8b0c06f3cf06ba115ab44947a8149e4c0c9f590bb6c56077f391da2c5c596177": {
-    "title": "法人向け気象情報にＡＩエージェント搭載 - カーゴニュースオンライン",
-    "seen_at": "2026-08-19T21:13:57.373019+00:00"
-  },
-  "a4a7ca12740a8f00bf333c552e0095c4158c525e0dd77ebe967e80a7acb4f315": {
-    "title": "花王、ＡＩエージェント開発 化粧品の在庫削減へ - 化学工業日報 電子版",
-    "seen_at": "2026-08-19T21:13:57.373022+00:00"
-  },
-  "6bf2813862c8dc7585b5d49503e968d3557d1767003da44e414ab455682bf55a": {
-    "title": "DFlash2 speeds Qwen 3.8 27B up to 4 times",
-    "seen_at": "2026-08-19T21:14:04.530568+00:00"
-  },
-  "913aa319f73f3c55a20bece0dc52889a0ead5f7be2f8ffaf3b1f7bf869b577d1": {
-    "title": "I pushed Qwen3.8-27B limits again... Dflash2 - 134 tps on a RTX 3090",
-    "seen_at": "2026-08-19T21:14:04.530578+00:00"
-  },
-  "505fe56e3b5dc85c8eecefa2b5de6bef8096defae2889c86b67779981a7ea4a8": {
-    "title": "Ornith-1.5 9B might not be bad at all",
-    "seen_at": "2026-08-19T21:14:04.530582+00:00"
-  },
-  "ea3e1f71945228b3971306c26e03abeed08478b711c08c467e13e90044fd4ffc": {
-    "title": "Reverse-Engineering the RK3588 NPU: Building an Open Compiler to Run GPT-2 at 36 tok/s",
-    "seen_at": "2026-08-19T21:14:04.530585+00:00"
-  },
-  "92c4509c4a2b911e9bd468af93e5f5c4ee7a5148df269ecd0e4bc9028ab48268": {
-    "title": "KV cache may affect a lot on the quality in Qwen3.8-27B-Q6_K",
-    "seen_at": "2026-08-19T21:14:04.530588+00:00"
-  },
-  "f0db251bb2b6078002d7f4db256cd45b5703d81ffd873d23537f6e7fd051a276": {
-    "title": "We quantized the new Ornith 1.5 9B and 35B-A3B",
-    "seen_at": "2026-08-19T21:14:04.530591+00:00"
-  },
-  "86079d1acac66d2a2fe4cda59e75261cfc224c245bdef6c18894d2faac929f31": {
-    "title": "I might have found the perfect config parameters for qwen 3.8 27b",
-    "seen_at": "2026-08-19T21:14:04.530593+00:00"
-  },
-  "4e2aec6e68c7781780a6b8a9bd69e123e78305985d90617e7d3cd7f49d42074a": {
-    "title": "【セミナーレポート】生成AI・AI・RPAを使いこなす！～事例から学ぶ業務活用と庁内浸透～【Day1】 - ジチタイワークスWEB",
-    "seen_at": "2026-08-20T00:28:40.339482+00:00"
-  },
-  "111d2f05448972501af69560767c02620d0a1327ec806ef548ae6b3650c7e6c2": {
-    "title": "OKI、生成AIを活用した顧客課題分析システムを開発 顧客提案活動の高度化を推進：製造ITニュース - monoist.itmedia.co.jp",
-    "seen_at": "2026-08-20T00:28:40.339490+00:00"
-  },
-  "434d380e6318bca5889ba94933f6c82e356cb398576203c7c4c6b2424b1fce88": {
-    "title": "生成AI利用で迷う家庭に指針 SHIFT AIが親子で考える「10か条」を公開 ルール共有は1割 - 教育家庭新聞社",
-    "seen_at": "2026-08-20T00:28:40.339498+00:00"
-  },
-  "d652209d7cf334eb25908c06db99bd1acf51d96d2cfe61d1ba936825f2d5d272": {
-    "title": "小中学生の47.1％が学習に生成AIを利用、保護者の8割超は「自主的な学び」を重視 Duolingo調べ - こどもとIT",
-    "seen_at": "2026-08-20T00:28:40.339501+00:00"
-  },
-  "aa47d77bb6927ea5b19d6660b42ee7d6804667cb50318abba8af2c971f73bccd": {
-    "title": "【生成AIやってみた！Pally編】直接SMSを送って使うパーソナルアシスタントの使い勝手は？ - @DIME アットダイム",
-    "seen_at": "2026-08-20T00:28:40.339507+00:00"
-  },
-  "66c0c9199b888a2f0470290f9b202073be82eac33feec49a324a5c8aba4e6ff9": {
-    "title": "小中学生の47.1％が学習に生成AIを利用、保護者の8割超は「自主的な学び」を重視 Duolingo調べ - chiba-tv.com",
-    "seen_at": "2026-08-20T00:28:40.339510+00:00"
-  },
-  "e02d3205fe4f935ce046646cb8e6e18bb2b23de7f1dd6ab0931cf3e9257fae24": {
-    "title": "高度なAIのサイバー攻撃、どう対策？ 企業が知るべき「スピード格差」の埋め方 - ITmedia",
-    "seen_at": "2026-08-20T00:28:40.894742+00:00"
-  },
-  "c73a37f500ef64ce3e4f83504366239b1aca812e638bb7d0e248aa46c07d9f33": {
-    "title": "ジオコード、ChatGPT広告の出稿・運用支援サービスを提供開始 - PR TIMES",
-    "seen_at": "2026-08-20T00:28:41.595179+00:00"
-  },
-  "821683d0805b9221696e508158e81ddc16d78269ac4cef53040597f6a8f4a3c5": {
-    "title": "OpenAI、モデル開発を一時「減速」 最新モデルのRL学習を2週間停止、最大規模の学習は現在も保留 - Ledge.ai",
-    "seen_at": "2026-08-20T00:28:41.595185+00:00"
-  },
-  "13f6f84a22aa8ded4af76fb153ac761bb00476a96b15c8f4f47d989d486713cf": {
-    "title": "会計AIのXero、JAXを拡張しMicrosoft 365・Claude・ChatGPTからリアルタイム財務データを利用可能に - atpartners.co.jp",
-    "seen_at": "2026-08-20T00:28:41.595191+00:00"
-  },
-  "2c9bf6053f8419d40335b1df02805cc4e65709d22ca315fb69822afdd5820c51": {
-    "title": "OpenAI、ゼロデータ保持を維持する新安全技術　30日保持のAnthropicと異なるアプローチ - ｄメニューニュース",
-    "seen_at": "2026-08-20T00:28:41.595196+00:00"
-  },
-  "efd177cae56d9effa8a2cb1e357abf21f0fbdf76fb623ec384f1e162b503dcb0": {
-    "title": "OpenAI、AIによる自動攻撃が既存の脆弱性を高速発見・悪用すると警告 「Defender’s Window」で防御自動化を促す - rocket-boys.co.jp",
-    "seen_at": "2026-08-20T00:28:41.595199+00:00"
-  },
-  "010f4c4a00fc350963c49c69d8f763a9c1b43473350791246f47ec357941e3da": {
-    "title": "「良心を持ったなんて信じない」——OpenAIが最速を競う最中に自ら開発を止めた2週間 - shiritomo",
-    "seen_at": "2026-08-20T00:28:41.595202+00:00"
-  },
-  "d1329329aa6ebbbef759ef9b660b9666e3c3c23315c48f005cc82f5f7ed4d6b5": {
-    "title": "Anthropic、四半期売上116億ドルでOpenAIを初めて上回ると報道 - XenoSpectrum",
-    "seen_at": "2026-08-20T00:28:41.595206+00:00"
-  },
-  "b56f11367cf30a0885b2b70025b1a052c89a8ff4e2f65c3a10b5540d57d805c7": {
-    "title": "Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も - ITmedia",
-    "seen_at": "2026-08-20T00:28:47.289334+00:00"
-  },
-  "7c6ec049d9d846e6cdbc8d8f9a3c1f500aa9513a4f4e01d7b0b8f83169542939": {
-    "title": "大学生であれば｢Google AI Plus｣が1年間無料に ｰ ｢AI Pro｣も最大75％オフ - taisy0.com",
-    "seen_at": "2026-08-20T00:28:47.289341+00:00"
-  },
-  "5792dee845c28e62932e4861d9d1eb444faf9b3d1bb004f8c9e74a8925bb97cc": {
-    "title": "大学生限定「Google AI Plus」1年間無料プラン提供開始 - jetstream.blog",
-    "seen_at": "2026-08-20T00:28:47.289346+00:00"
-  },
-  "1d404f63b7efb9058a3e4a330592c73aa3e74567f76b0e36f0f600b0f623111e": {
-    "title": "バクラク、導入時の初期設定を自動化するAIエージェント機能をリリース - PR TIMES",
-    "seen_at": "2026-08-20T00:28:47.827442+00:00"
-  },
-  "4d009c5f204ffe5071a5814c5f3d63dc2b1ba1735680a8700dc928ca9763f5b7": {
-    "title": "「AIエージェントには良心がない」――人間ともbotとも違う“特有の危うさ”とは：ID管理の前提が変わる（前） - ITmedia",
-    "seen_at": "2026-08-20T00:28:47.827456+00:00"
-  },
-  "9849e669452772034d0710e86497c832213c02dce791dd7f9736ce41ffb22292": {
-    "title": "【プロダクト開発関係者向け】AIエージェントで変わるチームコラボレーション 9/12（土）無料セミナー「プロダクト・U - ニコニコニュース",
-    "seen_at": "2026-08-20T00:28:47.827460+00:00"
-  },
-  "9c84266c08e945e587ec03a79b23fd472d16123bd5880324d7d8433cfecb9e9b": {
-    "title": "Qwen3.8-23B-Mini-Me: A Depth-Pruned Qwen3.8-27B (to ~22.7BB)",
-    "seen_at": "2026-08-20T00:28:50.259676+00:00"
-  },
-  "032e856592924edb42d4754b1858e61fa94842d8397bfedeedf1e35f26ff62aa": {
-    "title": "Anyone NOT on full auto when coding with local LLMs?",
-    "seen_at": "2026-08-20T00:28:50.259682+00:00"
-  },
-  "27369b922ad134d663f6ae145becc4533af267f31b935fb25efac28bdc66e36a": {
-    "title": "Fluid Simulation Qwen3.8 27B IQ3_XXS",
-    "seen_at": "2026-08-20T00:28:50.259688+00:00"
-  },
-  "5fd6522d2cb27fa9ed609ca4ecafe9301ced08b77842ec198b5349e7b62d6a4d": {
-    "title": "S1-mini by Superwhisper running 100% locally in the browser on WebGPU with Transformers.js",
-    "seen_at": "2026-08-20T00:28:50.259691+00:00"
-  },
   "e17268705c834381564ea25124a0b01d5bb54f44d7295233288a27b5a1595e64": {
     "title": "「令和8年版 情報通信白書」から読み解く「生成AIのリスク対策」 - ZDNET Japan",
     "seen_at": "2026-08-20T03:35:42.528633+00:00"
@@ -11998,5 +11814,189 @@
   "933cf7823bdcbd3ecd41f582e8e037c0b984c10a49d125248738eff3a829e5b9": {
     "title": "DeepSeek-V4-Flash-Vision Q8 vs Qwen3.8-Flash-Next Q8",
     "seen_at": "2026-09-06T22:29:15.261323+00:00"
+  },
+  "b679fa20d0408c45f2e024f9cc1ec888eed1b6fc4dfef028cc9ec1c8c1a79cab": {
+    "title": "フロンティアAI時代のLLMセキュリティ学習プログラム「《実践》LLMセキュリティハンズオン eラーニング講座」、三井物産セキュアディレクション株式会社と株式会社ChillStackが提供開始 - prtimes.jp",
+    "seen_at": "2026-09-07T01:28:31.196028+00:00"
+  },
+  "876ce838be5d100974d830291f5a24cd1c9e62ebd27aa3f7e3f68ed39cef4e24": {
+    "title": "生成AI時代を支える通信インフラ近代化のカギ - businessnetwork.jp",
+    "seen_at": "2026-09-07T01:28:31.196035+00:00"
+  },
+  "04ff0a0551464e4577854e54cfc8df3f71a1a7000374868e3eefb4e6ca6d660f": {
+    "title": "Polimill、自治体向け生成AI「QommonsAI」の活用研修を千葉県柏市で実施 - ICT教育ニュース",
+    "seen_at": "2026-09-07T01:28:31.196073+00:00"
+  },
+  "07c5a2eca849b7732207fb99c23b7819ef4ad029dc0053ecb7348178220e0ac1": {
+    "title": "そのAIの使い方、危ないかも!? 高校生の半数が生成AI利用のいま、東大教授が教える正しい学び方 - prtimes.jp",
+    "seen_at": "2026-09-07T01:28:31.196079+00:00"
+  },
+  "8bf8d2f282e309190ff6fd2225ffdf61569afdb86e022c28a0be22025e9e22c4": {
+    "title": "【生成AI：2万人調査】AIを使う新規事業担当者の4人に1人は「企画は速い、決裁は昔のまま」 生成AI時代の“企画インフレ・決裁渋滞” - prtimes.jp",
+    "seen_at": "2026-09-07T01:28:31.196082+00:00"
+  },
+  "79a59e740510d3054ed02150d10703a3cdd793a5d185905c41cd9e030970240a": {
+    "title": "QommonsAI活用研修を埼玉県秩父市（ちちぶし）で実施 — 「生成AIを使える」から「業務と結びつけて使う」へ議会対応AIやプライベートナレッジを紹介 | Polimill株式会社のプレスリリース - prtimes.jp",
+    "seen_at": "2026-09-07T01:28:31.196085+00:00"
+  },
+  "64a692b8c5be31c11c86164691eac5c94cf2f456d30239acbffdc18560891b96": {
+    "title": "サーバーワークスグループとBIPROGY、クラウド・生成AI分野で業務提携 - prtimes.jp",
+    "seen_at": "2026-09-07T01:28:31.196089+00:00"
+  },
+  "657573fa53b3a6b21b39730b71009b6024635124d48b2127cfd01ec53bde4230": {
+    "title": "Defios、「東京ゲームショウ2026」に生成AIゲーム最新作2タイトルを出展！ - prtimes.jp",
+    "seen_at": "2026-09-07T01:28:31.196092+00:00"
+  },
+  "396d2f71148e951e40eb42ccffb26fad5107be7e70d9c0e51cbcffe83c482955": {
+    "title": "モノグサ公式Podcast「教えるを学ぶラジオ」シーズン2、生成AIを活用した教育実践の第一人者 安藤昇先生が出演 - prtimes.jp",
+    "seen_at": "2026-09-07T01:28:31.196095+00:00"
+  },
+  "85d13d6e695528970e852c1c412fbc4b08581cd70fc4fb510ca0a5c5aad8aabc": {
+    "title": "【独自取材】「物流データを中央集権的に管理することが生成AIの恩恵を大きくする」 - LOGI-BIZ online",
+    "seen_at": "2026-09-07T01:28:31.196098+00:00"
+  },
+  "da2c31f17316b48443e66bd0cf678af2c8420354e6da1306e3ede7600f08f31c": {
+    "title": "SaaSに代わりAIエージェント支える“AaaS”が台頭／議事録作成AIは「意思決定支援」へ進化／生成AIの顧客満足度・1位はClaude、ほか (1/3) - ASCII.jp",
+    "seen_at": "2026-09-07T01:28:31.196101+00:00"
+  },
+  "e5332f0a3b0817e6d13a131cddb654e605baae1bddbd56010b2d12da995ade57": {
+    "title": "株式会社スムージースタジオ、設立3周年。生成AI映像制作の3年間とこれまでの歩み - prtimes.jp",
+    "seen_at": "2026-09-07T01:28:31.196104+00:00"
+  },
+  "e1863a8b295f433f2f801e9e0724191dc67d09fa9c23a586e5a51675805e9f5e": {
+    "title": "アイフリークモバイル、生成ＡＩと高単価案件で収益改善へ、株価は年初来高値接近し上値を試す - kabu-ir.com",
+    "seen_at": "2026-09-07T01:28:31.196107+00:00"
+  },
+  "c36cdd738878cfe53d379e1ee2f6d54df4cd22408573ee9e40981aa9262cecef": {
+    "title": "SaaSに代わりAIエージェント支える“AaaS”が台頭／議事録作成AIは「意思決定支援」へ進化／生成AIの顧客満足度 - ニコニコニュース",
+    "seen_at": "2026-09-07T01:28:31.196112+00:00"
+  },
+  "d1c3563a4f046d2526b72cac59691e79caae39049b575772d83ac2d6f25a3114": {
+    "title": "なぜOpenAIやAnthropicのAIは「脱走」したのか 情シスが迫られるエージェント統制（TechTargetジャパン） - Yahoo!ニュース",
+    "seen_at": "2026-09-07T01:28:32.119990+00:00"
+  },
+  "8120c51080fc757dddd4b1ffb4a3ea4ed6ee82c119c321dcea10bd9a1e46d24e": {
+    "title": "OpenAI、エージェントによる研究加速と直面する安全性の壁を開示 チーフサイエンティストは「自発的減速」を提唱 - ITmedia",
+    "seen_at": "2026-09-07T01:28:32.119995+00:00"
+  },
+  "b29983b726c7fcd045e3827682177a62baf7503d38b97816256cabe9f2c37564": {
+    "title": "OpenAI「Astra」ベンチマークが示したもの…AIの勝負所は今や「記憶」だ - BigGo ファイナンス",
+    "seen_at": "2026-09-07T01:28:32.120001+00:00"
+  },
+  "24861a7f04d1f1e960d2d4b47deb1636ed3884db95d3d04574aad0294af4198e": {
+    "title": "OpenAIとみられる自律 AIエージェント、ドイツWikiに約1.8万件投稿 制限回避や回答共有、研究者が「意図しない協調」を報告 - 合同会社ロケットボーイズ",
+    "seen_at": "2026-09-07T01:28:32.120004+00:00"
+  },
+  "29c05a2ea99d82593114f03658d2c0132fb19c0df49fe1b3b80270dbd731e677": {
+    "title": "Cloudflare、OpenAIと連携したAIセキュリティサービスを発表 - CodeZine",
+    "seen_at": "2026-09-07T01:28:32.120006+00:00"
+  },
+  "e7c9daf49d0da447a01564918b14eb38d4f826f416a50aa03f73a3a58a28b692": {
+    "title": "ChatGPT-6 Astra祭りの報告とこれから来るメガトレンド--ツール習熟コストの無力化 - オルタナティブ・ブログ",
+    "seen_at": "2026-09-07T01:28:32.120010+00:00"
+  },
+  "d3ce81ef658c383df1df599d4493c7b28869c81cb71690facc479bfd665bf599": {
+    "title": "OpenAI、重要インフラ防御へ10億ドルの「Daybreak」支援 日本でも防衛・サイバー分野でAI活用が加速 - 合同会社ロケットボーイズ",
+    "seen_at": "2026-09-07T01:28:32.120014+00:00"
+  },
+  "723720a8cb22c3422b3dae9d44649e25fffed5b31813e34bd61e548d8801e0c5": {
+    "title": "Foundry Labs株式会社、「OpenAI Select Partner」に認定 - ニコニコニュース",
+    "seen_at": "2026-09-07T01:28:32.120018+00:00"
+  },
+  "fac7c38f388da0deb9789604121835afd3de2d2d6fc3a975e1e8d32c56f4da81": {
+    "title": "OpenAIのGPT-6アストラで半導体買い活発化 KOSPIが3％超上昇して始まる - CHOSUNBIZ - Chosunbiz",
+    "seen_at": "2026-09-07T01:28:32.120021+00:00"
+  },
+  "a07358d15e223bc8ddaea90638b52ddcbdd0dff4f2f035371851cf0769afe0f0": {
+    "title": "OpenAI、GPT-6 の次のモデル Bel を既に完成させたとの噂 - Pasquale Pillitteri",
+    "seen_at": "2026-09-07T01:28:32.120024+00:00"
+  },
+  "37385f5f3bbede08cdb3ee5bf377ced0bce2fe196f04a7f97cf716c3c352f380": {
+    "title": "Google「Gemini 3.8 Flash」、Meta「Muse Spark 1.3」AI新モデル相次ぎリリース GoogleはAI画像生成・編集ツール「Google Pics」も提供開始 - Ledge.ai",
+    "seen_at": "2026-09-07T01:28:32.577328+00:00"
+  },
+  "939fde2a11133022eca9fc59e1dc7f8acd362f44477e364fe2312df4c16681fd": {
+    "title": "ついに日本でも。「AI モード」AIモデル選択展開 - jetstream.blog",
+    "seen_at": "2026-09-07T01:28:32.577334+00:00"
+  },
+  "5e0210777cdc541d68fa9b42ac92294292ce131f5430a38124d887421900742d": {
+    "title": "AIエージェント活用による工数見積業務の高度化とIT部門の変革 ―Agentforceとデータ基盤を活用した工数算定業務の効率化・自動化を推進― | 事例 | ABeam Consulting - abeam.com",
+    "seen_at": "2026-09-07T01:28:33.072256+00:00"
+  },
+  "e287af4f3885985b8033c6e13b6d6efe0e721e89f572c3c07be526e74d2de50a": {
+    "title": "「LegalOn」、AIエージェントとともに働く「AI駆動型法務」を描いた新タクシー広告を9月7日より放映 - prtimes.jp",
+    "seen_at": "2026-09-07T01:28:33.072262+00:00"
+  },
+  "cbe525292581baf0caaa7e1826104b6eae9b17f07d0910357f89d342a13914fd": {
+    "title": "Okta「Auth0」が新機能を発表、AI エージェント活用や B2C / B2B アイデンティティを強化（ScanNetSecurity） - Yahoo!ニュース",
+    "seen_at": "2026-09-07T01:28:33.072266+00:00"
+  },
+  "1e14a6210d368fe17d1e7516202499987d080969590849b32642c50c381c1f5a": {
+    "title": "AIエージェントはセキュリティ問題を「生み出す」のではなく「暴く」 - Forbes JAPAN",
+    "seen_at": "2026-09-07T01:28:33.072270+00:00"
+  },
+  "dc2476c4eabf9364f62b63acacc82ed515c72032a7ec051f0074f8d376bc8ca0": {
+    "title": "万能AIの単体運用では限界？ マルチエージェントの可能性と必要なインフラ：Confluentで実現する「次のAIエージェント活用」 - ITmedia",
+    "seen_at": "2026-09-07T01:28:33.072273+00:00"
+  },
+  "6484c2e46d76b96d827047682119a92e5e6e213947153f4633af22790da295b8": {
+    "title": "デンソークリエイト、設計資産の活用や「Agent Skills」対応を強化したAIエージェント基盤「DC Agentiqs V1.2」 - cloud.watch.impress.co.jp",
+    "seen_at": "2026-09-07T01:28:33.072277+00:00"
+  },
+  "9e5b3337bb2648c41860210959b62ce2abcecdf5ec5d250f0d242fc80d48b448": {
+    "title": "三菱電機が空調保守AIエージェント実証、2カ月で1000人規模 属人化を解消 - 日経クロステック Active",
+    "seen_at": "2026-09-07T01:28:33.072286+00:00"
+  },
+  "be409d0b8be023e9a417b48ec87e4fdc4e206164b2eb3f1fe40ddd28b0203ea4": {
+    "title": "AIエージェントは、DBOSが待っていた負荷かもしれない - HackerNoon",
+    "seen_at": "2026-09-07T01:28:33.072289+00:00"
+  },
+  "574832840703259097b037e24482757638c57ede587155f105e1ed7049579a3e": {
+    "title": "1～2人月の開発が「1人日」に！？ 中外製薬がClaude Codeで実践する「AI駆動開発」 - ビジネス+IT",
+    "seen_at": "2026-09-07T01:28:33.072292+00:00"
+  },
+  "1d46ece7bab1ed61503b03d8191731f51e5194cad1d652bb9e1c98d7a8e93fcb": {
+    "title": "ワークスアプリケーションズ、ERP「HUE」がMCPに対応 AIエージェントの安全な業務実行環境を整備 - cloud.watch.impress.co.jp",
+    "seen_at": "2026-09-07T01:28:33.072295+00:00"
+  },
+  "9380ae7ae8587c8a1f6f051efbd97192c06ab24dda90212e2abb4e46a0a7c7e6": {
+    "title": "ディコーディングエックスが提供する対話型音声AIエージェント「DEN.Ai」、NECネクサソリューションズとの連携により、千葉県旭市役所で市民向け実証実験を9月17日より開始 - 産経ニュース",
+    "seen_at": "2026-09-07T01:28:33.072301+00:00"
+  },
+  "80df1c2416fcc60c80c76b51a14d7b2583c13a51c52ff67fac3a5400f28ed22c": {
+    "title": "「45分で5時間分」と「3日で64万円」——Claude Codeの1ヶ月に開発者たちが出した結論【編集部まとめ】 - shiritomo",
+    "seen_at": "2026-09-07T01:28:33.072305+00:00"
+  },
+  "40b408f663460c6a8ca429a0d17dac3a32bfdd082c9d1f90c6244a6cfe16ee8d": {
+    "title": "ディコーディングエックスが提供する対話型音声AIエージェント「DEN.Ai」、NECネクサソリューションズとの連携によ - ニコニコニュース",
+    "seen_at": "2026-09-07T01:28:33.072309+00:00"
+  },
+  "5e49addbf72df21da73c89d27e27f458eb6f391180137872d80ff26604dbf0c8": {
+    "title": "OpenAIのテスト中AIエージェント、Hugging Face侵害で浮上した新リスク - 디지털투데이",
+    "seen_at": "2026-09-07T01:28:33.072311+00:00"
+  },
+  "26cc2481167bb3005fd8c4642372a5b654019e1768bfbbc5879894b2aaef890c": {
+    "title": "New Benchmark: The Struggle Bench",
+    "seen_at": "2026-09-07T01:28:35.296983+00:00"
+  },
+  "a513b0026abe6d8ba283959722cbf03f8974773d27e86389aaeab5a52ab10e62": {
+    "title": "I built an LLM benchmark harness that lets you browse and compare how models answered each question",
+    "seen_at": "2026-09-07T01:28:35.296990+00:00"
+  },
+  "1c8e7421338c0a26268c74b38eddfa036a9ae2fc7c61e021e5bf2d163b794dfe": {
+    "title": "Trying to create my own server and consuming it for code with my phone remotely (Mac OS)",
+    "seen_at": "2026-09-07T01:28:35.296994+00:00"
+  },
+  "4a2cfd762e758a60cbefe2468153a848effe832331fd484e28ce852bddba18a2": {
+    "title": "LayerStoRm open-source expert streaming: 1M context GLM-5.3-Flash [UD-Q4_K_XL] at 24.5 tok/s @8k on just 2× RTX 5090 + 2× RTX 5080 (186 GiB MoE on 96 GB VRAM)",
+    "seen_at": "2026-09-07T01:28:35.296997+00:00"
+  },
+  "645317416ae482cdf7db02520cf35e98c08264d46f2dc39f0aedd8afa206c207": {
+    "title": "4xRadeon AI Pro R9700 people, how are your benchmarks?",
+    "seen_at": "2026-09-07T01:28:35.296999+00:00"
+  },
+  "2ff9217506caee15009b41e9d3922c1a658f4c8d21e1ce5921cd06eaa66b3850": {
+    "title": "vllm + p2p driver hack + qwen 3.8 27B vs llamacpp + qwen flash next ?",
+    "seen_at": "2026-09-07T01:28:35.297002+00:00"
   }
 }
