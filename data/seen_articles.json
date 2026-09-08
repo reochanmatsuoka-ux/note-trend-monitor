@@ -1,96 +1,4 @@
 {
-  "6f24de68a1301041d0472b170cdbc4cb040197cad9f3420c680fec702309c555": {
-    "title": "Polimill、自治体向け生成AI「QommonsAI」活用研修（初級編）を長野県山形村で実施 - ICT教育ニュース",
-    "seen_at": "2026-08-21T00:31:14.122392+00:00"
-  },
-  "cd76bdf601a4231f8f5a5294b3610b52ebbb772ba5cb1ec690a0d62bd2ac1fa3": {
-    "title": "株式会社リベルクラフトが「岡山県生成AIアドバンスト事業」を受託。県内中小企業向け研修の受講企業を募集中 - PR TIMES",
-    "seen_at": "2026-08-21T00:31:14.122395+00:00"
-  },
-  "d66ee132bb5b989e237f672284572d1c499901af8baa2b5719fdadec5b6e012e": {
-    "title": "“生成AIがあればコンサル不要”論者に見えていないこと／日沖 博道 - ニコニコニュース",
-    "seen_at": "2026-08-21T00:31:14.122399+00:00"
-  },
-  "531649868f46e86ae248c9d7d2991cb560707fa4aa8e688daea2bb11f12271c5": {
-    "title": "Claude Academy公開｜Anthropicが変えた教材の背骨 - innovaTopia",
-    "seen_at": "2026-08-21T00:31:14.676471+00:00"
-  },
-  "5a7a45696290e6e21805c44a6cff6199126d405616db9212cdf2b6ceef204980": {
-    "title": "Anthropicの無料AI学習サイト「Claude Academy」が公開された - ゴリミー",
-    "seen_at": "2026-08-21T00:31:14.676478+00:00"
-  },
-  "95d1b5df4a6d6b5370c1cc578b2823b599871065b3b84de4b74d8c8ed9c043ba": {
-    "title": "OKX、香港拠点でClaude利用停止 地域制限受け代替LLMに切り替え - 디지털투데이",
-    "seen_at": "2026-08-21T00:31:14.676482+00:00"
-  },
-  "773dd8b286df49627f358f54da74529d998cb1548ecac7fc513e086e66bd8377": {
-    "title": "ChatGPTに「おすすめの○○は？」 実は答えが決まっているらしい：893rd Lap - キーマンズネット",
-    "seen_at": "2026-08-21T00:31:15.159006+00:00"
-  },
-  "42ca859c826f5731e2b13363971c0731d712c06d0d3d4d0777dde013f0d19b97": {
-    "title": "OpenAI、Mac版Apple「メッセージ」向けChatGPTプラグインを公開——プライバシー論争を喚起 - BigGo ファイナンス",
-    "seen_at": "2026-08-21T00:31:15.159012+00:00"
-  },
-  "758d61d9aa660f275145496a59d674e261761727feb6c60c7e52f4efb2f6ee6b": {
-    "title": "Axios、OpenAIとの3年契約でローカルニュース13本を立ち上げへ 購読者200万人超も黒字化は道半ば - media-innovation.jp",
-    "seen_at": "2026-08-21T00:31:15.159017+00:00"
-  },
-  "02a3e7349142bfc9bedaa112922e2002e1054e7cd881c0905c3fec0f25936652": {
-    "title": "macOS版ChatGPT、Appleの「メッセージ」と連携 会話検索や下書き、送信に対応 - ITmedia",
-    "seen_at": "2026-08-21T00:31:15.159020+00:00"
-  },
-  "52541b6eef5fb05bf89c4f51d14402fd17eacb011ea158ffd3a80246aaf7d818": {
-    "title": "「孫さんはOpenAIだが、僕はAnthropic」 SBI北尾会長が語る「AI投資5億円→増収27億円」の勝算（1/2 ページ） - ITmedia",
-    "seen_at": "2026-08-21T00:31:15.159024+00:00"
-  },
-  "9a671e7c7c5f0ef343843e71a6c08b7dc021759c0da51ecee0f9638e00f9e285": {
-    "title": "「チャピる」「ギュられる」って何？ 今年流行った「就活用語」にAI関連ワード マイナビ調査 - ITmedia",
-    "seen_at": "2026-08-21T00:31:15.159027+00:00"
-  },
-  "70a4b102a59ec770fff737fc3608dd0ec6eccef1687d6afbafd55bf1aabcdb3f": {
-    "title": "OpenAIがChatGPTをApple Messagesに接続、メッセージ作成と送信にも対応 - Межа. Новини України.",
-    "seen_at": "2026-08-21T00:31:15.159030+00:00"
-  },
-  "75381702e2a2cc535d6824af87311fd2a5e72b2a9239b01bfa2fafc1f9e08bea": {
-    "title": "ChatGPTがMacの「メッセージ」を読んで返信できるようになった - ゴリミー",
-    "seen_at": "2026-08-21T00:31:15.159032+00:00"
-  },
-  "321db1c4639ac6eac287d552518f4dfdc9e2da7b32e1e147443059a0668afd40": {
-    "title": "Axios、OpenAIとの3年契約でローカルニュース13本を立ち上げへ 購読者200万人超も黒字化は道半ば 2枚目の写真・画像 - media-innovation.jp",
-    "seen_at": "2026-08-21T00:31:15.159035+00:00"
-  },
-  "8d93a52a7f518dbe09a1608c74898826a3f95a6480c6861dce53f8727f7ef97b": {
-    "title": "Axios、OpenAIとの3年契約でローカルニュース13本を立ち上げへ 購読者200万人超も黒字化は道半ば 1枚目の写真・画像 - media-innovation.jp",
-    "seen_at": "2026-08-21T00:31:15.159038+00:00"
-  },
-  "d236d1e71135118724b2a60b2da294adadaa138db86508bae392b8316fa8aaf8": {
-    "title": "Googleが「Geminiの学割」をスタート。大学生は課金版が1年無料に - Gizmodo",
-    "seen_at": "2026-08-21T00:31:15.746740+00:00"
-  },
-  "a7c2774c63a5e26472968a31bf5c3dcd325bead16672ff01a2261a065bac35a1": {
-    "title": "企業のAIエージェント導入が3倍増加--投資対効果が明確に、顧客からも信頼 - ZDNET Japan",
-    "seen_at": "2026-08-21T00:31:16.282875+00:00"
-  },
-  "7ce0473f84b78a10161c0c24747d6de2e8181ceba89dfd1de01953a94780725b": {
-    "title": "ITエンジニアの73.1％が「2030年時点でAIエージェントが一定程度業務を自律実行する」と予想、サーバーワークス調査 - クラウド Watch",
-    "seen_at": "2026-08-21T00:31:16.282883+00:00"
-  },
-  "758810dc6ff398e29fe5ed5dea50282838c37ce2cae8403d2230ea7f8e8b74a8": {
-    "title": "「Claude Code×GPT」自律ループが凄すぎ、仕事が“3つ”に減る5ステップ - ビジネス+IT",
-    "seen_at": "2026-08-21T00:31:16.282886+00:00"
-  },
-  "306d0a529322d0981b1e8078e6d36985f614b08792fe66236e93072fedec56ec": {
-    "title": "バイナンス、AIエージェント向けプラットフォーム「Binance Agent OS」をローンチ - CoinPost",
-    "seen_at": "2026-08-21T00:31:16.282889+00:00"
-  },
-  "98956ca6847fe34e6f6861a32be9ba19f9390495d7eb0dc0f206669d581817c8": {
-    "title": "バイナンス、AIエージェント接続基盤「Agent OS」公開 取引所間競争が本格化 - BigGo ファイナンス",
-    "seen_at": "2026-08-21T00:31:16.282893+00:00"
-  },
-  "5487a383bc94ea9848516f84531af517f15cc6c5b47ad509fb14862db0b96878": {
-    "title": "バイナンスが「Agent OS」を発表、AIエージェントがユーザー設定の制限内で暗号資産を取引可能に - BigGo ファイナンス",
-    "seen_at": "2026-08-21T00:31:16.282902+00:00"
-  },
   "63a7bcd1044d4794e5b6a9555ffe51599066892d4d90788a78c645e3e3f6a32e": {
     "title": "Binance、AIエージェント統合のための開発プラットフォームをリリース（NADA NEWS） - Yahoo!ニュース",
     "seen_at": "2026-08-21T00:31:16.282905+00:00"
@@ -11998,5 +11906,97 @@
   "59b2d926f6c39492bc0f78163c7cc49422df8abc8de7c483fb6afb614f12a980": {
     "title": "MoE offloaded - advice on difference between Intel vs AMD CPU instruction sets",
     "seen_at": "2026-09-08T13:06:50.579607+00:00"
+  },
+  "197f439ba9f47f59a024f31f94538d09511d9a7ec019f7a48623cb89504eab3c": {
+    "title": "生成AIに選ばれるホテルモントレ ChatGPTの推奨率を2倍超に高めた秘策 - 日経クロストレンド",
+    "seen_at": "2026-09-08T18:09:03.230300+00:00"
+  },
+  "d5fafd25dec9ef72a166b2b0253674f030a6e719c1eb44d14215f3883cf6bbeb": {
+    "title": "『生成AIを「試す」から「業務成果につなげる」へ - ニコニコニュース",
+    "seen_at": "2026-09-08T18:09:03.230308+00:00"
+  },
+  "317f970e6fcdc99479bb9e9e9ac7c348a8acf30d2b81c2ca8364a6bec329bbb1": {
+    "title": "株式会社プリンシプル、生成AIとマーケティングデータをつなぐ「マーケティング会話型分析支援」を提供開始 - Infoseek",
+    "seen_at": "2026-09-08T18:09:03.230311+00:00"
+  },
+  "da446b2daa989bbad3be1dbe47aa50f41d428451c353e54a3b0ebceb6005e11b": {
+    "title": "汎用から特化へ──ChatGPTの次なる進化 - Forbes JAPAN",
+    "seen_at": "2026-09-08T18:09:04.684632+00:00"
+  },
+  "b41fa5059793f399b07ce3ff93fe3656dd98aba145e06b07141d48074d90ae0d": {
+    "title": "OpenAIのメーターブ・ソーニー氏が語る、Astraがいかに数学的発見のルールを書き換えているか - BigGo ファイナンス",
+    "seen_at": "2026-09-08T18:09:04.684636+00:00"
+  },
+  "8e4c6afd2435f048b40f61ab4642f4c7a5a040866ca9cc70ed76e21cde4fb329": {
+    "title": "Samsung Electronics、「欧州のOpenAI」Mistral AIに約5,400億円投資…半導体特化AIを共同開発 - BigGo ファイナンス",
+    "seen_at": "2026-09-08T18:09:04.684638+00:00"
+  },
+  "22b648d77bf5dbd9b20b652d4331a7bb445195feacc1ed2e676b65067b71a65c": {
+    "title": "Claude TeamプランとChatGPT Businessの実運用ガイドを公開、法人導入の実務を全21本・実画面126枚で解説 - ニコニコニュース",
+    "seen_at": "2026-09-08T18:09:04.684641+00:00"
+  },
+  "486daf6c9f98f2ccb8fdda143607fa2c42197a5059e3ecf09240c16b9ec3ac8f": {
+    "title": "ロジからAIコントローラ『MX Keypad』発売。CodexやClaude Codeを液晶キーで操作、GitHubとネイティブ統合（テクノエッジ） - Yahoo!ニュース",
+    "seen_at": "2026-09-08T18:09:05.665734+00:00"
+  },
+  "3c07e6d135e9778d14b07d5297fecf6b8f389a0346a63254fe7da0562aaf6059": {
+    "title": "AIエージェントの採用活用 自動化できる業務とおすすめツール10選 - AINOW",
+    "seen_at": "2026-09-08T18:09:05.665739+00:00"
+  },
+  "ae277680f5799d4a68796ef7ce2b5e9ec92de053aee048473b78e21f18b52568": {
+    "title": "サイオニックエーアイ、AIエージェント構築プラットフォーム「STORM Platform」オンプレミス版を9月1日より販売開始 - Infoseek",
+    "seen_at": "2026-09-08T18:09:05.665743+00:00"
+  },
+  "89d5de05c764731fe84c4d9df886ffbfe4f545765e02140fd96a69283c2933f4": {
+    "title": "ロジからAIコントローラ『MX Keypad』発売。CodexやClaude Codeを液晶キーで操作、GitHubとネイティブ統合 - portal.uqmobile.jp",
+    "seen_at": "2026-09-08T18:09:05.665745+00:00"
+  },
+  "62c99626ab22014ddb30b460b34faeaeaca0c7df4a11a870579d2d4e7528a918": {
+    "title": "AIエージェント悪用で認証情報数千件奪取 6時間足らずで実行 - 디지털투데이",
+    "seen_at": "2026-09-08T18:09:05.665748+00:00"
+  },
+  "78931cac54ff6917ba224ce214a4433ebfc118d196b19e665b36970c3f308772": {
+    "title": "OpenAI alleged of stealing mathematicians work",
+    "seen_at": "2026-09-08T18:09:07.207943+00:00"
+  },
+  "3b381c3fcfb5e0ad3428c4322c13cec150a5b5425b1f0d6452836a62de24595e": {
+    "title": "Qwen/Qwen-Drive-1.0-4B · Hugging Face",
+    "seen_at": "2026-09-08T18:09:07.207948+00:00"
+  },
+  "cc323add2401d10c6253cb6696a03bf774ee44fdec93e951793ad10ba25f1bf9": {
+    "title": "inclusionAI/Ling-3.0-flash-VL · Hugging Face",
+    "seen_at": "2026-09-08T18:09:07.207951+00:00"
+  },
+  "324f2ffef0bdb0d129d8d7046a9f862520b2f1dc85f738a942e656ed85f4b620": {
+    "title": "GPU guide (GB per dollar, bandwidth)",
+    "seen_at": "2026-09-08T18:09:07.207953+00:00"
+  },
+  "7cb8b75683875c8bd4c222f63ecb0418dc97a717a3f6983a80c15cb129f1ba4d": {
+    "title": "Qwen3-0.6B (400 MB) on a Samsung Note 8 (2017) phone drives a real desktop Chrome",
+    "seen_at": "2026-09-08T18:09:07.207956+00:00"
+  },
+  "3b6a0a87f615fdc7f59fda06f6a0bcaea7d5133e984c1b4d782bdae9b45a4d1d": {
+    "title": "nex-agi/Nex-N2.5-mini - 35b",
+    "seen_at": "2026-09-08T18:09:07.207958+00:00"
+  },
+  "930ffd23e8862a7f83daac3138853275ac094cde700bc37cab280a09d9a97b66": {
+    "title": "Are there any (small, ~10B) models that you would say are a good collaborator?",
+    "seen_at": "2026-09-08T18:09:07.207961+00:00"
+  },
+  "044e8266be8642f3d08820977f79dec527b2cfeda76d07e3bd7858053e3e4790": {
+    "title": "Anyone tried self-hosting 3D object generation?",
+    "seen_at": "2026-09-08T18:09:07.207963+00:00"
+  },
+  "fb27bee6d73fd5731d4ddcbe271121bd1c73e54253ccaebf0292e549e0bb9f79": {
+    "title": "XHToken/Spark-X2.5-4B VS inclusionAI/Ling-3.0-tiny VS Nanbeige/Nanbeige4.2-3B",
+    "seen_at": "2026-09-08T18:09:07.207966+00:00"
+  },
+  "b11f5b7c38d55b093a754c633be6112a00b2ed69546cad76dab252753049b4e2": {
+    "title": "Off the bus: It wasn't pcie / oculink... it was the PSU",
+    "seen_at": "2026-09-08T18:09:07.207968+00:00"
+  },
+  "d5b14fa82a0abc5033f420e934155d20b73f9534bae0585fba8cd168e794f4bc": {
+    "title": "An open-source context layer for building AI on top of company data",
+    "seen_at": "2026-09-08T18:09:07.207970+00:00"
   }
 }
