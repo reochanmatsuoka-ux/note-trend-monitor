@@ -1,128 +1,4 @@
 {
-  "c39d26351859efc5cdeaae4d42f6bb53c07b09d7ebd4dcab02ff74c13d65190d": {
-    "title": "GLM-5.2 local inference: ubatch size made a much bigger difference than I expected",
-    "seen_at": "2026-08-22T09:15:36.480276+00:00"
-  },
-  "34a51b398625c38de642c2fc9a25680bad8777615e665c88947c4f7b557122e1": {
-    "title": "Claude Code、スマホからセッションを起動できるように - Pasquale Pillitteri",
-    "seen_at": "2026-08-22T12:13:18.240448+00:00"
-  },
-  "388f44b1a8f4028bc7ae3c87396966b585d0b7348af8b7da3fcdba1f9405d85b": {
-    "title": "OpenAI、GPT-5.6 Sol の API 料金を20%超値下げ Claude Opus 5 を下回る - Pasquale Pillitteri",
-    "seen_at": "2026-08-22T12:13:18.240455+00:00"
-  },
-  "fb5150b47de0d2487ff1ac5c66b63f5128be17f135986f2bba4522c5a437d55c": {
-    "title": "Google検索の「AIモード」、対話形式でベスト回答を素早く引き出す - 日経クロステック",
-    "seen_at": "2026-08-22T12:13:19.327292+00:00"
-  },
-  "a7a734e89403908072b5fcc5ff4ac44d0fbe131352e0da887a4c6e01e5d6460c": {
-    "title": "無料でAIエージェントに最適化されたオープンソースのメモ帳アプリ「Hubble.md」、MarkdownとHTMLをベースにして保存・編集・操作が可能 - GIGAZINE",
-    "seen_at": "2026-08-22T12:13:19.876209+00:00"
-  },
-  "e7240d3d9ffd8085938b493dae59122f189e0937368139b9ba2755ce5e744d98": {
-    "title": "〝おもてなし〟の質が激変!?宿泊業界でのAIエージェントの賢い活用法 - @DIME アットダイム",
-    "seen_at": "2026-08-22T12:13:19.876215+00:00"
-  },
-  "502b1e076312913390da6a8297df37fec2e4bf4903cd0fbc725fcc6d574a24e1": {
-    "title": "Think you're going to get cheap DDR5 RAM? Think again, even if prices fall, scalper bots now outnumber shoppers 10 to 1 and will keep prices high",
-    "seen_at": "2026-08-22T12:13:28.393732+00:00"
-  },
-  "8e8b8619c4e2097cb9d9f200e8c23e014d3955174dd8c41da64bb2b76bc8c9bc": {
-    "title": "Artificial Analysis \"Intelligence\": A meaningless benchmark",
-    "seen_at": "2026-08-22T12:13:28.393739+00:00"
-  },
-  "7ecaca31c4f6a11e6b633fd336105370c8f494c9114b297dc7118fb064ffe1f1": {
-    "title": "web_search tool in deepseek harness needs api key from deepseek and deepseek charges you as deepseek-v4-flash usage.",
-    "seen_at": "2026-08-22T12:13:28.393746+00:00"
-  },
-  "0d882b51674036007b6b0913aeaa622a33e1f0c593c85af95e9d77e49414cdaf": {
-    "title": "Anyone else tried out KV cache blending?",
-    "seen_at": "2026-08-22T12:13:28.393748+00:00"
-  },
-  "7cdd71bc2916406e1fea129ddaa56c379bde9986dc50e4f544c5b005a6c0a268": {
-    "title": "暗号通貨の次の10億ユーザーはAIエージェントであり、彼らはステーブルコインで支払っています - CoinDesk",
-    "seen_at": "2026-08-22T15:08:56.778457+00:00"
-  },
-  "de994d19ed959f99a926d05ea58f0d618df487db68599a72d74aa3103650606e": {
-    "title": "This is a great sub, regardless of what complaints people have about it.",
-    "seen_at": "2026-08-22T15:08:57.801071+00:00"
-  },
-  "a1f3aeb5761a2eef26ddfbdaa9b921222e9aafd85c221fe2cf4249778c4f13ec": {
-    "title": "Qwen 3.5 4B IQ2_XS: +16.67% Reasoning Performance From Tensor-Level Allocation",
-    "seen_at": "2026-08-22T15:08:57.801079+00:00"
-  },
-  "25330fa97046c9bac00136c47e9c39836d722695fc7f2e450e29b2ec66fc6be6": {
-    "title": "Helm chart for Qwen 3.8 for B70 users",
-    "seen_at": "2026-08-22T15:08:57.801083+00:00"
-  },
-  "d5444401b98853ec182928f0ed8152f6193e13d5880204ffc9abf4fd26f7f6ae": {
-    "title": "MCP vs. RAG for world knowledge?",
-    "seen_at": "2026-08-22T15:08:57.801086+00:00"
-  },
-  "85ae833dcd8cc4a2609bc08fd002d327fb504cf4bb829eb9029f016f7bab537c": {
-    "title": "New/Old benchmark that provides a lot of answers for local LLM",
-    "seen_at": "2026-08-22T15:08:57.801090+00:00"
-  },
-  "a4d298272f78c0223eae1ac47aca99e851244eacda8cdf4ce5139997ee963d57": {
-    "title": "OpenAIが最高評価、AI大手5社は制御不能なモデルの停止手順をほぼ公開せず - Межа. Новини України.",
-    "seen_at": "2026-08-22T18:10:42.119688+00:00"
-  },
-  "529c5b828ae38fc6ea8e31eb42be5ce73dc64aa62820a8c0e49879b10b1dda9c": {
-    "title": "How to remove trendy speech from llms?",
-    "seen_at": "2026-08-22T18:11:19.822625+00:00"
-  },
-  "de6e4dfbc2a4f870d2feb4c12d8896ebb32a2e77290d9276e02126de6ade6e8a": {
-    "title": "Fixed the MTP head on Ornith1.5 35B A3B. +3% TPS -33% wall clock",
-    "seen_at": "2026-08-22T18:11:19.822631+00:00"
-  },
-  "bba1981dee80da2add86b82a977ab4cfc10459f9f6354ee2f018e227e959e7f7": {
-    "title": "Your own GGUF",
-    "seen_at": "2026-08-22T18:11:19.822645+00:00"
-  },
-  "e653ab963eae058500f3395465a1de51bcf50a72298b25ea4bbfb4586c6579d4": {
-    "title": "Does anyone actually respect benchmarks?",
-    "seen_at": "2026-08-22T18:11:19.822648+00:00"
-  },
-  "cbf581813796b4741fb06974e0de824c310ea50befb5e524b74581eef7725ab3": {
-    "title": "Tesla P40 - use F16 KV instead of Q8",
-    "seen_at": "2026-08-22T18:11:19.822652+00:00"
-  },
-  "0594119257b56cf4a5e1027fe0c99a0e28e67c0f47d4816fc5d88f2cbd4bede7": {
-    "title": "Multi Gpu Hardware advice",
-    "seen_at": "2026-08-22T18:11:19.822655+00:00"
-  },
-  "81cfb90be5dd0af8e7ab049f40298ed77b2f33c09d852941cd3306e6a833226f": {
-    "title": "中学生2万7000人を30カ月追跡：生成AIを深く使うほど閉じ込み試験の成績が悪化、認知的アンローディングが学習能力を奪う - BigGo ファイナンス",
-    "seen_at": "2026-08-22T21:09:58.993342+00:00"
-  },
-  "8e6abcd786cecf8e139ec9f4d6ba9426e519ef60fdde60554e6eff2673cd180d": {
-    "title": "New 100B Liquid AI model coming soon",
-    "seen_at": "2026-08-22T21:10:06.882441+00:00"
-  },
-  "347e97fdb801230821a52f21171f73ebc5ca4b5f6e9f3424ee98d9c280ba0607": {
-    "title": "GLM and I created a llama.cpp fork optimized for AMD GFX906 (Mi50, Mi60, Radeon VII, GCN HIP) - Machine Learning, LLMs, & AI",
-    "seen_at": "2026-08-22T21:10:06.882448+00:00"
-  },
-  "fb3bf928aa45ec5c610952cc32207c76e6fcfe0ca394a670303f5663fd52646d": {
-    "title": "Single RTX 5090: Qwen3.8-27B NVFP4 at a real 262K context in vLLM — 77 tok/s short-context, 64.7 tok/s at 128K",
-    "seen_at": "2026-08-22T21:10:06.882451+00:00"
-  },
-  "faa7fad96053757f0ac968028c58dfc6a1f1aad6286786a4237d98db66170cb8": {
-    "title": "I forked Ninfer 3090 and converted it to run on the CMP170HX - doubled my Qwen3.6-35B from llama.cpp",
-    "seen_at": "2026-08-22T21:10:06.882454+00:00"
-  },
-  "6c12be2e07a8fb16c5251ae4566ad8cc6b391e9732ae3c639c79aebfa40a7d3f": {
-    "title": "I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.",
-    "seen_at": "2026-08-22T21:10:06.882457+00:00"
-  },
-  "734ea0a1ca83d10cead8bb235f03bcc1c9d43886a3c363eeaffc3bb7aad927e2": {
-    "title": "Watching that wattage, in your terminal.",
-    "seen_at": "2026-08-22T21:10:06.882459+00:00"
-  },
-  "e979618ba0beb21ab71978f11ac9bd045a3bc782409279182eb96f089a29c058": {
-    "title": "Create tts voice from actual animal sound recording",
-    "seen_at": "2026-08-22T21:10:06.882461+00:00"
-  },
   "bff164c15db426508c89b232954c388c8f39f0eee9ba2554690867cc09e31d00": {
     "title": "Current best model for narrative, chat, prompt creation (so basically everything except agentic coding)? - 5090",
     "seen_at": "2026-08-22T21:10:06.882465+00:00"
@@ -11998,5 +11874,129 @@
   "8fdc72fa2492e17d109a198597c437f91d93d20d5c0c322d57452109eed9952f": {
     "title": "~1,400 t/s prefill is real. 60 t/s decode is not. I graded 5 Strix Halo forks with Qwen3.8 Flash-Next",
     "seen_at": "2026-09-09T18:04:07.515550+00:00"
+  },
+  "8a21b36bc8caf8fa2140d33b68b8a0b5d907af692086fd8af675b456994ee86e": {
+    "title": "【第12回】生成AIを活用する「AIショッパー」の利用実態と買物パートナーとしての可能性｜The H Magazine - hakuhodo.co.jp",
+    "seen_at": "2026-09-09T22:48:27.681021+00:00"
+  },
+  "bba51cc4429f0c9ffd07cf93865b69a5f14b123ce38b00454bc86a650057b828": {
+    "title": "生成ＡＩリスク学ぶ教材開発 ＬＩＮＥヤフーとソフトＢ - 福井新聞社",
+    "seen_at": "2026-09-09T22:48:27.681026+00:00"
+  },
+  "466a1a05530743d712c0c289adeea7648c3bd4063e1680d15dba08e59d39ad8b": {
+    "title": "生成AI検索（AIO・GEO）時代の店舗集客自動化SaaSを開発のSYPHER CREATION、大手・中堅企業向けに【1次OEM・代理店パートナー】を募集開始！ - PR TIMES",
+    "seen_at": "2026-09-09T22:48:27.681029+00:00"
+  },
+  "0bbc8792ca181c936d42ee7685db3c763c256d1c127b19e53944af0d75bfd602": {
+    "title": "ビーアンドピー、生成ＡＩ動画制作で業務提携、２０２７年１０月期から本格展開 - kabu-ir.com",
+    "seen_at": "2026-09-09T22:48:27.681032+00:00"
+  },
+  "b8efb312bba09ca01e14b2c75bd89ddde0d019996258305a60a580059d4c00e3": {
+    "title": "IIJが生成AI導入から業務活用・運用・定着まで支援する「IIJ AI活用支援ソリューション」提供（Web担当者Forum） - ｄメニューニュース",
+    "seen_at": "2026-09-09T22:48:27.681035+00:00"
+  },
+  "7b74041abd6ab6641b7418a66b956433a9e2b80f36a032d42bf138dce96fee95": {
+    "title": "Claude Code Web版の完全ガイド：ブラウザだけで始めるAI自動コーディング - AIsmiley",
+    "seen_at": "2026-09-09T22:48:28.147668+00:00"
+  },
+  "46bc9dbb006844e80cda00b45ba717e8a4ce01d6e946845a1f92837eca20f89c": {
+    "title": "AnthropicがClaude AIモデルに関する4件目のセキュリティインシデントを公表 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-09-09T22:48:28.147673+00:00"
+  },
+  "713dda3267ba369351e1f8ad1dafadbc96a8b7eb32ca6d3fb9c2d97638336cf9": {
+    "title": "アンスロピック、有料版Claudeで「乗っ取り消費」被害 盗まれたログイン情報が原因と警告 - Yellow.com",
+    "seen_at": "2026-09-09T22:48:28.147677+00:00"
+  },
+  "a196da71097e217175f0a7638556c0ef6903360015524c05a6e1193ae642709c": {
+    "title": "ChatGPTのアカウントをまたぐデータ漏えい経路、Gmail連携データの持ち出しをCheck Pointが実証 - 合同会社ロケットボーイズ",
+    "seen_at": "2026-09-09T22:48:28.725387+00:00"
+  },
+  "27948607c882798deb4a83e1a9a8ba1c0ca3d1cab1308bb55c1215633ac6ec1a": {
+    "title": "OpenAIがChatGPTで競合AI広告を制限、競争激化を受けた措置と報道 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-09-09T22:48:28.725392+00:00"
+  },
+  "461b8736b3e30fed93a9b1ef03be6700793e0b27ab74f15268be522018146fa8": {
+    "title": "AIが「100万ドル問題」を解いた!? OpenAIとAnthropicの数学者が衝突した本当の理由（Masumi｜ライター） - エキスパート - Yahoo!ニュース",
+    "seen_at": "2026-09-09T22:48:28.725395+00:00"
+  },
+  "d36e6752034d51125e4a9ea5c7a2160cc04fad70dcc2ffb554099a58f4a5c52d": {
+    "title": "AWSとOpenAI・Anthropicは互恵関係、有力AIモデルの確保が欠かせず - 日経クロステック Active",
+    "seen_at": "2026-09-09T22:48:28.725397+00:00"
+  },
+  "d33e15cd60a2bb8eda9533fc92bf821c0fef4b22903bd3381293d60cfd98efd1": {
+    "title": "エヌビディアとブロードコム、OpenAIの「Astra」で双方に追い風──クレイマー氏 - finance.biggo.jp",
+    "seen_at": "2026-09-09T22:48:28.725400+00:00"
+  },
+  "59523c838e40e3309886ea717522683f30c18c691144b162d474556add12b201": {
+    "title": "OpenAI×Samsungが急接近｜AI半導体で「HBM」からファウンドリ・先端パッケージまで広がる協業｜Semiconductor Geek - note",
+    "seen_at": "2026-09-09T22:48:28.725402+00:00"
+  },
+  "5ddc0248b9f510a2f6aadc33877ec356f026e08c7890cad639027077cc85f219": {
+    "title": "OpenAIのAIエージェントが10以上の外部サイトで無断通信、研究者が相次ぎ発見 - Межа. Новини України.",
+    "seen_at": "2026-09-09T22:48:28.725406+00:00"
+  },
+  "589b9af4ce34707f2e78f1d3440c8672c9cd2c36396bd3e5901f45abb0cd639e": {
+    "title": "OpenAI、ポール・クリスティアーノ氏を財団理事会と安全委員会に任命 - Unite.AI",
+    "seen_at": "2026-09-09T22:48:28.725408+00:00"
+  },
+  "48579f6c68a250077c8ba1e0f616497abf15297b7e887ae7c82318d51bf70439": {
+    "title": "1万のAIエージェントが ミレニアム懸賞問題を解決、 人間の数学者に残る役割は？ - MITテクノロジーレビュー",
+    "seen_at": "2026-09-09T22:48:29.878356+00:00"
+  },
+  "edde8c7fe6e194960afc077fa853bdecdad869a5b33b349d6766c13180b049ce": {
+    "title": "PKSHA、オンプレミスサーバーで高速応答可能なAIエージェント「PKSHA Private AI Agents」を提供 - cloud.watch.impress.co.jp",
+    "seen_at": "2026-09-09T22:48:29.878360+00:00"
+  },
+  "52456c17ac85982ed5deebb5e4889affd7ca4fc6b33c8407d9d459d5e436aceb": {
+    "title": "AppleのAIエージェント「Siri AI」、日本語β版は10月から提供予定 - ITmedia Mobile - itmedia.co.jp",
+    "seen_at": "2026-09-09T22:48:29.878362+00:00"
+  },
+  "59f1e6615c5c9780e1ba940bde913d28853f969b9c5f763ba4a6c0113b7e66a5": {
+    "title": "1万のAIエージェントが ミレニアム懸賞問題を解決、 人間の数学者に残る役割は？ - ASCII.jp",
+    "seen_at": "2026-09-09T22:48:29.878364+00:00"
+  },
+  "d962d60af0caef6e29312f82b2c2ee5957c9628c3a0793e819f4b1973f4319b0": {
+    "title": "メタがＡＩエージェント 米で提供開始 買い物・メール代行 - 読売新聞",
+    "seen_at": "2026-09-09T22:48:29.878367+00:00"
+  },
+  "7357f9a7d037f6d72ad83387e9ef4c1aee8f0897c325585a20cdc8fd0e482077": {
+    "title": "Don't let FOMO win if you're interested in local llm from a hobby/learning aspect",
+    "seen_at": "2026-09-09T22:48:31.113071+00:00"
+  },
+  "f1a994846e6652d3e1511ae4b147be0b9cd90c8be3072afd5e50fde185315063": {
+    "title": "Apple A20 Pro debuts with 7-core GPU, 32-core Neural Engine and 50% more memory bandwidth (~115 GB/s)",
+    "seen_at": "2026-09-09T22:48:31.113076+00:00"
+  },
+  "48294fabbd8c9d94cde3d08d00ab407b5542de9912c276e200078e8883ba3b65": {
+    "title": "Surveillance plagiarism by OpenAI",
+    "seen_at": "2026-09-09T22:48:31.113078+00:00"
+  },
+  "e2e30ded3f578952dff1cf1b486eadf568245a0b4c79aff3d86fe499f81ae629": {
+    "title": "I trained an audio model that can generate infinite one-shots for music production and turn text prompts into fully playable synths. I'm not only releasing the model but I've also released a video on exactly how I did it (and the inferencing pipeline to let others make text based synths.)",
+    "seen_at": "2026-09-09T22:48:31.113081+00:00"
+  },
+  "21bce6951e284336322cec27ebf99446d4d00d13be77af16f108ebe90c531d35": {
+    "title": "Server rebuild to custom loop. 2x RTX Titans 24gb, 1x 22gb 2080ti | T: 70GB VRAM.",
+    "seen_at": "2026-09-09T22:48:31.113083+00:00"
+  },
+  "e7bed03b4852f8120262540b0a439a5a48f9435fca7824842162e3a242775793": {
+    "title": "Solved: LLM inference on Windows was 2–3x slower when the server window wasn't focused",
+    "seen_at": "2026-09-09T22:48:31.113085+00:00"
+  },
+  "0bb8f25228622bd53c6446834dfa9351d3d4edd3d7b294d0e35da86c5a283f28": {
+    "title": "Adding emotion control tags to Qwen3-TTS",
+    "seen_at": "2026-09-09T22:48:31.113087+00:00"
+  },
+  "0bf11784d22606a00e586d14b3a8b616e8007a217375dab52f1986c023888db3": {
+    "title": "Would you consider 5t/s usable for a local model?",
+    "seen_at": "2026-09-09T22:48:31.113090+00:00"
+  },
+  "7defaf00e64a842b397baca42b013978f56528734e539364a132799bcc4a34ef": {
+    "title": "Experimenting with an adaptive memory governor for PyTorch on an 8GB GPU — would love some feedback",
+    "seen_at": "2026-09-09T22:48:31.113092+00:00"
+  },
+  "9f359655eede0b9af6955abdac48dfc178e10a1cced8a136ee2dc1c36e227012": {
+    "title": "Qwen3.8 Flash Next best quant fitting in 128GB Strix Halo the Mark Watney style",
+    "seen_at": "2026-09-09T22:48:31.113094+00:00"
   }
 }
