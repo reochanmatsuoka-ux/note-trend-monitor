@@ -1,84 +1,4 @@
 {
-  "80f7045154b018fce6542e2384456e08f7e19e8fda4b0d4edb3957c7650348a3": {
-    "title": "タイ政府が500万人に有料AIを無料提供――1年間の利用から生成AIがどの分野でどう役立つかを探る #エキスパートトピ - Yahoo!ニュース",
-    "seen_at": "2026-08-22T06:17:33.118016+00:00"
-  },
-  "d54216d7a8fc4310254647d8cb4c8ab79130dab71f0b0579ba4dfb6f25cf7700": {
-    "title": "OpenAIがMac用『メッセージ』連携プラグイン公開、アップルの「プライバシー」ブランドに揺さぶり - Yahoo!ニュース",
-    "seen_at": "2026-08-22T06:17:34.443391+00:00"
-  },
-  "762e15914c80d86cc11daed7d7fbd8a29c75f3b1f1f5d6a1044f830a612b1ce4": {
-    "title": "ChatGPTがMacの「メッセージ」に対応、フルディスクアクセス付与で広がるデータ範囲 - 財経新聞",
-    "seen_at": "2026-08-22T06:17:34.443399+00:00"
-  },
-  "c4209c789f7d75e826b2b3dd01fe493f8fe0113c353900a6b4113e2636f0c2e7": {
-    "title": "ChatGPTは、ユーザーに代わってiMessageメッセージを読み書きすることができます。 - Vietnam.vn",
-    "seen_at": "2026-08-22T06:17:34.443403+00:00"
-  },
-  "cc2e5b069f5fbb8891bb174cb21d7b7b87df0cea2233ae1a964bd00edaf8ec5c": {
-    "title": "Salesforce「Headless 360」を拡張、AIエージェントが各機能を動的に呼び出し - ビジネス+IT",
-    "seen_at": "2026-08-22T06:17:35.470771+00:00"
-  },
-  "b017af24b3ba6c60672aaeadcbf4ac30908013b279780e75dfd2e7ed50c68369": {
-    "title": "This is why I run locally.",
-    "seen_at": "2026-08-22T06:17:37.539919+00:00"
-  },
-  "e5e7fc22027c2728cf8425d32047e8af5caca9a6465e910d7c1d07407c2e4fed": {
-    "title": "Bro wtf, Qwen Lab cooked with Qwen 3.8 27B, it's so fucking good",
-    "seen_at": "2026-08-22T06:17:37.539926+00:00"
-  },
-  "f6639b55ee032c524eeb7f3add80ff2b11eff1dfee794b55b6a40b969b31c2a5": {
-    "title": "Anyone looking into the Nvida Thor IGX?",
-    "seen_at": "2026-08-22T06:17:37.539929+00:00"
-  },
-  "bb69f61ed78f0ed033a26c519a000bb9808ca086d326966904b00fdef62a1551": {
-    "title": "Sharp template to NInfer: -42% output tokens, same speed",
-    "seen_at": "2026-08-22T06:17:37.539933+00:00"
-  },
-  "6d4c3d720b2cdb0cd426adef6dd5426d2e92e373ad76b6ff08b1636f2f12db6f": {
-    "title": "新興市場見通し：値動き重視で低位株買い、ジャクソンホール会議で生成AI株は見送り - ｄメニューニュース",
-    "seen_at": "2026-08-22T09:15:24.485155+00:00"
-  },
-  "bd4a7f7b5ed7592b564f7d4d770afb043847d4725117f70382012519947e8bba": {
-    "title": "OpenAIがMac用『メッセージ』連携プラグイン公開、アップルの「プライバシー」ブランドに揺さぶり - Forbes JAPAN",
-    "seen_at": "2026-08-22T09:15:25.634967+00:00"
-  },
-  "25c8c721ed64d8f4d4bdd4061555045da6d33002ed4a60ab9f3d310d07305891": {
-    "title": "ChatGPTがMacの「メッセージ」に対応、フルディスクアクセス付与で広がるデータ範囲 - 財経新聞",
-    "seen_at": "2026-08-22T09:15:25.634974+00:00"
-  },
-  "e7b2ff2bf329d7f0173bb55f667dcbcb432df9b7ee03548df1ebdc8495a38776": {
-    "title": "ChatGPTは、iMessageの閲覧、作成、送信を代行できるようになりました。 - Vietnam.vn",
-    "seen_at": "2026-08-22T09:15:25.634977+00:00"
-  },
-  "204231dd862a0b2c169324b3b7821757510962bd0ce7101ed2f32cfa4c784279": {
-    "title": "加藤綾菜、ChatGPTの指摘で甲状腺の病気発覚「1か月で10キロくらい痩せて」 - モデルプレス",
-    "seen_at": "2026-08-22T09:15:25.634981+00:00"
-  },
-  "edeb7ef26422896dd35a8e18c49454f3b8549a8a9dd281fe4f34fce897bef2fb": {
-    "title": "セールスフォース、AIエージェント基盤を拡張 主要クラウドへ対象拡大 - BigGo ファイナンス",
-    "seen_at": "2026-08-22T09:15:26.663073+00:00"
-  },
-  "1dd7490c227bd4d002373f4e9634b3bd64296003cdd5018db4c25fc1e93d2616": {
-    "title": "GoogleのAIエージェント「Antigravity」が別デバイスからのリモートコントロールに対応 - GIGAZINE",
-    "seen_at": "2026-08-22T09:15:26.663079+00:00"
-  },
-  "fb32a8f9bbf9c0b6b960221de375a3bff2fdb049e159cb2fc4086bb9f8d20cf8": {
-    "title": "Llama.cpp version 0.2.0 is out!",
-    "seen_at": "2026-08-22T09:15:36.480259+00:00"
-  },
-  "45e482a827900045647f409b518a2ab8e8d503e49016b5a7ea63990e7736b074": {
-    "title": "Freetokens project is impressive",
-    "seen_at": "2026-08-22T09:15:36.480265+00:00"
-  },
-  "511c0d777c17b286953ffd2470336850f1b515a631b00a7964bce9feabbf0dfc": {
-    "title": "AntLing released a dspark draft model for Ling-3.0-flash",
-    "seen_at": "2026-08-22T09:15:36.480270+00:00"
-  },
-  "67aea4d0c51b002657641b19b29d740991b1a37ac1b5cfab9c273d4c8bd55c25": {
-    "title": "Need support for llama.cpp with multi GPU",
-    "seen_at": "2026-08-22T09:15:36.480273+00:00"
-  },
   "c39d26351859efc5cdeaae4d42f6bb53c07b09d7ebd4dcab02ff74c13d65190d": {
     "title": "GLM-5.2 local inference: ubatch size made a much bigger difference than I expected",
     "seen_at": "2026-08-22T09:15:36.480276+00:00"
@@ -11998,5 +11918,85 @@
   "1b4a91654b4d25ec60aa889fa711da3b2e5586056c286b0b375ae16ab7dd8b49": {
     "title": "Qwen is working better for me than ChatGPT – what’s the best way to use it with ZIP/code projects?",
     "seen_at": "2026-09-09T13:12:06.528268+00:00"
+  },
+  "57a63a93700118a710d6c3c9d58db2d3614ef9bbcd7249cd3b7d263fff458ffe": {
+    "title": "「菜の花に見えない」マラソン大会ポスターが炎上　生成AI使用を認め謝罪、問われた制作のチェック体制 - ｄメニューニュース",
+    "seen_at": "2026-09-09T18:04:01.909593+00:00"
+  },
+  "421427d27cb880f4a3c32c347de6193e8484c414f4649bc3c9f6b4040846501e": {
+    "title": "長いプロンプトは不要に、生成AIに「業務の状況と目的」を理解させておく技術 - 日経クロステック Active",
+    "seen_at": "2026-09-09T18:04:01.909600+00:00"
+  },
+  "d89536b44c318b5fa8f8aba4b0299010fa257d071ba1966cde19bdf11fe499d5": {
+    "title": "「AIが人類を滅ぼす確率は10％超」 Anthropic幹部が示した深刻リスク - Yellow.com",
+    "seen_at": "2026-09-09T18:04:02.499954+00:00"
+  },
+  "4d986bd66e142777e408c62d65ab300c25863359da62265f22dc0dde0febb4ac": {
+    "title": "画像生成モデル「ChatGPT Images 2.5」登場 一貫性を維持しやすく - ケータイ Watch",
+    "seen_at": "2026-09-09T18:04:02.982418+00:00"
+  },
+  "54715d9ede8eca372120c3ad313aba4a024bed8758a1ed8dfbc184194389aed9": {
+    "title": "OpenAIがポール・クリスティアーノをファンデーション理事会に任命 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-09-09T18:04:02.982425+00:00"
+  },
+  "a107f8d01b2bdc6db062d7c4c2defc059dc9a03f24c66a1f22a34111393b5fbc": {
+    "title": "ChatGPTがこの男性に「自分はイエスだ」と思い込ませた - Korben",
+    "seen_at": "2026-09-09T18:04:02.982429+00:00"
+  },
+  "292318786dda5648eee66dc62c7412b1f74bf1ec01deba20d4a9210c9f83edda": {
+    "title": "OpenAIは、世界で最も難しい数学的問題7つのうちの1つを解決することに成功したと主張している。 - Vietnam.vn",
+    "seen_at": "2026-09-09T18:04:02.982431+00:00"
+  },
+  "8c5e5d22b0d12a8e0131b9b67fc4454f3c73674a12d560c5ea72bc8f5bda0b0d": {
+    "title": "GPT-6デスクトップAIエージェントが成熟、ホワイトカラー職に構造的圧縮迫る - BigGo ファイナンス",
+    "seen_at": "2026-09-09T18:04:02.982437+00:00"
+  },
+  "d7b59a24524d2de55c0625d912d421d6f983df5dc72a6ea7144db5f8cda66e15": {
+    "title": "NYU数学者とOpenAIのナビエ–ストークス問題を巡る対立で、 Venice Tokenが27ドル台の最高値更新 - Yellow.com",
+    "seen_at": "2026-09-09T18:04:02.982442+00:00"
+  },
+  "4723d7d78d135b3fa399858032a86fe09347e27e92a21a1910bec4c329db93de": {
+    "title": "【11月19日】AIエージェント同士が自律的につながり、新たな価値を爆発的に創出する「AI connectivity」時代の備え - 日経クロステック Active",
+    "seen_at": "2026-09-09T18:04:04.105140+00:00"
+  },
+  "e90fdd042d7dd5bfe9c24764de034a241b6ad4fce3b2558a57aec51585980c6b": {
+    "title": "「A2000企業」の35％がAIエージェント主導へ、製造業の回復力強化の要に - 日経クロステック Active",
+    "seen_at": "2026-09-09T18:04:04.105149+00:00"
+  },
+  "54d2c39eab5c4caf346df08781bbb5498b335125abe193e85947c84735750026": {
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」に好みを覚えさせて新しいチャットでも記憶を引き継げる「記憶(Memory)」機能を試してみた - GIGAZINE",
+    "seen_at": "2026-09-09T18:04:04.105152+00:00"
+  },
+  "cc1cd60567a2d621e14fb2ce046a27bea48927643b38545e4cc6cb5f308c6531": {
+    "title": "Why the hell is LM Studio making LM Studio so difficult to download?",
+    "seen_at": "2026-09-09T18:04:07.515524+00:00"
+  },
+  "3e18296fc17e99e839cb8f18ff7aeef2a4c5bc12f63d387a402ec941517155da": {
+    "title": "Mention if a \"new model\" is a finetune",
+    "seen_at": "2026-09-09T18:04:07.515529+00:00"
+  },
+  "3f2ea9ff5ec1b67d114cb6aafde6a1827b2e36f11eb52dba66c5c6f80cffedc9": {
+    "title": "Qwen3.8-27B-Uncensored-Genesis-V1-GGUF",
+    "seen_at": "2026-09-09T18:04:07.515534+00:00"
+  },
+  "4055b211c493eb3f16accc7fc13d7a97ffd82c4a430c86152ad92ce92d3c972d": {
+    "title": "SOTA ImageGen Locally NVIDIA Cosmos3(64B) INT4 quants CUDA/MLX",
+    "seen_at": "2026-09-09T18:04:07.515537+00:00"
+  },
+  "cb791d9eaaa1164cc8151af77ec58fe24ebe55e0279e415f3183097b56c2c172": {
+    "title": "1-bit 27B in the browser: 25–30 tok/s on a 6 GB RTX 3060 Laptop (WebGPU, no install)",
+    "seen_at": "2026-09-09T18:04:07.515539+00:00"
+  },
+  "eabf9081250f085ff30bf5cc79f045660f32496f8651aaab6280caaed2bb4679": {
+    "title": "Best Open source TTS right now for narration?",
+    "seen_at": "2026-09-09T18:04:07.515543+00:00"
+  },
+  "7e3fd53ecca1b6697ce45ef5bb52d3e60673db042511517db35134edf232cbe3": {
+    "title": "Desert Ant Labs: On-device intelligence for every product",
+    "seen_at": "2026-09-09T18:04:07.515546+00:00"
+  },
+  "8fdc72fa2492e17d109a198597c437f91d93d20d5c0c322d57452109eed9952f": {
+    "title": "~1,400 t/s prefill is real. 60 t/s decode is not. I graded 5 Strix Halo forks with Qwen3.8 Flash-Next",
+    "seen_at": "2026-09-09T18:04:07.515550+00:00"
   }
 }
