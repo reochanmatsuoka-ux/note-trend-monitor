@@ -1,160 +1,4 @@
 {
-  "bff164c15db426508c89b232954c388c8f39f0eee9ba2554690867cc09e31d00": {
-    "title": "Current best model for narrative, chat, prompt creation (so basically everything except agentic coding)? - 5090",
-    "seen_at": "2026-08-22T21:10:06.882465+00:00"
-  },
-  "99dce1da132815106540e0d1dd74e65a60d94abb3f2de25799a976d87fa0bde4": {
-    "title": "GLM 5.3 thinking is kinda hilarious",
-    "seen_at": "2026-08-22T21:10:06.882467+00:00"
-  },
-  "99fe8afa71046f03da3d69b2ef4547a369d2fbf59de410fd65025215116934cd": {
-    "title": "OpenAIが最新モデルに対する強化学習を2週間中断／LLMCが約332億パラメーターの「LLM-jp-4 33B」を公開：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER - ITmedia",
-    "seen_at": "2026-08-23T00:30:40.989994+00:00"
-  },
-  "160e37612407bb0eebd46fae0bd9c59d59f26bf0f10feb19bcc1846e0645cec0": {
-    "title": "ソブリンAIにおけるNVIDIAの92％シェア分析と各国の独自LLM基盤整備に向けた選択肢：『ビジネス2.0』の視点 - オルタナティブ・ブログ",
-    "seen_at": "2026-08-23T00:30:40.990002+00:00"
-  },
-  "3609f78c78a5b90ba1b360bdd029813bfd1605283f8debc053e32c0574fb08a3": {
-    "title": "ChatGPTが危険な医療アドバイスをしたとしてOpenAIが提訴される、病気の牧師に「神はあなたの体が永遠に壊れ続けるようには設計していない」と助言 - GIGAZINE",
-    "seen_at": "2026-08-23T00:30:42.102866+00:00"
-  },
-  "d8b0ad93362ce3966e23f814f5c7cfb410ca7e5f8f4e7da148c528aecd3a1edb": {
-    "title": "肺塞栓症で倒れた牧師がChatGPTの医療助言を問題視しOpenAIを提訴 (2026年8月23日掲載) - ライブドアニュース",
-    "seen_at": "2026-08-23T00:30:42.102871+00:00"
-  },
-  "410e02e38c7a23dbd23aff9447f414c4b7ba403f973085f1f3eb12ba3a663b44": {
-    "title": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ 入力20％出力33％安く、11月21日まで（ITmedia NEWS） - Yahoo!ニュース",
-    "seen_at": "2026-08-23T00:30:42.102875+00:00"
-  },
-  "af29345eabe3b75d7694f20356f521180127089e3d800c3225ba7a2fb56b4ea2": {
-    "title": "OpenAIのQ3成長が加速、Anthropicとの差を測る四つの分母 - XenoSpectrum",
-    "seen_at": "2026-08-23T00:30:42.102880+00:00"
-  },
-  "014f270eac75d8a394de798c1a93907f2ada8271df5d0a017e385274ab9e1f16": {
-    "title": "Claude Codeが直したのは機能ではなく信頼性｜スマホ起動は3月から - innovaTopia",
-    "seen_at": "2026-08-23T00:30:43.067039+00:00"
-  },
-  "e8e9416c366269c59fe98c92d7ca70afdac56cd60dd478ac3642af7296445a46": {
-    "title": "3 experiments running dsv4-flash-0731 q4+ quants on 128GB RAM + ~60 GB VRAM (with a quite bad pcie infra) with an acceptable tgs and relatively acceptable pp speed",
-    "seen_at": "2026-08-23T00:30:45.593297+00:00"
-  },
-  "bffcff9f27d2180740f6dd240df415bf72d031a836b0dd3419f2899efbbd6ac4": {
-    "title": "Best harness for long autonomous tasks",
-    "seen_at": "2026-08-23T00:30:45.593302+00:00"
-  },
-  "5c9cef01ebc3846cc77cf7d896a887597731bd7125953224b40f4aa2040c183d": {
-    "title": "Best tiiiny model for session compression?",
-    "seen_at": "2026-08-23T00:30:45.593305+00:00"
-  },
-  "33c6a59461278c9aa32870b20a3644a5001c2bbd4419c26ef860a45aeab2a129": {
-    "title": "What if Chain-of-Thought wasn’t lossy? Exploring reversible logic (Toffoli/Fredkin-style) for edge LLMs",
-    "seen_at": "2026-08-23T00:30:45.593308+00:00"
-  },
-  "626c635781d6076f0f1ac39501eec6060cd094422f920d949594ef0206cc9153": {
-    "title": "〈会社に隠れて生成AI〉社員の59％が「AIを使ったことを伝えていない」…46％が「機密情報をアップロード」の衝撃、企業が知らない“シャドーAI”の実態 - ｄメニューニュース",
-    "seen_at": "2026-08-23T03:39:19.101636+00:00"
-  },
-  "7fee6a4959a95c8dcd5652eff1681ef44bdf2696b21855dde67984e27cc80807": {
-    "title": "生成ＡＩが示すがん治療法、疑う目を 島根の専門家が警鐘 悩み相談する患者が増加 誤情報のリスク大きく - 山陰中央新報デジタル",
-    "seen_at": "2026-08-23T03:39:19.101647+00:00"
-  },
-  "65e8b343ae796cf3fcb0bd2f4c188229cc634c4796e9631f4f19c98e1b1e1192": {
-    "title": "「ChatGPTよりGemini派」「AIをハックする」コピーライターが考える最新ツール活用術と、1歳児でも稼げる（？）新発想 - みんかぶ（マガジン）",
-    "seen_at": "2026-08-23T03:39:19.996166+00:00"
-  },
-  "2ca7910e60ce8100abead2623c27735a4a9888710ef66621800a5de854a962b7": {
-    "title": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ　入力20％出力33％安く、11月21日まで - Infoseek",
-    "seen_at": "2026-08-23T03:39:19.996171+00:00"
-  },
-  "2c33bce4bcccfe4e7378c0dcf5a26d9754b4ff0943b2aa122e838c87db20376a": {
-    "title": "自律型AIエージェント、オープンソースのコントリビューション規約を順守せず 北京大が検証 - 디지털투데이",
-    "seen_at": "2026-08-23T03:39:21.191371+00:00"
-  },
-  "b2d1d0e782ee643ea8c12cc0699943d3bd678e66d7e8a5bd41133d26f7e09247": {
-    "title": "Closed AI has been real quiet since Qwen 3.8 27B dropped.",
-    "seen_at": "2026-08-23T03:39:21.822712+00:00"
-  },
-  "3f404ef1f6451377b21d6bab1c0e518a14a8e2a82e0f47309fe02cdd21479808": {
-    "title": "“The All Spark” Cluster: Upgrading from 16 - 36 DGX Sparks",
-    "seen_at": "2026-08-23T03:39:21.822717+00:00"
-  },
-  "985a8f6f7a9546e671b6b02a20c73f4ba66c6e2509d156b84a470eac7eb50a31": {
-    "title": "I fine tuned Gemma 4 12B for a 2.7x improvement on tool calling because I can't fit anything else comfortably into my 16 GBs of Vram",
-    "seen_at": "2026-08-23T03:39:21.822720+00:00"
-  },
-  "b925b892d0b6d661acb3f1f65fec699ec69b39a74568d8294233c322b8a6aaba": {
-    "title": "Tested in Coding: Q8_K_XL Qwen3.8 27B vs BF16 Qwen3.6 27B",
-    "seen_at": "2026-08-23T03:39:21.822724+00:00"
-  },
-  "0799b1b85da78bda5b75eb246286bf78a0c4768139000b146f1914be5db0c8ea": {
-    "title": "Has anyone actually made 64k feel like 300k+ with recursive local agents?",
-    "seen_at": "2026-08-23T03:39:21.822727+00:00"
-  },
-  "3dd361cfcf6ee6c6a7c19f904201a7b024c1fba87582b9586f9a0bdf4ba7ba08": {
-    "title": "Would it be possible to distill DeepSeek V4 Flash 0731 onto Nemotron 3.5 Lightning?",
-    "seen_at": "2026-08-23T03:39:21.822732+00:00"
-  },
-  "d68f8327782e65f3d8a701cb4918da935dc0cad54b4f3886430420c22d0f9346": {
-    "title": "ChatGPTなどが引用する「情報源」を大量投入か イスラエル政府関連サイト、1週間強で100本超を公開 - Ledge.ai",
-    "seen_at": "2026-08-23T06:18:53.867401+00:00"
-  },
-  "6d7077e9843790bedffbc049890d59af7de877ac8791b7d0021738e95d428cef": {
-    "title": "Qwen 3.8 27B is a game changer.",
-    "seen_at": "2026-08-23T06:18:55.691340+00:00"
-  },
-  "528a8f70fc1246b6bc9de88c8257e08ef21999eb4c83b78667820f4394b60f58": {
-    "title": "【3778さくらインターネット】生成AIとガバメントクラウドの真価！赤字からの急回復と次回決算で見極める勝負所｜さささ - note",
-    "seen_at": "2026-08-23T09:15:22.087779+00:00"
-  },
-  "0f128a7bc98aefe6ecf172f361459c4e597eb0e5fe61b899096777988f3cde02": {
-    "title": "ESP32-S3を7枚つないで4億パラメーターのLLMを自作、1語に9秒で動く - FabScene",
-    "seen_at": "2026-08-23T09:15:22.087785+00:00"
-  },
-  "c12e4aa642a5a2275b2b2bd6741ae9fa9bc9a0b63ed8a1347dee7c4cacf48786": {
-    "title": "Amazon BedrockがOpenAIモデル向けクロスリージョン推論を拡張 - CodeZine",
-    "seen_at": "2026-08-23T09:15:22.889908+00:00"
-  },
-  "2a0dd24fa0d1e79119bc39f261128dae6a060abc8f9426a628ffbcad2a98405b": {
-    "title": "Nvidia Poolside deal to compete with Chinese Open Weights",
-    "seen_at": "2026-08-23T09:15:40.026985+00:00"
-  },
-  "48359c5c47550b31d3f62590dd9448b8e6a7f904f7bb48531b29acc17af1ad5f": {
-    "title": "DeepSeek Harness is Insanely Good",
-    "seen_at": "2026-08-23T09:15:40.026989+00:00"
-  },
-  "4fb50ea0a322ed926f1fec7037e1841383b9983e9df571a4c454b3164df61a79": {
-    "title": "I hosted Kimi K3 (2.8T parameters) using 8 B300s. 92 tok/s, $190 per million tokens",
-    "seen_at": "2026-08-23T09:15:40.026992+00:00"
-  },
-  "41543a5cbd8f035951ed6ee166ef78f74470b390e0784bd7d205559ed496af62": {
-    "title": "i finally switched from windows to linux and got a 30-50% boost in speed.",
-    "seen_at": "2026-08-23T09:15:40.026994+00:00"
-  },
-  "d4c748b351e20f816e7f9c4ee3d414d12c6a0f3f176a91fe085e24d390c453ba": {
-    "title": "Best harness for Qwen 3.8 27b ?",
-    "seen_at": "2026-08-23T09:15:40.026997+00:00"
-  },
-  "333e2da43b34e96faad2058b3af08f6f69bd633a7942ff14462fe50d2b5bad11": {
-    "title": "Agent Quest now tells you when Claude Code or Codex needs you visually and with sound",
-    "seen_at": "2026-08-23T09:15:40.026999+00:00"
-  },
-  "c48e4c0554903644a9f91417b44300a1300224a3491f6ff6bc49f47a6dc2d85d": {
-    "title": "AMD Users: Have you tried the llamma.cpp AMD-Ecosystem branch? Up to 2x PP Speed",
-    "seen_at": "2026-08-23T09:15:40.027002+00:00"
-  },
-  "803131075a7cdc1ea5417d175fc0a383b5398a35764a2a57222a7f3f90b32f50": {
-    "title": "Unsloth Q1-Q2 Qwen3.8-27B with MTP since the unsloth ones don't ship with for the lowest quants",
-    "seen_at": "2026-08-23T09:15:40.027004+00:00"
-  },
-  "f2af3b48ec025d3684592aac2e12cec8516070adcfabfa7aaabd6dc65ad2beeb": {
-    "title": "生成ＡＩとの向き合い方、親子で学ぶ 秋田市でプログラミングスクール - 秋田魁新報電子版",
-    "seen_at": "2026-08-23T12:13:49.570215+00:00"
-  },
-  "503e02b5df0d705f4415a5ff00696a04f5318df6684d71f153bbd3f730d11c29": {
-    "title": "Dutch Nuggets、生成AI時代にあえて超・手作りMV制作！ 新曲「Plastic Lives」映像公開 - PUNKLOID",
-    "seen_at": "2026-08-23T12:13:49.570222+00:00"
-  },
   "9dbe4028025a8b5b877aa39caae4c240edec26f7a24e74d6b4c3170be47486bf": {
     "title": "【今週のAIツール・ニュース総まとめ】ClaudeとClaude Codeの大量更新/Codex・ChatGPTワークの新機能/OpenAIがティーン向けChatGPTを発表 - ライブドアニュース",
     "seen_at": "2026-08-23T12:13:50.687479+00:00"
@@ -11998,5 +11842,161 @@
   "9f359655eede0b9af6955abdac48dfc178e10a1cced8a136ee2dc1c36e227012": {
     "title": "Qwen3.8 Flash Next best quant fitting in 128GB Strix Halo the Mark Watney style",
     "seen_at": "2026-09-09T22:48:31.113094+00:00"
+  },
+  "6007ec30e4e61fcab25e290e32d1e1aaac154afa530e19c4ed7f7eb2af8ea83e": {
+    "title": "「RICOH オンプレLLMスターターキット」エッジモデルに自己改善型AIエージェント「Hermes Agent」を搭載 - Digital PR Platform",
+    "seen_at": "2026-09-10T01:40:16.670905+00:00"
+  },
+  "baba3c4fc77aa6937cc15f43ef705376ee805d26b6db3450cc761e4f5e447a9b": {
+    "title": "IIJ、企業の生成AI導入・運用を伴走支援する新サービスを提供 Dify連携など2メニューを展開 - クラウド Watch",
+    "seen_at": "2026-09-10T01:40:16.670910+00:00"
+  },
+  "718c542269da4114fc51cb0b714339a12e2eed9181343e8b9de5754623985d86": {
+    "title": "生成AIによる特許調査サービス「サマリア」、特許検索競技大会の過去問検証で電気／機械／化学・医薬の3分野で再現率100%(上位30件)を達成 - PR TIMES",
+    "seen_at": "2026-09-10T01:40:16.670914+00:00"
+  },
+  "760448b85c167d43c0634be7e3c9af8a10a21f36dabddd74bf7cb4fdaed4604c": {
+    "title": "奈良市 女性の悩み相談 生成ＡＩが２４時間受け付け - news.web.nhk",
+    "seen_at": "2026-09-10T01:40:16.670917+00:00"
+  },
+  "921fb6929ba4b2a1e1a0a6ace5dae833cbe2c484b28b2edf1deec77b02c87f96": {
+    "title": "JR西日本中国メンテック、法人向け生成AI「ChatSense」を全社導入 - PR TIMES",
+    "seen_at": "2026-09-10T01:40:16.670920+00:00"
+  },
+  "c684ac24398cfaac7391076eee0ab160214c0d513982e50931e066e7f0aabff3": {
+    "title": "『生成AIを「使う」から「使いこなす」へ全社教育できていますか？』というテーマのウェビナーを開催 - PR TIMES",
+    "seen_at": "2026-09-10T01:40:16.670924+00:00"
+  },
+  "8cec798f4150a376904a9aa79960df45b4d7ae8c1451ea3662bcf06e1da48e7a": {
+    "title": "スキルマネジメントシステム「スキルナビ」、企業の生成AIから人事・スキルデータを直接参照・活用できる「MCPサーバー」の提供開始 - PR TIMES",
+    "seen_at": "2026-09-10T01:40:16.670926+00:00"
+  },
+  "4bc5ddad06c48bd7bfe4c3991b211fae849644bffd2b47d9aef1daaffc97399d": {
+    "title": "【AS/400×生成AI 第2弾】若手エンジニアが「Claude Code」を活用、2026年7月から8月にかけて20本程度の帳票発行系プログラム改修を完遂し、作業時間を30〜40%削減 | オーエムネットワーク株式会社のプレスリリース - PR TIMES",
+    "seen_at": "2026-09-10T01:40:16.670929+00:00"
+  },
+  "f86c82e9365b744eecc58feafa1bf084ab77967ffe4f68befd423bfe8e2d7fe6": {
+    "title": "【REFOLMO Med】精介AI共催｜現役精神科医が実践する「効率化だけでは終わらせない 医療DXと生成AI」9月15日より開催 - PR TIMES",
+    "seen_at": "2026-09-10T01:40:16.670931+00:00"
+  },
+  "95dff65b28e15d958505a678a97474350864c6d51185056f5d70ffa2efc97e48": {
+    "title": "QommonsAI活用研修を長野県長野市（ながのけんながのし）で実施 — 実務事例から考える、生成AIの使い方 - PR TIMES",
+    "seen_at": "2026-09-10T01:40:16.670933+00:00"
+  },
+  "5ba15dac47d34936d87dbadff158fa4b40d9692b3e4b2f862a715d32e0213211": {
+    "title": "生成ＡＩ活用事例セミナーで紹介 １４日、北國銀本店｜経済｜石川のニュース - 北國新聞",
+    "seen_at": "2026-09-10T01:40:16.670935+00:00"
+  },
+  "8fa385590de587efa1ecf5cec142daa7b94232480417e9353ab4ca03b94fb90a": {
+    "title": "生成AIの教育活用、最新LMS、デジタルバッジを活用したスキル管理など、最新情報と導入事例をご紹介［EDIX大阪2026 10月13日-15日］ - 時事ドットコム",
+    "seen_at": "2026-09-10T01:40:16.670940+00:00"
+  },
+  "0da1b1dd63ce02ca78dc40f860118061ed5fe294411ded6530b63195e8d94909": {
+    "title": "【第15回】AIを使わない時間を、あえて作ってみる｜佐々木康仁 - mbp-japan.com",
+    "seen_at": "2026-09-10T01:40:16.670943+00:00"
+  },
+  "8e6d2b5375b5b22f0ab01c4e1f242a2f9dcce2fb0f92bb4cef6fa962b738dadb": {
+    "title": "長野市で「QommonsAI」活用研修！自治体職員が生成AIの実務活用を学ぶ - socialbusiness.aishas.co.jp",
+    "seen_at": "2026-09-10T01:40:16.670945+00:00"
+  },
+  "ae1cd6b89d2c6635dd7df331b27eaffb2436abf50184e9de89cf2dd28b01fe21": {
+    "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正 - ITmedia",
+    "seen_at": "2026-09-10T01:40:17.148122+00:00"
+  },
+  "a4751cd531117307f3d748ac635dad70c94a7ac15075907950c00b808cad71fc": {
+    "title": "「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正 - news.infoseek.co.jp",
+    "seen_at": "2026-09-10T01:40:17.148128+00:00"
+  },
+  "d490446c590f144252669cd83e91e6b759b169bb96bd357e6787dd8e71315c78": {
+    "title": "Claude・ChatGPT・Kimiを“工程ごと”に横断 既存のAIを操るMac用AIワークスペース 「WorkPilot」を無料公開 - アットプレス",
+    "seen_at": "2026-09-10T01:40:17.662432+00:00"
+  },
+  "2a5f9c60aa2d08c733332723d86b4573d7abc29e536c4a2fe4febcdb5106b615": {
+    "title": "ナレコムAI Platform が、OpenAI の次世代フロンティアモデル「GPT-6 Astra」に対応 - PR TIMES",
+    "seen_at": "2026-09-10T01:40:17.662437+00:00"
+  },
+  "57c1ed4b759e2c860fe8d8a40c23b9aa12945cde76bcf62ba628dc13ef5d75cb": {
+    "title": "ChatGPT、機能が続々進化 Images 2.5公開 「Sketch」で手描きから画像生成、Workに“自分らしい文体”学習機能 - Ledge.ai",
+    "seen_at": "2026-09-10T01:40:17.662440+00:00"
+  },
+  "38bacb65a38e5f14a83e40934eac3275796222a3dcb1606207e41faed0e0d86c": {
+    "title": "ジェンスン・フアン「AGIは到来した」— OpenAIが週末に650万ドルを投じ、200年来の数学難問を解決 - BigGo ファイナンス",
+    "seen_at": "2026-09-10T01:40:17.662444+00:00"
+  },
+  "ff6fa7f45200ad9960bac49097c8697a763fd5898d42799feb0c3511c7e11824": {
+    "title": "AIエージェントプラットフォームに潜む見えないコスト［後編］ - gihyo.jp",
+    "seen_at": "2026-09-10T01:40:18.756149+00:00"
+  },
+  "1aca99f5c53b25bc0acb55b38aec0f9769d64b57729192a69a50fd203fb09857": {
+    "title": "オープンＡＩエージェント、10余りの未公表サイトで無許可通信 判明分超える逸脱か（ロイター） - news.yahoo.co.jp",
+    "seen_at": "2026-09-10T01:40:18.756153+00:00"
+  },
+  "52ec67dd2fed3fbcbe10e23872d3202cc87b29f8d0093cf8e343cb28aa099f90": {
+    "title": "折りたたみiPhone「Duo」はApple復活の切り札となるか、AIエージェント時代に賭けたターナス新CEOの戦略 - JBpress",
+    "seen_at": "2026-09-10T01:40:18.756157+00:00"
+  },
+  "2b07df7a29e3366f69e7cbb0e65c6a2cb566424a03d3ca99483ab6a5826120a1": {
+    "title": "Wix、中小企業向け独立型マルチAIエージェントシステム「Symphony by Wix」を提供開始 - PR TIMES",
+    "seen_at": "2026-09-10T01:40:18.756159+00:00"
+  },
+  "15e6c2f45eb3b0ceb8e8b2f4b77f1592e48c2a98d2df0bb0d54f8239e552e5f6": {
+    "title": "AIエージェント時代のUXデザインを実践者から学ぶ、マネーフォワードがイベント開催|ProductZine - CodeZine",
+    "seen_at": "2026-09-10T01:40:18.756165+00:00"
+  },
+  "57c1257e4a45c8c4c3d89887ee4290a285c3cc9b9c4487e598538983c9876035": {
+    "title": "Meta、パーソナルAIエージェント『Muse』発表 メール送信や買い物も代行、米国で提供開始 - Ledge.ai",
+    "seen_at": "2026-09-10T01:40:18.756167+00:00"
+  },
+  "e9474e987be3ec67496cbe7de427dc3e801d13978c0bfe8e8cb578d4e1de902d": {
+    "title": "メタ株5％超上昇、新AIエージェント「ミューズ」の発表を投資家が好感 - Forbes JAPAN",
+    "seen_at": "2026-09-10T01:40:18.756170+00:00"
+  },
+  "8930c3d5ae0a73ab05849bf844d87b752b8f90120dea1d21ecf0643dd435f3ef": {
+    "title": "Meta、パーソナルAIエージェント「Muse」を発表 - MarkeZine",
+    "seen_at": "2026-09-10T01:40:18.756172+00:00"
+  },
+  "23464b85c212bd7a395700b04f8a27826d79564cd283041a9616634b13319e1d": {
+    "title": "AIエージェント管理基盤の「実行」と「運用」に新展開か--Datadogの取り組みから探る - news.yahoo.co.jp",
+    "seen_at": "2026-09-10T01:40:18.756174+00:00"
+  },
+  "ce00600f128d507622a0a2f14a7f7c5f2dd57734cd703f8b9fa1ef9cf2d6d4f8": {
+    "title": "AppleのAIエージェント「Siri AI」、日本語β版は10月から提供予定（ITmedia Mobile） - news.yahoo.co.jp",
+    "seen_at": "2026-09-10T01:40:18.756178+00:00"
+  },
+  "5fb7b7ff2c972f25b0eacfdb3dfa944ecde49db62f8d2f483df37ce8b5840840": {
+    "title": "x3d(クロスサード)代表取締役 兼 代表AI講師 武石幸之助が木更津商工会議所主催「Claude & Claude Code徹底解説」に登壇、経営者80名満席 - PR TIMES",
+    "seen_at": "2026-09-10T01:40:18.756180+00:00"
+  },
+  "50e82c22f7342416d1be0732d815e51a6e54da2aaeae50f70b53fb3cecd3b9b9": {
+    "title": "「エージェントのインターネット」実現へ AAIFが描くAIの未来 - Impress Watch",
+    "seen_at": "2026-09-10T01:40:18.756182+00:00"
+  },
+  "943e49c24a2c8246363e6fae5aba0b807a9b383bfa8ab29191ce8cca487fae3f": {
+    "title": "セールスフォース、ゴールドマン・サックス会議でAIエージェントが業務を変革すると主張 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-09-10T01:40:18.756184+00:00"
+  },
+  "48ab5b70d42bc969c59f67295025c25f3f93836e0a63a05ba2b35a322148b185": {
+    "title": "Optimizely（オプティマイズリー）ウェビナー：AIエージェントによる宿泊業の大規模パーソナライズ実装事例 - DXable News",
+    "seen_at": "2026-09-10T01:40:18.756187+00:00"
+  },
+  "cf041d88f8e8abd34f62c3d8907bdda0b75c5270b1759fd919d9f8305e436baa": {
+    "title": "Logitechが開発者向け「MX Keypad」を発表｜AIエージェントやIDEを物理キーから操作 - グリーンキーズ",
+    "seen_at": "2026-09-10T01:40:18.756189+00:00"
+  },
+  "6973e71e492565b29e5d5f4a1b9070052046dcd1999a3fd1c5030d56403edba0": {
+    "title": "年間50億円の成果を創出 村田製作所が実践するAIエージェント統制の要点：AWS Summit Japan 2026 - ITmedia",
+    "seen_at": "2026-09-10T01:40:18.756192+00:00"
+  },
+  "7e7fe47a4bbbcbee0d28d20d6a5bd7ac9b18e80b0c99999cf225acb5a7cf8c4b": {
+    "title": "Meta「Muse」米国で提供開始｜専用VMで動くAIエージェント - innovaTopia",
+    "seen_at": "2026-09-10T01:40:18.756194+00:00"
+  },
+  "dba8020ab1f67ddbd17cd12f30a06bbf7c2c78fa1c61811c367bd9848917628e": {
+    "title": "Running qwen 3.8 27B iq3 xxs on RTX 3060.",
+    "seen_at": "2026-09-10T01:40:20.724590+00:00"
+  },
+  "c7c9315707ff4eb4b351d1fa65c2cf9aeb2c42b3b53584db0a33878b749fd371": {
+    "title": "I made a way to migrate between embedding models without re-embedding your entire corpus",
+    "seen_at": "2026-09-10T01:40:20.724593+00:00"
   }
 }
