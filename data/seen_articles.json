@@ -1,56 +1,4 @@
 {
-  "33b47bcb8aac5b38d43452129fdeadf9bba1dce0990aedbed503841363c6b14b": {
-    "title": "研修医の約4割が診療現場で生成AIを活用 東京科学大学などが全国調査 - 大学ジャーナルオンライン",
-    "seen_at": "2026-08-25T12:20:45.784301+00:00"
-  },
-  "306c7aecaf1c373d15b64b632bd75077df4df77efb5e7c70f708a86ac4802298": {
-    "title": "大量に存在する画像生成AIを同じプロンプトで比較できる「Image benchmarks」をOpenRouterが公開 - GIGAZINE",
-    "seen_at": "2026-08-25T12:20:45.784304+00:00"
-  },
-  "c7112ef1d223071ee2a3d1ba1b961f0f32d9610ced72ae80a2e84f27ee57deb4": {
-    "title": "生成AI事業者に学習データ開示要求 罰則規定は設けず 知的財産権保護へ政府が基本原則を決定 「両立を主眼」小野田大臣 - Yahoo!ニュース",
-    "seen_at": "2026-08-25T12:20:45.784307+00:00"
-  },
-  "0963d725a9127918a843a055471bbb2514fb51104f1d6baec3b5c7c322b1ccbf": {
-    "title": "（5） 生成AIの活用により生じうる影響 - soumu.go.jp",
-    "seen_at": "2026-08-25T12:20:45.784310+00:00"
-  },
-  "89214237ae4bf59b82a0bc1aca45c5a0a432c7aa0f49256d8ff3cef3864d46fd": {
-    "title": "【国産モデル追加】PLaMo 3.0 Primeを2026年8月25日（火曜日）より自治体AI zevoにて提供開始しました！ - PR TIMES",
-    "seen_at": "2026-08-25T12:20:45.784314+00:00"
-  },
-  "b81eff1b419cede78e7e3a85a22942abcf1b37acaefb71a81669f6778c9b6710": {
-    "title": "法人向け生成AI「ChatSense」、Gemini・ClaudeでもWeb検索を利用可能に - PR TIMES",
-    "seen_at": "2026-08-25T12:20:45.784317+00:00"
-  },
-  "bfa6cd7a1bf3101384fe3ac09006206f0602017d6dcde0e303b964c0d43aa920": {
-    "title": "【CREATORS EDGE 2026 セミナー情報】生成AIとAfter Effectsで映像表現を拡張する - VIDEO SALON",
-    "seen_at": "2026-08-25T12:20:45.784320+00:00"
-  },
-  "47280cf12b057330c062794830108ba84d902bdbf8397f70227d9ced6fb85f1b": {
-    "title": "画像生成AIを同一条件で比較できるベンチマーク、OpenRouterが公開 - BigGo ファイナンス",
-    "seen_at": "2026-08-25T12:20:45.784323+00:00"
-  },
-  "a6fab0138da09510518fae84238dfbfd4d05acb81313e82f2b1d5ce725aaa79b": {
-    "title": "生成AIの普及だけでは埋まらない大企業と中小企業の「AI格差」CosBEとLBPグループ、本格的なAI変革を全国の中小企業へ - PR TIMES",
-    "seen_at": "2026-08-25T12:20:45.784326+00:00"
-  },
-  "20d1ec4fa36ebbabfe28168292d957b20facc6e047147beae1d92ffc746d08a8": {
-    "title": "【完全ローカルLLM製品】Ikotas Labs、機密データを外部送信せずにWeb脆弱性診断・フォレンジックを支援する「SUGI」の提供を開始 - PR TIMES",
-    "seen_at": "2026-08-25T12:20:45.784329+00:00"
-  },
-  "823f8e1a65188c696f785876f947f3db82193dac593b14488b54c449f0732ae6": {
-    "title": "クリエイターのための実践マーケティング戦略 生成AI×フレームワークで加速する事業成長プログラム 第3回：3C分析×生成AI ― 顧客・競合・自社の三位一体で勝ち筋を見出す ― - CREATIVE VILLAGE",
-    "seen_at": "2026-08-25T12:20:45.784331+00:00"
-  },
-  "ab29cf2342de596b6b1cf77db3d4daeffbdef7cc44d3ed37be3b1f6ed441128b": {
-    "title": "AIを「使う」から「使いこなす」へ全校生が生成AIを活用したプレゼンテーション制作を体験 - CREA WEB",
-    "seen_at": "2026-08-25T12:20:45.784334+00:00"
-  },
-  "b53ae2de9a90a42881d16bc1c561202607dbdd60ec4caa1d86ea691ff6c69b9b": {
-    "title": "便利な道具から身近な「話し相手」へ シャープが対話型ロボット第二弾を発表 “俺様”タイプで寄り添う 1割以上が「生成AIは友人のような存在」 - TBS NEWS DIG",
-    "seen_at": "2026-08-25T12:20:45.784337+00:00"
-  },
   "ca15df040ab2ea24f1c321dc71a7ed96d9cb6235b77df00da7771ffcc3f8b1d3": {
     "title": "プレスリリース：〈調査レポート無料公開〉生成AIの本格活用は28％、44％が試験段階で滞留 - 内部監査・J-SOX業務のAI活用実態調査（PR TIMES） - 毎日新聞",
     "seen_at": "2026-08-25T12:20:45.784340+00:00"
@@ -11998,5 +11946,57 @@
   "f13efd9bc839a566d046bdba813dff22b14c515ad25df31c1cf37bda6a0e00c8": {
     "title": "PCIe downgraded test (m.2-oculink)",
     "seen_at": "2026-09-11T13:03:37.698534+00:00"
+  },
+  "e480b614ef4d9aece8c46b12a65e7a487d0e60e0a99f403ffad0c6967a4b772a": {
+    "title": "Anthropic報告が映す格安AIの代償｜鍵と会話は誰の手に - innovatopia.jp",
+    "seen_at": "2026-09-11T17:57:40.458274+00:00"
+  },
+  "530f786f05bfe5cafbaf0628bcbd4a9d9eeeec6e91486dc2bcc9cb1dab69560a": {
+    "title": "セミコンポータル/Semicon Portal - semiconportal.com",
+    "seen_at": "2026-09-11T17:57:41.157090+00:00"
+  },
+  "b8ca10fa47742a67a423fbfb392e898ee984deb7cd1af41e926b3e8c87840dc5": {
+    "title": "OpenAI、AIエージェントの意図せぬ外部サイト利用が相次いで発覚―義務的なAI安全規制を支持へ - 財経新聞",
+    "seen_at": "2026-09-11T17:57:41.157096+00:00"
+  },
+  "b0c10681b2ff46222d1ad3982efb15c06cd92a5c4ab20ca20f863be37cfbf2c9": {
+    "title": "[写真]OpenAI、AIエージェントの意図せぬ外部サイト利用が相次いで発覚―義務的なAI安全規制を支持へ - 財経新聞",
+    "seen_at": "2026-09-11T17:57:41.157100+00:00"
+  },
+  "d6f8ecb279716f4a00f8f3c55f1ae76d9caa0e7ff92ded3187efd283798b4b16": {
+    "title": "Qwen3.8-27B-Humanlike-Chat: A model I tuned to imitate realistic human-to-human conversation",
+    "seen_at": "2026-09-11T17:58:03.657462+00:00"
+  },
+  "dff19ed5236c25f21222d7b47acf177274525617a281460a81183fa854e3b0c3": {
+    "title": "Orukeet, new ASR model based on Parakeet",
+    "seen_at": "2026-09-11T17:58:03.657467+00:00"
+  },
+  "e06c8c079c8cad545775bbcd8f794eb45e7aeac1c479f6c3435bb834dff55bf1": {
+    "title": "Any 12gb VRAM users out there?",
+    "seen_at": "2026-09-11T17:58:03.657472+00:00"
+  },
+  "d170cc5355b5809bf1ea6948d6775d584822a296c031a0bba11d4fabc93504e7": {
+    "title": "Fine-tuning Qwen 3 4B Base on 100 zebra puzzles yielded +31% on MATH-500. 6.5-min (Single H100/H200) reproduction notebook included.",
+    "seen_at": "2026-09-11T17:58:03.657474+00:00"
+  },
+  "099f983ac815c4d52be9ca4dfbc0c4eb8435edc057277fbedf6d42590597e89e": {
+    "title": "Thinking that we’ll get safety by CoT traces is wishful thinking. Safety lives in the harness, not the chain of thought",
+    "seen_at": "2026-09-11T17:58:03.657477+00:00"
+  },
+  "3913180b090b81da921abfee9b4979ce85f52ecf7625896ec32ea0bb398e579f": {
+    "title": "Hot Expert Reload on GPU is what this community needs",
+    "seen_at": "2026-09-11T17:58:03.657479+00:00"
+  },
+  "59fea913372c0144a85291bcda0c8e2135696498d2bf3e9b5ab6bb33e2402d82": {
+    "title": "Ion (zero install harness, runs on browser)",
+    "seen_at": "2026-09-11T17:58:03.657482+00:00"
+  },
+  "74b998214389a64ee425309515e39c062a9ede669e288f6af2e3a65ccbc0befd": {
+    "title": "Qwen3.8 Flash Next UD-Q4_K_XL 49 tokens/s TGS using 2x RTX 3090 on Windows 11.",
+    "seen_at": "2026-09-11T17:58:03.657484+00:00"
+  },
+  "7f58f166e4fda4fadb1ad969ba71af533d4e99d94f41d55085de7b2db159907f": {
+    "title": "llama.cpp ngram on RAM/SSD?",
+    "seen_at": "2026-09-11T17:58:03.657487+00:00"
   }
 }
