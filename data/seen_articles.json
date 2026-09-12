@@ -1,120 +1,4 @@
 {
-  "405a1e8f948c3b82d2052e0a41d7d95c9e1f7b85ed1c4221d6af88ad139b7a53": {
-    "title": "OpenAIが独自AIチップ「Jalapeño」の初期性能データを公開 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "seen_at": "2026-08-25T15:31:02.407476+00:00"
-  },
-  "3cc8f5d2bc4943fe0153715de64b6c603848a3faa03c1b8bdfc915889be0d77b": {
-    "title": "ChatGPT、欧州での広告導入を開始 - FashionNetwork France",
-    "seen_at": "2026-08-25T15:31:02.407480+00:00"
-  },
-  "f85dabfc24d81906ebb698fe462ff4851bc4f804c5d0520f8b14c4de3e31268c": {
-    "title": "【分析】OpenAIの「1兆ドル評価」は妥当か、AI導入の遅れと安全管理が問う成長シナリオ - 財経新聞",
-    "seen_at": "2026-08-25T15:31:02.407483+00:00"
-  },
-  "902a430359eb5e59e4b23c799c76f33bf5ce086ecebd42e421d66f12b39a4bf0": {
-    "title": "OpenAIが8月26日に2つの提供終了、Assistants APIとChatGPT版o3が対象 - 財経新聞",
-    "seen_at": "2026-08-25T15:31:02.407486+00:00"
-  },
-  "96792bd00bb5abc492f0a974b5144369c88ca4af83ace94d3aaf7230df327c86": {
-    "title": "OpenAI、ChatGPT WorkでAIエージェントを一般のオフィス業務へ広げる - Межа. Новини України.",
-    "seen_at": "2026-08-25T15:31:02.407490+00:00"
-  },
-  "3a67250fefe3bb01448bb5d78a00eba1a3552a6e6177d9a83a84e5621deb1410": {
-    "title": "Gemini Skills Extension to Replace Gems: App Teardown - jetstream.blog",
-    "seen_at": "2026-08-25T15:31:03.149472+00:00"
-  },
-  "78d679b96a47b46e3a48729c797201b28f3e5b4feefeef1649b59cb14c68d817": {
-    "title": "WixとGeminiが連携｜AIとの会話からWebサイト作成・更新・運営まで可能に - innovaTopia",
-    "seen_at": "2026-08-25T15:31:03.149480+00:00"
-  },
-  "c8eaba8b51224c5350681763d1b8435b11d3b9862a1ba8c1ef26afa6092433ea": {
-    "title": "AIエージェント活用を阻む“予算の壁” セールスフォースらの新機能は打開策になり得るか？（ITmedia エンタープライズ） - Yahoo!ニュース",
-    "seen_at": "2026-08-25T15:31:03.733372+00:00"
-  },
-  "8fb1afb69e1e16bc9767b1792ecbd566911b68b77829b8aa5993b82cbcd4d0d7": {
-    "title": "AIエージェントの性能を決める「ハーネス」とは何か、NVIDIAの実例が示す重要性 - BigGo ファイナンス",
-    "seen_at": "2026-08-25T15:31:03.733378+00:00"
-  },
-  "29694d810b139ad0406798eb73665b4d5bfdccdcf59aa7d3591d80717631ea54": {
-    "title": "フォーティエンスコンサルティング、AI業務改革の早期具体化を支援する「AIエージェント3ステップ」を提供開始 - Excite エキサイト",
-    "seen_at": "2026-08-25T15:31:03.733385+00:00"
-  },
-  "452016d40b0a32fbbb27c7fa5ce2188022e3fbdec9d64d8661e52897815a42ac": {
-    "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
-    "seen_at": "2026-08-25T15:32:04.896037+00:00"
-  },
-  "5f1a07195f8e4e016d7a7dcc0a53605e740793112e2d9ecb5a84bc9bf4416731": {
-    "title": "Qwen 3.8 Flash Next day 0 support from unsloth",
-    "seen_at": "2026-08-25T15:32:04.896042+00:00"
-  },
-  "b600e6ce0eafbb24fffcf1eeb0549ac14463b4740951bad294f00867b3c62e20": {
-    "title": "Apple releases M5 ultra at 1.2TB/s bandwith",
-    "seen_at": "2026-08-25T15:32:04.896045+00:00"
-  },
-  "b8cd3ab1f271789b25784d5611aec382290913fa45de83a66deb8c85812a89c3": {
-    "title": "me to the model I spent all weekend fine-tuning",
-    "seen_at": "2026-08-25T15:32:04.896050+00:00"
-  },
-  "e585702871e8736f26d1cd6b394d3900607e26fd4db9583e488970ad5b331ce0": {
-    "title": "Intel Arc Pro B60 Dual 48G spotted",
-    "seen_at": "2026-08-25T15:32:04.896052+00:00"
-  },
-  "81996d00b8bc8370aa8e365989625aec529f1bc4de0a8313e9486096d7f6f97e": {
-    "title": "ibm-granite/granite-4.2-30b · Hugging Face",
-    "seen_at": "2026-08-25T15:32:04.896056+00:00"
-  },
-  "c4d634379eb7d135f4e396178a89285a98960e746430fe05e8a8d7b1c7e4187b": {
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "seen_at": "2026-08-25T15:32:04.896060+00:00"
-  },
-  "3292f02fbc11189696db86734abe060e6a2e61131e85b48372d6be9cf908eaf5": {
-    "title": "Apple unveils a more powerful Mac mini featuring the all-new M6 and M5 Pro",
-    "seen_at": "2026-08-25T15:32:04.896064+00:00"
-  },
-  "ffc85786561c77a24ab852e4d69936d8d5e225e3b490093bf4069c3fa353c1be": {
-    "title": "12 abliterated Gemma 4 12B variants, one base, 165 GPU hours - Abliterlitics",
-    "seen_at": "2026-08-25T15:32:04.896067+00:00"
-  },
-  "177fb8179c1558d33ad6ee1aa5775e39dc693e429b8d85002eb9ba6cc795c1c5": {
-    "title": "Qwen 4 architecture: What do we know?",
-    "seen_at": "2026-08-25T15:32:04.896069+00:00"
-  },
-  "f261efb146604f1c1bee3e4c678f83b539179b156ffd915a95b2697e6476b73d": {
-    "title": "Anthropicの最上位AIモデル「Claude Fable 5」は企業需要が伸びず苦戦、AI企業のビジネスモデルが覆される可能性も - au Webポータル",
-    "seen_at": "2026-08-25T18:19:56.091997+00:00"
-  },
-  "f667f6b8bd011fb4413772cf2d06d1604445d75d989e3ad21f3f946d9e847188": {
-    "title": "ClaudeがチャットとCoworkで記憶を共有し仕事を効率化 - Межа. Новини України.",
-    "seen_at": "2026-08-25T18:19:56.092005+00:00"
-  },
-  "f049d241cec433b4adaf3d5c34fb0a86e136616af324d9242e83a2f0e06fa9f4": {
-    "title": "OpenAIがChatGPT WorkとCodex向けに管理者プラグインを公開 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "seen_at": "2026-08-25T18:19:56.852120+00:00"
-  },
-  "55058d39c8ba91a8466d14d857ca9ca4e106e716374bb894d02a51b0c7440370": {
-    "title": "OpenAI自前のAI向け半導体、エヌビディアの現行製品上回る性能示す - Bloomberg",
-    "seen_at": "2026-08-25T18:19:56.852126+00:00"
-  },
-  "f7e1c9275d8893cdc6cfc00dbc3fd8389cec1a92bfc75728e0f0ec531a69979c": {
-    "title": "OpenAI自前のAI向け半導体、エヌビディアの現行製品上回る性能示す（Bloomberg） - Yahoo!ニュース",
-    "seen_at": "2026-08-25T18:19:56.852132+00:00"
-  },
-  "a519618b406bc0759f5096ef5cd69233629e71e433d5348c75b49184a5bd15b9": {
-    "title": "OpenAI、Plus ユーザー向けに Codex と ChatGPT Work の5時間制限を復活 - Pasquale Pillitteri",
-    "seen_at": "2026-08-25T18:19:56.852140+00:00"
-  },
-  "2a975900a0dff91784f265b883e9c8582e7de87bf617ccd227840d2a9864d10c": {
-    "title": "OpenAI、独自チップ「Jalapeño」がNvidia GB300を 2つのAI指標で上回ったと発表 - Yellow.com",
-    "seen_at": "2026-08-25T18:19:56.852144+00:00"
-  },
-  "865bcdbcb21a945186cd8d57dfdbfb20a6d50b0e6ea55b04b8d0fab7ce21c86a": {
-    "title": "サイオニックエーアイ、ChatGPT活用を「業務の自動化」へ進めるオンラインウェビナーを9月9日(水)に開催 - ニコニコニュース",
-    "seen_at": "2026-08-25T18:19:58.032684+00:00"
-  },
-  "e2866369c27a85316a92ec2db90e3a25712391df8319f459e342f49869c494e1": {
-    "title": "Qwen3.8-Flash-Next. This architecture could be surprisingly local-friendly once the weights drop. 👀",
-    "seen_at": "2026-08-25T18:19:59.076092+00:00"
-  },
   "584e792f3fd7ec6419ca27bffab340a65e00f8b6fff14e2077911d9a6cdd5db2": {
     "title": "Mac Studio M5 Max Cost Analysis",
     "seen_at": "2026-08-25T18:19:59.076099+00:00"
@@ -11998,5 +11882,121 @@
   "50f0550c1ab8dac0e60cfca9d1027615515bd72352aaf0a7f0836bb09a9cfaf1": {
     "title": "What is a good tool+model for near-realtime voice conversation?",
     "seen_at": "2026-09-12T01:45:49.429017+00:00"
+  },
+  "f900c5a589a4cbc941aa12b75283233012ee38349e82dca6e1a3a746272710a6": {
+    "title": "葛巻町が契約 岩手日報生成AI - 岩手日報",
+    "seen_at": "2026-09-12T07:22:55.164272+00:00"
+  },
+  "eec00dab62f36abd0e12a18db438508b4a3ed60a223b956fb5ad15137054d8aa": {
+    "title": "【AI活用】藤枝市が窓口業務に生成AI導入する実証実験スタートへ…職員負担軽減と市民サービス向上目指す(静岡) - 日テレNEWS NNN",
+    "seen_at": "2026-09-12T07:22:55.164280+00:00"
+  },
+  "25480afa0639fe75e5eda36cf82a593c2c92a55fd1dcc88ae29d7de3259c78c9": {
+    "title": "中国の大規模言語モデル価格戦争が海外へ：Zhipuの割引終了、DeepSeekが再び超低価格で攻勢 - BigGo ファイナンス",
+    "seen_at": "2026-09-12T07:22:55.164283+00:00"
+  },
+  "fbdacb26631e05a865bb3c80edc2d01c4d2b3e8340c5203a9908ddcceaa6781b": {
+    "title": "近畿大学 全学部の１・２年生に「教育機関向けGemini有償版ライセンス」導入 グーグル・クラウド・ジャパン合同会社と包括連携協定を締結 - 大学ジャーナルオンライン",
+    "seen_at": "2026-09-12T07:22:55.164286+00:00"
+  },
+  "7fe3b164bfd4d56b6596dded4fe992c75e9d16771295856d626b6b27cd1e8588": {
+    "title": "たまごファクトリーが契約 岩手日報生成AI - 岩手日報",
+    "seen_at": "2026-09-12T07:22:55.164288+00:00"
+  },
+  "beb42e033c9f5027e347e538c47d56189c98c82d1c6a27d485346913f1082e0f": {
+    "title": "Anthropic、Claudeの実システム侵入で7月の評価を修正　「偏った推論」と「無謀さ」を認定 - 財経新聞",
+    "seen_at": "2026-09-12T07:22:55.577661+00:00"
+  },
+  "29adadde54552d7c2c31f570fad391abcfe183f092bec7973c61e8aa8f1075e1": {
+    "title": "Anthropic社は、中国のAI企業がClaudeを使ってモデルを訓練していると非難している。 - Vietnam.vn",
+    "seen_at": "2026-09-12T07:22:55.577666+00:00"
+  },
+  "23e645f7113366bfd6adcccfd9799e76f4b97e79ade4410f99cad8f22ed4e9f3": {
+    "title": "Anthropic、Claudeの悪用実態を報告―生物研究や自律型兵器、サイバー攻撃に利用 - 財経新聞",
+    "seen_at": "2026-09-12T07:22:55.577669+00:00"
+  },
+  "1a84ea70653cc4ffedf94661b979ae5ee8fd204bf83d7919edf246f106f3d51b": {
+    "title": "[写真]Anthropic、Claudeの悪用実態を報告―生物研究や自律型兵器、サイバー攻撃に利用 - 財経新聞",
+    "seen_at": "2026-09-12T07:22:55.577671+00:00"
+  },
+  "e15a3cfdb8219dd42530ac46ef5f0af43f8843cd10816b6bf84ef87371a7b56a": {
+    "title": "[写真]Anthropic、Claudeの実システム侵入で7月の評価を修正 「偏った推論」と「無謀さ」を認定 - 財経新聞",
+    "seen_at": "2026-09-12T07:22:55.577673+00:00"
+  },
+  "ff10cd87609af665fe8a52176434379e44b011fe12ef242bf759d70ce0b38379": {
+    "title": "中国AI7社、Claude会話1.51億件を不正収集──Anthropicが名指し告発 - Martin Cid Magazine",
+    "seen_at": "2026-09-12T07:22:55.577675+00:00"
+  },
+  "9dd8e183bf6e295d001fdc37e2988257c320ed8270fff76b42727605c305619f": {
+    "title": "多くの政府が、兵器開発や監視のためにクロードAIモデルを利用している。 - Vietnam.vn",
+    "seen_at": "2026-09-12T07:22:55.577678+00:00"
+  },
+  "235a9954aca603779444530aaebd40f524b7cef132517fe9ef050d543256be98": {
+    "title": "ChatGPTが本日もリセット。OpenAIがGPT-6 Astraの不具合3件を修正 - PC Watch",
+    "seen_at": "2026-09-12T07:22:56.071930+00:00"
+  },
+  "3a0dc49ee624bf635ae4007605e8f2ae49f3ce0256d7cf48a63d163611c22f53": {
+    "title": "ラディソン、ChatGPTでホテル検索が可能に アクセンチュアと開発 - TRAICY（トライシー）",
+    "seen_at": "2026-09-12T07:22:56.071935+00:00"
+  },
+  "4b64b5ca20c6dbdf6e59b3e7f0495ff412d3544f1882699c838ff099e6607191": {
+    "title": "OpenAIがCodexをクラウドサービスに分解 大規模モデル各社がAgent基盤の覇権争い - BigGo ファイナンス",
+    "seen_at": "2026-09-12T07:22:56.071938+00:00"
+  },
+  "331be3a1413341eed3e95e141d17a0c5c5deb60cabe620ec77979b6e47220bfc": {
+    "title": "OpenAIのAIは、検出される数ヶ月前からサイバー攻撃を仕掛けていた。 - Vietnam.vn",
+    "seen_at": "2026-09-12T07:22:56.071940+00:00"
+  },
+  "9f573c461987593968c404a62282fe6b8766de267223e6d9d9a930bbf4a17d36": {
+    "title": "ChatGPTが本日もリセット。OpenAIがGPT-6 Astraの不具合3件を修正 - 千葉テレビ放送株式会社",
+    "seen_at": "2026-09-12T07:22:56.071942+00:00"
+  },
+  "3e6df951b4340a01e207c33bd82d7d54f061068b4b952dc949c063d0b0c3bcc9": {
+    "title": "カナダでの銃乱射事件の被害者らが、OpenAIを相手取って訴訟を起こした。 - Vietnam.vn",
+    "seen_at": "2026-09-12T07:22:56.071945+00:00"
+  },
+  "4985639636cdc025c54d3d056f9e3a1a7b3592714ebde3964fe948fa2e42bdd3": {
+    "title": "新「ChatGPT Images 2.5」はGeminiを超えたのか。3本勝負で確かめてみた - ライフハッカー",
+    "seen_at": "2026-09-12T07:22:56.071947+00:00"
+  },
+  "72a542430a7d293536193f4e8f585262a1725120bcb9401885a0d3a628843b8a": {
+    "title": "OpenAIの人工知能エージェントがRubyGemsを攻撃、研究者が指摘 - Межа. Новини України.",
+    "seen_at": "2026-09-12T07:22:56.071950+00:00"
+  },
+  "716057a30c5d2aa8061c0e80708d82c10223215d1eeb59f95213075368517699": {
+    "title": "AIエージェント時代に求められるエンタープライズデータ基盤 ～データの地図と意思決定のナビゲーション - アイマガジン",
+    "seen_at": "2026-09-12T07:22:56.964731+00:00"
+  },
+  "5aaf3f8842d9dcd6a3ef867f8f2ed9ddbd10a6f0130bdc6847158c46ad62414a": {
+    "title": "【9/17 無料オンラインセミナー】AIエージェントを活用した観光DXの最先端！～「地域」「旅行者」「事業者」をつなぐ持続可能なサイクル構築～ 上田和佳氏（一般財団法人熱海観光局専務理事・CEO） - 観光経済新聞",
+    "seen_at": "2026-09-12T07:22:56.964735+00:00"
+  },
+  "95dc0bfce5f58935ffb3002feb657021a35d7d57f0ce66f184178c5b4187bab8": {
+    "title": "ガードレールだけでは防げない、AIエージェント時代の独立したポリシー実行層 - 財経新聞",
+    "seen_at": "2026-09-12T07:22:56.964738+00:00"
+  },
+  "b86cff570992c28ddf7e661dbea490762049e0de800dfbe02b191726241e6564": {
+    "title": "AIエージェント「Devin」向けコーディングモデル「SWE-2」、Fable 5.1に1ポイント差でコスト64％減と報告 - 財経新聞",
+    "seen_at": "2026-09-12T07:22:56.964740+00:00"
+  },
+  "340d63630f260a09006b997da475e436d85fa7f38882a980ea33e9cbb36ca531": {
+    "title": "[写真]ガードレールだけでは防げない、AIエージェント時代の独立したポリシー実行層 - 財経新聞",
+    "seen_at": "2026-09-12T07:22:56.964742+00:00"
+  },
+  "eced1b4ee4223bb2b1c94d326064e08ac72c38bf7b7463876bbc5824721dd6bd": {
+    "title": "AIエージェント普及でCPU不足が顕在化、ソフト設計の見直し迫る - 디지털투데이",
+    "seen_at": "2026-09-12T07:22:56.964745+00:00"
+  },
+  "1a508a279023efdec536987fe0cf8ab677a16d393e2e392f40538dde689f925f": {
+    "title": "Concerning \"humanlike models\" and chatbot RP in general...",
+    "seen_at": "2026-09-12T07:23:16.476760+00:00"
+  },
+  "4bc70331661ef95acb788973ab95f4eb7a576d75627f86cdb4116158156b43f4": {
+    "title": "Unsloth UD-quants - Qwen 3.8 27b for example - worth using 8-bit or stick with faster 6 bit for coding?",
+    "seen_at": "2026-09-12T07:23:16.476764+00:00"
+  },
+  "0351d333f42137f7fd84ccfabf48dbf6874c94cba391dbac1647c80f1fc547ad": {
+    "title": "Antirez Deepseek 4.1 flash gguf on HF",
+    "seen_at": "2026-09-12T07:23:16.476766+00:00"
   }
 }
