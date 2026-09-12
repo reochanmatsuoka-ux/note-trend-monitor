@@ -1,64 +1,4 @@
 {
-  "3d3094830bd41c09f5b8ffa936592597bc21c6e06b95018e0d1438cf4800475f": {
-    "title": "Qwen3.8 flash next",
-    "seen_at": "2026-08-25T12:20:50.189383+00:00"
-  },
-  "cfeca1bc579170e0a3d4cb80c36a5a7b961d1e4316a1849c0ae4d213fdae4b34": {
-    "title": "Glm 5.3 flash?",
-    "seen_at": "2026-08-25T12:20:50.189386+00:00"
-  },
-  "9db71f580e55177fd1f5aa1193122489267bb54c69fe8cfbafc4b19e6475c739": {
-    "title": "New: Llama.cpp adaptive speculation for faster inference",
-    "seen_at": "2026-08-25T12:20:50.189390+00:00"
-  },
-  "0d42437f7b859571a8b9167437decbea32c3b3799c08a76fc297c6c50874e751": {
-    "title": "tencent/WeMM-Embedding 9B/4B/2B",
-    "seen_at": "2026-08-25T12:20:50.189393+00:00"
-  },
-  "dc3f07355368354a8172a1fb7edd81f418ad3c64162a4114c390b17a463675fe": {
-    "title": "令和8年版 情報通信白書｜生成AIの業務利用状況 - soumu.go.jp",
-    "seen_at": "2026-08-25T15:31:00.980947+00:00"
-  },
-  "e0b89b3d2fb6b9b32c83644faf848f3163d7da9db459a637ec10405d63fd6e99": {
-    "title": "国産LLMにはどんなものがある？主要モデルの比較と企業の選び方【2026年版】 - 株式会社エクサウィザーズ",
-    "seen_at": "2026-08-25T15:31:00.980955+00:00"
-  },
-  "d31d2d8c488d077023969fdb59810bcfbb28dffc2c98fa9f131156ceb55a0db6": {
-    "title": "生成AIは何を学んでいる？ 政府が情報公開求める基本原則を公表（朝日新聞） - Yahoo!ニュース",
-    "seen_at": "2026-08-25T15:31:00.980961+00:00"
-  },
-  "1b993c908fafd7c147f4a03e0cc350fd2e99a24b1b76ec4fd89001fec96d1263": {
-    "title": "（2） 生成AIサービスを利用しない理由 - soumu.go.jp",
-    "seen_at": "2026-08-25T15:31:00.980966+00:00"
-  },
-  "9a9ee79413337b63f7a22c38cb40d9bb313b05f5d5ce8502d88e186150a4c5e3": {
-    "title": "SaaS比較サイト「BOXIL」、生成AI検索における自社サービスの露出状況を可視化する「AIOダッシュボード」をリリース - 時事ドットコム",
-    "seen_at": "2026-08-25T15:31:00.980976+00:00"
-  },
-  "79e415671216c91fa5d19cd775a321ebfc4d96568a4235942b96344e45e5d6b7": {
-    "title": "アイアクト、川崎重工への「Cogmo Enterprise 生成AI」導入成果を発表 - RBB TODAY",
-    "seen_at": "2026-08-25T15:31:00.980979+00:00"
-  },
-  "329d05c163e5d7e88fdb25b582bbe53fc42866c2bae1313883330b5ce07e5ff1": {
-    "title": "OpenAIが推論特化チップ「Jalapeño」を開発、大量の生成AI処理の高速化を目指す - Межа. Новини України.",
-    "seen_at": "2026-08-25T15:31:00.980982+00:00"
-  },
-  "2bf9d80875dac97bc844f83338c02e8b4f5b237a812189668508627ad4f3ec6c": {
-    "title": "社会・産業インフラ業界のための生成AI-RAGソリューション「GENBA-Navi AI」を提供開始 - Excite エキサイト",
-    "seen_at": "2026-08-25T15:31:00.980987+00:00"
-  },
-  "dd18f449ffcde7bda32f54f2bdb821af361dd4a1c071a42491baa7c7a2329074": {
-    "title": "Anthropicの最上位AIモデル「Claude Fable 5」は企業需要が伸びず苦戦、AI企業のビジネスモデルが覆される可能性も - GIGAZINE",
-    "seen_at": "2026-08-25T15:31:01.688172+00:00"
-  },
-  "7721286df9af465632f087e257be0f50a0ef62a65f52b3ee98155661990f605c": {
-    "title": "AnthropicのClaude Fable 5、企業需要が伸び悩み安価モデルが優勢に (2026年8月25日掲載) - ライブドアニュース",
-    "seen_at": "2026-08-25T15:31:01.688180+00:00"
-  },
-  "976b3a9cd1089c8ec9fc96ef2015797910d66be5501effbf7b3afddb200d0844": {
-    "title": "【ChatGPT/Gemini/Claudeほか】主要なLLMの違いは？性能・料金・日本語で比較する選び方と使い分け【2026年版】 - 株式会社エクサウィザーズ",
-    "seen_at": "2026-08-25T15:31:02.407470+00:00"
-  },
   "405a1e8f948c3b82d2052e0a41d7d95c9e1f7b85ed1c4221d6af88ad139b7a53": {
     "title": "OpenAIが独自AIチップ「Jalapeño」の初期性能データを公開 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "seen_at": "2026-08-25T15:31:02.407476+00:00"
@@ -11998,5 +11938,65 @@
   "b71c5596339f9bd5f781c731e73151de40c60c00b78c555207b07b2046b83387": {
     "title": "Is anyone using K2-Horizon-MoVA-36B-A4B? If yes, what is the usecase?",
     "seen_at": "2026-09-11T22:50:46.088806+00:00"
+  },
+  "6dcedff2f7eaa40a476d5ad50dd1eaf62350ad30f932a5cc3dd5a49efd21f286": {
+    "title": "「給料が不満」より「この会社、大丈夫？」 生成AI時代に増える“不安退職”とは？ - DXマガジン",
+    "seen_at": "2026-09-12T01:45:34.331601+00:00"
+  },
+  "fdd2c34dcda0af68a8759af6b15b9fcab904326f01a586d221f502345389e21d": {
+    "title": "【OpenAIへの出資1.6兆円】ソフトバンクGの決算書にどれほど影響を与えたのか、説明できますか？ - ダイヤモンド・オンライン",
+    "seen_at": "2026-09-12T01:45:35.645844+00:00"
+  },
+  "8174dedeb0eff9e5838bf456b15a5f37a70c3451dfa1c1819fa061ca775e44de": {
+    "title": "算力逼迫 OpenAI、月額200ドルのPro 20X新規受付を停止——3年で2度目の利用制限 - BigGo ファイナンス",
+    "seen_at": "2026-09-12T01:45:35.645848+00:00"
+  },
+  "276bee358778dd7a1653cb80d81f64965053711ff705ff088a77f21e4405f474": {
+    "title": "ChatGPTが「金融の仕事」に本格進出 調査・財務モデル・提案資料までAIに - DXマガジン",
+    "seen_at": "2026-09-12T01:45:35.645851+00:00"
+  },
+  "f89d45ce3d243920e3f1269dbbbe0209383906b3542ec29bd7b4a704d9b9fda7": {
+    "title": "OpenAIのエージェントがRubyGemsへの未公開サイバー攻撃に関与――WSJ報道 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-09-12T01:45:35.645855+00:00"
+  },
+  "96f27a13c355f00c13e5911af901e591bc845a9d5b7939eb7cab90f6068c49be": {
+    "title": "OpenAIがAgents APIを公開、Codexの実行基盤を開発者に提供 - xenospectrum.com",
+    "seen_at": "2026-09-12T01:45:35.645857+00:00"
+  },
+  "6a535edfaf27042dd0dde0bac0665b5078fab1dd63ea234e6ae5e3afa2dd17a8": {
+    "title": "AIエージェント群によるサイバー攻撃、制御不能への懸念高まる | The Wall Street Journal発 - ダイヤモンド・オンライン",
+    "seen_at": "2026-09-12T01:45:36.806541+00:00"
+  },
+  "69b2e61bd37ad67691e66a2353c0ee942311018ee366d6dec91e646a83e4dffa": {
+    "title": "AIエージェント群によるサイバー攻撃、制御不能への懸念高まる - WSJ",
+    "seen_at": "2026-09-12T01:45:36.806544+00:00"
+  },
+  "84985e80e3dc325a264f439fc22d60e8d7fe937c2a7fbfc54aa3aff0d3bad9cd": {
+    "title": "Countering misuse of AI: September 2026 / Anthropic",
+    "seen_at": "2026-09-12T01:45:49.429000+00:00"
+  },
+  "915e9ca0601bc95830bd981f79d39544a5be8b2b2ca705049572d23b209f3275": {
+    "title": "Qwen-Next seems worse to me then 3.8 27b for coding, but I feel like I must be missing something?",
+    "seen_at": "2026-09-12T01:45:49.429005+00:00"
+  },
+  "b0c78c13ddcdb2e05e9ff6afff8ef4cb7e455dad0317b8280d77b56411f513c7": {
+    "title": "This is why we need open-source harnesses + local models",
+    "seen_at": "2026-09-12T01:45:49.429007+00:00"
+  },
+  "e10a16e775abc9b21188a041b611b5e85aa8837f40920efa18b90f89746bcf7e": {
+    "title": "Got an old slow low vram GPU laying around? Might be worth it to use for Just Vision mmproj llama.cpp",
+    "seen_at": "2026-09-12T01:45:49.429011+00:00"
+  },
+  "ed19abc39047b171aa61628cbc4b78a658ee6ff2d71886883b3c2938afd13fd1": {
+    "title": "Learning/RSI through ngrams?",
+    "seen_at": "2026-09-12T01:45:49.429013+00:00"
+  },
+  "cb51c4a49f2111c7ff404d31db466ac01d83148349db99c0898a4b87253dc660": {
+    "title": "I fine-tuned a 2B LLM on our WhatsApp group chat, and shared how to do it on GitHub as a cookbook.",
+    "seen_at": "2026-09-12T01:45:49.429015+00:00"
+  },
+  "50f0550c1ab8dac0e60cfca9d1027615515bd72352aaf0a7f0836bb09a9cfaf1": {
+    "title": "What is a good tool+model for near-realtime voice conversation?",
+    "seen_at": "2026-09-12T01:45:49.429017+00:00"
   }
 }
