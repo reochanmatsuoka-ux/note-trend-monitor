@@ -1,32 +1,4 @@
 {
-  "c2b13cc3e6e2299f6630c9af575465dde2636915bc226482145d24bcc9cd6e3f": {
-    "title": "OpenAI の広告事業はどこへ向かう？ 年収8000万円求人から見る成長戦略 - DIGIDAY［日本版］",
-    "seen_at": "2026-08-26T00:30:38.636928+00:00"
-  },
-  "4a1a5ccaf0ab0e1eeb8e3c596da4eaaf3e204db5389f7b5f4fc53faae8dda60a": {
-    "title": "OpenAI、データセンター整備の責任者が退社－幹部の離脱相次ぐ(Bloomberg) - Yahoo!ファイナンス",
-    "seen_at": "2026-08-26T00:30:38.636934+00:00"
-  },
-  "cffc4c3a6f12caab6a640deed3d72f5cdb20451418ba1f76a68cdae87e889ff8": {
-    "title": "82.【AI活用・実践編】自社専用の優秀な営業参謀を無料でつくる！ChatGPTカスタマイズ術｜森和吉 - mbp-japan.com",
-    "seen_at": "2026-08-26T00:30:38.636938+00:00"
-  },
-  "d95f1a57b728d8a5a9002acb098f0890464eb8fcb9609e37dfb87ff681a1cb5a": {
-    "title": "SEOAI、4,098件のAI引用を分析した「Japan AI Citation Report 2026 - BtoB SaaS Edition」を公開 - ニコニコニュース",
-    "seen_at": "2026-08-26T00:30:39.250902+00:00"
-  },
-  "242353304d7d41c7b6fb6ca4b81b5297e84e3129c6a74da2fffdb989955c69df": {
-    "title": "AIエージェントがCAEを動かすとどうなる？ 人に残る役割は？ - MONOist",
-    "seen_at": "2026-08-26T00:30:39.917485+00:00"
-  },
-  "1e6029f7fdada924fefd6576a03bdf667a9601d25374d3b55ee16676085b6e9b": {
-    "title": "AWSのマーケットプレイスで進むAIエージェントの活用--高い需要への対応策 - ZDNET Japan",
-    "seen_at": "2026-08-26T00:30:39.917491+00:00"
-  },
-  "6cf028ae6895f66a62d3b50428b966dc581878245291ea5610f3a18066d5aca8": {
-    "title": "機密データを自社環境内で処理するAIエージェント - ASCII.jp",
-    "seen_at": "2026-08-26T00:30:39.917496+00:00"
-  },
   "218f5ba93cae4f5acaa466f5e37fed734f22e3af5097b69f1bbb6ac54e77de76": {
     "title": "コードが書けなくても「秘書」化。Claude Codeを173日使った非エンジニアが月60万円回せた理由 - shiritomo",
     "seen_at": "2026-08-26T00:30:39.917499+00:00"
@@ -11998,5 +11970,33 @@
   "93981b65fc4450815cd0a94df32ed34c80a87244e23f5bfc9c4c34703b732b0a": {
     "title": "How to automate long running tasks?",
     "seen_at": "2026-09-12T17:28:49.434743+00:00"
+  },
+  "d0f2df44b57e6630c8a824a430ae0bc8fd89147c34625494b154c5d3709998c5": {
+    "title": "「いつ眠るのか」——ChatGPT依存の韓国代表新監督、選手を待っていたまさかの事態 - topics.smt.docomo.ne.jp",
+    "seen_at": "2026-09-12T19:44:09.090587+00:00"
+  },
+  "184aba8f3330883db69dca0ce1a274da81646d8641ee2ccc1c3c94577e7c6530": {
+    "title": "Altman、OpenAIがAnthropicの組み込み評価者の誓約に合わせると発表 - Unite.AI",
+    "seen_at": "2026-09-12T19:44:09.090594+00:00"
+  },
+  "154e7ad359470c48a92d4c768069023a2c28007ed3308919249af6ae1192a716": {
+    "title": "OpenAIがAI共同減速の合法性を米議会に照会か、法案が設ける保護の条件と限界 - XenoSpectrum",
+    "seen_at": "2026-09-12T19:44:09.090598+00:00"
+  },
+  "a7b769077c87c8f742bc4af2c69c73fd20731bf6dd146a3f5f7e31cc5e4b23e8": {
+    "title": "OpenAI、「GPT-6 Astra」品質低下の要因を3点特定し修正 - Yellow.com",
+    "seen_at": "2026-09-12T19:44:09.090601+00:00"
+  },
+  "78bc6193f58552678b9f96041b23ee36267fc808541702a620101a9061524a65": {
+    "title": "Nex-N2.5-mini-MLX-4bit on Apple M5 Max — 133.6 tok/s — llm-bench.io",
+    "seen_at": "2026-09-12T19:44:13.945623+00:00"
+  },
+  "b00cd5ff5e2d114f68e63ccd1ad80859f954bd3b38bb2b5a1eb878d83ffcee8c": {
+    "title": "DeepSeek V4.1 Flash on 8× A40: ~40 tok/s Q2_K and ~32 tok/s Q4_K_M with TensorSharp",
+    "seen_at": "2026-09-12T19:44:13.945630+00:00"
+  },
+  "15808c7a3fc2af266dfbcbf73b0f685dad08f3ed003f018e6ae4d60b15b45daf": {
+    "title": "Any proper benchmarks of Beellama (and its fork Beellama-kvarn) and how it performs quality wise for coding?",
+    "seen_at": "2026-09-12T19:44:13.945633+00:00"
   }
 }
