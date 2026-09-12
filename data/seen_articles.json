@@ -1,84 +1,4 @@
 {
-  "218f5ba93cae4f5acaa466f5e37fed734f22e3af5097b69f1bbb6ac54e77de76": {
-    "title": "コードが書けなくても「秘書」化。Claude Codeを173日使った非エンジニアが月60万円回せた理由 - shiritomo",
-    "seen_at": "2026-08-26T00:30:39.917499+00:00"
-  },
-  "acfba8885b3e97c20960bf0c68bd05626f300755f1fbd2b0d2aeaf8031eba7b8": {
-    "title": "フォーティエンス、業務の棚卸しからToBe構想までを一気通貫で支援する「AIエージェント3ステップ」を提供（クラウド Watch） - Yahoo!ニュース",
-    "seen_at": "2026-08-26T00:30:39.917504+00:00"
-  },
-  "b307df9067cf57b830f21405c0040c99a73ba94030373a9769b0477402cb17f4": {
-    "title": "AIエージェントの誤作動は誰の責任か 仕様を作る側と使う側の「責任分界点」：ITニュースピックアップ - ITmedia",
-    "seen_at": "2026-08-26T00:30:39.917506+00:00"
-  },
-  "7161da76607adf8ed9180c8a01ad8a0797c8c616da6ec7d30659d974eced5a95": {
-    "title": "中小企業経営者「AIエージェントに関心がある」87％、なのに導入進まない理由 - キーマンズネット",
-    "seen_at": "2026-08-26T00:30:39.917509+00:00"
-  },
-  "0bba2989bdf7fe1b3fc5cc73a43eceef201c5495fb7cb00f4e2124cfe7b94982": {
-    "title": "Perplexity、ローカル実行型AIエージェント「Portable Computer」発表 NVIDIAと共同開発 - マイナビニュース",
-    "seen_at": "2026-08-26T00:30:39.917512+00:00"
-  },
-  "69550be43117d622fbe7b9b12d9406528ab6e70bf7ff5848bed111d97187d604": {
-    "title": "ライフネット生命、全部門に自社開発ＡＩエージェント導入、生成ＡＩ利用率１００％から業務自動化へ - kabu-ir.com",
-    "seen_at": "2026-08-26T00:30:39.917515+00:00"
-  },
-  "47cd3791670398ceb22ac912c6d7e3c63e86c42f6143a24fc84e465e2e2164e5": {
-    "title": "中国アリババでは1.4億人が体験､｢商品検討→勝手に買うAI｣進化の衝撃《攻撃者がAIを騙し､悪質サイトで支払う懸念も》 - Infoseek",
-    "seen_at": "2026-08-26T00:30:39.917518+00:00"
-  },
-  "7cf77c1f8ac5da7bb3b2534dfb94c6e1f619792bcd960af893571cb97cf727fb": {
-    "title": "Qwen 3.8 27b has ThreeJs locked down.",
-    "seen_at": "2026-08-26T00:30:53.050110+00:00"
-  },
-  "02bdae0033af32b27379243e5887c34d4df9bc411177d9ded5b3600ff644df22": {
-    "title": "Peak Portable Personal Datacenter",
-    "seen_at": "2026-08-26T00:30:53.050114+00:00"
-  },
-  "18188cb31748a225e0ecaee6b557ce6cf462e6d96bf815df5596daee1c9c1a0e": {
-    "title": "M5 Ultra 96GB vs M5 Max 128GB — is 2x bandwidth worth losing 32GB of RAM, with Qwen3.8-Flash-Next dropping tomorrow?",
-    "seen_at": "2026-08-26T00:30:53.050118+00:00"
-  },
-  "005121e68f036aa7b3cfa7149587fa095cfd136cfa93121926d0ee1233917a87": {
-    "title": "Qwen3.8-27B IQ3_XXS wrote a correct multilayer TMM on a 16 GB Quadro — after 100 minutes, 3 compactions, and 108k output tokens",
-    "seen_at": "2026-08-26T00:30:53.050121+00:00"
-  },
-  "516a00dc68950611b86cad002925da576399387f83f1a79a7b8e99445a1bb28d": {
-    "title": "【NTT西日本】エフサステクノロジーズとNTT西日本、オンプレミス生成AI基盤「Private AI Platform on PRIMERGY」で純国産LLM「tsuzumi 2」が利用可能に ～データ・AIモデル・AI基盤の国内管理を支援～｜ニュースリリース - 通信・ICTサービス・ソリューション - ntt-west.co.jp",
-    "seen_at": "2026-08-26T03:42:10.843984+00:00"
-  },
-  "32ca8663b93cfb72fcdc509d537fae64b6b9d8ab910672d5a3511fc06c79d205": {
-    "title": "監視カメラの生成AI活用事例 ～YOLO×VLMで実現するリアルタイム映像解析の仕組みを解説～ - macnica.co.jp",
-    "seen_at": "2026-08-26T03:42:10.843992+00:00"
-  },
-  "65c41252ed74cd2f2859d6397e90c67c8bc3e9e3783fb9681d0d17061e273d35": {
-    "title": "【生成AIを業務活用する経営者・役員102名調査】お金に関わる実務、4割超が「1件の誤りも許さない」 - PR TIMES",
-    "seen_at": "2026-08-26T03:42:10.843997+00:00"
-  },
-  "75b1034b817c0cc35f7f00b2f8e57e5637926bda8e2b5b5d1df581d87d110798": {
-    "title": "汎用LLMは医療特化AIを上回るのか？ ベンチマーク解析が示した最新エビデンス - The Medical AI Times",
-    "seen_at": "2026-08-26T03:42:10.844002+00:00"
-  },
-  "b811846aaad48b2603a40b7954a4510fddb33af5d823224d479cc45e3afd76af": {
-    "title": "「肯定ばかりではつまらない」シャープ「ポケとも」に“おれさま”登場 生成AIの「人格」を別キャラクターにした理由 1枚目の写真・画像 - ロボスタ",
-    "seen_at": "2026-08-26T03:42:10.844006+00:00"
-  },
-  "0ac262bd04403c6d4d75a751a09f5760da4ce32cc9db6e83d841284126bb85a5": {
-    "title": "ピー・シー・エー[9629]：【生成AIを業務活用する経営者・役員102名調査】お金に関わる実務、4割超が「1件の誤りも許さない」 2026年8月26日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-    "seen_at": "2026-08-26T03:42:10.844009+00:00"
-  },
-  "7627edde4b4d04ecff01b85b7dbc311685c748166c7232bd856dbd8a74df33ee": {
-    "title": "Autodesk、Flow Studioに「3D Editor+Canvas」を導入。生成AIで意図通りの演出と精密なコントロール - pronews.com",
-    "seen_at": "2026-08-26T03:42:10.844013+00:00"
-  },
-  "a8dc93446c365aec77cf10b89b807ba3600312b3b83ade5e0b557f17bc0299fe": {
-    "title": "【生成AIに関する親子への認識調査】子どものスマホ・タブレット利用は1日平均95分！日々のアイデアだしに「AI利用」も半数超 - PR TIMES",
-    "seen_at": "2026-08-26T03:42:10.844016+00:00"
-  },
-  "afc9b2bdc70c9a23e957ac66c3a84c7b214bbf555466777c8fb0e2acdf5820d1": {
-    "title": "NSSOL、生成AIの活用とデータ連携で問い合わせ応対を高度化するコンタクトセンター向けソリューション「NSRelato」 - Yahoo!ニュース",
-    "seen_at": "2026-08-26T03:42:10.844019+00:00"
-  },
   "95edee69a4a8b1b24bd18f7ed0de2a006243138d8a1d48fca61a44226ee6dc3d": {
     "title": "【1,000万件の視聴データ白書】「生成AI」は定着フェーズ、「DX」「両立支援」は激変。企業研修トレンド2026年度版を公開！ - PR TIMES",
     "seen_at": "2026-08-26T03:42:10.844023+00:00"
@@ -11998,5 +11918,85 @@
   "15808c7a3fc2af266dfbcbf73b0f685dad08f3ed003f018e6ae4d60b15b45daf": {
     "title": "Any proper benchmarks of Beellama (and its fork Beellama-kvarn) and how it performs quality wise for coding?",
     "seen_at": "2026-09-12T19:44:13.945633+00:00"
+  },
+  "1c537bba321f454cf32e7d1eba3f109becf67ed2c39a3125a814567b6c0aa1a3": {
+    "title": "生成ＡＩで効率化へ 郡山でデジタルスキル講座 - 47NEWS",
+    "seen_at": "2026-09-12T22:40:44.095529+00:00"
+  },
+  "9746660181fa65376b45712a2b21f9a53bf154144478f9ddbcb39a2a3831785e": {
+    "title": "生成ＡＩで効率化へ 郡山でデジタルスキル講座 - 福島民報デジタル",
+    "seen_at": "2026-09-12T22:40:44.095536+00:00"
+  },
+  "a705a60bb3a28fab27c2bf61d3f1e08e3919def288903b9fcd670947ab477eba": {
+    "title": "生成ＡＩ 大学生の９割が利用 リポート・就活… 「思考力伸びず」指摘も - 岐阜新聞デジタル",
+    "seen_at": "2026-09-12T22:40:44.095541+00:00"
+  },
+  "c29b09de031c75052b286b3adc0e24c9cdc6a513bb2fc9625a83f9e0540a3b81": {
+    "title": "歩数計から「行動変容エンジン」へ…生成AIヘルスケア、グーグル・アップルvs国内勢 - UQライフ",
+    "seen_at": "2026-09-12T22:40:44.095544+00:00"
+  },
+  "840c12c559f62bd77ea4e375f057313820bb193a7ec6a489ac33434cc9d81e17": {
+    "title": "KimiとDeepSeekがユーザー入力をClaudeに転送してその答を盗用？ - アゴラ 言論プラットフォーム",
+    "seen_at": "2026-09-12T22:40:44.613677+00:00"
+  },
+  "3419b6917a67eb862ad24492f7b2aa8d303330e07f91c448412fdaa0d8ccbd62": {
+    "title": "出会い系の相手はAIだった 4700超の偽人格、2万5000人と会話 - CNET Japan",
+    "seen_at": "2026-09-12T22:40:44.613683+00:00"
+  },
+  "86244bcbfd8b208b036755d88a90d213e5e8b256e3aaa2c0916c3a4f046ec674": {
+    "title": "アンソロピックの脅威レポートで報告された中国系AI企業「不正蒸留」事案に関するレポート - さっつーのAIエージェント",
+    "seen_at": "2026-09-12T22:40:44.613686+00:00"
+  },
+  "8a5a7dabf79e81ac0f9168ed228ba7fd8504c8f4bd0d579bfdf819215da9ad43": {
+    "title": "OpenAIのIPO、年内は実施しない-アルトマン氏がフォーチュン誌に語る（Bloomberg） - Yahoo!ニュース",
+    "seen_at": "2026-09-12T22:40:45.084542+00:00"
+  },
+  "8ff358726abdd0d75cd5f5e688956b50fbdf20898f88ea7e9e3a4d4be3349e55": {
+    "title": "OpenAIのIPO、年内は実施しない-アルトマン氏がフォーチュン誌に語る - TBS NEWS DIG",
+    "seen_at": "2026-09-12T22:40:45.084547+00:00"
+  },
+  "8860b2f5495d4cbd4a3e3909b87f092a5b02d7176a245b8c307cdf651993c7e5": {
+    "title": "OpenAIエージェント、Hugging Face侵害の約2カ月前にRubyGemsへ500超の悪意あるパッケージをアップロード - BigGo ファイナンス",
+    "seen_at": "2026-09-12T22:40:45.084550+00:00"
+  },
+  "413aa5e502877207cff677d93dfff59cfc094c2306b5d73fb4ff7e92f4c1b51d": {
+    "title": "Anthoropic CEOが「AI開発の減速」提言 OpenAIアルトマン氏、イーロン・マスク氏も賛同 - CNET Japan",
+    "seen_at": "2026-09-12T22:40:45.084554+00:00"
+  },
+  "e9d6978e15b123cd3e452c57d601cb6b0263dba71237d54328c7e2bd1f68a68c": {
+    "title": "OpenAI、Codex実行技術「ハーネス」を電撃公開…エージェントインフラ競争に火 - BigGo ファイナンス",
+    "seen_at": "2026-09-12T22:40:45.084557+00:00"
+  },
+  "008564ee7e3a6d72f7ee5f6b2cdf28ddd4c403a78ba0e5a5bb469f8f4cf153b6": {
+    "title": "OpenAIのアルトマンCEO、2026年のIPOを否定――AI安全性を優先 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-09-12T22:40:45.084560+00:00"
+  },
+  "04fa318717d01ca0da9d1e6c0f7567fb31b8efa9174848a3b6cdd29096e5ea5b": {
+    "title": "Claude Codeでなぜ異変、「旧モデルのほうが良い」が続出…AI進化で起きた逆転現象 - ビジネス+IT",
+    "seen_at": "2026-09-12T22:40:46.218705+00:00"
+  },
+  "72c04f27a9e0c9ddcf2d1946c50cf71104be43d9179d5c3d363804240009cc5d": {
+    "title": "Metaがパーソナル AI エージェント「Muse」を発表、メール送信や旅行予約に加えユーザーの目標達成を自律的にサポート - dime.jp",
+    "seen_at": "2026-09-12T22:40:46.218710+00:00"
+  },
+  "6e6506fe82a739e147d784742c612467d2deb3b702832cc4bea3f3dd8ef8277f": {
+    "title": "This seems more probable than it was before.",
+    "seen_at": "2026-09-12T22:40:47.312759+00:00"
+  },
+  "9e0cf4774686054af8de3b90be2e127da83a8acbd51575647eae94bad7b473af": {
+    "title": "Real-SWE Benchmark (new)",
+    "seen_at": "2026-09-12T22:40:47.312766+00:00"
+  },
+  "0d0e27a20500f6e09d29d753ca00f2af14064341e1e7b1badef85fa467585fd6": {
+    "title": "Qwen3.8 Flash Next now at 1.2k t/s prefill on Strix Halo",
+    "seen_at": "2026-09-12T22:40:47.312770+00:00"
+  },
+  "b1b389b20673fb21ee65544d7f2ece8b8be258e6213bd06108b59b3917aad4a5": {
+    "title": "Can someone point me in the right direction of what model(s) to look at for a newer user?",
+    "seen_at": "2026-09-12T22:40:47.312775+00:00"
+  },
+  "f92fa7c3a0228fc668358841f61428eee87c2cd98a9a71caa60495f4df14117a": {
+    "title": "What pi.dev plugin do you suggest for context, compaction and memory management of local models?",
+    "seen_at": "2026-09-12T22:40:47.312779+00:00"
   }
 }
