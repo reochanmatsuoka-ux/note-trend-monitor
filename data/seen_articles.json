@@ -1,68 +1,4 @@
 {
-  "8b7aac6186ee2090421b6c75d07c37f854e3f05017da76fcdd60872d19d72e22": {
-    "title": "Qwen3.8 27b FIM support?",
-    "seen_at": "2026-08-25T21:15:14.559496+00:00"
-  },
-  "7ed93a6bca39355b11f35aa0509045eeef7459e0a8230009119935572eeee0b1": {
-    "title": "グーグル、企業向け生成ＡＩ基盤に法律業界用の新機能追加 - ロイター",
-    "seen_at": "2026-08-26T00:30:37.438096+00:00"
-  },
-  "218a7c2c4ed7f84f78b95904e1de89f365b3b328936ed50bb6bda074b2519a3f": {
-    "title": "「Jetson Orin Nano 2」は推論性能が2倍、エッジ生成AIもリアルタイム処理可能：人工知能ニュース - MONOist",
-    "seen_at": "2026-08-26T00:30:37.438103+00:00"
-  },
-  "e0d80b34bbc4ac38c2ad9d9046f5dfa32b937ea078d0f16d9db3295bcd6c9e38": {
-    "title": "JCB、アプリで詐欺メール診断 生成AIが判定 不正利用防止へトレンドマイクロと連携 - 産経ニュース",
-    "seen_at": "2026-08-26T00:30:37.438107+00:00"
-  },
-  "cf2ec1a92634ecd9544948bed50c5d9b5bcc3547e9165249eb82797f961798e0": {
-    "title": "「肯定ばかりではつまらない」シャープ「ポケとも」に“おれさま”登場 生成AIの「人格」を別キャラクターにした理由 - ロボスタ",
-    "seen_at": "2026-08-26T00:30:37.438110+00:00"
-  },
-  "d5a396aedcdee25383af842fb80d35c575b49197d40628f41a9bfebed491f288": {
-    "title": "【調査】生成AIがおすすめする企業の実態調査。6本以上の比較記事に載る会社は「おすすめ」されやすかった - PR TIMES",
-    "seen_at": "2026-08-26T00:30:37.438114+00:00"
-  },
-  "748a745b9f0e87df5158bfaf23843b9768feb2464e553816c14192a3d0c1dd70": {
-    "title": "【最新調査】生成AI導入率が44％に倍増？それでも活用が進まない“5つの業務”（ビジネス＋IT） - Yahoo!ニュース",
-    "seen_at": "2026-08-26T00:30:37.438118+00:00"
-  },
-  "d7b5809414616df725e32120fa5420c21fa83b46c47860e725cf01ea2bb4ed93": {
-    "title": "Bodyfriendの生成AIマッサージ、業界初の韓国標準協会「AI+」認証を取得 - BigGo ファイナンス",
-    "seen_at": "2026-08-26T00:30:37.438120+00:00"
-  },
-  "6c8f51b3e71b97751e4dfa06fde6ebc802fe206d003e31ee42ece95eace14bc2": {
-    "title": "生成AI活用研修で全校生が専門性とAIを融合するスキルを習得 - Koubo",
-    "seen_at": "2026-08-26T00:30:37.438125+00:00"
-  },
-  "ce53bce422cadcfc35acf595a7999590238e8c91bef6a46be29fc9bedce1baa9": {
-    "title": "【東京都北区×生成AI】夜間・土日の「電話がつながらない」をゼロへ！戸籍住民課で挑む24時間365日AI電話応対の実証実験 - DXマガジン",
-    "seen_at": "2026-08-26T00:30:37.438127+00:00"
-  },
-  "f7f32cb363d1362295d01717933e685d88cc0793d44b39dd492c97e63e6e1c84": {
-    "title": "グーグル、企業向け生成ＡＩ基盤に法律業界用の新機能追加 - Infoseek",
-    "seen_at": "2026-08-26T00:30:37.438130+00:00"
-  },
-  "00da7d704fbe9f967f5b20e9df49a02e95db639ac18c2206604758f7864867aa": {
-    "title": "Anthropicによる「Claude」への電子透かし導入を巡る議論--その本質とは - Yahoo!ニュース",
-    "seen_at": "2026-08-26T00:30:38.121269+00:00"
-  },
-  "243661461e6d6fea292db90a2ad3f6bf98ad03b1d5739eb71bd3fab7de2c0088": {
-    "title": "クリエーションライン、Anthropic社公式認定資格「Claude Certified Architect — Foundations」の有資格者が2名誕生 - PR TIMES",
-    "seen_at": "2026-08-26T00:30:38.121274+00:00"
-  },
-  "5e41c0898c0ee51004ef048a15a9140deb51bb6aab18ee1b576360a50a325dd7": {
-    "title": "AnthropicがClaudeに導入した「見えない透かし」の実像と、教育現場が直面する課題 - Forbes JAPAN",
-    "seen_at": "2026-08-26T00:30:38.121277+00:00"
-  },
-  "af46c0580af50514efc7f642558571f4bec625296d00d75b97ce223621a3131c": {
-    "title": "Anthropicによる「Claude」への電子透かし導入を巡る議論--その本質とは - ZDNET Japan",
-    "seen_at": "2026-08-26T00:30:38.121280+00:00"
-  },
-  "d35b864d2cb10f8116a22771d61c120fe088d27b099a80f46f40af6fd9b17424": {
-    "title": "Anthropic、無料学習サイト「Claude Academy」公開 Claude CodeやMCP、AIの能力と限界まで学べる - Ledge.ai",
-    "seen_at": "2026-08-26T00:30:38.121303+00:00"
-  },
   "c2b13cc3e6e2299f6630c9af575465dde2636915bc226482145d24bcc9cd6e3f": {
     "title": "OpenAI の広告事業はどこへ向かう？ 年収8000万円求人から見る成長戦略 - DIGIDAY［日本版］",
     "seen_at": "2026-08-26T00:30:38.636928+00:00"
@@ -11998,5 +11934,69 @@
   "48c30530570b83672269e9b488b540c14b1bfacb22ee2b43d8725a177dc86e5f": {
     "title": "Someone made DSV4.1 run faster than official API on A100(s)",
     "seen_at": "2026-09-12T12:27:10.239640+00:00"
+  },
+  "40506b3a9c460e1e1802c98571af67f9def7439b36d8a79601ce23546b5cc6f7": {
+    "title": "レベルファイブ新作ゲーム映像が生成AI製で代表が謝罪など 日刊出版ニュースまとめ 2026.09.13 - HON.jp",
+    "seen_at": "2026-09-12T17:28:37.169086+00:00"
+  },
+  "71ece451b1405c55b52147c83d07c72b46d7bd57ca0aed79d02daa725a4f03d3": {
+    "title": "『イナズマイレブン』『妖怪ウォッチ』のレベルファイブ、発表会での生成AI使用疑惑に代表が謝罪「発表を華やかにしたかった」 - 玩具人 TOY PEOPLE",
+    "seen_at": "2026-09-12T17:28:37.169094+00:00"
+  },
+  "4ec5423ef8d1f58f96d70f324551db4f3cf06c842203406d054c092d4d13e71d": {
+    "title": "サム・アルトマン氏：OpenAIはAI開発の減速に前向き - IDNFinancials",
+    "seen_at": "2026-09-12T17:28:38.107084+00:00"
+  },
+  "b4769855baa6573e4e74ca3aee3e8f85189634e4508ce0553cdeee24ff838583": {
+    "title": "OpenAIの会長が、世界的な「インターネットスター」2社のために土地を確保するために巨額の資金を投じた。 - Vietnam.vn",
+    "seen_at": "2026-09-12T17:28:38.107090+00:00"
+  },
+  "6b06db89523d82f4a0798eb08e21853d98c9998300a5074da819189752a26e54": {
+    "title": "AIエージェントでサイトを制作する7ステップとおすすめツール10選 - AINOW",
+    "seen_at": "2026-09-12T17:28:39.136125+00:00"
+  },
+  "3f4c6f336404badae59e5f93649e9c5c37490bb1aec56a1d5f5b1d749999e214": {
+    "title": "誰もがAIエージェントを持つ時代に何が起きるのか - forbesjapan.com",
+    "seen_at": "2026-09-12T17:28:39.136130+00:00"
+  },
+  "9cca0a7095059f78a873b79f694a250ab85e2aadd82621eb4d858291786e4f17": {
+    "title": "bartowski/Qwen3.8-27B-GGUF · Hugging Face - Updated (Per-tensor layout)",
+    "seen_at": "2026-09-12T17:28:49.434713+00:00"
+  },
+  "18cd74a4cb620fcd648391f8a39c8e057dedc6ef112c028b3318193bfec28bb9": {
+    "title": "Looks like a coordination to stop distribution of intelligence",
+    "seen_at": "2026-09-12T17:28:49.434718+00:00"
+  },
+  "a6cfae99729a311c3bae51db17eb58f4aaa85fbbb46ac29e104241b9dabfb6ff": {
+    "title": "For those of you forced to only use open models from Western labs in production, what are you deploying?",
+    "seen_at": "2026-09-12T17:28:49.434722+00:00"
+  },
+  "4efc05c398f03661582aa0bac606ce65df276be26fbc6636df9c591a055f90ab": {
+    "title": "tencent/AuK-Flash · Hugging Face",
+    "seen_at": "2026-09-12T17:28:49.434725+00:00"
+  },
+  "1cb787ff459112c08e225d21ef31c0d57c991ab5454fca9346974563312a63a6": {
+    "title": "Releasing smolbenchmark: Helps you choose the best model for your hardware!",
+    "seen_at": "2026-09-12T17:28:49.434729+00:00"
+  },
+  "91ad84f8af12a6847991baeb1ca83e7fbec42178d2379020eed90a416a10d4ee": {
+    "title": "Intel Linux NPU driver only now officially supports Ubuntu 26.04 LTS",
+    "seen_at": "2026-09-12T17:28:49.434732+00:00"
+  },
+  "39468ba1d764db28479543ea297b77a009a21700bd383b16b83500b472f4e6fc": {
+    "title": "This draft model is OP on 16 GB cards for Qwen 3.8 27b",
+    "seen_at": "2026-09-12T17:28:49.434735+00:00"
+  },
+  "936031eaa55158279fb38d1c2e36c4dd26200b7d0ebb9b488e5ce5793d496753": {
+    "title": "M2 Ultra/Qwen3.8 Flash Next Update - latest oMLX introduces substantial speedup",
+    "seen_at": "2026-09-12T17:28:49.434738+00:00"
+  },
+  "9abdf206a03f5ae74f389e99b3542ea428d982390037e4a3b361612ff50f8796": {
+    "title": "2×RTX 3090 + EPYC box running qwen3.8-flash-next at ~38 tok/s",
+    "seen_at": "2026-09-12T17:28:49.434741+00:00"
+  },
+  "93981b65fc4450815cd0a94df32ed34c80a87244e23f5bfc9c4c34703b732b0a": {
+    "title": "How to automate long running tasks?",
+    "seen_at": "2026-09-12T17:28:49.434743+00:00"
   }
 }
