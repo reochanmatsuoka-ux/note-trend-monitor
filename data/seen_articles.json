@@ -1,36 +1,4 @@
 {
-  "301834669c12c8dc788158c414c96affbc53d0a9b6429296c5a693453e72bdcf": {
-    "title": "Slackのようなチャットツール上でAIエージェントと一緒に仕事をする／2026年8月26日／耳で学ぶAI、ロボシンク - グロービス学び放題",
-    "seen_at": "2026-08-26T06:24:22.664998+00:00"
-  },
-  "b5a4aedfb9885fb2709106273ae7fd71ef751d9a9d49a3df4412eb3cdbea8047": {
-    "title": "ナレッジ運用をAIエージェントが自動支援、自己解決率向上を実現する「Knowledge Doctor」を提供開始 - PR TIMES",
-    "seen_at": "2026-08-26T06:24:22.665002+00:00"
-  },
-  "9cbc91021b7b15f8a5fa5ecd5c65830423cb8757d066abc898cab95c7ff4227a": {
-    "title": "【2DAYS・8時間】1名から参加できるClaude Code超実践コースを提供開始 - PR TIMES",
-    "seen_at": "2026-08-26T06:24:22.665008+00:00"
-  },
-  "418f629b074077fe70eaf6b25125658dc1680539b333d01570101b851a13a778": {
-    "title": "「AIエージェントを本番運用中」日本が最下位 “PoC止まり”の原因と、抜け出す方法は？ - ITmedia",
-    "seen_at": "2026-08-26T06:24:22.665010+00:00"
-  },
-  "2fa11e9ce0a6da6f9c84bd22b3411aee5103b26e84e302f74b2e1d1783995f39": {
-    "title": "「散らばる AI を、手のひらから指揮する」myagent、ベータ提供を開始。別々の PC の Codex / Claude Code を 1 画面で、無料 - valuepress",
-    "seen_at": "2026-08-26T06:24:22.665015+00:00"
-  },
-  "419b04804eb16015a3901b5faef95badb6b253e9c97ba5b311cd480208e985ce": {
-    "title": "「わが社のAI社員が15万人?」...退職もせず権限を握る「ゾンビ・エージェント」の襲来 - 매일경제",
-    "seen_at": "2026-08-26T06:24:22.665019+00:00"
-  },
-  "607297fecd851984c62608c6e6cd695bfe898f29a76f909a6d01b5d4ddd24098": {
-    "title": "SailPoint、人間・非人間・AIエージェントのアイデンティティを統合的に保護し、セキュリティの死角を排除 - ニコニコニュース",
-    "seen_at": "2026-08-26T06:24:22.665022+00:00"
-  },
-  "0cd7059033ae04ebdee2d8037bc1710bd50e195fb5092384f938622cafbb3cff": {
-    "title": "Ubase、顧客対応を自動実行するAIエージェントを商用展開 - 디지털투데이",
-    "seen_at": "2026-08-26T06:24:22.665026+00:00"
-  },
   "89b149206c3ecc923ae62055aebba669b293fbc660169748384812366b290d4d": {
     "title": "XOP、「AIエージェントDXPO東京'26【夏】」田中亮大の専門セミナーに申込みが殺到。約500名の事前申込にて、満員御礼 - ニコニコニュース",
     "seen_at": "2026-08-26T06:24:22.665030+00:00"
@@ -11998,5 +11966,37 @@
   "781d6173e4d7927c131c6a43e5262da336e66b7551276b4b462474340ffb2a44": {
     "title": "What are you guys running on an M5 Pro 64gb?",
     "seen_at": "2026-09-13T17:45:19.078825+00:00"
+  },
+  "e2808527dff1adb39e13e8ace5f68a337d8a16de23d2733d531f04bbaba575de": {
+    "title": "ディープシークとムーンショット、クロードの回答を自社生成と偽装か──アンスロピックが指摘 - Yellow.com",
+    "seen_at": "2026-09-13T19:55:38.795721+00:00"
+  },
+  "01ca980f3f42dd9dec87dcf919bca1cf611ef9358f3aea8769acfb5c3a1dd06d": {
+    "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+    "seen_at": "2026-09-13T19:55:44.403974+00:00"
+  },
+  "a061c44f7783dde2c2d605809cfbfc21508b59eba1164962c7474601ea9405aa": {
+    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+    "seen_at": "2026-09-13T19:55:44.403981+00:00"
+  },
+  "cc1c9f5e0ae058124c8d0e91219352a18a27e67628dcb397f28db62eee8b75d3": {
+    "title": "Plot twist",
+    "seen_at": "2026-09-13T19:55:45.044044+00:00"
+  },
+  "4b5e05bce6463f3797923f57a0497cf07dafec99aaab14c31f06f09502875008": {
+    "title": "Aurora1.0-150M Releases!",
+    "seen_at": "2026-09-13T19:55:45.044050+00:00"
+  },
+  "3f5a99728c8a9213d582b8bc90c37875df7c3552e49a0199555c66edd10ed356": {
+    "title": "Talk me out of buying a 3rd Spark",
+    "seen_at": "2026-09-13T19:55:45.044054+00:00"
+  },
+  "dac52500284b4cf4f5305f59e00fec89ae707d2cfcbc716a3aeb4da8de787b26": {
+    "title": "I have just moved from MacBook M5 pro 48 GB to RTX3090",
+    "seen_at": "2026-09-13T19:55:45.044063+00:00"
+  },
+  "66b6bf56ac7cbf9bf170272b58d5727c2c3f44a751f71b8b174740566b9729b5": {
+    "title": "Grandma harness for GPU challenged?",
+    "seen_at": "2026-09-13T19:55:45.044066+00:00"
   }
 }
