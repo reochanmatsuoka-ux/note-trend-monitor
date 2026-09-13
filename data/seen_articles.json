@@ -1,60 +1,4 @@
 {
-  "6bb01e6462af2e0346581298dd001dced931bd3e140a84b0c79ebf8a10d853ec": {
-    "title": "Claudeのメモリがチャットとcoworkで共通化。もう説明し直さなくていい - ゴリミー",
-    "seen_at": "2026-08-26T06:24:20.885809+00:00"
-  },
-  "33e0016652f63fa906a631870c6db5ef5dc4365b8284de980073ff579c2ed161": {
-    "title": "ChatGPT Work、ログイン必要なサイトも操作可能に 「パスワードは一切見ない」 - ITmedia",
-    "seen_at": "2026-08-26T06:24:21.522911+00:00"
-  },
-  "dfeb0e953535cada27835058b14cc7e744f05a4b9fa6575612c950306c9810c3": {
-    "title": "ソフトバンクＧ－続伸 ＯｐｅｎＡＩ関連の資金調達で最大200億ドルの起債検討と伝わる(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "seen_at": "2026-08-26T06:24:21.522917+00:00"
-  },
-  "e90965657ad5f029a7a70e7176850f8a5be2426689b78f5a75b418acc741c2ae": {
-    "title": "マネックス証券、主要証券会社初「ChatGPTプラグイン」対応サービス提供開始。自然な会話で資産を確認 - AIsmiley",
-    "seen_at": "2026-08-26T06:24:21.522920+00:00"
-  },
-  "21026b9f23f894c0ec72102dd9ad69a683ba0993f4f812d4990e54f5e2b33a80": {
-    "title": "「日本オンライン詐欺対策アライアンス(JASA)」本日設立。Google、トレンドマイクロ、Meta、OpenAI Japan、TikTok Japan、マッチ・グループ等の主要企業や業界団体が結集 | 一般社団法人トラスト＆セーフティ協会のプレスリリース - PR TIMES",
-    "seen_at": "2026-08-26T06:24:21.522923+00:00"
-  },
-  "6449d5309b8b82e09430ebe6b03d7e84255fb6cacd389b63e7604ebf9ac84e1d": {
-    "title": "【ラシン調査レポート Vol.2】企業のAI活用実態調査 ChatGPTが48.7％で最多、一方で26.2％が「AIツールを利用していない」 - PR TIMES",
-    "seen_at": "2026-08-26T06:24:21.522931+00:00"
-  },
-  "5b851795b38112f267dd4b281308bda4e85920714f3fbf754b08664e2c295daa": {
-    "title": "ソフトバンクG、OpenAI関連の資金調達で最大200億ドルの起債検討 - Bloomberg",
-    "seen_at": "2026-08-26T06:24:21.522937+00:00"
-  },
-  "622494f27e791cb73008a030f9f769932d6c14ea459f89f1950cc349ca37c3cf": {
-    "title": "ソフトバンクG、OpenAI投資の借り換えで最大200億ドルの社債発行を検討 - BigGo ファイナンス",
-    "seen_at": "2026-08-26T06:24:21.522941+00:00"
-  },
-  "e912b8116007b0a7cf2b0a74a3f5f327a0df99bbbe80ee12383281401a31783b": {
-    "title": "ソフトバンク、OpenAIローン借り換えに最大200億ドルの社債発行を検討 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "seen_at": "2026-08-26T06:24:21.522944+00:00"
-  },
-  "b3f7e5a30cbc2b508861eca9d80c36496aeb7510dafe110a3d8fb033de5d08cc": {
-    "title": "OpenAIがカスタム推論チップ「Jalapeño」のベンチマーク結果を公開、高スループットと低レイテンシを単一アーキテクチャで両立 - GIGAZINE",
-    "seen_at": "2026-08-26T06:24:21.522955+00:00"
-  },
-  "e063cd1fbcaf0f966f5a2c935235d3b105bc91e38f0c00e73195684b6f4b5147": {
-    "title": "OpenAI自社AIチップ年内投入 性能でNVIDIA上回る - CHOSUNBIZ - Chosunbiz",
-    "seen_at": "2026-08-26T06:24:21.522958+00:00"
-  },
-  "f7d9e8fa7b234dff341c80d2f09ecb9b4113fa131a64b3f44a95167cb404ac01": {
-    "title": "Ask Pixel連動？Gemini「デバイスのヘルプ」展開 - jetstream.blog",
-    "seen_at": "2026-08-26T06:24:22.104031+00:00"
-  },
-  "f3282ac5b9bb25fe4f52440941dfaad495324e33cb67ffb33cad8c728863271c": {
-    "title": "Google Cloud、金融・法務向け「Gemini Enterprise」をプレビュー提供 - 디지털투데이",
-    "seen_at": "2026-08-26T06:24:22.104037+00:00"
-  },
-  "3be122dd6e5149ba88943b88f0bc6517ba70d26f08a6eba4d1bbc3edaaf094e0": {
-    "title": "AIエージェントは「人間を超えるリスク」Box決算が映す企業AI導入の現況 - ストレイナー",
-    "seen_at": "2026-08-26T06:24:22.664991+00:00"
-  },
   "301834669c12c8dc788158c414c96affbc53d0a9b6429296c5a693453e72bdcf": {
     "title": "Slackのようなチャットツール上でAIエージェントと一緒に仕事をする／2026年8月26日／耳で学ぶAI、ロボシンク - グロービス学び放題",
     "seen_at": "2026-08-26T06:24:22.664998+00:00"
@@ -11998,5 +11942,61 @@
   "c757c8220de1583230bd41f8478e27aedbaf91209875ee7909537f0401740558": {
     "title": "I built a local way to export, search and continue chats from OpenRouter, LM Studio and AI Studio with llama.cpp or OpenRouter",
     "seen_at": "2026-09-13T13:29:29.163409+00:00"
+  },
+  "e9f67659f68b87d4f314da8de79d2f42335886ab27f5a2466992282f35af6a74": {
+    "title": "マーケター必見 生成AIスキルマップがランキング1位に - 日経クロストレンド",
+    "seen_at": "2026-09-13T17:45:15.378345+00:00"
+  },
+  "552525099f0310045abef527960098fef8370b3ab0317ea03539701e229c3d5e": {
+    "title": "米国も利上げか？原油高インフレ再燃～来るかAIショック｜大橋ひろこ - note",
+    "seen_at": "2026-09-13T17:45:16.587872+00:00"
+  },
+  "f037c3a6157322b8b85e750404bdb62d1d15a180e6f44780eb148f8dcaf4ab39": {
+    "title": "OpenAIの音声AIが「待ち時間」をなくした — 料金は1分あたり$0.05 - Martin Cid Magazine",
+    "seen_at": "2026-09-13T17:45:16.587878+00:00"
+  },
+  "35c982f072ee8ea5e03f32b031fea1c8bfa6ef70e9fe54ab3c5f3a09db8f315e": {
+    "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に - Publickey",
+    "seen_at": "2026-09-13T17:45:17.931998+00:00"
+  },
+  "b7c973a1afb86ce52acfb82eb27fbf8ab75f44c483c160928a5209c6e25de7c8": {
+    "title": "オフィスアプリの中に、いつの間にかAIエージェントが住みついていた - ニコニコニュース",
+    "seen_at": "2026-09-13T17:45:17.932004+00:00"
+  },
+  "c22208ff5e9c56bca6a50f2ed992873605a40a95587f5a5fb1dbcba7050484ca": {
+    "title": "Hoping for Optimized Smarter Upcoming Models .... Like DeepSeek-V4.1-Flash( KVCache + Engram) in Small/Medium/Big sizes",
+    "seen_at": "2026-09-13T17:45:19.078797+00:00"
+  },
+  "2475d343750252e28c081335b7e825eef2493567d37567df8dd65f99ea704a2c": {
+    "title": "Migration from Claude Code to a private local harness. Questions.",
+    "seen_at": "2026-09-13T17:45:19.078804+00:00"
+  },
+  "e3880938bebea4ee3ece632527f1dffebfb148e016b95f41ead7a0acfbd385d3": {
+    "title": "My experience building 64GB VRAM AI SWE assistant/agent PC",
+    "seen_at": "2026-09-13T17:45:19.078807+00:00"
+  },
+  "4cbdc998f8982914048e6dcf00230b9eaf96a72e9838efca9183d24d98704dee": {
+    "title": "Qwen3.8 flash next - untrained svg generation",
+    "seen_at": "2026-09-13T17:45:19.078810+00:00"
+  },
+  "2a0a23752a15ee719cc123c6d5f93946b748feca682c3f2372faf8ec771eeffb": {
+    "title": "Qwen 3.8 27B UD-IQ4_XS even faster on 16GB CUDA",
+    "seen_at": "2026-09-13T17:45:19.078813+00:00"
+  },
+  "708c0563ec3be56d0a5509d720c4ecfc52c78dcfd89a69ad2d4b5c0fcbe20675": {
+    "title": "Dear 24G owners, try VLLM you might be able to run Qwen3.8 27B INT4, 144K FP8 KV on RTX 3090 with better speed. (TLDR VLLM AOT)",
+    "seen_at": "2026-09-13T17:45:19.078816+00:00"
+  },
+  "e7a2412a5389897813c4283901b7d1f3af4a64615e5a33ac8008bda41edb3080": {
+    "title": "Trump says not to slow down AI development",
+    "seen_at": "2026-09-13T17:45:19.078819+00:00"
+  },
+  "4fa1ddaa51f6868381a45c2ed093f876d17a2f4c8308655dea0c91c7cbd941b3": {
+    "title": "3k$ 128GB VRAM + 256GB RAM DDR4 Server",
+    "seen_at": "2026-09-13T17:45:19.078823+00:00"
+  },
+  "781d6173e4d7927c131c6a43e5262da336e66b7551276b4b462474340ffb2a44": {
+    "title": "What are you guys running on an M5 Pro 64gb?",
+    "seen_at": "2026-09-13T17:45:19.078825+00:00"
   }
 }
