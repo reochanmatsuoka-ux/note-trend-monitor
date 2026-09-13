@@ -1,84 +1,4 @@
 {
-  "7a07ba8d9ba5ba524b91d33fd4440f045402b31424617536e16afc762081b49b": {
-    "title": "【セミナー開講・第1回開催レポート＆次回予告】ピープルドット、「AIエージェント時代のデータ＆AIガバナンス」全4回セミナーを開講！ - PR TIMES",
-    "seen_at": "2026-08-26T03:42:12.782662+00:00"
-  },
-  "a66b7a9131a113fa94ef605ad439a2d1d3fa806df5e01b87ed3dd3d922ed6f84": {
-    "title": "サーバーワークス－4日ぶり反発 「AI駆動開発伴走支援サービス」刷新 Claude Codeなど活用(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "seen_at": "2026-08-26T03:42:12.782667+00:00"
-  },
-  "fc759b0558eb092d99e0c10aabc94efa388cb136f24b1bb214bc8ea73e2bdf84": {
-    "title": "ロングライフパンの製造・販売を手がける株式会社コモ、受注業務のAI活用に向けPoCを実施──「コゾカAI 受注AIエージェント」で約90％を「自動化可能」と評価 - PR TIMES",
-    "seen_at": "2026-08-26T03:42:12.782673+00:00"
-  },
-  "97a1ac168f3654ff9f17cb59cec357a01a346493866f9056b0610b78913ae3e3": {
-    "title": "NTTドコモ、現場主導のデータ管理は定着したのか――自作AIエージェントが直面した意外な現実 - マイナビニュース",
-    "seen_at": "2026-08-26T03:42:12.782676+00:00"
-  },
-  "a34fd001b0cde8193ad0179dd1856dfa37308c95f796a277eb8bb16cc3353fa3": {
-    "title": "「ローカルを既定」に変えたPerplexity、DGX Spark向けAIエージェントを公開 - XenoSpectrum",
-    "seen_at": "2026-08-26T03:42:12.782678+00:00"
-  },
-  "508f53ab68af165b3b025bd722b5e9d438fbbdf4d7038447abfddd6e1cd20fe1": {
-    "title": "【Gemini月間利用者10億人突破】“AIに話しかける時代”に、自社のデータは「探せる」状態にあるか？『AI - ニコニコニュース",
-    "seen_at": "2026-08-26T03:42:12.782681+00:00"
-  },
-  "ba28b029a39e2c0a02434b241c149d5a402c98244b78acb9d0aa35dd7185034e": {
-    "title": "Fully quantized NVFP4 Qwen3.8-27B with QUASAR QAD",
-    "seen_at": "2026-08-26T03:43:17.761089+00:00"
-  },
-  "b15f4c6217b90dbc1e7dbb1d3fab54f57b710a9b264552af5c1a44036af31ef1": {
-    "title": "Thomson Reuters releases Thomson-1.0-Small. A law and tax focused model",
-    "seen_at": "2026-08-26T03:43:17.761094+00:00"
-  },
-  "038d3cf45bcd3e73ecd55625a17ecb9c435ba872e5688b8272fb4e6153d0fc76": {
-    "title": "生成AI基盤「Private AI Platform on PRIMERGY」で「tsuzumi 2」を活用可能に - 株式会社インプレス",
-    "seen_at": "2026-08-26T06:24:20.382489+00:00"
-  },
-  "5e03cae1609300b82dc8542473916a90538ec2b6ffa979fa885aa0ec8256578e": {
-    "title": "エフサステクノロジーズとNTT西日本 オンプレ生成AIで「tsuzumi 2」利用へ 純国産LLM、9月から提供 - 電波新聞デジタル",
-    "seen_at": "2026-08-26T06:24:20.382499+00:00"
-  },
-  "2146a4b95f9f4b1bf623bf715f23b2a9805ac8ddb89d1a01f0b6e21c34bde9d0": {
-    "title": "生成AI導入率44.0％、1年でほぼ倍増｜企業の活用は文書業務が中心 - amusement-japan.co.jp",
-    "seen_at": "2026-08-26T06:24:20.382505+00:00"
-  },
-  "648e4dcdbbd90c3c90f8fb76b312e9a87d50d1db2532e72ed665b66e40f28e9d": {
-    "title": "アップル新型Mac、ローカルAI界隈で話題になったワケ（アスキー） - Yahoo!ニュース",
-    "seen_at": "2026-08-26T06:24:20.382508+00:00"
-  },
-  "37d5e2689dd39a8d952b89213a487082baa147521193efd28e3f602506bab422": {
-    "title": "ゼロクリック・生成AI時代へ。GLAM、一次情報を軸にメディア戦略を強化 - PR TIMES",
-    "seen_at": "2026-08-26T06:24:20.382511+00:00"
-  },
-  "807039fa16b74207fb99b283894a2f9d9930322d216a4e30a7639a207b6d6628": {
-    "title": "生成AI「Safe AI Gateway」、画像・図表も活用できるマルチモーダルRAGを搭載 - 時事ドットコム",
-    "seen_at": "2026-08-26T06:24:20.382517+00:00"
-  },
-  "61d2726f96518e64f6ee0c9a7b331be54aee0bd7974e3cfabd5128c051d0c5dd": {
-    "title": "東大松尾・岩澤研究室、無料の「大規模言語モデル講座2」受講者を募集中 - 窓の杜",
-    "seen_at": "2026-08-26T06:24:20.382523+00:00"
-  },
-  "4971db682c9ee78a6faa4c17c68fcad26b0c92406f0164f4593e2b3d28b0c9f5": {
-    "title": "生成AI時代、管理職は「何を教え、何を評価するのか」 - ニコニコニュース",
-    "seen_at": "2026-08-26T06:24:20.382526+00:00"
-  },
-  "eca2c62fe8cee325c81ad4dcce8e538052cadb658caa746ff31d3e0d99e624be": {
-    "title": "lmessage、「2026年版 マーケティング・集客 生成AIカオスマップ」に掲載 - ニコニコニュース",
-    "seen_at": "2026-08-26T06:24:20.382533+00:00"
-  },
-  "bbc1e54fb62d30fdcafa1cf76d34c75a5c52a665d9314761b8ab6ac37e410496": {
-    "title": "生成AI「Safe AI Gateway」、画像・図表も活用できるマルチモーダルRAGを搭載 - Excite エキサイト",
-    "seen_at": "2026-08-26T06:24:20.382536+00:00"
-  },
-  "2686113758bf2575c36d0904a2f73cb5265c522be88aeaed006ffbed4ca54add": {
-    "title": "AIエージェントの実力左右する「ハーネス」 LLM単体では測れない理由 - 디지털투데이",
-    "seen_at": "2026-08-26T06:24:20.382558+00:00"
-  },
-  "10336abf75a57b31f2b7d25021cdbe9aa3d7168ee5ecc13e6b2587e9158daff8": {
-    "title": "Anthropic、AI市場は30兆ドル超と予測 - SpaceX想定を上回る規模に - マイナビニュース",
-    "seen_at": "2026-08-26T06:24:20.885804+00:00"
-  },
   "6bb01e6462af2e0346581298dd001dced931bd3e140a84b0c79ebf8a10d853ec": {
     "title": "Claudeのメモリがチャットとcoworkで共通化。もう説明し直さなくていい - ゴリミー",
     "seen_at": "2026-08-26T06:24:20.885809+00:00"
@@ -11998,5 +11918,85 @@
   "24076f65b6fbc1a3ced70f2f5051b9e3f5fda5fd0c71ed751d6af7daf6ed843c": {
     "title": "Need some advice on a QEMU-based VM manager with AI integration",
     "seen_at": "2026-09-13T07:41:45.922590+00:00"
+  },
+  "743b97d97720fa4c44fec24b9df1f5f99e8bd0b0444d2511882f6739a35acdc8": {
+    "title": "【参加募集】生成AIで学びはどう変わる 教育現場の挑戦者たちが「未来の先生フォーラム」で語る - 朝日新聞",
+    "seen_at": "2026-09-13T13:29:25.468512+00:00"
+  },
+  "1c4286c9ad02971518761b2251402d0d26b1875b0fafd8717a5af999cc611df8": {
+    "title": "大規模言語モデル研究開発センターが公開した視覚AI「LLM-jp-4-VL 9B」、Opus 4.8に肉薄するマルチモーダルAI「DeepSeek-V4-Flash-Vision-Exp」など生成AI技術5つを解説（生成AIウィークリー） - テクノエッジ TechnoEdge",
+    "seen_at": "2026-09-13T13:29:25.468518+00:00"
+  },
+  "c5947ddfeda7a8cbdcb2ee2f1716a8c4fbc9d90d12f781ca5c2047a81a0833da": {
+    "title": "「スロップ・ジハード」──生成AIが生み出した、ミーム・プロパガンダの不穏な進化 - WIRED.jp",
+    "seen_at": "2026-09-13T13:29:25.468521+00:00"
+  },
+  "061b25c5d2deb32df7ddc26f6353e2775a717ab91b94cc0e91ad2be6554c15b1": {
+    "title": "大規模言語モデル研究開発センターが公開した視覚AI「LLM-jp-4-VL 9B」、Opus 4.8に肉薄するマルチモーダルAI「DeepSeek-V4-Flash-Vision-Exp」など生成AI技術5つを解説（生成AIウィークリー） - UQライフ",
+    "seen_at": "2026-09-13T13:29:25.468525+00:00"
+  },
+  "9e59da10227ea883b08591864d5356941127a90ee4ac3fe3a000f7f6f3e1e490": {
+    "title": "「派手にしたかったから」——レベルファイブが認めたAI映像騒動、日野社長の釈明の中身 - shiritomo",
+    "seen_at": "2026-09-13T13:29:25.468527+00:00"
+  },
+  "5f32d454c48d761b68a28ee49e9232e045e5112d35f0d44355bb50360cc25d8e": {
+    "title": "Anthropic、AIモデル「Claude」による4件目の不正アクセスを発表 - マイナビニュース",
+    "seen_at": "2026-09-13T13:29:26.040113+00:00"
+  },
+  "38fe06a43386ef09400109fe154d776fefcbbfb29635b4e0446a0a8e97e9dc84": {
+    "title": "AIモデルが強くなるほどHarnessは複雑化する？OpenAIとAnthropicのエンジニアが意見対立 - BigGo ファイナンス",
+    "seen_at": "2026-09-13T13:29:26.040118+00:00"
+  },
+  "a69d0caeb9fbf46b27142e26e0a51dbe28aeb1ed51e8b7f2b1a4c1bc99c3ddda": {
+    "title": "アモデイのエッセイ、AIとRSIを減速させる計画を明らかに - Pasquale Pillitteri",
+    "seen_at": "2026-09-13T13:29:26.040121+00:00"
+  },
+  "dad4dadaf8301c17497a8b1149677abb941873c91f80c48951a4e17341a87c13": {
+    "title": "OpenAIもAI開発の協調減速に向け調整か、米議会に法的指針求める - sbbit.jp",
+    "seen_at": "2026-09-13T13:29:26.690700+00:00"
+  },
+  "f832ff9cd59766e5a658e3f493ba17e46dd83fc95ceb2a2325df2127c95d412c": {
+    "title": "速報：OpenAI CEOのサム・アルトマン氏が発言 「以前から申し上げている通り、当社はIPOを急いでいません。... - Moomoo",
+    "seen_at": "2026-09-13T13:29:26.690706+00:00"
+  },
+  "1cc20d9d1b1b037e1fa030b384c81e5ce6557d1b346941fda10adba38055d373": {
+    "title": "OpenAI、9月10日にChatGPT WorkのData agentを発表 - quasa.io",
+    "seen_at": "2026-09-13T13:29:26.690709+00:00"
+  },
+  "16af942c863b07d2588a10992946bb68021e1cbd02fd35941396b099b49e11a5": {
+    "title": "ChatGPTに相談するとそのまま商品が買える！？AmazonとOpenAIが組んだ「会話しながら買い物する」新体験 - dxmagazine.jp",
+    "seen_at": "2026-09-13T13:29:26.690711+00:00"
+  },
+  "1ed2ce6bb5a5d79a884f4cdcf4247de93da1928b981244adc304ba498673703a": {
+    "title": "OpenAI、「GPT-Live-1」をAPI提供　聞きながら話す全二重音声をアプリに実装可能に - zaikei.co.jp",
+    "seen_at": "2026-09-13T13:29:26.690713+00:00"
+  },
+  "6dbc982d8f7e04f6ef5cc4a421d6b6c8c66b0ee8ed707a60499c679b5e725011": {
+    "title": "The Local LLM community feels like the golden era of the internet all over again",
+    "seen_at": "2026-09-13T13:29:29.163394+00:00"
+  },
+  "122d6170f031f721287b44d940ce3c8a434030f4d148466470986ba96bea5c91": {
+    "title": "internlm/Intern-S2 · Hugging Face",
+    "seen_at": "2026-09-13T13:29:29.163399+00:00"
+  },
+  "7ce3d9ee8a306209a7238d50ffb7dbc89694b983b27e9afa5e7812391239147c": {
+    "title": "The rhetoric is really heating up!",
+    "seen_at": "2026-09-13T13:29:29.163401+00:00"
+  },
+  "54af0dc47c437b96546b0d37f7c8e3e0c5aae5fb3535bcd2e5c5ce888a7a33b2": {
+    "title": "What are the top AI Models that are still relevant today from 2024 and 2025?",
+    "seen_at": "2026-09-13T13:29:29.163403+00:00"
+  },
+  "1299547c1d2b1474f482d5d385083a708436d1e19f1f66c8fae14d150a737230": {
+    "title": "How does Qwen 3.8 27B compare on low thinking mode to the older 3.6 models?",
+    "seen_at": "2026-09-13T13:29:29.163405+00:00"
+  },
+  "270e25b35ddd8ca51da8dbd4fe5e1371c6f08f647d1bc3d68f987afd43a88c6c": {
+    "title": "llm performance community metric",
+    "seen_at": "2026-09-13T13:29:29.163407+00:00"
+  },
+  "c757c8220de1583230bd41f8478e27aedbaf91209875ee7909537f0401740558": {
+    "title": "I built a local way to export, search and continue chats from OpenRouter, LM Studio and AI Studio with llama.cpp or OpenRouter",
+    "seen_at": "2026-09-13T13:29:29.163409+00:00"
   }
 }
