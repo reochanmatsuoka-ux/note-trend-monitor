@@ -1,132 +1,4 @@
 {
-  "eebaee5fe656f41346be374e2a9db036f7e6951d13ed06dd145020a522055ba7": {
-    "title": "【9/29開催】製造業のAI投資を成果に変える「全社DX」実践ロードマップウェビナー ~外観検査AIの複数拠点展開 × 機密データを守る生成AI活用の最適解 - ASCII.jp",
-    "seen_at": "2026-08-27T08:11:27.777300+00:00"
-  },
-  "0e8bba0df9db0881f6cb6d06737e03f6e773ffe88009adfc41b4946d5a030370": {
-    "title": "生成AIで歯科医院の業務効率化。好評につき「歯科医院のAI活用術」第2弾を9/9（水）に開催。 - ニコニコニュース",
-    "seen_at": "2026-08-27T08:11:27.777302+00:00"
-  },
-  "a733c5fdbd9ad44539d63e03cf9c739d5d4e32659dfd0bae0b7fc590d460353d": {
-    "title": "【情シス担当者向け無料セミナー】「生成AIで情シスの仕事は、なぜ減らないのか？実態調査から読み解く、社内ヘルプデスク再 - ニコニコニュース",
-    "seen_at": "2026-08-27T08:11:27.777304+00:00"
-  },
-  "466a1395952a5ca06d5bbd5d582959d9697e48a9e986ca6fe324b08fc8440610": {
-    "title": "Anthropic、有料プラン向け「Claude in Chrome」を一般提供 - 株式会社インプレス",
-    "seen_at": "2026-08-27T08:11:28.467502+00:00"
-  },
-  "6b2c7ca7fbdac00bbaa4e495f40767167b09c8cc9d5ffdccac99a4ee52a81500": {
-    "title": "「Claude Cowork」に内蔵ブラウザー、「Claude in Chrome」も全プランで一般提供／エージェントのWeb操作に2つの選択肢 - 窓の杜",
-    "seen_at": "2026-08-27T08:11:28.467507+00:00"
-  },
-  "29f2ee35b851611a1ff7b130580dc400834a2e409a7af019c605fd2ca777048f": {
-    "title": "ChatGPT は欧州でどう広告を出す？ OpenAIが「同意」にこだわる裏事情 - DIGIDAY［日本版］",
-    "seen_at": "2026-08-27T08:11:29.219778+00:00"
-  },
-  "e470694d6bc960a70025e30492c08dd92e754782b2d390b06d8f067250e417d6": {
-    "title": "OpenAI、影響力工作に使用されたロシアのChatGPTアカウントを停止 - 株式会社マキナレコード",
-    "seen_at": "2026-08-27T08:11:29.219781+00:00"
-  },
-  "54fbdb9744ed1c5de6d18ccf2955712697a565e23fb7431ccc1f58910460e09d": {
-    "title": "OpenAI、年末までに社内AGI達成を目標——Astraモデルが自律的研究能力を示す - BigGo ファイナンス",
-    "seen_at": "2026-08-27T08:11:29.219784+00:00"
-  },
-  "64e0064c2b3efb0abe3ed6e0a0b22f4594393167b509db6e2a0f6ab2bf60beaf": {
-    "title": "OpenAIがHugging Faceを誤ってハッキングしてしまった件で分析結果を報告、隔離された複数のエージェントがお互いの存在を発見するところから壮大な協力作戦が始まる - GIGAZINE",
-    "seen_at": "2026-08-27T08:11:29.219786+00:00"
-  },
-  "2c3874c960afdf26e3c51361bc0fe83a197c7f5ddcb5be4f484bc5b6f2c5bf81": {
-    "title": "OpenAI自社チップ「ハラペーニョ」、NVIDIA GB300を大幅に上回る性能に - PC Watch",
-    "seen_at": "2026-08-27T08:11:29.219787+00:00"
-  },
-  "b6feb3d32c4672261b04cc910c924647a1b5f30c53da27e5b574c013c592d4f5": {
-    "title": "OpenAIが暴走事故の技術報告書公開、AIエージェントが非許可経路で連携し外部サーバーに侵入 - BigGo ファイナンス",
-    "seen_at": "2026-08-27T08:11:29.219789+00:00"
-  },
-  "3545c2f5093eafa9b9bbaf9ae21e26a6f8b633c3e1e745e03c8413b093fb0df2": {
-    "title": "OpenAIは2026年末までにAGIと呼ばれるシステムを開発するだろうとサム・アルトマンCEOが回答 - GIGAZINE",
-    "seen_at": "2026-08-27T08:11:29.219791+00:00"
-  },
-  "36abdd12ddf714d852bd14d7f8e182fe1848e97f944be82da26a9de7bd6c262a": {
-    "title": "OpenAI独自推論チップ「Jalapeño」、Nvidia「Blackwell」比で電力効率最大1.9倍　測定条件には留意 - 財経新聞",
-    "seen_at": "2026-08-27T08:11:29.219793+00:00"
-  },
-  "984cfefae01c688355c86f211d90382c09445af005ce87e1670794293fa399a6": {
-    "title": "OpenAIのサム・アルトマンが語る「この1年」 - Anthropicへの遅れ、Hugging Face侵入事件、そしてAGIへの道筋 - ｄメニューニュース",
-    "seen_at": "2026-08-27T08:11:29.219795+00:00"
-  },
-  "5731a154b51e0dbcc76f75b712735c84d1e9bae48e963260c872cdeb99912cc7": {
-    "title": "ChatGPT依存から脱却するには？マユリカ中谷や蝶花楼桃花、解決策を一行で提示 - ナタリー",
-    "seen_at": "2026-08-27T08:11:29.219797+00:00"
-  },
-  "2d5f9712b24050f3a73118d83ca2f3ba73b9b2e48d518d96f5c1d8ff11944392": {
-    "title": "OpenAI、AIモデルによる外部システム侵害を公表 何が起き、どう対策するのか - 千葉テレビ放送",
-    "seen_at": "2026-08-27T08:11:29.219800+00:00"
-  },
-  "3ee037036e6053a94dd7c6d49a0e055171defe67e7e658f873d07389772c5b22": {
-    "title": "OpenAI、約700のAIエージェントがHugging Faceを侵害した全容を公開 - XenoSpectrum",
-    "seen_at": "2026-08-27T08:11:29.219801+00:00"
-  },
-  "8fbb3aaf1bcc6af306a1a76969d615c43a10da6d6f0bd9713469e9d89b98544b": {
-    "title": "OpenAIエージェント1200体が組織的犯行 ハギングフェイスと自社サーバー侵入 - CHOSUNBIZ - Chosunbiz",
-    "seen_at": "2026-08-27T08:11:29.219804+00:00"
-  },
-  "22aa5de3ae1fb9234dfcbaf9592d653847ea5b37cb543f7084ac1ffa094e2a74": {
-    "title": "「Google Workspace」の「Gemini」が操作可能なコンテンツを使った回答を生成可能に（窓の杜） - Yahoo!ニュース",
-    "seen_at": "2026-08-27T08:11:29.745867+00:00"
-  },
-  "71c183193067dd19a375da9c7122da2c291ac94264965c4bb9faf92759e1754e": {
-    "title": "Google、「Gemini 3.5 Transcribe」を発表 ～「あー」「えーっと」まじりの声も話者の意図をくんだ整ったテキストに（窓の杜） - Yahoo!ニュース",
-    "seen_at": "2026-08-27T08:11:29.745870+00:00"
-  },
-  "12969d02059a69f5a7c13926523167104d6ad5344db7790c0241618365295991": {
-    "title": "「あー」「えー」などを自動削除しつつリアルタイムで文字起こししできる音声認識モデル「Gemini 3.5 Transcribe」をGoogleが発表 - GIGAZINE",
-    "seen_at": "2026-08-27T08:11:29.745872+00:00"
-  },
-  "a7450206cf2e7f4867ddcfe7892593f977df11079ae3ab2af9315aa6c474c9b7": {
-    "title": "金融・法務向け「Gemini Enterprise」登場 業界特化AIを提供 - Impress Watch",
-    "seen_at": "2026-08-27T08:11:29.745874+00:00"
-  },
-  "dedffaf20b434d4c25bec190670861aef3541f85905798b22faeb89656292f26": {
-    "title": "グーグルが音声認識AI「Gemini 3.5 Transcribe」発表、言い淀みや雑音も自動補正 - ケータイ Watch",
-    "seen_at": "2026-08-27T08:11:29.745877+00:00"
-  },
-  "afd84a558cc1ddfc286305afb49bcb3af960a09f71379a8513becd55d8947745": {
-    "title": "「Ask Photos（フォトに相談）」AIエージェント化へ【アプリ解析】 - jetstream.blog",
-    "seen_at": "2026-08-27T08:11:29.745879+00:00"
-  },
-  "a2a04cf3570eb09a4b8155ada901ceefdfb41858bb9d8963764ea7d81374785a": {
-    "title": "CloudflareがAgent Memoryを発表、AIエージェント用マネージド永続メモリサービス - infoq.com",
-    "seen_at": "2026-08-27T08:11:30.310438+00:00"
-  },
-  "9e5d81dea65c2e458ba10bd7497600a7f65493184af65500004ca20d379a85bc": {
-    "title": "グーグル、「Pixel 11」シリーズにAIエージェントを見張る機能Android Haloをもたらす - Forbes JAPAN",
-    "seen_at": "2026-08-27T08:11:30.310441+00:00"
-  },
-  "d761ea5ac99c6e2af566e948fa1c11922c8b025e8444ad284fe978297bb67da2": {
-    "title": "Agentic AI Foundation、AIエージェント連携のオープン標準を確立へ The Linux Foundation傘下、MCPやA2A議論 - 週刊BCN＋",
-    "seen_at": "2026-08-27T08:11:30.310443+00:00"
-  },
-  "05ef957306114f5b84101689aabd29f2f3130b536dbf7840ba3648d75c542618": {
-    "title": "NTTデータ、AIエージェントの安全な活用に向けたVDIサービスを提供へ - 週刊BCN＋",
-    "seen_at": "2026-08-27T08:11:30.310447+00:00"
-  },
-  "00e4bec9bb239da014966f259d9515602c65fe4e8ba38c445b7d3a591ef492af": {
-    "title": "【無料オンラインセミナー】「ランチタイムに学ぶ、Claude Codeの『スキル』入門」を9月7日開催 - PR TIMES",
-    "seen_at": "2026-08-27T08:11:30.310449+00:00"
-  },
-  "9cf7ed091fd4094a6839e439c99b59c4636da2d14bb0ddeafb77044a9884f4e3": {
-    "title": "Perplexity、DGX Sparkに最適化されたローカルAIエージェントをリリース - 株式会社インプレス",
-    "seen_at": "2026-08-27T08:11:30.310452+00:00"
-  },
-  "1ea28a38e0306cc27933b39d26abf8f4bd380f69f197aa2223d11a660b729f2a": {
-    "title": "花王、需要計画立案を支援するAIエージェントを開発～「KATE」で導入、データ活用で需要計画を高度化 - 週刊粧業オンライン",
-    "seen_at": "2026-08-27T08:11:30.310454+00:00"
-  },
-  "6d1217a754293035abdf7d6dbbc377ad4fd9504a16c5277157db81ef98277552": {
-    "title": "「AIエージェントのセキュリティ技術」を学べるハンズオントレーニング、三井物産セキュアディレクションとChillStackが提供開始 - 時事ドットコム",
-    "seen_at": "2026-08-27T08:11:30.310457+00:00"
-  },
   "50bbf01981521641cfee724f5c59af0f9d960906f7db28871c5bb15a51c8dc92": {
     "title": "UiPath、Claude CodeやCodexで業務フローを開発・本番展開できる「Maestro Flow」発表 - ｄメニューニュース",
     "seen_at": "2026-08-27T08:11:30.310459+00:00"
@@ -11998,5 +11870,133 @@
   "717bceab4cae800faeaa967eab4bd9ec1e9ae66138d179d27da9aa900f1a897a": {
     "title": "Open-source ASR for low-resource languages",
     "seen_at": "2026-09-14T15:18:38.774284+00:00"
+  },
+  "2845bbf96d48dc7f5a9a89a446272470f6bfff7792b16a668cc1b5f6f80400ec": {
+    "title": "「ブラック霞が関」なくなるか？長時間かかる国会答弁作成、生成ＡＩ活用へ - 読売新聞",
+    "seen_at": "2026-09-14T21:05:33.049157+00:00"
+  },
+  "98e0f6c3e3e7da7ac58ddc61dacc702ea281c6ef5c73d207198c69ad4a32a82a": {
+    "title": "生成AIで人は考えなくなる？ 言われるがままの悪影響から脱する活用の極意 - 日経クロステック Active",
+    "seen_at": "2026-09-14T21:05:33.049165+00:00"
+  },
+  "32f957b54567d8e8197201a0db1d41b2c9efdd8b92e59149e371461f156e9299": {
+    "title": "生成AI巡る協業支える マイクロソフトCTO ケビン・スコット氏 - 日本経済新聞",
+    "seen_at": "2026-09-14T21:05:33.049169+00:00"
+  },
+  "bcb1efe1190b41ae6ee3824fb5004ada14ca3e8ebb98631315dda7c44fe86231": {
+    "title": "【シンガポール】ＮＴＴデータ子会社、３社で生成ＡＩ白書発行［ＩＴ］ - 千葉テレビ放送株式会社",
+    "seen_at": "2026-09-14T21:05:33.049172+00:00"
+  },
+  "d713b3ed6d968f9eaa7db73c11fbfc74b433d0971c7d2a707791e6f3015aae42": {
+    "title": "セミナー開催│プレゼン資料作成力 ～AI時代に求められる！論理的構成術×伝わる図解・デザインの原則×生成AI活用法～ 10月20日 株式会社マーケティング研究協会 - Excite エキサイト",
+    "seen_at": "2026-09-14T21:05:33.049175+00:00"
+  },
+  "45736bdd97c910f099a7f31c33054abe203967e1568d7ad239fa73d37eba2acb": {
+    "title": "Anthropic、パートナーコネクタ搭載の金融アドバイザー向けClaudeを発表 - Unite.AI",
+    "seen_at": "2026-09-14T21:05:33.639766+00:00"
+  },
+  "928cadfe2d41fc4645643d40048cc1f745f7fcfbfb5e5c9deea691d8406fe2d5": {
+    "title": "OpenAI、Google、AnthropicがAIの共同管理について協議中か - Korben",
+    "seen_at": "2026-09-14T21:05:34.405932+00:00"
+  },
+  "1d7dd22ace457379f4923ed7287d10c5b1f96155f3c878482ff4b9cd1fd3ba0a": {
+    "title": "Anthropic、OpenAI、Googleが共同AI標準化機関を模索——安全性への警鐘が高まる中 - BigGo ファイナンス",
+    "seen_at": "2026-09-14T21:05:34.405938+00:00"
+  },
+  "23cd4a2d97130118c187c0f2317b409a93a7c8e85d21fd75ae3a7a52f4f0d500": {
+    "title": "データ保持懸念でAnthropicとOpenAIへの企業反発が拡大——報告書 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-09-14T21:05:34.405942+00:00"
+  },
+  "3de725bfe03630f57e5075007d8425350611a2c1a2b9a3c6e2cbe75d8d3a6982": {
+    "title": "エヌビディアとパランティア、データプライバシー懸念でAnthropic・OpenAIモデルの利用を制限 - BigGo ファイナンス",
+    "seen_at": "2026-09-14T21:05:34.405945+00:00"
+  },
+  "7a78cdd54f0189277cae1ba8a6f6cd688216c26419a74aff79176979a3666070": {
+    "title": "OpenAIがスマートフォンカメラのスタートアップ「Glass Imaging」を買収 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "seen_at": "2026-09-14T21:05:34.405948+00:00"
+  },
+  "0004e6d7a137c9c10a2f8567856404ee24d6d863863318a844f1d30a7e9c8318": {
+    "title": "マスク氏のXとxAI、アップルへの独禁法訴訟を取り下げ——OpenAIへの圧力は継続 - BigGo ファイナンス",
+    "seen_at": "2026-09-14T21:05:34.405950+00:00"
+  },
+  "1b224cd28f0f1fee859e376679dbb9141c5709452d6c5938bef2d733e3f9d12f": {
+    "title": "X Corp.、Appleに対する独占禁止訴訟を取り下げ、OpenAIに対する請求は維持 - Unite.AI",
+    "seen_at": "2026-09-14T21:05:34.405953+00:00"
+  },
+  "d23d7d6201a7e7cd641bfbe514148660ff5d9dc7eee5ace476c0dd7d9f3ddfb3": {
+    "title": "オープンAIのアルトマンCEO、連邦規制に先立ち自主的なAI安全基準の策定を呼びかけ - BigGo ファイナンス",
+    "seen_at": "2026-09-14T21:05:34.405956+00:00"
+  },
+  "0d94a457c66f2551b8e39b8b87c5d2d5f13204f175a8c05c4b28a3f368978056": {
+    "title": "トランプ大統領はなぜアンソロピックのダリオ・アモディCEOやOpenAIのサム・アルトマンCEOを叱っているのか？高市首相と東証プライム経営者が知らなければならないAI地政学の急変：全解説：経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔 - オルタナティブ・ブログ",
+    "seen_at": "2026-09-14T21:05:34.405959+00:00"
+  },
+  "cbd2ed15eff54c5dd0380fc54865b8f344a4c5530bbb2ddd555d785f2541b67e": {
+    "title": "「SaaSの死」は本当に終わったのか AIエージェントが奪うUIの存在意義 - 日経ビジネス電子版",
+    "seen_at": "2026-09-14T21:05:35.544551+00:00"
+  },
+  "43460e337ea256a836fcc770409e9583210871ea5c8d7eb430b09c7e400a44d9": {
+    "title": "頻繁な承認が生む“確認疲れ” 「MCP」を安全に使う権限管理とは：AIエージェントの権限をどう管理するか - TechTargetジャパン",
+    "seen_at": "2026-09-14T21:05:35.544557+00:00"
+  },
+  "8a01b8353547fb23e3734c6bfcf318f2a427efd638148dc94d1b30f175a4ab99": {
+    "title": "サラ・サンダース：「手」を持つAIエージェントは構造的にマルウェアと区別がつかない - BigGo ファイナンス",
+    "seen_at": "2026-09-14T21:05:35.544561+00:00"
+  },
+  "5854d1b7ce7d283deb4b8bea4c784de4ec4336ad0d0747fca845013f3a2e7e89": {
+    "title": "Superhumanが会議記録サービスFathomを買収、AIエージェントで業務を自動化 - Межа. Новини України.",
+    "seen_at": "2026-09-14T21:05:35.544564+00:00"
+  },
+  "4c45a1c5c4d8b5787305fdd23d6578d580e0aa893ff6defce8278d2d2eea411f": {
+    "title": "バックオフィスAIエージェント「カリスマAI」、Microsoft TeamsとLINE WORKSに対応 - Infoseek",
+    "seen_at": "2026-09-14T21:05:35.544568+00:00"
+  },
+  "4d9438008d08cf2ccf4a69d8c8309f2d25b57ac3dbabf46579d801daf0ff6f81": {
+    "title": "Salesforce、営業から返品対応まで担うAIエージェント群を発表 - 디지털투데이",
+    "seen_at": "2026-09-14T21:05:35.544571+00:00"
+  },
+  "baf3658e1d9c87c8b494d3b18d8716d1a38e89f9db15a6cbdba08c5990fb61ef": {
+    "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+    "seen_at": "2026-09-14T21:05:36.036962+00:00"
+  },
+  "b8848729dd65a60369fb410386d9214bee0589d95051c2d718816d9e305da79b": {
+    "title": "[Bi-Weekly Megathread] Project Showcase",
+    "seen_at": "2026-09-14T21:05:36.694161+00:00"
+  },
+  "deb665c4d68420c58a9ae89bbf40d87da05bc6542f04aff59cfb31cab20d70d8": {
+    "title": "UkisAI Swift-Qwen3.8-27B / -58.3% thinking, x1.95 speed while keeping the accuracy of xhigh",
+    "seen_at": "2026-09-14T21:05:36.694166+00:00"
+  },
+  "e51a6de76a3d4929f5748671457ab05b0781fa52b8140cfb74f63c14a14bc178": {
+    "title": "For the GPU poor. K2 Horizon 7B ranks between qwen 3.6 27B and qwen 3.6 35BA3b on the Artificial Analysis Intelligence Index.",
+    "seen_at": "2026-09-14T21:05:36.694169+00:00"
+  },
+  "65784a218aa731079975098c95ee82c7457731d48b005c50cebfd8c39b8ad797": {
+    "title": "Nvidia's RTX 5090 vanishes from online retail in the US — third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU",
+    "seen_at": "2026-09-14T21:05:36.694172+00:00"
+  },
+  "f40ac3a005b7b453bd7dd171c20443ae5a86f282eff30013d3c9b3bda0a42a72": {
+    "title": "NVIDIA Unveils RTX PRO 5500 \"Blackwell\" Workstation GPU with 84 GB GDDR7 Memory",
+    "seen_at": "2026-09-14T21:05:36.694176+00:00"
+  },
+  "06ba052cd0abb96ac791d01dc473855a9cb2d4e245baf8ba87d393c0998eb412": {
+    "title": "Are there any organizations that are lobbying in favor of open source AI?",
+    "seen_at": "2026-09-14T21:05:36.694179+00:00"
+  },
+  "067e37401e64fab362979b389c2f37bc30a59f6af4faaea21da25bde1dfb121d": {
+    "title": "Will we always have to rely on companies with the funds and resources to give us open models or can/will it be possible to democratize training for models capable of performing at or near the same level as the big closed ones in the future at some point?",
+    "seen_at": "2026-09-14T21:05:36.694182+00:00"
+  },
+  "cc1baafbd37d9473e75c433e7598b093f3a3422c10225ee9d92f5cc282ca12a2": {
+    "title": "Coding Agent running entirely in the browser with Pi + MiniCPM5-2B (webGPU)",
+    "seen_at": "2026-09-14T21:05:36.694185+00:00"
+  },
+  "114ead36dcdd4234a9e9e33446828a688be8e044fc0207de4917d1b86eee5707": {
+    "title": "What happened to AI browsers?",
+    "seen_at": "2026-09-14T21:05:36.694188+00:00"
+  },
+  "421fea4096e925d40b384383f07cbd90e02ae5f840e090a8d484ccffc8d780d3": {
+    "title": "Base-10's Charlie O'Neill on why Kimi and GLM are \"almost objectively\" better than Opus 5",
+    "seen_at": "2026-09-14T21:05:36.694190+00:00"
   }
 }
