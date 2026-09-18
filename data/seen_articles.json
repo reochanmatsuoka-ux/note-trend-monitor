@@ -1,36 +1,4 @@
 {
-  "80e14c0c751da689f1d92fe443ef71f0fb0a46e7300ef6b2a8f601f3db536871": {
-    "title": "Opencode vs Deepseek harness: my experience with Qwen 3.8 27b",
-    "seen_at": "2026-09-02T13:01:10.330932+00:00"
-  },
-  "c56363586d4ae172917e0ba597e1c8b163e642eabc9baf747c4b58e21284a013": {
-    "title": "LLMs: Intelligence vs. cost | OpenTeams",
-    "seen_at": "2026-09-02T13:01:10.330935+00:00"
-  },
-  "d9bb3fb32e77166b4b5b0eb5d13605e861b62bf5698a1dacb76c795bc1507356": {
-    "title": "Does anyone make an external GPU enclosure for 2Xdual slot cards?",
-    "seen_at": "2026-09-02T13:01:10.330938+00:00"
-  },
-  "360a84670a89319b69078b5a7d7d1c062dad22709463f8b4780dc190b4b4c8b3": {
-    "title": "I have Qwen3.6 27B on PC-1 and Qwen3.6 35B on PC-2, So they can run parallel. Which roles should I assign to them for agent codng?",
-    "seen_at": "2026-09-02T13:01:10.330942+00:00"
-  },
-  "5603004177b6eabe8421c09072adf3785f6f48dc73f2c809042bf4d7e9022ed4": {
-    "title": "ポケットサイン、全国初※の「マイナンバーカード（JPKI）×生成AI」で住民向け行政窓口サービスを提供開始（PR TIMES） - 毎日新聞",
-    "seen_at": "2026-09-02T18:10:19.829887+00:00"
-  },
-  "e596d1b09ef3b24e4b00079668755f75025c6f1cc857d05520f3a9fbf08dbbe0": {
-    "title": "トランプ政権がOpenAIを支持、記事を使ったAI学習は公正利用と主張 - Межа. Новини України.",
-    "seen_at": "2026-09-02T18:10:21.040289+00:00"
-  },
-  "5ab0ab6d6735dfa0ecd0771ed7df2fad7b2a354d08a7917690058fdbaeed4a23": {
-    "title": "「Gemini 3.8 Flash/3.8 Flash Cyber」正式発表 - jetstream.blog",
-    "seen_at": "2026-09-02T18:10:21.648933+00:00"
-  },
-  "aef4a329338d5871a3806ecc20c280bad1dcca04e3e50229555610ac6b119719": {
-    "title": "「AIに質問する」から「AIに仕事を任せる」へ--アップデイティット、創業20周年を機にAIエージェントへ事業の軸を拡大 - Infoseek",
-    "seen_at": "2026-09-02T18:10:22.258566+00:00"
-  },
   "f8891881b680c94ace659fe9ae8fab5c13fe8db0eda34fd633b418b32ca910d9": {
     "title": "非エンジニア組織が3日間で8つの実務アプリを開発アウトバーン、株式会社レニクスにて「Claude - ニコニコニュース",
     "seen_at": "2026-09-02T18:10:22.258572+00:00"
@@ -11998,5 +11966,37 @@
   "8f9a92a3e15a330c3829f1e810dfa1691d1acf45df4b8aeba22e3069e300b9dd": {
     "title": "tool-prune: prune 50+ tool schemas down to candidates in 0.4ms (-92% prompt tokens, zero deps)",
     "seen_at": "2026-09-18T17:56:10.589618+00:00"
+  },
+  "7c87817cf12d3825d4846f6a6efe020ecd1fbe92d52cfb5fbffa7e8c411da5a9": {
+    "title": "生成AIで、アニメ制作を効率化。プエンテ「AI Anime Factory」、企画から映像化まで最短1週間・従来コストの1/3〜1/2以下で提供開始 - PR TIMES",
+    "seen_at": "2026-09-18T20:05:58.020662+00:00"
+  },
+  "fac8ce2bc52a7e1f7c18b4c0d2039e37bf04eda15256621aad8dd3ae2c61b669": {
+    "title": "GoogleのAI部門支える全炳河氏 生成AIの到来、デビッド氏はサカナに - 日本経済新聞",
+    "seen_at": "2026-09-18T20:05:58.020668+00:00"
+  },
+  "1ee8432341059ad886428ba9825f8da0ee3160e806667ac6bff3a7a322965bac": {
+    "title": "『プロキシの「遅延・工事・高コスト」を解決｜シャドーIT・生成AI対策の落とし穴とは？』というテーマのウェビナーを開催 - Infoseek",
+    "seen_at": "2026-09-18T20:05:58.020675+00:00"
+  },
+  "57f108226e094421a5a7b149f38155b1bd8ccd41fc2e1a1fd567a375ea3e3095": {
+    "title": "OpenAI出身者のTypeSafe AIがJevを発表、文章を生成せず自動化を高速化 | ウクライナニュース - #Mezha - Межа. Новини України.",
+    "seen_at": "2026-09-18T20:05:59.072844+00:00"
+  },
+  "8f293007b5a6f819aa08b77af9db4df41002f6aa25eb58fafd2bcaa1413a4cb7": {
+    "title": "Is HF starting to move against abliterated models?",
+    "seen_at": "2026-09-18T20:06:02.003413+00:00"
+  },
+  "0c61416125d82d5cfd9a379b004783e2d2d4e025751b4389eb77abf09cdf9ce9": {
+    "title": "Built this yesterday with Qwen3.8-Flash-Next (NVFP4, 262K context) on a single NVIDIA DGX Spark",
+    "seen_at": "2026-09-18T20:06:02.003425+00:00"
+  },
+  "ee347898e6446ce73dbb10afa066ec0b062835f6d5c490bf72a8bfa9fcd5a739": {
+    "title": "MiniMax Code is now open source. Maybe M3.1 is the next thing to watch.",
+    "seen_at": "2026-09-18T20:06:02.003428+00:00"
+  },
+  "ea22598d8c84e0201457d0e7cafce2a624a3c7f6f654700b378e198b363d8771": {
+    "title": "Migrating from a R640 with passive cards",
+    "seen_at": "2026-09-18T20:06:02.003432+00:00"
   }
 }
