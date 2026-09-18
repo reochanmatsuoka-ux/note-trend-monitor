@@ -1,48 +1,4 @@
 {
-  "f8891881b680c94ace659fe9ae8fab5c13fe8db0eda34fd633b418b32ca910d9": {
-    "title": "非エンジニア組織が3日間で8つの実務アプリを開発アウトバーン、株式会社レニクスにて「Claude - ニコニコニュース",
-    "seen_at": "2026-09-02T18:10:22.258572+00:00"
-  },
-  "cba317831f78d69650587e7b67563de4cbaa4327f43e664f4b6a4475476aea74": {
-    "title": "GLM 5.3 Flash makes a black hole Minecraft mod running locally on 4x RTX PRO 6000 WS",
-    "seen_at": "2026-09-02T18:10:23.539142+00:00"
-  },
-  "2c633787a9bb4d1bf129173dbcc5fc5415e65ebaba8464875877208a56b6eeea": {
-    "title": "H3-World: Turning Language Understanding into World Control",
-    "seen_at": "2026-09-02T18:10:23.539147+00:00"
-  },
-  "5ae2d7dff6134c85835fb86123ed12beab1fae2a8f163aaafcd9fb31ec8488df": {
-    "title": "Vision support merged for DeepSeek-V4-Flash-Vision-Exp",
-    "seen_at": "2026-09-02T18:10:23.539150+00:00"
-  },
-  "5c20976ea9ecad9e3bad6064e7be984486a40587d23710c2e672172f10b4c568": {
-    "title": "Do we forget about another Qwen model for a while now ?",
-    "seen_at": "2026-09-02T18:10:23.539153+00:00"
-  },
-  "ffa5a33acb65e2aeba859eb9a5d9a241e4fdc512579454282a75e9db3e4f9814": {
-    "title": "Custom Model for Image descriptions ?",
-    "seen_at": "2026-09-02T18:10:23.539156+00:00"
-  },
-  "c6bc3d6da8fb0144e27ccf12cdab34e83fd2f052e582745ded8d8f218d3ee851": {
-    "title": "First local-LLM tuning attempt: Qwen3.8-27B true Q4_K_M at 13.2 tok/s near 50-61K context on RTX 5080 16GB",
-    "seen_at": "2026-09-02T18:10:23.539159+00:00"
-  },
-  "cd0c779cba2e6cd328aed33cca6e09209224ba13134254466798286cd8ed3de2": {
-    "title": "Quad R9700 AI Pro with vLLM-Radiance easily reaching 17,6k PP",
-    "seen_at": "2026-09-02T18:10:23.539163+00:00"
-  },
-  "1dc47417d31406b1d4cf58717b8674f347d9178a74e4056e14d81437f3b47511": {
-    "title": "福田汽車、電動化から生成AIまで7つの新技術 - LOGISTICS TODAY",
-    "seen_at": "2026-09-02T22:52:44.351460+00:00"
-  },
-  "f5d78539ac83a83b75c25afde25fd645eb0c9fe945c2cf71578ee0b37dd651c1": {
-    "title": "＜産経抄＞生成AIに「使われぬ」ためには、小中に「情報」学習 - 産経ニュース",
-    "seen_at": "2026-09-02T22:52:44.351465+00:00"
-  },
-  "5af281c89ee2daebc324eb05a32ec5c0c4f357fc6548c18adfa454a32fa3954c": {
-    "title": "法人向け生成AI eラーニングを個人でも。全19講座・90章以上を学べる「みんなのAI相談室 Solo」を9月3日より提供開始 - PR TIMES",
-    "seen_at": "2026-09-02T22:52:44.351467+00:00"
-  },
   "284b8e255d4686884ad82501c7d5ac966eb32b28cde9d19a2d8b0df6f4465ebd": {
     "title": "中学生以下の生成AI利用を原則禁止、NY市が新方針－影響検証へ - Bloomberg.com",
     "seen_at": "2026-09-02T22:52:44.351469+00:00"
@@ -11998,5 +11954,49 @@
   "ea22598d8c84e0201457d0e7cafce2a624a3c7f6f654700b378e198b363d8771": {
     "title": "Migrating from a R640 with passive cards",
     "seen_at": "2026-09-18T20:06:02.003432+00:00"
+  },
+  "cf52170a868f855ebee2c6c17cab74eccf700e057fecc910a61f6f90dac35d6a": {
+    "title": "生成AIでアニメ制作が激変！最短1週間・低コストで映像化 - Koubo",
+    "seen_at": "2026-09-18T22:53:19.297880+00:00"
+  },
+  "7acc4037548338cff2e053fd44127a6a791abcb13896eba6aabc04569573c8bd": {
+    "title": "Uravation代表 佐藤傑、JEITA - news.nicovideo.jp",
+    "seen_at": "2026-09-18T22:53:19.297889+00:00"
+  },
+  "0b07b001a13aae8035eadc0a55ce18dda5213c71a80ee0c2391bcb3f0db4f8a8": {
+    "title": "AIが「次の自分」に隠蔽を指示 米OpenAI、訓練中の不正行動6件を公開 - 株式会社エクサウィザーズ",
+    "seen_at": "2026-09-18T22:53:20.259794+00:00"
+  },
+  "afabd3c9489cf2342113a013fad4edc48a4fbae240446690212baf624910d8d5": {
+    "title": "ChatGPTのMac向け新機能に「データ丸見え」のリスク？ セキュリティベンダーが指摘：セキュリティニュースアラート - ITmedia",
+    "seen_at": "2026-09-18T22:53:20.259800+00:00"
+  },
+  "a6f25f40684929196d2e473813680b48c4b81876623b7d8313489f5be2755445": {
+    "title": "ClaudeでOpenAI社内コードに72時間未満で到達、画像処理と認証の欠陥が連鎖 - XenoSpectrum",
+    "seen_at": "2026-09-18T22:53:20.259804+00:00"
+  },
+  "ed0da0105ceea375b782ead77dfc337f35fc93c96beafd82bc40c848e6a509d9": {
+    "title": "ASUSとPoesis、調査・取引を行うAIエージェントを実証実験——ローカル展開をめぐる議論が浮上 - BigGo ファイナンス",
+    "seen_at": "2026-09-18T22:53:21.298342+00:00"
+  },
+  "6c14b513625323de813e707d95f1fff8c999de84a0e1e449a53408bac31e1d32": {
+    "title": "BLUEISH代表・為藤アキラ、「アーキテクチャConference 2026」に登壇 - STRAIGHT PRESS",
+    "seen_at": "2026-09-18T22:53:21.298348+00:00"
+  },
+  "f906a91032d841b5c1e483f16b6ecd02db84fb2fec378930c777d1282915149a": {
+    "title": "Musashino Valley AIアカデミア第4期、11月2日開講。参加者の募集開始 - news.nicovideo.jp",
+    "seen_at": "2026-09-18T22:53:21.298354+00:00"
+  },
+  "fe0db678805356ac0416fef807210e9002a9e7106cfc3a5857a3209aafe7472c": {
+    "title": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance",
+    "seen_at": "2026-09-18T22:53:22.534234+00:00"
+  },
+  "56e85526284b3195f5d4bb7faa0615e252163bc3ab7df6fc9ed822d9720c5a71": {
+    "title": "NGL, I’m hyped to see if Qwen3.8 27b can make me a sandwich. Instant buy for me.",
+    "seen_at": "2026-09-18T22:53:22.534239+00:00"
+  },
+  "ad3aaa7206207da080acfd9a4fb20b9328b5ae7b447c9c7a5d28ec436d88063c": {
+    "title": "Qwen3.8-Flash-Next (95.5 GiB) on a 64GB Mac at ~27 tok/s, checkpoint + fork",
+    "seen_at": "2026-09-18T22:53:22.534245+00:00"
   }
 }
