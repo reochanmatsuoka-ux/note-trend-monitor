@@ -1,100 +1,4 @@
 {
-  "23158240daff9531621db8a2f27c33915c0770a7ad4e09d2cc176ff7869a7811": {
-    "title": "セイノー情報サービス 国際物流総合展2026でAIエージェント×ロボットをデモンストレーション - PR TIMES",
-    "seen_at": "2026-09-03T01:40:10.359857+00:00"
-  },
-  "3291b2b2f592fdfe1a610a9ef62a884e1a8837f97fcfaf0111444638d072c92c": {
-    "title": "【Excelダウンロード】Claude Code「AI部下」を即戦力に育てる「神ワザ」10選 - ビジネス+IT",
-    "seen_at": "2026-09-03T01:40:10.359861+00:00"
-  },
-  "9708aa9cf67af10e8da289f9fc3f222377497c976e64dc6c3266b568e1eaa4d7": {
-    "title": "【企業のGRC調査】AI時代に問われる「参照元」の信頼性とデータガバナンス。AIエージェント利用・検証中、約7人に1人「規程・法令違反のリスクを経験」、約12人に1人「実際に会社の損害につながった」 - PR TIMES",
-    "seen_at": "2026-09-03T01:40:10.359865+00:00"
-  },
-  "5b3fea88a094fa8834a2ea9526986ee74fdc55cbdd11fc1f40b27a107cdfb897": {
-    "title": "人材派遣会社向け音声AIエージェント「ALICE」、面談に「WEB面談」を追加。電話AI面談はそのまま、派遣スタッフごとに電話／WEBを選べる形で9月より提供開始 - PR TIMES",
-    "seen_at": "2026-09-03T01:40:10.359867+00:00"
-  },
-  "c8b619f70cc4f659bf96207bc65b6977106e7d10c92cdd08e54eaa995f2090ce": {
-    "title": "Qwen3.8-flash-next sees corruption everywhere",
-    "seen_at": "2026-09-03T01:40:11.264297+00:00"
-  },
-  "2bff4b953d085f758cfae5b5e5d8026132c2600eb86d909825ebeaa47ebd4f2b": {
-    "title": "DeepSeek-V4-Flash vs. GLM-5.3-Flash on 2× DGX Spark",
-    "seen_at": "2026-09-03T01:40:11.264302+00:00"
-  },
-  "5b5abca905012a758788af461e6fe737e3c2610ea8a96c077126deb5a234747d": {
-    "title": "Chrome browser add-on that uses local LLMs to move thousands of unsorted bookmarks into a smart list of automatically calculated categories",
-    "seen_at": "2026-09-03T01:40:11.264308+00:00"
-  },
-  "ff0a71c4949beadc12187e0456f2d3a983fdd9fb2e5f765af9bbb7e0a7fc03f8": {
-    "title": "生成AIの活用率UPに向けて｜Ｓｋｙ Style Blog（スカイ スタイル ブログ） - skygroup.jp",
-    "seen_at": "2026-09-03T07:25:14.470166+00:00"
-  },
-  "703631eee17bec931fa1346131cef24d474ac7845ede04afa25fe1b7d61223be": {
-    "title": "製薬業界に押し寄せる「生成AI変革」の波 第四回 生成AIで変わる未来 ヘルスケア業界の行く末と製薬企業がすべきこと - ブレインパッド",
-    "seen_at": "2026-09-03T07:25:14.470174+00:00"
-  },
-  "bbd9cc05fded6f684d352372ae87f9c9a458c655e88822981bd26b6502df419e": {
-    "title": "ニューヨーク市、公立学校で生成ＡＩの利用を１年間原則禁止に…２歳児～中学２年対象・電子機器の閲覧時間も制限推奨 - 読売新聞",
-    "seen_at": "2026-09-03T07:25:14.470178+00:00"
-  },
-  "9e303681a3290a0b7f0c0e186d4248878ae794c226cd654e887686b41410ecc8": {
-    "title": "生成AIは“完全犯罪”を生成できるのか？「5秒で完全犯罪を生成する方法」重岡大毅の多彩な表情を捉えた新場面写真解禁！ - eiga.com",
-    "seen_at": "2026-09-03T07:25:14.470181+00:00"
-  },
-  "e02e27c6d25cd2e0a68bf5731e94919f332d89e2c2d17b5e23c3f529da364724": {
-    "title": "【AKARUMI】就活生の76.1%が生成AIを利用、企業・業界の情報収集にも37.2%が活用 - PR TIMES",
-    "seen_at": "2026-09-03T07:25:14.470184+00:00"
-  },
-  "69330c4a9baa7444e97371ce9da80ac42d3fa8478e43283cff20e0bf402e12f2": {
-    "title": "宮城県が生成AIの活用加速 業務効率化に威力も「過度な依存」に懸念 - 河北新報オンライン",
-    "seen_at": "2026-09-03T07:25:14.470187+00:00"
-  },
-  "e06e12dfe7cae5145202f1e140e208ce0d07cc0c592308ff7b8146918b83b16f": {
-    "title": "ジャイガとアドビから考える生成AI時代のクリエイティブ──音楽フェスは「観る場所」から「つくる場所」へ - OTOTOY",
-    "seen_at": "2026-09-03T07:25:14.470190+00:00"
-  },
-  "8cdd422f939dd4509f665f5e0e6b839475cb112c1eddfd5fff6d30d299935ab3": {
-    "title": "RTX SparkミニPC「ProArt GR1X」。120BのLLMをローカル実行 - PC Watch",
-    "seen_at": "2026-09-03T07:25:14.470193+00:00"
-  },
-  "034f16259faece7d9a1ab8725f1d95c0d1c2c9ad4509cb6b8d76d10f0546d704": {
-    "title": "3D生成AIを手がける「Tripo AI」が、シリーズBおよびシリーズB+のラウンドで約30億元（約690億）を調達 - Mogura VR",
-    "seen_at": "2026-09-03T07:25:14.470196+00:00"
-  },
-  "70531ef7dbaeaf4d124ef1d2c793d576cee31b13fc04f8c3c572d3d451eff060": {
-    "title": "「街の電器店」がピンチ、戦隊「カデレンジャー」参上…魅力ＰＲへ生成ＡＩ使いキャラ作成（読売新聞オンライン） - Yahoo!ニュース",
-    "seen_at": "2026-09-03T07:25:14.470200+00:00"
-  },
-  "ed7fdd7c95f27a5f98cc81ce9d3d97e9f4097ef0d5b7f3f240916873d1ea10e2": {
-    "title": "【マンガ】「生成AI画像で指が6本になる理由」「AI修正の不自然さと人的チェックの重要性」 - 画像生成AIの課題に注目集まる【ヤフコメで話題】 - Yahoo!ニュース",
-    "seen_at": "2026-09-03T07:25:14.470203+00:00"
-  },
-  "eda73c6bcc8d43311d9f3b4ef98aa14866ec1b1b41185fd67da30bdff09cda6b": {
-    "title": "生成AIは「一発正解」を目指さない。やり直しを前提とした新たな業務設計ループをAXerで提供開始 - PR TIMES",
-    "seen_at": "2026-09-03T07:25:14.470205+00:00"
-  },
-  "205af25b7b17315e8cfb6177777c2a3b0b3289e13b98a81c59a1d8b3d8b6a348": {
-    "title": "【対談インタビュー】城南信用金庫 林理事長とneoAI CEO千葉が語る、生成AIで再定義する地域金融 - PR TIMES",
-    "seen_at": "2026-09-03T07:25:14.470208+00:00"
-  },
-  "5bacc2cf15c2015ea6aabf61b896f396744145faf01dc03bd1624942e4198835": {
-    "title": "【2026.10.30開催】「旭川信用金庫」主催の生成AI活用セミナー 全国を飛び回る旭川出身のAI企業代表が「最先端の生成AI活用」を地元で実演 - 写真・画像(1/1) - 西日本新聞me",
-    "seen_at": "2026-09-03T07:25:14.470211+00:00"
-  },
-  "c2cf8e84c1d5258e034b7df78634c64fd474177e2df410c1be1e34e4eb0535f6": {
-    "title": "生活リズムの変化を生成AIが察知！LINEなどの対話から日用品の購入や家事の判断を自動サポートする最新スマートホーム - dxmagazine.jp",
-    "seen_at": "2026-09-03T07:25:14.470214+00:00"
-  },
-  "5fedd6cb600c50cf09c9358250486fc141272733d1a31524e4549adbbde29675": {
-    "title": "高校生と金沢工業大学の学生がスタンフォード大学を訪問。THINKプロジェクトの成果発表とスタンフォード大学発の学習環境「AI Tinkery」の視察を実施。生成AIに触れ、試し、対話しながら、自ら付き合い方を考える新たな学習環境の国内展開へ - u-presscenter.jp",
-    "seen_at": "2026-09-03T07:25:14.470217+00:00"
-  },
-  "bbf5cdb3734c64fa8b7ced3702cb46e6cec1a11bbb74e7f4ac9c1f1b1d529958": {
-    "title": "生成AI顧客満足度ランキング、総合1位はClaude -「生成の精度・クオリティ」などで高評価、ChatGPTは利用者最多も3位に - マイナビニュース",
-    "seen_at": "2026-09-03T07:25:14.470219+00:00"
-  },
   "64df973f2664372d292b72372ed376fc5a14c25a53d9777539098d8f6ac02020": {
     "title": "相模湖MORIMORIで駐車場混雑×来場者属性×生成AIのデータ活用実証実験を開始 - Infoseek",
     "seen_at": "2026-09-03T07:25:14.470222+00:00"
@@ -11998,5 +11902,101 @@
   "3862331532504a29a01253eb85cddfdd20e34c8c46db7e5a4e65dffc2d564e77": {
     "title": "Digit-logits-based classifier with llama.cpp",
     "seen_at": "2026-09-19T07:34:57.307038+00:00"
+  },
+  "fe95bac3d628a79f7e8800a5e085279dbe6b4dbb4d4f1f087cb597b0c8a50a29": {
+    "title": "生成AI「Gemini」試験中に企業3社のシステムに侵入（2026年9月19日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+    "seen_at": "2026-09-19T12:43:30.495518+00:00"
+  },
+  "40a81f7896d500c8e96f470e07b16b473a9f67c0a0d17368db10819cf3b8bfa7": {
+    "title": "「生成AIパスポート試験」に合格しました。 : ブログ : 八千代市議会議員 末永たかし - 公明党",
+    "seen_at": "2026-09-19T12:43:30.495525+00:00"
+  },
+  "17c7d3669ac3ce5f8751eed13f279f0c9e07988689bc9749156741d496e9456b": {
+    "title": "ゲーム開発に「ローカルLLM」を取り込む必然性とは？ メインメモリーの96GBをVRAM化するAI特化「DAIV」が示すPCの変革【TGS2026特集】 - 週刊アスキー",
+    "seen_at": "2026-09-19T12:43:30.495529+00:00"
+  },
+  "a39084777654eddcdd2165767ab09f69b757b6a69bf033243fbd3770aa908081": {
+    "title": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた - GIGAZINE",
+    "seen_at": "2026-09-19T12:43:30.495533+00:00"
+  },
+  "7e9665f921378e4db30e939a10b7805baa8cb3a50769e3082dd5c045179bf3fb": {
+    "title": "北区役所に「生成AIオペレーター」が登場！電話で24時間案内してくれるみたい。 - 赤羽マガジン",
+    "seen_at": "2026-09-19T12:43:30.495536+00:00"
+  },
+  "9b1c3e82cb675928bc8cbbddc12d2f6971bdac878ac8fbea89318c767bd8b76e": {
+    "title": "家計簿アプリが銀行口座ごとChatGPTと手を組んだ、認証情報だけは渡さない理由 - shiritomo",
+    "seen_at": "2026-09-19T12:43:31.458563+00:00"
+  },
+  "4daec83e40f4fcec480c5a3721528d610dfff2ffbe5442c3b80080cdc84e6436": {
+    "title": "「今月なぜお金が減った？」をChatGPTに聞ける マネーフォワード MEが新対応、何ができる？ - DXマガジン",
+    "seen_at": "2026-09-19T12:43:31.458569+00:00"
+  },
+  "8ff3429bfce376a41c1788f87fd9e69dda55e40380eca390cbada3684f8b4490": {
+    "title": "OpenAIがロボティクス参入を発表、27人採用で基本給最大50万ドル - Pasquale Pillitteri",
+    "seen_at": "2026-09-19T12:43:31.458573+00:00"
+  },
+  "27ec8b41801b85a327f5d810f4b6795d010f9c87770645b0384cf6b0ac28ea73": {
+    "title": "ChatGPTに「最も美しくなるメイクを教えて」→指示通りにしたら……　驚きの仕上がりに「ちょっとまって予想外」（1/3） | 美容 ねとらぼ - ねとらぼ",
+    "seen_at": "2026-09-19T12:43:31.458576+00:00"
+  },
+  "856fb759443600c397a9e2aa2ff01620d9ae27b6eba701e4f5ea3ae9ed63b824": {
+    "title": "GoogleのAI「Gemini」がセキュリティー試験中に企業3社のシステムへ侵入 (2026年9月19日掲載) - ライブドアニュース",
+    "seen_at": "2026-09-19T12:43:32.028168+00:00"
+  },
+  "89a908caf68fbff97a5ac50446127ad9195dc81952cfb189d4cd879d5ae906f0": {
+    "title": "Geminiも他社にハッキングか。ネット民は半信半疑 - すまほん!!",
+    "seen_at": "2026-09-19T12:43:32.028175+00:00"
+  },
+  "771d19fb3dc596080ae4efcd609e0d5113e75af4bb93cc2db6ad169d730f2aec": {
+    "title": "生成AI「Gemini」試験中に企業3社のシステムに侵入（日テレNEWS NNN） - news.yahoo.co.jp",
+    "seen_at": "2026-09-19T12:43:32.028179+00:00"
+  },
+  "5fb75f7c5d79e516eded0f317f5cda7955312811f8d6e24db0b11dcffc9af624": {
+    "title": "GoogleのGemini、テスト中に実在3社へ侵入 ―― 止めたのはGoogleではなくAI自身だった - shiritomo",
+    "seen_at": "2026-09-19T12:43:32.028182+00:00"
+  },
+  "ebe63d89737aa36d8f2e4a9e0c1038fa6091b5a3f28d9cee741f634f86a4d380": {
+    "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能 - GIGAZINE",
+    "seen_at": "2026-09-19T12:43:32.577131+00:00"
+  },
+  "f49bda6addea6a117d593c4ce284f75cecbdedc4c7ea1dcc9b4d8d17db433add": {
+    "title": "General warning about Clore.AI",
+    "seen_at": "2026-09-19T12:43:33.350167+00:00"
+  },
+  "1c1eb0c196f5273c8b1d3ae01ef899965580c5d5f56036fa33fc8921c74de0f5": {
+    "title": "Built a home server from an old PC with GPU upgrade. Qwen3.8 27B runs at ~30 tokens per second.",
+    "seen_at": "2026-09-19T12:43:33.350173+00:00"
+  },
+  "e95828acb10f27bb9ad67ce4d16b7070d31dec084f9b9995b8e11936b152f0d8": {
+    "title": "Made this motion graphic video via glm 5.3 flash (no vid_gen model used)",
+    "seen_at": "2026-09-19T12:43:33.350176+00:00"
+  },
+  "7f9ad420f2ff75948ba74d58069e131779d4cf21bded9c6e7c281d79eb5f1454": {
+    "title": "OpenAI's Sam Altman to brief UN Security Council next week",
+    "seen_at": "2026-09-19T12:43:33.350179+00:00"
+  },
+  "cedda84e225541030fa0d84a5922ca69b0f67f03759c664806c202950fd2bcb8": {
+    "title": "References to MiniMax M3.1 appear in test files in a recent commit to the MiniMax-Code Repo",
+    "seen_at": "2026-09-19T12:43:33.350182+00:00"
+  },
+  "dd78e91cc5ed7b75de7245d9f83ef624d599a0380b995dd6a6e2dc6764f5bf17": {
+    "title": "Is there something like NInfer but for 16GB cards?",
+    "seen_at": "2026-09-19T12:43:33.350185+00:00"
+  },
+  "e2e3a515975750822918ab3ab61b8554f9f42c09346f8ad0af66a16b19a25f35": {
+    "title": "4x RTX 3090 PCIe 4.0 x16 - advice? Qwen 3.8 Next Flash?",
+    "seen_at": "2026-09-19T12:43:33.350188+00:00"
+  },
+  "a2cbc9a4c03868ad798e65b30463a325001f073938396831a45565981f654818": {
+    "title": "Using image classification models for cleaning out photo libraries",
+    "seen_at": "2026-09-19T12:43:33.350191+00:00"
+  },
+  "877ad8ef825443ee0a5079b11203e67f7791fcded0843510a49bcaa6996ed6fc": {
+    "title": "Apple M6 Pro Geekbench 7",
+    "seen_at": "2026-09-19T12:43:33.350194+00:00"
+  },
+  "41865fb75fb75a3a8a4bc47bbff9921d0c9a60b77a00c5c83df72247cfa1d76a": {
+    "title": "Steering vectors to limit thinking budgets?",
+    "seen_at": "2026-09-19T12:43:33.350196+00:00"
   }
 }
