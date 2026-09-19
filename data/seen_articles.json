@@ -1,36 +1,4 @@
 {
-  "de234845737fcf00cc3520d60121a75ec74a1918edce707ebca0e83382991ab7": {
-    "title": "OpenAIのHugging Face攻撃、AIエージェント群の交信7万件を分析しわかったこと - Yahoo!ニュース",
-    "seen_at": "2026-09-03T07:25:15.377280+00:00"
-  },
-  "39f6d3f3dcd21bd25114a7fef1e51201b141581d1224c4ec01cdb5dfb54c20be": {
-    "title": "OpenAI次期モデル「Astra」、テスト中に2件のゼロデイ発見―高度なサイバー機能は限定提供へ - 財経新聞",
-    "seen_at": "2026-09-03T07:25:15.377284+00:00"
-  },
-  "fc5856f07779c88e136f4eaf2abfe5d606869f5cac505cf471798aab7c4d1879": {
-    "title": "OpenAIがAIシステムの自動停止機能を開発へ、侵入事故を受け安全対策を強化 - Межа. Новини України.",
-    "seen_at": "2026-09-03T07:25:15.377287+00:00"
-  },
-  "ba061ede74b2fc3b2458fba5579dd5f016002d8f689cab1e959652981a12517f": {
-    "title": "OpenAIが18歳未満向けChatGPTを準備、利用制限と保護者機能を強化 - Межа. Новини України.",
-    "seen_at": "2026-09-03T07:25:15.377290+00:00"
-  },
-  "2ea6a1f73b15497f1e8181458f5b2ab77ed48efc40cb6b861522fdab326bd2c1": {
-    "title": "OpenAIがChatGPTをApple Messagesに接続、メッセージ作成と送信にも対応 - Межа. Новини України.",
-    "seen_at": "2026-09-03T07:25:15.377292+00:00"
-  },
-  "7fa77d3e8766e8b526c82dca42a8a0a4437f5c03a9e5df2f760e448c3a22979f": {
-    "title": "米下院委員会がOpenAIのAIエージェントによるHugging Face攻撃でアルトマン氏に説明を求める - Межа. Новини України.",
-    "seen_at": "2026-09-03T07:25:15.377295+00:00"
-  },
-  "e1288c9b788e847378c9d7a81f3431e233ed3224d74b1a9c988769ac243351bf": {
-    "title": "トランプ政権、OpenAIを支持 メディアとの著作権訴訟でAI学習は「フェアユース」 - UQライフ",
-    "seen_at": "2026-09-03T07:25:15.377297+00:00"
-  },
-  "94d78c441759396d278cc09bd129b2fb38cf9714db20e046b93f74a426728c15": {
-    "title": "エヌビディア、OpenAIのオハイオ州データセンターに最大1050億ドルの保証を提供 - Межа. Новини України.",
-    "seen_at": "2026-09-03T07:25:15.377300+00:00"
-  },
   "75686a66ad007e64b7bfa350885ccc4727ea573d350581d658c8ef3bf0c81aad": {
     "title": "Meta、「Muse Spark 1.3」提供開始 Anthropic・OpenAIに対抗 - 디지털투데이",
     "seen_at": "2026-09-03T07:25:15.377303+00:00"
@@ -11998,5 +11966,37 @@
   "807c9c3b91f0ba12bb4d03661ffb30d3e8ef72582355b6a2709e03c78e0c7dda": {
     "title": "TokenRhythm/NeoHorse-1-4B-GGUF",
     "seen_at": "2026-09-19T17:31:48.379406+00:00"
+  },
+  "6cfc2938841263449489d63e27714961b31e55e0f5fbbd1c55dbe31880064f5a": {
+    "title": "生成AIで新しい学び 思考広げる使い方指南 高校生向け講座が好評 - 沖縄タイムス社",
+    "seen_at": "2026-09-19T19:39:36.646952+00:00"
+  },
+  "971fe40d2c8abe6152427e71496079592d9c7dc30d1cb11388444d51a4b1adb8": {
+    "title": "EDAにおけるLLM：ジェネレーター、エージェント、オーケストレーターの役割を解説 - ニュースと統計 - IndexBox",
+    "seen_at": "2026-09-19T19:39:36.646961+00:00"
+  },
+  "5a7f09022a40663bc0f93aa514a56b4d34987a740fc11d38b693bcaaff98a223": {
+    "title": "OpenAIのエンジニア、AIルーターが誰も予測しなかった形で故障したと明かす——その修正策とは - BigGo ファイナンス",
+    "seen_at": "2026-09-19T19:39:37.686965+00:00"
+  },
+  "1fbc9c58c4159985d6728f94296f5b4eab1ef493af0455f66c9d934705c35ac9": {
+    "title": "Geminiがテスト中に実在の3社へ侵入、Googleは今になって認める - Pasquale Pillitteri",
+    "seen_at": "2026-09-19T19:39:38.299550+00:00"
+  },
+  "0e678514af4262ff6bc0639439f5c3b6a90f014c97839e9fd65fd745b890a260": {
+    "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+    "seen_at": "2026-09-19T19:39:39.427480+00:00"
+  },
+  "6ca705e53333bdae4a8a1f5aeff99a38ddac3ab67da7943e9c6bba16e0f44025": {
+    "title": "What is the best tts to create audio books? One that support emotions?",
+    "seen_at": "2026-09-19T19:39:40.020247+00:00"
+  },
+  "5a51c724dd66c941b86180df2f8c5c1fcde2d2b12af5518cae54f3ed2a3f23ea": {
+    "title": "Qwen3.8 27B one shot prompt “Super Mario” dupe",
+    "seen_at": "2026-09-19T19:39:40.020251+00:00"
+  },
+  "eb1ed09a8aa82f093d2d4082ed30fce21b991501152836d18ac69c4fd8b5acf8": {
+    "title": "Approaches to streamlining and automating grounding?",
+    "seen_at": "2026-09-19T19:39:40.020256+00:00"
   }
 }
